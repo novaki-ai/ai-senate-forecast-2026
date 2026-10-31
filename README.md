@@ -6,6 +6,8 @@ Everything here is published **before any votes are counted**. After the electio
 
 From the Novaki channel on YouTube ([@Novaki_ai](https://www.youtube.com/@Novaki_ai)). Video links are added here when they are published.
 
+**Forecast video** (published Oct 31, 2026): https://youtu.be/k1n6dAKuJoA. The results video follows after the AP race calls.
+
 ## Timeline
 
 | When (UTC) | What |
