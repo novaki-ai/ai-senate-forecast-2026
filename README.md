@@ -13,7 +13,7 @@ From the Novaki channel on YouTube ([@Novaki_ai](https://www.youtube.com/@Novaki
 | Oct 31, 2026, 02:14 | Prompt, dossier and scoring rules locked ([`LOCK.sha256`](LOCK.sha256)). This is the first commit. |
 | Oct 31, 2026, 02:20 | Rule change 1 logged in [`SCORING.md`](SCORING.md) during run 1 (Alaska and Maine use ranked-choice voting). The first lock is kept as `LOCK-v1.sha256`; `LOCK.sha256` is the current one. |
 | Oct 31, 2026, 02:40 | All ten official forecasts (run 1) added to [`forecasts/`](forecasts/), with every raw reply, plus a snapshot of prediction markets and forecasting models taken at the time the models ran ([`snapshot-experts-and-markets-2026-10-31.json`](snapshot-experts-and-markets-2026-10-31.json)). Summary: [`forecasts/TABLE.md`](forecasts/TABLE.md). |
-| Before polls open on Nov 3 | Run 2 (the same request again, for consistency only) added. |
+| Oct 31, 2026, 03:10 | Run 2 added for all ten models (the same request again in a fresh session, for consistency only; not used for the ranking). |
 | After the AP race calls | Results and scores added. Races that are not called yet stay pending and are updated later. |
 
 The commit history is the timestamp: GitHub records when each commit was pushed.
@@ -33,7 +33,7 @@ The commit history is the timestamp: GitHub records when each commit was pushed.
 | DeepSeek V4.1 Flash | DeepSeek | OpenCode (free tier) | max |
 | GLM-5.3 Flash | Z.ai | OpenCode (free tier) | max |
 
-Every model ran with clean settings: no personal instructions, memories, skills, plugins or connectors. Web search and fetch tools were turned off, and every tool call was blocked.
+Every model ran with clean settings: no personal instructions, memories, skills, plugins or connectors, and with web search and fetch turned off. Claude Code, Codex, Antigravity and Kimi Code ran with no tools at all (in Antigravity a hook blocks every tool call; none was attempted). Grok Build and OpenCode keep a read-only file tool, with nothing in their working folders. Grok Build shortened the long prompt in the message it sent, so in both runs Grok used that tool to read the rest of the same prompt from Grok Build's own saved copy (lines 838–1032) and opened nothing else. The two OpenCode models made no tool calls.
 
 ## The races
 

@@ -1,0 +1,163 @@
+{
+ "model": "DeepSeek V4.1 Flash",
+ "company": "DeepSeek",
+ "run_through": "OpenCode (free tier)",
+ "setting": "max",
+ "note": null,
+ "run": 2,
+ "official": false,
+ "recorded_at": "2026-10-31T05:56:31+0300",
+ "forecast": {
+  "races": {
+   "AK": {
+    "winner": "Mary Peltola",
+    "probability": 0.6,
+    "vote_share": {
+     "Dan S. Sullivan": 44.0,
+     "Mary Peltola": 47.5
+    },
+    "key_factor": "Peltola led the August top-four primary 49.5 to 41.4 and has led most general-election polls, but a late campaign-finance scandal and the same-name Republican could tighten the RCV count.",
+    "reasoning": "Peltola's first-choice base is near a majority and RCV transfers from Heikes and Daniel J. Sullivan Jr. should favor her. Sullivan's only path is a late GOP consolidation plus damage from the Peltola campaign investigation; that is plausible but not enough to make him the favorite."
+   },
+   "FL": {
+    "winner": "Ashley Moody",
+    "probability": 0.8,
+    "vote_share": {
+     "Ashley Moody": 50.5,
+     "Angie Nixon": 45.5
+    },
+    "key_factor": "Florida's 13-point Republican presidential lean and Moody's incumbency have kept her ahead despite Nixon's fundraising and late Democratic enthusiasm.",
+    "reasoning": "Moody leads every recent nonpartisan poll by roughly 4-6 points, and Florida's fundamentals are strongly Republican. Nixon's progressive platform and late Obama endorsement help, but early-vote registration edges and Moody's financial advantage point to a mid-single-digit Republican win."
+   },
+   "IA": {
+    "winner": "Ashley Hinson",
+    "probability": 0.55,
+    "vote_share": {
+     "Ashley Hinson": 48.5,
+     "Josh Turek": 47.5
+    },
+    "key_factor": "Hinson's incumbency and Iowa's 13-point Republican lean narrowly outweigh Turek's late polling lead and much larger outside-spending support.",
+    "reasoning": "The race is effectively tied, with Republican pollsters still showing Hinson only about two points ahead. Turek has led several nonpartisan surveys and benefited from roughly $20 million in outside spending, but Iowa's red fundamentals and Hinson's Trump endorsement make her a slight favorite."
+   },
+   "KS": {
+    "winner": "Adam Hamilton",
+    "probability": 0.62,
+    "vote_share": {
+     "Roger Marshall": 46.5,
+     "Adam Hamilton": 49.0
+    },
+    "key_factor": "Hamilton's well-funded moderate campaign and Marshall's patient-lawsuit scandal have produced a consistent Democratic polling lead even in a 16-point Republican state.",
+    "reasoning": "Hamilton leads most recent nonpartisan polls by 3-5 points and has vastly outspent Marshall. Marshall's lawsuits against hundreds of patients and Trump's slur at a rally have kept the incumbent on defense. Kansas is still Republican, so the race is close, but Hamilton's polling and money edge make him the favorite."
+   },
+   "ME": {
+    "winner": "Troy Jackson",
+    "probability": 0.56,
+    "vote_share": {
+     "Susan Collins": 49.0,
+     "Troy Jackson": 50.0
+    },
+    "key_factor": "Jackson has led most recent polls and matched Collins in fundraising, but Collins' long history of outperforming Maine polls keeps this a genuine toss-up.",
+    "reasoning": "Maine's Democratic lean and Jackson's late convention nomination have given him a small polling edge, and the two-candidate RCV format means no minor-party complication. Collins remains the strongest Republican brand in New England and has beaten polls before, so the forecast is only narrowly Democratic."
+   },
+   "MI": {
+    "winner": "Abdul El-Sayed",
+    "probability": 0.86,
+    "vote_share": {
+     "Mike Rogers": 45.0,
+     "Abdul El-Sayed": 50.0
+    },
+    "key_factor": "El-Sayed's consistent 4-7 point polling lead and enormous fundraising advantage in a state Trump narrowly won make him a clear favorite.",
+    "reasoning": "El-Sayed led almost every recent nonpartisan survey despite heavy Republican outside spending. Rogers is a credible former congressman, but the Democratic lean of Michigan in a strong Democratic year and El-Sayed's $54 million campaign give him a solid edge."
+   },
+   "MN": {
+    "winner": "Peggy Flanagan",
+    "probability": 0.9,
+    "vote_share": {
+     "Michele Tafoya": 43.5,
+     "Peggy Flanagan": 50.5
+    },
+    "key_factor": "Flanagan's consistent mid-single-digit lead and Minnesota's Democratic lean make Tafoya's first campaign an uphill fight.",
+    "reasoning": "Flanagan led every recent public poll, often by 5-10 points, and has the DFL's organizational backing. Tafoya's Trump endorsement and celebrity profile have kept her competitive, but she has never held office and the state's fundamentals favor the Democrat."
+   },
+   "NC": {
+    "winner": "Roy Cooper",
+    "probability": 0.95,
+    "vote_share": {
+     "Michael Whatley": 43.5,
+     "Roy Cooper": 53.5
+    },
+    "key_factor": "Cooper's popularity, a roughly 10-point polling lead and a 2-to-1 fundraising advantage have made Whatley the clear underdog.",
+    "reasoning": "Cooper is a popular former two-term governor running in a state that has been closely divided. Whatley is a first-time candidate burdened by the RNC's image, and the Senate Leadership Fund canceled about $30 million in planned support. Every recent nonpartisan poll shows Cooper ahead by high single digits."
+   },
+   "NE": {
+    "winner": "Pete Ricketts",
+    "probability": 0.54,
+    "vote_share": {
+     "Pete Ricketts": 48.0,
+     "Dan Osborn": 47.5
+    },
+    "key_factor": "Osborn's proven independent brand has kept this tied, but Ricketts' incumbency, Trump's endorsement and Nebraska's 20-point Republican lean give him a razor-thin edge.",
+    "reasoning": "Osborn ran nearly 13 points ahead of the Democratic presidential ticket in 2024 and now has Democratic backing with no Democrat on the ballot. Polls are essentially tied, but Ricketts has more resources and the state's partisan gravity usually decides close Nebraska races. This is the closest Republican-held seat in the country."
+   },
+   "NH": {
+    "winner": "Chris Pappas",
+    "probability": 0.86,
+    "vote_share": {
+     "John E. Sununu": 45.5,
+     "Chris Pappas": 51.0
+    },
+    "key_factor": "Pappas has led every recent nonpartisan poll by 5-8 points and holds a large fundraising advantage in a state that leans Democratic.",
+    "reasoning": "Sununu has the family name and a Republican-friendly 2024 gubernatorial result, but Pappas has consistently led by mid-single digits. New Hampshire's Democratic presidential lean and Pappas's funding advantage outweigh Sununu's name recognition in a strong Democratic year."
+   },
+   "OH": {
+    "winner": "Sherrod Brown",
+    "probability": 0.7,
+    "vote_share": {
+     "Jon Husted": 46.5,
+     "Sherrod Brown": 49.0
+    },
+    "key_factor": "Brown's name recognition and a consistent 2-5 point polling lead have put him ahead of appointed Sen. Husted, despite Ohio's Republican lean.",
+    "reasoning": "Brown is the best-known Democrat in Ohio and has raised more than three times Husted's total. Husted was appointed rather than elected and has struggled to separate himself from an unpopular administration. Most nonpartisan polls show Brown ahead by low single digits, enough in a Democratic wave."
+   },
+   "SC": {
+    "winner": "Darline Graham",
+    "probability": 0.6,
+    "vote_share": {
+     "Darline Graham": 48.5,
+     "Annie Andrews": 47.0
+    },
+    "key_factor": "South Carolina's 18-point Republican lean and Graham's Trump endorsement have kept her narrowly ahead despite Andrews' large fundraising edge.",
+    "reasoning": "Andrews has outspent Graham by more than 10 to 1 and kept the race close, but Graham has consolidated Republican support since the runoff and won the NRA endorsement. The state's partisan gravity and the late GOP outside spending edge make Graham a slight favorite, though the polling error band is wide."
+   },
+   "TX": {
+    "winner": "James Talarico",
+    "probability": 0.58,
+    "vote_share": {
+     "Ken Paxton": 47.5,
+     "James Talarico": 49.0
+    },
+    "key_factor": "Talarico's enormous fundraising advantage and Paxton's scandals have produced a small but consistent Democratic polling lead in a state that remains strongly Republican.",
+    "reasoning": "Talarico raised $146 million and led most nonpartisan polls by 2-4 points, while Paxton refused debates and carries heavy ethical baggage. Texas polling has typically underestimated Republicans, so the race is close, but candidate quality and money make Talarico the narrow favorite."
+   }
+  },
+  "senate": {
+   "republican_seats": 47,
+   "p_republican_control": 0.22,
+   "upset_watch": {
+    "race": "NE",
+    "why": "Osborn led several public polls and has a proven independent brand; Ricketts' incumbency and Nebraska's Republican lean are his only narrow edge."
+   }
+  }
+ },
+ "rule_change_1_applied": false,
+ "attempts": [
+  {
+   "attempt": 1,
+   "prompt_sha256": "1db2fad133f4be2bae0fdaeae41dcbdf2bd5890d96a5069a712140abbce6c016",
+   "seconds": 181.7,
+   "used_as_official": true,
+   "sent_back_because": null,
+   "reply": "{\n  \"races\": {\n    \"AK\": {\n      \"winner\": \"Mary Peltola\",\n      \"probability\": 0.60,\n      \"vote_share\": {\n        \"Dan S. Sullivan\": 44.0,\n        \"Mary Peltola\": 47.5\n      },\n      \"key_factor\": \"Peltola led the August top-four primary 49.5 to 41.4 and has led most general-election polls, but a late campaign-finance scandal and the same-name Republican could tighten the RCV count.\",\n      \"reasoning\": \"Peltola's first-choice base is near a majority and RCV transfers from Heikes and Daniel J. Sullivan Jr. should favor her. Sullivan's only path is a late GOP consolidation plus damage from the Peltola campaign investigation; that is plausible but not enough to make him the favorite.\"\n    },\n    \"FL\": {\n      \"winner\": \"Ashley Moody\",\n      \"probability\": 0.80,\n      \"vote_share\": {\n        \"Ashley Moody\": 50.5,\n        \"Angie Nixon\": 45.5\n      },\n      \"key_factor\": \"Florida's 13-point Republican presidential lean and Moody's incumbency have kept her ahead despite Nixon's fundraising and late Democratic enthusiasm.\",\n      \"reasoning\": \"Moody leads every recent nonpartisan poll by roughly 4-6 points, and Florida's fundamentals are strongly Republican. Nixon's progressive platform and late Obama endorsement help, but early-vote registration edges and Moody's financial advantage point to a mid-single-digit Republican win.\"\n    },\n    \"IA\": {\n      \"winner\": \"Ashley Hinson\",\n      \"probability\": 0.55,\n      \"vote_share\": {\n        \"Ashley Hinson\": 48.5,\n        \"Josh Turek\": 47.5\n      },\n      \"key_factor\": \"Hinson's incumbency and Iowa's 13-point Republican lean narrowly outweigh Turek's late polling lead and much larger outside-spending support.\",\n      \"reasoning\": \"The race is effectively tied, with Republican pollsters still showing Hinson only about two points ahead. Turek has led several nonpartisan surveys and benefited from roughly $20 million in outside spending, but Iowa's red fundamentals and Hinson's Trump endorsement make her a slight favorite.\"\n    },\n    \"KS\": {\n      \"winner\": \"Adam Hamilton\",\n      \"probability\": 0.62,\n      \"vote_share\": {\n        \"Roger Marshall\": 46.5,\n        \"Adam Hamilton\": 49.0\n      },\n      \"key_factor\": \"Hamilton's well-funded moderate campaign and Marshall's patient-lawsuit scandal have produced a consistent Democratic polling lead even in a 16-point Republican state.\",\n      \"reasoning\": \"Hamilton leads most recent nonpartisan polls by 3-5 points and has vastly outspent Marshall. Marshall's lawsuits against hundreds of patients and Trump's slur at a rally have kept the incumbent on defense. Kansas is still Republican, so the race is close, but Hamilton's polling and money edge make him the favorite.\"\n    },\n    \"ME\": {\n      \"winner\": \"Troy Jackson\",\n      \"probability\": 0.56,\n      \"vote_share\": {\n        \"Susan Collins\": 49.0,\n        \"Troy Jackson\": 50.0\n      },\n      \"key_factor\": \"Jackson has led most recent polls and matched Collins in fundraising, but Collins' long history of outperforming Maine polls keeps this a genuine toss-up.\",\n      \"reasoning\": \"Maine's Democratic lean and Jackson's late convention nomination have given him a small polling edge, and the two-candidate RCV format means no minor-party complication. Collins remains the strongest Republican brand in New England and has beaten polls before, so the forecast is only narrowly Democratic.\"\n    },\n    \"MI\": {\n      \"winner\": \"Abdul El-Sayed\",\n      \"probability\": 0.86,\n      \"vote_share\": {\n        \"Mike Rogers\": 45.0,\n        \"Abdul El-Sayed\": 50.0\n      },\n      \"key_factor\": \"El-Sayed's consistent 4-7 point polling lead and enormous fundraising advantage in a state Trump narrowly won make him a clear favorite.\",\n      \"reasoning\": \"El-Sayed led almost every recent nonpartisan survey despite heavy Republican outside spending. Rogers is a credible former congressman, but the Democratic lean of Michigan in a strong Democratic year and El-Sayed's $54 million campaign give him a solid edge.\"\n    },\n    \"MN\": {\n      \"winner\": \"Peggy Flanagan\",\n      \"probability\": 0.90,\n      \"vote_share\": {\n        \"Michele Tafoya\": 43.5,\n        \"Peggy Flanagan\": 50.5\n      },\n      \"key_factor\": \"Flanagan's consistent mid-single-digit lead and Minnesota's Democratic lean make Tafoya's first campaign an uphill fight.\",\n      \"reasoning\": \"Flanagan led every recent public poll, often by 5-10 points, and has the DFL's organizational backing. Tafoya's Trump endorsement and celebrity profile have kept her competitive, but she has never held office and the state's fundamentals favor the Democrat.\"\n    },\n    \"NC\": {\n      \"winner\": \"Roy Cooper\",\n      \"probability\": 0.95,\n      \"vote_share\": {\n        \"Michael Whatley\": 43.5,\n        \"Roy Cooper\": 53.5\n      },\n      \"key_factor\": \"Cooper's popularity, a roughly 10-point polling lead and a 2-to-1 fundraising advantage have made Whatley the clear underdog.\",\n      \"reasoning\": \"Cooper is a popular former two-term governor running in a state that has been closely divided. Whatley is a first-time candidate burdened by the RNC's image, and the Senate Leadership Fund canceled about $30 million in planned support. Every recent nonpartisan poll shows Cooper ahead by high single digits.\"\n    },\n    \"NE\": {\n      \"winner\": \"Pete Ricketts\",\n      \"probability\": 0.54,\n      \"vote_share\": {\n        \"Pete Ricketts\": 48.0,\n        \"Dan Osborn\": 47.5\n      },\n      \"key_factor\": \"Osborn's proven independent brand has kept this tied, but Ricketts' incumbency, Trump's endorsement and Nebraska's 20-point Republican lean give him a razor-thin edge.\",\n      \"reasoning\": \"Osborn ran nearly 13 points ahead of the Democratic presidential ticket in 2024 and now has Democratic backing with no Democrat on the ballot. Polls are essentially tied, but Ricketts has more resources and the state's partisan gravity usually decides close Nebraska races. This is the closest Republican-held seat in the country.\"\n    },\n    \"NH\": {\n      \"winner\": \"Chris Pappas\",\n      \"probability\": 0.86,\n      \"vote_share\": {\n        \"John E. Sununu\": 45.5,\n        \"Chris Pappas\": 51.0\n      },\n      \"key_factor\": \"Pappas has led every recent nonpartisan poll by 5-8 points and holds a large fundraising advantage in a state that leans Democratic.\",\n      \"reasoning\": \"Sununu has the family name and a Republican-friendly 2024 gubernatorial result, but Pappas has consistently led by mid-single digits. New Hampshire's Democratic presidential lean and Pappas's funding advantage outweigh Sununu's name recognition in a strong Democratic year.\"\n    },\n    \"OH\": {\n      \"winner\": \"Sherrod Brown\",\n      \"probability\": 0.70,\n      \"vote_share\": {\n        \"Jon Husted\": 46.5,\n        \"Sherrod Brown\": 49.0\n      },\n      \"key_factor\": \"Brown's name recognition and a consistent 2-5 point polling lead have put him ahead of appointed Sen. Husted, despite Ohio's Republican lean.\",\n      \"reasoning\": \"Brown is the best-known Democrat in Ohio and has raised more than three times Husted's total. Husted was appointed rather than elected and has struggled to separate himself from an unpopular administration. Most nonpartisan polls show Brown ahead by low single digits, enough in a Democratic wave.\"\n    },\n    \"SC\": {\n      \"winner\": \"Darline Graham\",\n      \"probability\": 0.60,\n      \"vote_share\": {\n        \"Darline Graham\": 48.5,\n        \"Annie Andrews\": 47.0\n      },\n      \"key_factor\": \"South Carolina's 18-point Republican lean and Graham's Trump endorsement have kept her narrowly ahead despite Andrews' large fundraising edge.\",\n      \"reasoning\": \"Andrews has outspent Graham by more than 10 to 1 and kept the race close, but Graham has consolidated Republican support since the runoff and won the NRA endorsement. The state's partisan gravity and the late GOP outside spending edge make Graham a slight favorite, though the polling error band is wide.\"\n    },\n    \"TX\": {\n      \"winner\": \"James Talarico\",\n      \"probability\": 0.58,\n      \"vote_share\": {\n        \"Ken Paxton\": 47.5,\n        \"James Talarico\": 49.0\n      },\n      \"key_factor\": \"Talarico's enormous fundraising advantage and Paxton's scandals have produced a small but consistent Democratic polling lead in a state that remains strongly Republican.\",\n      \"reasoning\": \"Talarico raised $146 million and led most nonpartisan polls by 2-4 points, while Paxton refused debates and carries heavy ethical baggage. Texas polling has typically underestimated Republicans, so the race is close, but candidate quality and money make Talarico the narrow favorite.\"\n    }\n  },\n  \"senate\": {\n    \"republican_seats\": 47,\n    \"p_republican_control\": 0.22,\n    \"upset_watch\": {\n      \"race\": \"NE\",\n      \"why\": \"Osborn led several public polls and has a proven independent brand; Ricketts' incumbency and Nebraska's Republican lean are his only narrow edge.\"\n    }\n  }\n}"
+  }
+ ]
+}

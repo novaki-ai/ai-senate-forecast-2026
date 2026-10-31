@@ -1,0 +1,163 @@
+{
+ "model": "Gemini 3.8 Flash",
+ "company": "Google",
+ "run_through": "Antigravity",
+ "setting": "high",
+ "note": null,
+ "run": 2,
+ "official": false,
+ "recorded_at": "2026-10-31T05:40:50+0300",
+ "forecast": {
+  "races": {
+   "AK": {
+    "winner": "Dan S. Sullivan",
+    "probability": 0.57,
+    "vote_share": {
+     "Dan S. Sullivan": 47.5,
+     "Mary Peltola": 46.8
+    },
+    "key_factor": "Ranked-choice ballot transfers from eliminated conservative candidates and late-breaking criminal investigations into the Peltola campaign give Sullivan the decisive edge.",
+    "reasoning": "Sullivan benefits from the late October collapse of Peltola's campaign following state and federal investigations into alleged DSCC-backed spoiler candidate recruitment. In Alaska's ranked-choice voting system, Peltola needed to cross 50% in the first round to secure victory. Instead, conservative second-choice preferences from Gerald Heikes and Daniel J. Sullivan Jr. will overwhelmingly transfer to Sullivan in later rounds, allowing the incumbent to overcome Peltola's early plurality and win reelection."
+   },
+   "FL": {
+    "winner": "Ashley Moody",
+    "probability": 0.94,
+    "vote_share": {
+     "Ashley Moody": 51.6,
+     "Angie Nixon": 45.6
+    },
+    "key_factor": "Florida's strong Republican registration advantage and Nixon's self-described democratic socialist platform solidify Moody's lead.",
+    "reasoning": "Florida has shifted decisively red, voting Trump +13.1 in 2024 and DeSantis +19.4 in 2022. Moody holds a commanding lead across public and internal polls, backed by an established statewide profile as former Attorney General. Nixon's left-wing policy positions alienate moderate suburbanites, while Republicans entered Election Day with a massive 1.5 million registered voter edge and strong early in-person turnout."
+   },
+   "IA": {
+    "winner": "Ashley Hinson",
+    "probability": 0.58,
+    "vote_share": {
+     "Ashley Hinson": 49.2,
+     "Josh Turek": 47.6
+    },
+    "key_factor": "Iowa's durable conservative baseline and Hinson's established name recognition provide a high floor that withstands Turek's financial advantage.",
+    "reasoning": "While Turek mounted an exceptionally well-funded campaign that kept late polling within the margin of error, Iowa has trended reliably Republican, voting R+13 in 2024. Late October surveys from co/efficient, InsiderAdvantage, and Trafalgar showed Hinson reclaiming a consistent 2-to-3 point lead as undecided rural voters broke home. Hinson's broad appeal as a former broadcaster and incumbent congresswoman should carry her across the finish line."
+   },
+   "KS": {
+    "winner": "Adam Hamilton",
+    "probability": 0.68,
+    "vote_share": {
+     "Roger Marshall": 46.3,
+     "Adam Hamilton": 50.5
+    },
+    "key_factor": "Severe backlash over Marshall suing hundreds of patients, combined with Trump's controversial remarks, alienated suburban moderates to the benefit of pastor Hamilton.",
+    "reasoning": "Marshall entered the final stretch severely wounded by revelations that his medical practice sued more than 700 patients, leading to bench warrant arrests. Hamilton, a well-regarded United Methodist pastor, capitalized with an aggressive $19M campaign, leading in late high-quality polling including the Washington Post (52-43) and Emerson. In a favorable national environment, Kansas moderates will repeat their support for moderate Democrats like Governor Kelly."
+   },
+   "ME": {
+    "winner": "Troy Jackson",
+    "probability": 0.61,
+    "vote_share": {
+     "Susan Collins": 48.8,
+     "Troy Jackson": 50.7
+    },
+    "key_factor": "Jackson's authentic blue-collar profile in rural Maine and the lack of third-party vote splitting prevent Collins from assembling her past winning coalition.",
+    "reasoning": "Unlike 2020, Collins faces a two-candidate field without independent alternatives to split the anti-incumbent vote in a state Trump lost by seven points. Jackson, a veteran logger and former state Senate president, neutralizes the cultural divide in rural ME-02 while consolidating progressive votes in the south. Consistently leading or tied across October polling, Jackson benefits from a strong national Democratic tailwind and ethics scrutiny surrounding Collins."
+   },
+   "MI": {
+    "winner": "Abdul El-Sayed",
+    "probability": 0.72,
+    "vote_share": {
+     "Mike Rogers": 45.6,
+     "Abdul El-Sayed": 50.1
+    },
+    "key_factor": "Massive Democratic fundraising and an 8-to-10 point national midterm environment propel El-Sayed to a consistent polling lead.",
+    "reasoning": "Despite heavy outside spending from Republican-aligned PACs targeting El-Sayed's progressive background, El-Sayed raised over $53 million and consistently led Rogers in dozens of autumn surveys. Rogers, running for the second consecutive cycle after losing Michigan's other Senate race in 2024, failed to generate momentum against midterm headwinds. Democratic enthusiasm across Wayne County and college towns secures Michigan for Democrats."
+   },
+   "MN": {
+    "winner": "Peggy Flanagan",
+    "probability": 0.86,
+    "vote_share": {
+     "Michele Tafoya": 43.8,
+     "Peggy Flanagan": 51.6
+    },
+    "key_factor": "Minnesota's unbroken 50-year statewide Democratic winning streak and Flanagan's institutional dominance put this seat out of reach for political newcomer Tafoya.",
+    "reasoning": "Flanagan, serving as Lieutenant Governor since 2019, consolidated DFL support early and led every public poll by comfortable margins, including a 14-point lead in the NYT/Siena survey. Tafoya's celebrity profile as a former sports reporter failed to overcome her lack of governing experience or close alignment with Trump in a state where Trump lost in three straight elections."
+   },
+   "NC": {
+    "winner": "Roy Cooper",
+    "probability": 0.88,
+    "vote_share": {
+     "Michael Whatley": 44.2,
+     "Roy Cooper": 53.1
+    },
+    "key_factor": "The Senate Leadership Fund's withdrawal of $30 million in ad reservations signaled Whatley's collapse against two-term Governor Roy Cooper.",
+    "reasoning": "Cooper boasts high statewide favorability after two successful gubernatorial terms and outspent Whatley nearly four-to-one. Every poll conducted since September shows Cooper leading by 7 to 14 points, while Republicans effectively conceded by redirecting funds to defend Kansas. Huge Democratic early-voting turnout relative to past midterms confirms Cooper's decisive victory to flip this open seat."
+   },
+   "NE": {
+    "winner": "Pete Ricketts",
+    "probability": 0.74,
+    "vote_share": {
+     "Pete Ricketts": 51.1,
+     "Dan Osborn": 46.2
+    },
+    "key_factor": "Nebraska's 20-point Republican baseline and Ricketts's vast personal and party resources insulate the incumbent against Osborn's independent bid.",
+    "reasoning": "Osborn ran another competitive independent campaign, but Ricketts took the challenge far more seriously than Deb Fischer did in 2024. Ricketts consistently maintained 47-50% in public and private polling, even leading in Osborn's internal surveys. In a presidential R+20 state, Osborn cannot assemble a majority without significant crossover from orthodox Republican voters who ultimately remain loyal to the party."
+   },
+   "NH": {
+    "winner": "Chris Pappas",
+    "probability": 0.85,
+    "vote_share": {
+     "John E. Sununu": 45.4,
+     "Chris Pappas": 52.3
+    },
+    "key_factor": "Pappas's four-to-one campaign cash advantage and strong performance in southern New Hampshire leave Sununu trailing by decisive margins.",
+    "reasoning": "Pappas built a dominant operation, raising over $23 million compared to Sununu's $5.7 million. Sununu, who last won an election in 2002, struggled to reintroduce himself to an evolved electorate and skipped candidate debates. Every survey since September shows Pappas comfortably ahead by 5 to 8 points, consistent with New Hampshire's anti-incumbent presidential midterm pattern."
+   },
+   "OH": {
+    "winner": "Sherrod Brown",
+    "probability": 0.65,
+    "vote_share": {
+     "Jon Husted": 46.2,
+     "Sherrod Brown": 49.7
+    },
+    "key_factor": "Brown's unparalleled $68 million war chest and deep working-class popularity overcome Ohio's partisan lean in a favorable national environment.",
+    "reasoning": "Brown only lost in 2024 by 3.6 points while Trump carried Ohio by 11. In this midterm without Trump atop the ballot and an 8-point national Democratic environment, Brown's brand remains formidable. Appointed incumbent Husted is burdened by controversy over data-center tax breaks opposed by 71% of Ohioans. Brown has led virtually every public survey throughout October."
+   },
+   "SC": {
+    "winner": "Darline Graham",
+    "probability": 0.75,
+    "vote_share": {
+     "Darline Graham": 50.3,
+     "Annie Andrews": 46.9
+    },
+    "key_factor": "South Carolina's overwhelming R+18 partisan baseline ensures Graham retains the seat despite Andrews's massive financial superiority.",
+    "reasoning": "Andrews raised over $24 million and ran a spirited campaign against appointed Senator Graham, who struggled through a contentious primary runoff. However, South Carolina has not elected a Democratic senator since 1998. Nonpartisan polling from ECU, The Citadel, and Targoz consistently shows Graham leading or tied, as the state's conservative majority reliably turns out on Election Day."
+   },
+   "TX": {
+    "winner": "Ken Paxton",
+    "probability": 0.55,
+    "vote_share": {
+     "Ken Paxton": 49.5,
+     "James Talarico": 48.8
+    },
+    "key_factor": "Texas's formidable conservative voting bloc and a 600,000 voter registration backlog narrowly preserve the Republican Senate seat.",
+    "reasoning": "Talarico waged an astonishing $146 million campaign against the scandal-plagued Paxton, leading or tying across multiple autumn polls. Yet Texas has repeatedly proven resistant to Democratic upsets, voting R+13.7 in 2024. The massive DPS registration backlog curtails Democratic turnout surges in urban and suburban centers, allowing Paxton to squeak out a razor-thin victory on rural conservative turnout."
+   }
+  },
+  "senate": {
+   "republican_seats": 49,
+   "p_republican_control": 0.4,
+   "upset_watch": {
+    "race": "TX",
+    "why": "James Talarico has raised an unprecedented $146 million and led multiple nonpartisan polls against an impeached, debate-dodging Ken Paxton in an 8-point national Democratic environment."
+   }
+  }
+ },
+ "rule_change_1_applied": false,
+ "attempts": [
+  {
+   "attempt": 1,
+   "prompt_sha256": "1db2fad133f4be2bae0fdaeae41dcbdf2bd5890d96a5069a712140abbce6c016",
+   "seconds": 132.1,
+   "used_as_official": true,
+   "sent_back_because": null,
+   "reply": "```json\n{\n  \"races\": {\n    \"AK\": {\n      \"winner\": \"Dan S. Sullivan\",\n      \"probability\": 0.57,\n      \"vote_share\": {\n        \"Dan S. Sullivan\": 47.5,\n        \"Mary Peltola\": 46.8\n      },\n      \"key_factor\": \"Ranked-choice ballot transfers from eliminated conservative candidates and late-breaking criminal investigations into the Peltola campaign give Sullivan the decisive edge.\",\n      \"reasoning\": \"Sullivan benefits from the late October collapse of Peltola's campaign following state and federal investigations into alleged DSCC-backed spoiler candidate recruitment. In Alaska's ranked-choice voting system, Peltola needed to cross 50% in the first round to secure victory. Instead, conservative second-choice preferences from Gerald Heikes and Daniel J. Sullivan Jr. will overwhelmingly transfer to Sullivan in later rounds, allowing the incumbent to overcome Peltola's early plurality and win reelection.\"\n    },\n    \"FL\": {\n      \"winner\": \"Ashley Moody\",\n      \"probability\": 0.94,\n      \"vote_share\": {\n        \"Ashley Moody\": 51.6,\n        \"Angie Nixon\": 45.6\n      },\n      \"key_factor\": \"Florida's strong Republican registration advantage and Nixon's self-described democratic socialist platform solidify Moody's lead.\",\n      \"reasoning\": \"Florida has shifted decisively red, voting Trump +13.1 in 2024 and DeSantis +19.4 in 2022. Moody holds a commanding lead across public and internal polls, backed by an established statewide profile as former Attorney General. Nixon's left-wing policy positions alienate moderate suburbanites, while Republicans entered Election Day with a massive 1.5 million registered voter edge and strong early in-person turnout.\"\n    },\n    \"IA\": {\n      \"winner\": \"Ashley Hinson\",\n      \"probability\": 0.58,\n      \"vote_share\": {\n        \"Ashley Hinson\": 49.2,\n        \"Josh Turek\": 47.6\n      },\n      \"key_factor\": \"Iowa's durable conservative baseline and Hinson's established name recognition provide a high floor that withstands Turek's financial advantage.\",\n      \"reasoning\": \"While Turek mounted an exceptionally well-funded campaign that kept late polling within the margin of error, Iowa has trended reliably Republican, voting R+13 in 2024. Late October surveys from co/efficient, InsiderAdvantage, and Trafalgar showed Hinson reclaiming a consistent 2-to-3 point lead as undecided rural voters broke home. Hinson's broad appeal as a former broadcaster and incumbent congresswoman should carry her across the finish line.\"\n    },\n    \"KS\": {\n      \"winner\": \"Adam Hamilton\",\n      \"probability\": 0.68,\n      \"vote_share\": {\n        \"Roger Marshall\": 46.3,\n        \"Adam Hamilton\": 50.5\n      },\n      \"key_factor\": \"Severe backlash over Marshall suing hundreds of patients, combined with Trump's controversial remarks, alienated suburban moderates to the benefit of pastor Hamilton.\",\n      \"reasoning\": \"Marshall entered the final stretch severely wounded by revelations that his medical practice sued more than 700 patients, leading to bench warrant arrests. Hamilton, a well-regarded United Methodist pastor, capitalized with an aggressive $19M campaign, leading in late high-quality polling including the Washington Post (52-43) and Emerson. In a favorable national environment, Kansas moderates will repeat their support for moderate Democrats like Governor Kelly.\"\n    },\n    \"ME\": {\n      \"winner\": \"Troy Jackson\",\n      \"probability\": 0.61,\n      \"vote_share\": {\n        \"Susan Collins\": 48.8,\n        \"Troy Jackson\": 50.7\n      },\n      \"key_factor\": \"Jackson's authentic blue-collar profile in rural Maine and the lack of third-party vote splitting prevent Collins from assembling her past winning coalition.\",\n      \"reasoning\": \"Unlike 2020, Collins faces a two-candidate field without independent alternatives to split the anti-incumbent vote in a state Trump lost by seven points. Jackson, a veteran logger and former state Senate president, neutralizes the cultural divide in rural ME-02 while consolidating progressive votes in the south. Consistently leading or tied across October polling, Jackson benefits from a strong national Democratic tailwind and ethics scrutiny surrounding Collins.\"\n    },\n    \"MI\": {\n      \"winner\": \"Abdul El-Sayed\",\n      \"probability\": 0.72,\n      \"vote_share\": {\n        \"Mike Rogers\": 45.6,\n        \"Abdul El-Sayed\": 50.1\n      },\n      \"key_factor\": \"Massive Democratic fundraising and an 8-to-10 point national midterm environment propel El-Sayed to a consistent polling lead.\",\n      \"reasoning\": \"Despite heavy outside spending from Republican-aligned PACs targeting El-Sayed's progressive background, El-Sayed raised over $53 million and consistently led Rogers in dozens of autumn surveys. Rogers, running for the second consecutive cycle after losing Michigan's other Senate race in 2024, failed to generate momentum against midterm headwinds. Democratic enthusiasm across Wayne County and college towns secures Michigan for Democrats.\"\n    },\n    \"MN\": {\n      \"winner\": \"Peggy Flanagan\",\n      \"probability\": 0.86,\n      \"vote_share\": {\n        \"Michele Tafoya\": 43.8,\n        \"Peggy Flanagan\": 51.6\n      },\n      \"key_factor\": \"Minnesota's unbroken 50-year statewide Democratic winning streak and Flanagan's institutional dominance put this seat out of reach for political newcomer Tafoya.\",\n      \"reasoning\": \"Flanagan, serving as Lieutenant Governor since 2019, consolidated DFL support early and led every public poll by comfortable margins, including a 14-point lead in the NYT/Siena survey. Tafoya's celebrity profile as a former sports reporter failed to overcome her lack of governing experience or close alignment with Trump in a state where Trump lost in three straight elections.\"\n    },\n    \"NC\": {\n      \"winner\": \"Roy Cooper\",\n      \"probability\": 0.88,\n      \"vote_share\": {\n        \"Michael Whatley\": 44.2,\n        \"Roy Cooper\": 53.1\n      },\n      \"key_factor\": \"The Senate Leadership Fund's withdrawal of $30 million in ad reservations signaled Whatley's collapse against two-term Governor Roy Cooper.\",\n      \"reasoning\": \"Cooper boasts high statewide favorability after two successful gubernatorial terms and outspent Whatley nearly four-to-one. Every poll conducted since September shows Cooper leading by 7 to 14 points, while Republicans effectively conceded by redirecting funds to defend Kansas. Huge Democratic early-voting turnout relative to past midterms confirms Cooper's decisive victory to flip this open seat.\"\n    },\n    \"NE\": {\n      \"winner\": \"Pete Ricketts\",\n      \"probability\": 0.74,\n      \"vote_share\": {\n        \"Pete Ricketts\": 51.1,\n        \"Dan Osborn\": 46.2\n      },\n      \"key_factor\": \"Nebraska's 20-point Republican baseline and Ricketts's vast personal and party resources insulate the incumbent against Osborn's independent bid.\",\n      \"reasoning\": \"Osborn ran another competitive independent campaign, but Ricketts took the challenge far more seriously than Deb Fischer did in 2024. Ricketts consistently maintained 47-50% in public and private polling, even leading in Osborn's internal surveys. In a presidential R+20 state, Osborn cannot assemble a majority without significant crossover from orthodox Republican voters who ultimately remain loyal to the party.\"\n    },\n    \"NH\": {\n      \"winner\": \"Chris Pappas\",\n      \"probability\": 0.85,\n      \"vote_share\": {\n        \"John E. Sununu\": 45.4,\n        \"Chris Pappas\": 52.3\n      },\n      \"key_factor\": \"Pappas's four-to-one campaign cash advantage and strong performance in southern New Hampshire leave Sununu trailing by decisive margins.\",\n      \"reasoning\": \"Pappas built a dominant operation, raising over $23 million compared to Sununu's $5.7 million. Sununu, who last won an election in 2002, struggled to reintroduce himself to an evolved electorate and skipped candidate debates. Every survey since September shows Pappas comfortably ahead by 5 to 8 points, consistent with New Hampshire's anti-incumbent presidential midterm pattern.\"\n    },\n    \"OH\": {\n      \"winner\": \"Sherrod Brown\",\n      \"probability\": 0.65,\n      \"vote_share\": {\n        \"Jon Husted\": 46.2,\n        \"Sherrod Brown\": 49.7\n      },\n      \"key_factor\": \"Brown's unparalleled $68 million war chest and deep working-class popularity overcome Ohio's partisan lean in a favorable national environment.\",\n      \"reasoning\": \"Brown only lost in 2024 by 3.6 points while Trump carried Ohio by 11. In this midterm without Trump atop the ballot and an 8-point national Democratic environment, Brown's brand remains formidable. Appointed incumbent Husted is burdened by controversy over data-center tax breaks opposed by 71% of Ohioans. Brown has led virtually every public survey throughout October.\"\n    },\n    \"SC\": {\n      \"winner\": \"Darline Graham\",\n      \"probability\": 0.75,\n      \"vote_share\": {\n        \"Darline Graham\": 50.3,\n        \"Annie Andrews\": 46.9\n      },\n      \"key_factor\": \"South Carolina's overwhelming R+18 partisan baseline ensures Graham retains the seat despite Andrews's massive financial superiority.\",\n      \"reasoning\": \"Andrews raised over $24 million and ran a spirited campaign against appointed Senator Graham, who struggled through a contentious primary runoff. However, South Carolina has not elected a Democratic senator since 1998. Nonpartisan polling from ECU, The Citadel, and Targoz consistently shows Graham leading or tied, as the state's conservative majority reliably turns out on Election Day.\"\n    },\n    \"TX\": {\n      \"winner\": \"Ken Paxton\",\n      \"probability\": 0.55,\n      \"vote_share\": {\n        \"Ken Paxton\": 49.5,\n        \"James Talarico\": 48.8\n      },\n      \"key_factor\": \"Texas's formidable conservative voting bloc and a 600,000 voter registration backlog narrowly preserve the Republican Senate seat.\",\n      \"reasoning\": \"Talarico waged an astonishing $146 million campaign against the scandal-plagued Paxton, leading or tying across multiple autumn polls. Yet Texas has repeatedly proven resistant to Democratic upsets, voting R+13.7 in 2024. The massive DPS registration backlog curtails Democratic turnout surges in urban and suburban centers, allowing Paxton to squeak out a razor-thin victory on rural conservative turnout.\"\n    }\n  },\n  \"senate\": {\n    \"republican_seats\": 49,\n    \"p_republican_control\": 0.40,\n    \"upset_watch\": {\n      \"race\": \"TX\",\n      \"why\": \"James Talarico has raised an unprecedented $146 million and led multiple nonpartisan polls against an impeached, debate-dodging Ken Paxton in an 8-point national Democratic environment.\"\n    }\n  }\n}\n```\n"
+  }
+ ]
+}
