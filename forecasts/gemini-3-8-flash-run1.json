@@ -1,0 +1,163 @@
+{
+ "model": "Gemini 3.8 Flash",
+ "company": "Google",
+ "run_through": "Antigravity",
+ "setting": "high",
+ "note": null,
+ "run": 1,
+ "official": true,
+ "recorded_at": "2026-10-31T05:24:21+0300",
+ "forecast": {
+  "races": {
+   "AK": {
+    "winner": "Mary Peltola",
+    "probability": 0.55,
+    "vote_share": {
+     "Dan S. Sullivan": 46.2,
+     "Mary Peltola": 48.5
+    },
+    "key_factor": "Peltola's 49.5% primary showing and $37 million war chest provide the necessary coalition strength to prevail under ranked-choice voting.",
+    "reasoning": "Peltola built a resilient coalition across Alaska, capturing 49.5% in the nonpartisan primary and consistently leading fall polls. While late disclosures regarding same-name spoiler candidate recruitment and a state inquiry narrowed the gap, Dan Sullivan failed to expand his base beyond loyal Republicans. Backed by an immense fundraising advantage and strong Alaska Native turnout, Peltola is positioned to secure victory in the ranked-choice tabulation once minor candidates are eliminated."
+   },
+   "FL": {
+    "winner": "Ashley Moody",
+    "probability": 0.91,
+    "vote_share": {
+     "Ashley Moody": 52.4,
+     "Angie Nixon": 45.1
+    },
+    "key_factor": "Florida's 1.5 million Republican voter-registration advantage and Nixon's progressive platform cemented a solid Moody victory.",
+    "reasoning": "Ashley Moody enters Election Day with a massive structural advantage, underpinned by Florida's 1.5 million Republican voter-registration lead. Angie Nixon's democratic socialist platform mobilized progressive activists but proved too polarizing to win over crucial suburban and Hispanic moderates. Moody consistently led every independent survey by four to eleven points, ensuring the appointed incumbent comfortably secures the remainder of Marco Rubio's Senate term."
+   },
+   "IA": {
+    "winner": "Ashley Hinson",
+    "probability": 0.58,
+    "vote_share": {
+     "Ashley Hinson": 48.9,
+     "Josh Turek": 47.3
+    },
+    "key_factor": "Iowa's decade-long rightward shift and Hinson's entrenched local popularity provided a narrow firewall against a national blue wave.",
+    "reasoning": "Despite Josh Turek's compelling biography, massive fundraising, and $20 million in Democratic outside spending, Iowa's structural Republican lean carried Hinson across the line. As a two-term congresswoman and former television news anchor, Hinson maintained high favorability in eastern Iowa while running up decisive rural margins. In a fierce open-seat battle, Hinson holds off Turek's late surge to keep the seat in Republican hands."
+   },
+   "KS": {
+    "winner": "Adam Hamilton",
+    "probability": 0.67,
+    "vote_share": {
+     "Roger Marshall": 46.5,
+     "Adam Hamilton": 49.7
+    },
+    "key_factor": "Marshall's medical practice lawsuits against 700 patients and Hamilton's pastoral appeal in suburban Kansas City drove a decisive moderate realignment.",
+    "reasoning": "Adam Hamilton's profile as a prominent United Methodist pastor allowed him to transcend partisan divides, outraising Marshall nearly three to one. Explosive reports of Marshall suing 700 patients, compounded by Trump's polarizing rally rhetoric, alienated moderate suburban voters in Johnson County. With national Republicans forced to redirect $30 million to shore up the race, Hamilton's consistent polling leads solidify a historic Democratic breakthrough in Kansas."
+   },
+   "ME": {
+    "winner": "Troy Jackson",
+    "probability": 0.58,
+    "vote_share": {
+     "Susan Collins": 48.6,
+     "Troy Jackson": 50.2
+    },
+    "key_factor": "Jackson's working-class rural roots in northern Maine neutralized Collins's traditional geographical advantage amidst a strong Democratic midterm tide.",
+    "reasoning": "As an Allagash logger and former state Senate president, Troy Jackson effectively neutralized Susan Collins's vital rural base in Maine's 2nd District. Collins, seeking a sixth term, faced severe headwinds from Trump's low approval, a pay-to-play controversy, and voter fatigue. Leading or tied across every October survey, Jackson harnesses Maine's federal Democratic lean to end Collins's three-decade Senate tenure."
+   },
+   "MI": {
+    "winner": "Abdul El-Sayed",
+    "probability": 0.78,
+    "vote_share": {
+     "Mike Rogers": 46.1,
+     "Abdul El-Sayed": 50.4
+    },
+    "key_factor": "El-Sayed's massive grassroots fundraising and unified Democratic coalition overcame heavy outside spending to keep Michigan blue.",
+    "reasoning": "Abdul El-Sayed unified the Democratic coalition after a bruising primary, deploying a massive $54 million grassroots war chest across Michigan. Mike Rogers, running for the second consecutive cycle following his 2024 loss, struggled to gain traction and trailed in every major October poll. In a favorable midterm climate for Democrats, El-Sayed's dominant margins in Wayne County and university centers deliver a comfortable open-seat hold."
+   },
+   "MN": {
+    "winner": "Peggy Flanagan",
+    "probability": 0.92,
+    "vote_share": {
+     "Michele Tafoya": 44.2,
+     "Peggy Flanagan": 51.8
+    },
+    "key_factor": "Minnesota's unbroken 24-year Democratic Senate winning streak and Flanagan's broad statewide network proved insurmountable for a political novice.",
+    "reasoning": "Lieutenant Governor Peggy Flanagan maintained commanding leads across independent and internal polls, benefiting from Minnesota's durable DFL infrastructure. Michele Tafoya's background as a sports commentator failed to resonate beyond core conservative voters, and Donald Trump's late endorsement did little to expand her suburban appeal. In a state that has not elected a Republican senator since 2002, Flanagan easily secures the seat vacated by retiring Senator Tina Smith."
+   },
+   "NC": {
+    "winner": "Roy Cooper",
+    "probability": 0.95,
+    "vote_share": {
+     "Michael Whatley": 43.7,
+     "Roy Cooper": 53.6
+    },
+    "key_factor": "Cooper's undefeated statewide electoral record and a $30 million withdrawal by national Republicans sealed an insurmountable Democratic advantage.",
+    "reasoning": "Former Governor Roy Cooper maintained unbroken double-digit leads across fall surveys, reinforced by a 321,000-ballot Democratic early voting registration advantage. National Republicans effectively conceded the race when the Senate Leadership Fund canceled $30 million in planned expenditures for Michael Whatley. Bolstered by widespread personal popularity and vast financial superiority, Cooper cruises to a decisive victory to flip the seat."
+   },
+   "NE": {
+    "winner": "Pete Ricketts",
+    "probability": 0.7,
+    "vote_share": {
+     "Pete Ricketts": 50.7,
+     "Dan Osborn": 46.4
+    },
+    "key_factor": "Nebraska's deep R+20 partisan baseline and Ricketts's superior statewide institutional resources held off Osborn's independent bid.",
+    "reasoning": "Although Dan Osborn mounted a formidable independent campaign backed by national labor, Pete Ricketts leveraged his high name recognition as former governor and incumbent senator. Late-stage polling consistently showed Ricketts maintaining a narrow plurality among likely voters. With rural Nebraska turning out reliably for the Republican ticket, Ricketts overcomes Osborn's populist challenge to win a full six-year term."
+   },
+   "NH": {
+    "winner": "Chris Pappas",
+    "probability": 0.91,
+    "vote_share": {
+     "John E. Sununu": 45.2,
+     "Chris Pappas": 51.7
+    },
+    "key_factor": "Pappas's consistent 50% polling threshold and four-to-one financial advantage shut down Sununu's comeback attempt.",
+    "reasoning": "Representative Chris Pappas ran a commanding campaign, consistently crossing the 50% mark in public surveys and outraising Sununu more than four to one. John E. Sununu struggled to mount a successful political comeback after nearly two decades out of office, declining key late debates. In a state with a steady federal Democratic lean, Pappas secures a comfortable victory to succeed retiring Senator Jeanne Shaheen."
+   },
+   "OH": {
+    "winner": "Sherrod Brown",
+    "probability": 0.74,
+    "vote_share": {
+     "Jon Husted": 46.3,
+     "Sherrod Brown": 49.8
+    },
+    "key_factor": "Brown's enduring working-class brand and massive $68 million campaign overwhelmed an appointed incumbent vulnerable on local utility and data-center issues.",
+    "reasoning": "Sherrod Brown leveraged near-universal name recognition and an immense $68 million war chest to rebuild his working-class coalition. Appointed Senator Jon Husted faced significant political fallout over his support for controversial data-center tax breaks, an issue opposed by 71% of Ohioans. Leading across almost every independent survey, Brown overcomes the state's presidential baseline to recapture his Senate seat in this special election."
+   },
+   "SC": {
+    "winner": "Darline Graham",
+    "probability": 0.68,
+    "vote_share": {
+     "Darline Graham": 50.2,
+     "Annie Andrews": 46.6
+    },
+    "key_factor": "South Carolina's overwhelming R+18 partisan tilt and straight-ticket voting habits insulated Graham from an extreme financial deficit.",
+    "reasoning": "Despite Annie Andrews raising $24 million and heavily outspending the appointed incumbent, South Carolina's deep-red fundamentals proved an insurmountable barrier. Darline Graham unified the Republican base following a competitive primary runoff and led in nonpartisan surveys. Even in a difficult midterm environment for Republicans, the state's conservative majority ensures Graham retains her late brother's Senate seat."
+   },
+   "TX": {
+    "winner": "Ken Paxton",
+    "probability": 0.52,
+    "vote_share": {
+     "Ken Paxton": 49.3,
+     "James Talarico": 48.8
+    },
+    "key_factor": "Texas's thirty-two-year Republican winning streak and a state backlog of 600,000 voter registrations blunted Talarico's historic suburban surge.",
+    "reasoning": "James Talarico mounted an unprecedented $146 million campaign, leading in over forty fall polls as suburban voters recoiled from Ken Paxton's impeachment scandals. However, Texas's thirty-two-year Republican winning streak and a state administrative backlog delaying 600,000 voter registrations provided Paxton with critical structural support. By maximizing rural turnout, Paxton holds on by the narrowest of margins to keep the seat Republican."
+   }
+  },
+  "senate": {
+   "republican_seats": 48,
+   "p_republican_control": 0.24,
+   "upset_watch": {
+    "race": "TX",
+    "why": "James Talarico's unprecedented $146 million campaign and persistent leads across nonpartisan polls give him the strongest opportunity of any trailing candidate to overcome a narrow partisan deficit."
+   }
+  }
+ },
+ "rule_change_1_applied": false,
+ "attempts": [
+  {
+   "attempt": 1,
+   "prompt_sha256": "1db2fad133f4be2bae0fdaeae41dcbdf2bd5890d96a5069a712140abbce6c016",
+   "seconds": 206.0,
+   "used_as_official": true,
+   "sent_back_because": null,
+   "reply": "```json\n{\n  \"races\": {\n    \"AK\": {\n      \"winner\": \"Mary Peltola\",\n      \"probability\": 0.55,\n      \"vote_share\": {\n        \"Dan S. Sullivan\": 46.2,\n        \"Mary Peltola\": 48.5\n      },\n      \"key_factor\": \"Peltola's 49.5% primary showing and $37 million war chest provide the necessary coalition strength to prevail under ranked-choice voting.\",\n      \"reasoning\": \"Peltola built a resilient coalition across Alaska, capturing 49.5% in the nonpartisan primary and consistently leading fall polls. While late disclosures regarding same-name spoiler candidate recruitment and a state inquiry narrowed the gap, Dan Sullivan failed to expand his base beyond loyal Republicans. Backed by an immense fundraising advantage and strong Alaska Native turnout, Peltola is positioned to secure victory in the ranked-choice tabulation once minor candidates are eliminated.\"\n    },\n    \"FL\": {\n      \"winner\": \"Ashley Moody\",\n      \"probability\": 0.91,\n      \"vote_share\": {\n        \"Ashley Moody\": 52.4,\n        \"Angie Nixon\": 45.1\n      },\n      \"key_factor\": \"Florida's 1.5 million Republican voter-registration advantage and Nixon's progressive platform cemented a solid Moody victory.\",\n      \"reasoning\": \"Ashley Moody enters Election Day with a massive structural advantage, underpinned by Florida's 1.5 million Republican voter-registration lead. Angie Nixon's democratic socialist platform mobilized progressive activists but proved too polarizing to win over crucial suburban and Hispanic moderates. Moody consistently led every independent survey by four to eleven points, ensuring the appointed incumbent comfortably secures the remainder of Marco Rubio's Senate term.\"\n    },\n    \"IA\": {\n      \"winner\": \"Ashley Hinson\",\n      \"probability\": 0.58,\n      \"vote_share\": {\n        \"Ashley Hinson\": 48.9,\n        \"Josh Turek\": 47.3\n      },\n      \"key_factor\": \"Iowa's decade-long rightward shift and Hinson's entrenched local popularity provided a narrow firewall against a national blue wave.\",\n      \"reasoning\": \"Despite Josh Turek's compelling biography, massive fundraising, and $20 million in Democratic outside spending, Iowa's structural Republican lean carried Hinson across the line. As a two-term congresswoman and former television news anchor, Hinson maintained high favorability in eastern Iowa while running up decisive rural margins. In a fierce open-seat battle, Hinson holds off Turek's late surge to keep the seat in Republican hands.\"\n    },\n    \"KS\": {\n      \"winner\": \"Adam Hamilton\",\n      \"probability\": 0.67,\n      \"vote_share\": {\n        \"Roger Marshall\": 46.5,\n        \"Adam Hamilton\": 49.7\n      },\n      \"key_factor\": \"Marshall's medical practice lawsuits against 700 patients and Hamilton's pastoral appeal in suburban Kansas City drove a decisive moderate realignment.\",\n      \"reasoning\": \"Adam Hamilton's profile as a prominent United Methodist pastor allowed him to transcend partisan divides, outraising Marshall nearly three to one. Explosive reports of Marshall suing 700 patients, compounded by Trump's polarizing rally rhetoric, alienated moderate suburban voters in Johnson County. With national Republicans forced to redirect $30 million to shore up the race, Hamilton's consistent polling leads solidify a historic Democratic breakthrough in Kansas.\"\n    },\n    \"ME\": {\n      \"winner\": \"Troy Jackson\",\n      \"probability\": 0.58,\n      \"vote_share\": {\n        \"Susan Collins\": 48.6,\n        \"Troy Jackson\": 50.2\n      },\n      \"key_factor\": \"Jackson's working-class rural roots in northern Maine neutralized Collins's traditional geographical advantage amidst a strong Democratic midterm tide.\",\n      \"reasoning\": \"As an Allagash logger and former state Senate president, Troy Jackson effectively neutralized Susan Collins's vital rural base in Maine's 2nd District. Collins, seeking a sixth term, faced severe headwinds from Trump's low approval, a pay-to-play controversy, and voter fatigue. Leading or tied across every October survey, Jackson harnesses Maine's federal Democratic lean to end Collins's three-decade Senate tenure.\"\n    },\n    \"MI\": {\n      \"winner\": \"Abdul El-Sayed\",\n      \"probability\": 0.78,\n      \"vote_share\": {\n        \"Mike Rogers\": 46.1,\n        \"Abdul El-Sayed\": 50.4\n      },\n      \"key_factor\": \"El-Sayed's massive grassroots fundraising and unified Democratic coalition overcame heavy outside spending to keep Michigan blue.\",\n      \"reasoning\": \"Abdul El-Sayed unified the Democratic coalition after a bruising primary, deploying a massive $54 million grassroots war chest across Michigan. Mike Rogers, running for the second consecutive cycle following his 2024 loss, struggled to gain traction and trailed in every major October poll. In a favorable midterm climate for Democrats, El-Sayed's dominant margins in Wayne County and university centers deliver a comfortable open-seat hold.\"\n    },\n    \"MN\": {\n      \"winner\": \"Peggy Flanagan\",\n      \"probability\": 0.92,\n      \"vote_share\": {\n        \"Michele Tafoya\": 44.2,\n        \"Peggy Flanagan\": 51.8\n      },\n      \"key_factor\": \"Minnesota's unbroken 24-year Democratic Senate winning streak and Flanagan's broad statewide network proved insurmountable for a political novice.\",\n      \"reasoning\": \"Lieutenant Governor Peggy Flanagan maintained commanding leads across independent and internal polls, benefiting from Minnesota's durable DFL infrastructure. Michele Tafoya's background as a sports commentator failed to resonate beyond core conservative voters, and Donald Trump's late endorsement did little to expand her suburban appeal. In a state that has not elected a Republican senator since 2002, Flanagan easily secures the seat vacated by retiring Senator Tina Smith.\"\n    },\n    \"NC\": {\n      \"winner\": \"Roy Cooper\",\n      \"probability\": 0.95,\n      \"vote_share\": {\n        \"Michael Whatley\": 43.7,\n        \"Roy Cooper\": 53.6\n      },\n      \"key_factor\": \"Cooper's undefeated statewide electoral record and a $30 million withdrawal by national Republicans sealed an insurmountable Democratic advantage.\",\n      \"reasoning\": \"Former Governor Roy Cooper maintained unbroken double-digit leads across fall surveys, reinforced by a 321,000-ballot Democratic early voting registration advantage. National Republicans effectively conceded the race when the Senate Leadership Fund canceled $30 million in planned expenditures for Michael Whatley. Bolstered by widespread personal popularity and vast financial superiority, Cooper cruises to a decisive victory to flip the seat.\"\n    },\n    \"NE\": {\n      \"winner\": \"Pete Ricketts\",\n      \"probability\": 0.70,\n      \"vote_share\": {\n        \"Pete Ricketts\": 50.7,\n        \"Dan Osborn\": 46.4\n      },\n      \"key_factor\": \"Nebraska's deep R+20 partisan baseline and Ricketts's superior statewide institutional resources held off Osborn's independent bid.\",\n      \"reasoning\": \"Although Dan Osborn mounted a formidable independent campaign backed by national labor, Pete Ricketts leveraged his high name recognition as former governor and incumbent senator. Late-stage polling consistently showed Ricketts maintaining a narrow plurality among likely voters. With rural Nebraska turning out reliably for the Republican ticket, Ricketts overcomes Osborn's populist challenge to win a full six-year term.\"\n    },\n    \"NH\": {\n      \"winner\": \"Chris Pappas\",\n      \"probability\": 0.91,\n      \"vote_share\": {\n        \"John E. Sununu\": 45.2,\n        \"Chris Pappas\": 51.7\n      },\n      \"key_factor\": \"Pappas's consistent 50% polling threshold and four-to-one financial advantage shut down Sununu's comeback attempt.\",\n      \"reasoning\": \"Representative Chris Pappas ran a commanding campaign, consistently crossing the 50% mark in public surveys and outraising Sununu more than four to one. John E. Sununu struggled to mount a successful political comeback after nearly two decades out of office, declining key late debates. In a state with a steady federal Democratic lean, Pappas secures a comfortable victory to succeed retiring Senator Jeanne Shaheen.\"\n    },\n    \"OH\": {\n      \"winner\": \"Sherrod Brown\",\n      \"probability\": 0.74,\n      \"vote_share\": {\n        \"Jon Husted\": 46.3,\n        \"Sherrod Brown\": 49.8\n      },\n      \"key_factor\": \"Brown's enduring working-class brand and massive $68 million campaign overwhelmed an appointed incumbent vulnerable on local utility and data-center issues.\",\n      \"reasoning\": \"Sherrod Brown leveraged near-universal name recognition and an immense $68 million war chest to rebuild his working-class coalition. Appointed Senator Jon Husted faced significant political fallout over his support for controversial data-center tax breaks, an issue opposed by 71% of Ohioans. Leading across almost every independent survey, Brown overcomes the state's presidential baseline to recapture his Senate seat in this special election.\"\n    },\n    \"SC\": {\n      \"winner\": \"Darline Graham\",\n      \"probability\": 0.68,\n      \"vote_share\": {\n        \"Darline Graham\": 50.2,\n        \"Annie Andrews\": 46.6\n      },\n      \"key_factor\": \"South Carolina's overwhelming R+18 partisan tilt and straight-ticket voting habits insulated Graham from an extreme financial deficit.\",\n      \"reasoning\": \"Despite Annie Andrews raising $24 million and heavily outspending the appointed incumbent, South Carolina's deep-red fundamentals proved an insurmountable barrier. Darline Graham unified the Republican base following a competitive primary runoff and led in nonpartisan surveys. Even in a difficult midterm environment for Republicans, the state's conservative majority ensures Graham retains her late brother's Senate seat.\"\n    },\n    \"TX\": {\n      \"winner\": \"Ken Paxton\",\n      \"probability\": 0.52,\n      \"vote_share\": {\n        \"Ken Paxton\": 49.3,\n        \"James Talarico\": 48.8\n      },\n      \"key_factor\": \"Texas's thirty-two-year Republican winning streak and a state backlog of 600,000 voter registrations blunted Talarico's historic suburban surge.\",\n      \"reasoning\": \"James Talarico mounted an unprecedented $146 million campaign, leading in over forty fall polls as suburban voters recoiled from Ken Paxton's impeachment scandals. However, Texas's thirty-two-year Republican winning streak and a state administrative backlog delaying 600,000 voter registrations provided Paxton with critical structural support. By maximizing rural turnout, Paxton holds on by the narrowest of margins to keep the seat Republican.\"\n    }\n  },\n  \"senate\": {\n    \"republican_seats\": 48,\n    \"p_republican_control\": 0.24,\n    \"upset_watch\": {\n      \"race\": \"TX\",\n      \"why\": \"James Talarico's unprecedented $146 million campaign and persistent leads across nonpartisan polls give him the strongest opportunity of any trailing candidate to overcome a narrow partisan deficit.\"\n    }\n  }\n}\n```\n"
+  }
+ ]
+}

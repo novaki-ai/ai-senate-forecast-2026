@@ -11,7 +11,9 @@ From the Novaki channel on YouTube ([@Novaki_ai](https://www.youtube.com/@Novaki
 | When (UTC) | What |
 |---|---|
 | Oct 31, 2026, 02:14 | Prompt, dossier and scoring rules locked ([`LOCK.sha256`](LOCK.sha256)). This is the first commit. |
-| Before polls open on Nov 3 | Every model's forecast added to `forecasts/`, with the raw reply, plus a snapshot of prediction markets and forecasting models taken at the same time. |
+| Oct 31, 2026, 02:20 | Rule change 1 logged in [`SCORING.md`](SCORING.md) during run 1 (Alaska and Maine use ranked-choice voting). The first lock is kept as `LOCK-v1.sha256`; `LOCK.sha256` is the current one. |
+| Oct 31, 2026, 02:40 | All ten official forecasts (run 1) added to [`forecasts/`](forecasts/), with every raw reply, plus a snapshot of prediction markets and forecasting models taken at the time the models ran ([`snapshot-experts-and-markets-2026-10-31.json`](snapshot-experts-and-markets-2026-10-31.json)). Summary: [`forecasts/TABLE.md`](forecasts/TABLE.md). |
+| Before polls open on Nov 3 | Run 2 (the same request again, for consistency only) added. |
 | After the AP race calls | Results and scores added. Races that are not called yet stay pending and are updated later. |
 
 The commit history is the timestamp: GitHub records when each commit was pushed.

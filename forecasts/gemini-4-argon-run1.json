@@ -1,0 +1,163 @@
+{
+ "model": "Gemini 4 Argon",
+ "company": "Google",
+ "run_through": "Antigravity",
+ "setting": "high",
+ "note": null,
+ "run": 1,
+ "official": true,
+ "recorded_at": "2026-10-31T05:23:07+0300",
+ "forecast": {
+  "races": {
+   "AK": {
+    "winner": "Dan S. Sullivan",
+    "probability": 0.56,
+    "vote_share": {
+     "Dan S. Sullivan": 47.8,
+     "Mary Peltola": 46.6
+    },
+    "key_factor": "Ranked-choice transfers from two minor Republican-leaning candidates and a late-October federal investigation into spoiler recruitment by Mary Peltola's campaign tilt a razor-thin race toward incumbent Dan S. Sullivan.",
+    "reasoning": "Mary Peltola held a narrow 2-to-3-point lead in first-choice polling through mid-October and out-raised Sullivan $36.9M to $14.1M in a strongly Democratic national environment. However, Peltola Consistently polled below 50%, leaving her vulnerable to ranked-choice transfers from conservative candidates Gerald Heikes and Daniel J. Sullivan Jr. Late October revelations from Peltola's former campaign manager regarding a spoiler-recruitment scheme—and ensuing federal and state investigations—occurred after the final polls and should tip undecided and second-choice voters to Sullivan."
+   },
+   "FL": {
+    "winner": "Ashley Moody",
+    "probability": 0.93,
+    "vote_share": {
+     "Ashley Moody": 52.8,
+     "Angie Nixon": 45.4
+    },
+    "key_factor": "Florida's R+13.1 baseline and a 1.5-million Republican voter registration advantage insulate appointed incumbent Ashley Moody against DSA-affiliated challenger Angie Nixon.",
+    "reasoning": "Ashley Moody has led in every poll since late September by an average of 6 to 7 points, regularly hitting 49% to 53% among likely voters. While the national D+8.5 generic ballot keeps the margin closer than in 2022, Angie Nixon's far-left platform and primary upset over better-funded moderate Alexander Vindman limit her crossover appeal in an increasingly Republican state where early voting already shows Republicans matching Democrats in combined mail and in-person turnout before Election Day."
+   },
+   "IA": {
+    "winner": "Ashley Hinson",
+    "probability": 0.56,
+    "vote_share": {
+     "Ashley Hinson": 49.1,
+     "Josh Turek": 48.2
+    },
+    "key_factor": "Iowa's R+13.2 partisan baseline and late-October polling consolidation give Congresswoman Ashley Hinson a narrow edge in a toss-up open seat.",
+    "reasoning": "Josh Turek has run a strong, well-funded campaign ($24.3M raised plus $20.2M in supportive outside spending), capitalizing on tariff and inflation headwinds to tie Hinson across October polling. However, Hinson is a disciplined two-term incumbent representative who leads in a majority of late-October likely voter surveys, including Emerson and NYT/Siena. As Libertarian Thomas Laehn's support squeezes down on Election Day and rural conservative undecideds come home, Hinson should narrowly hold this seat."
+   },
+   "KS": {
+    "winner": "Adam Hamilton",
+    "probability": 0.57,
+    "vote_share": {
+     "Roger Marshall": 47.8,
+     "Adam Hamilton": 49.2
+    },
+    "key_factor": "Suburban crossover support for Leawood megachurch pastor Adam Hamilton and backlash over Sen. Roger Marshall's patient-debt lawsuits have propelled Hamilton to a clear lead in late-October nonpartisan polls.",
+    "reasoning": "Despite Kansas's R+16.1 presidential baseline, three late-October nonpartisan polls—Washington Post (52-43), CNN/SSRS (49-45), and Emerson (50-47)—show Adam Hamilton leading near or above 50%. Marshall has been severely damaged by reports that his medical practice sued over 700 patients and had at least 81 arrested, compounded by an October 20 rally controversy involving President Trump. With Hamilton out-raising Marshall $19.2M to $7.5M and appealing strongly to Johnson County moderates, he is a slight favorite."
+   },
+   "ME": {
+    "winner": "Troy Jackson",
+    "probability": 0.66,
+    "vote_share": {
+     "Susan Collins": 48.4,
+     "Troy Jackson": 51.1
+    },
+    "key_factor": "In a blue-leaning state during a strongly Democratic midterm, northern Maine populist Troy Jackson neutralizes Susan Collins's traditional rural working-class advantage.",
+    "reasoning": "Unlike 2020 challenger Sara Gideon, former Maine Senate President Troy Jackson is a logger from Aroostook County with deep working-class appeal in Maine's 2nd District. Jackson leads or ties in every October poll—averaging a 2.5-point lead—while Collins faces headwinds from an unpopular Republican administration and an October ProPublica ethics investigation. With only two candidates on the ballot and Maine's D+6.9 baseline reinforced by a D+8.5 national wave, Jackson is favored to unseat Collins."
+   },
+   "MI": {
+    "winner": "Abdul El-Sayed",
+    "probability": 0.81,
+    "vote_share": {
+     "Mike Rogers": 46.6,
+     "Abdul El-Sayed": 50.4
+    },
+    "key_factor": "Abdul El-Sayed's consistent 4-to-6-point lead across late-October polls, massive $53.8M fundraising haul, and favorable midterm environment outweigh Republican outside spending for Mike Rogers.",
+    "reasoning": "El-Sayed leads in 16 of 17 October polls, including by 5 to 7 points in late-October surveys from SSRS, Glengariff, MSU/Verasight, Mitchell, and Republican-leaning Rasmussen. Although outside groups spent $35M supporting Mike Rogers and attacking El-Sayed from the center, El-Sayed's $53.8M campaign war chest and a national environment driven by 3.7% inflation and $4.27 gasoline give Democrats a decisive edge in a state where Rogers already lost in a much more Republican 2024 cycle."
+   },
+   "MN": {
+    "winner": "Peggy Flanagan",
+    "probability": 0.92,
+    "vote_share": {
+     "Michele Tafoya": 44.6,
+     "Peggy Flanagan": 52.2
+    },
+    "key_factor": "Lt. Gov. Peggy Flanagan has led in every poll since mid-September—including Republican internals—backed by Minnesota's D+4.2 baseline and a strongly Democratic national wave.",
+    "reasoning": "Flanagan leads former sports broadcaster Michele Tafoya across the board, including 54-40 in late-October NYT/Siena polling, 48-41 in KSTP/SurveyUSA, and 48-44 even in Tafoya's own late-October internal poll. While Tafoya raised a respectable $12.5M and kept early autumn polls within 3 to 4 points, undecided voters in this DFL-leaning state have broken toward Flanagan down the stretch, putting her on track for a comfortable 7-to-8-point victory."
+   },
+   "NC": {
+    "winner": "Roy Cooper",
+    "probability": 0.95,
+    "vote_share": {
+     "Michael Whatley": 44.6,
+     "Roy Cooper": 53.2
+    },
+    "key_factor": "Former two-term Gov. Roy Cooper holds a commanding double-digit polling lead, a 3.6-to-1 fundraising advantage, and faced early Republican triage after the Senate Leadership Fund canceled $30M in spending for Michael Whatley.",
+    "reasoning": "Roy Cooper has won six consecutive statewide elections in North Carolina and leads former RNC Chair Michael Whatley by 7 to 14 points in every October poll, including Republican partisan surveys. Cooper out-raised Whatley $49.6M to $13.7M, Democratic outside spending leads $28.1M to $16.0M after the Senate Leadership Fund pulled $30M out of the state, and Democrats hold a 321,000-ballot registration advantage in surging early voting."
+   },
+   "NE": {
+    "winner": "Pete Ricketts",
+    "probability": 0.72,
+    "vote_share": {
+     "Pete Ricketts": 50.2,
+     "Dan Osborn": 46.3
+    },
+    "key_factor": "Nebraska's R+20.5 partisan baseline and incumbent Pete Ricketts's 49-47 lead even in Dan Osborn's own late-October internal poll point to a narrow Republican hold.",
+    "reasoning": "Independent union leader Dan Osborn has mounted another competitive campaign backed by $35.1M in outside spending and a favorable midterm climate. However, Osborn is no longer an unknown quantity after his 6.7-point loss in 2024, and Ricketts is a well-funded incumbent and former two-term governor with $25.5M in outside Republican support. Crucially, an October 14-20 Impact Research poll commissioned by Osborn's own campaign showed Ricketts ahead 49-47 (50-48 two-way), signaling Ricketts remains above water."
+   },
+   "NH": {
+    "winner": "Chris Pappas",
+    "probability": 0.89,
+    "vote_share": {
+     "John E. Sununu": 45.5,
+     "Chris Pappas": 51.8
+    },
+    "key_factor": "Rep. Chris Pappas consistently hits 50% to 51% across all October polls while Constitution Party candidate Edmond LaPlante siphons conservative votes from former Sen. John E. Sununu.",
+    "reasoning": "Pappas leads Sununu by 5 to 8 points in every survey since mid-September, including Saint Anselm (50-43), UNH (50-42), NYT/Siena (50-45), and Republican pollsters Rasmussen (50-44) and National Public Affairs (50-43). Pappas has out-raised Sununu $23.7M to $5.7M, enjoys a D+2.8 state baseline in a D+8.5 national wave, and benefits from right-wing third-party candidate Edmond LaPlante drawing 2% to 4% of the vote."
+   },
+   "OH": {
+    "winner": "Sherrod Brown",
+    "probability": 0.68,
+    "vote_share": {
+     "Jon Husted": 47.7,
+     "Sherrod Brown": 49.8
+    },
+    "key_factor": "Former Sen. Sherrod Brown's $68.4M-to-$19.9M fundraising dominance, proven crossover brand, and a D+8.5 midterm environment allow him to overcome Ohio's R+11.2 presidential baseline against appointed Sen. Jon Husted.",
+    "reasoning": "Brown outran the presidential ticket by 7.6 points in 2024 and now faces a midterm electorate without Donald Trump on the ballot. He leads Husted in 26 of 32 polls since September—including Fox News (52-47 LV), Cook Political (49-43), Marist (48-44), and Suffolk (47-44)—while capitalizing on voter backlash over utility costs and data-center tax breaks Husted championed. Even discounting polls by 1.5 to 2 points for historical Ohio bias, Brown's massive financial and brand advantages make him the favorite."
+   },
+   "SC": {
+    "winner": "Darline Graham",
+    "probability": 0.78,
+    "vote_share": {
+     "Darline Graham": 50.8,
+     "Annie Andrews": 45.9
+    },
+    "key_factor": "South Carolina's inelastic R+17.9 partisan baseline and Republican consolidation following the August primary runoff protect appointed Sen. Darline Graham against well-funded Democrat Annie Andrews.",
+    "reasoning": "Following Sen. Lindsey Graham's death in July, his sister Darline Graham survived a divisive August primary runoff and was heavily out-raised by pediatrician Annie Andrews ($24.2M to $1.9M), tightening polls to a 48-48 tie in NYT/Siena. However, South Carolina is deeply inelastic, Republican super PACs have stepped in with $12.7M, and recent ECU (51-47), Citadel LV (43-39), and Targoz (47-46) polls show Graham ahead as conservative voters come home."
+   },
+   "TX": {
+    "winner": "James Talarico",
+    "probability": 0.55,
+    "vote_share": {
+     "Ken Paxton": 48.6,
+     "James Talarico": 49.3
+    },
+    "key_factor": "State Rep. James Talarico's 7-to-1 combined spending advantage ($177.6M to $25.0M) and consistent polling lead against impeached Republican nominee Ken Paxton narrowly overcome Texas's Republican baseline.",
+    "reasoning": "After Ken Paxton ousted incumbent Sen. John Cornyn in a divisive runoff, Talarico has led in 46 of 55 polls since September (including 27 of 33 in October) by an average of 2.5 points, while out-raising Paxton $146.3M to $22.3M. Combined with a D+8.5 midterm wave, high gasoline prices hurting GOP gains among Hispanic voters, and Cornyn-wing defections, Talarico holds a slight edge despite Texas's R+13.7 baseline and a state voter-registration backlog."
+   }
+  },
+  "senate": {
+   "republican_seats": 48,
+   "p_republican_control": 0.35,
+   "upset_watch": {
+    "race": "TX",
+    "why": "Although Ken Paxton trails in 46 of 55 polls and faces a $178M-to-$25M spending deficit, Texas's R+13.7 presidential baseline, sharp registered-to-likely voter turnout drop-off, and a 600,000-application DPS registration backlog give him a strong chance to overtake James Talarico on Election Day."
+   }
+  }
+ },
+ "rule_change_1_applied": false,
+ "attempts": [
+  {
+   "attempt": 1,
+   "prompt_sha256": "1db2fad133f4be2bae0fdaeae41dcbdf2bd5890d96a5069a712140abbce6c016",
+   "seconds": 332.4,
+   "used_as_official": true,
+   "sent_back_because": null,
+   "reply": "{\n  \"races\": {\n    \"AK\": {\n      \"winner\": \"Dan S. Sullivan\",\n      \"probability\": 0.56,\n      \"vote_share\": {\n        \"Dan S. Sullivan\": 47.8,\n        \"Mary Peltola\": 46.6\n      },\n      \"key_factor\": \"Ranked-choice transfers from two minor Republican-leaning candidates and a late-October federal investigation into spoiler recruitment by Mary Peltola's campaign tilt a razor-thin race toward incumbent Dan S. Sullivan.\",\n      \"reasoning\": \"Mary Peltola held a narrow 2-to-3-point lead in first-choice polling through mid-October and out-raised Sullivan $36.9M to $14.1M in a strongly Democratic national environment. However, Peltola Consistently polled below 50%, leaving her vulnerable to ranked-choice transfers from conservative candidates Gerald Heikes and Daniel J. Sullivan Jr. Late October revelations from Peltola's former campaign manager regarding a spoiler-recruitment scheme—and ensuing federal and state investigations—occurred after the final polls and should tip undecided and second-choice voters to Sullivan.\"\n    },\n    \"FL\": {\n      \"winner\": \"Ashley Moody\",\n      \"probability\": 0.93,\n      \"vote_share\": {\n        \"Ashley Moody\": 52.8,\n        \"Angie Nixon\": 45.4\n      },\n      \"key_factor\": \"Florida's R+13.1 baseline and a 1.5-million Republican voter registration advantage insulate appointed incumbent Ashley Moody against DSA-affiliated challenger Angie Nixon.\",\n      \"reasoning\": \"Ashley Moody has led in every poll since late September by an average of 6 to 7 points, regularly hitting 49% to 53% among likely voters. While the national D+8.5 generic ballot keeps the margin closer than in 2022, Angie Nixon's far-left platform and primary upset over better-funded moderate Alexander Vindman limit her crossover appeal in an increasingly Republican state where early voting already shows Republicans matching Democrats in combined mail and in-person turnout before Election Day.\"\n    },\n    \"IA\": {\n      \"winner\": \"Ashley Hinson\",\n      \"probability\": 0.56,\n      \"vote_share\": {\n        \"Ashley Hinson\": 49.1,\n        \"Josh Turek\": 48.2\n      },\n      \"key_factor\": \"Iowa's R+13.2 partisan baseline and late-October polling consolidation give Congresswoman Ashley Hinson a narrow edge in a toss-up open seat.\",\n      \"reasoning\": \"Josh Turek has run a strong, well-funded campaign ($24.3M raised plus $20.2M in supportive outside spending), capitalizing on tariff and inflation headwinds to tie Hinson across October polling. However, Hinson is a disciplined two-term incumbent representative who leads in a majority of late-October likely voter surveys, including Emerson and NYT/Siena. As Libertarian Thomas Laehn's support squeezes down on Election Day and rural conservative undecideds come home, Hinson should narrowly hold this seat.\"\n    },\n    \"KS\": {\n      \"winner\": \"Adam Hamilton\",\n      \"probability\": 0.57,\n      \"vote_share\": {\n        \"Roger Marshall\": 47.8,\n        \"Adam Hamilton\": 49.2\n      },\n      \"key_factor\": \"Suburban crossover support for Leawood megachurch pastor Adam Hamilton and backlash over Sen. Roger Marshall's patient-debt lawsuits have propelled Hamilton to a clear lead in late-October nonpartisan polls.\",\n      \"reasoning\": \"Despite Kansas's R+16.1 presidential baseline, three late-October nonpartisan polls—Washington Post (52-43), CNN/SSRS (49-45), and Emerson (50-47)—show Adam Hamilton leading near or above 50%. Marshall has been severely damaged by reports that his medical practice sued over 700 patients and had at least 81 arrested, compounded by an October 20 rally controversy involving President Trump. With Hamilton out-raising Marshall $19.2M to $7.5M and appealing strongly to Johnson County moderates, he is a slight favorite.\"\n    },\n    \"ME\": {\n      \"winner\": \"Troy Jackson\",\n      \"probability\": 0.66,\n      \"vote_share\": {\n        \"Susan Collins\": 48.4,\n        \"Troy Jackson\": 51.1\n      },\n      \"key_factor\": \"In a blue-leaning state during a strongly Democratic midterm, northern Maine populist Troy Jackson neutralizes Susan Collins's traditional rural working-class advantage.\",\n      \"reasoning\": \"Unlike 2020 challenger Sara Gideon, former Maine Senate President Troy Jackson is a logger from Aroostook County with deep working-class appeal in Maine's 2nd District. Jackson leads or ties in every October poll—averaging a 2.5-point lead—while Collins faces headwinds from an unpopular Republican administration and an October ProPublica ethics investigation. With only two candidates on the ballot and Maine's D+6.9 baseline reinforced by a D+8.5 national wave, Jackson is favored to unseat Collins.\"\n    },\n    \"MI\": {\n      \"winner\": \"Abdul El-Sayed\",\n      \"probability\": 0.81,\n      \"vote_share\": {\n        \"Mike Rogers\": 46.6,\n        \"Abdul El-Sayed\": 50.4\n      },\n      \"key_factor\": \"Abdul El-Sayed's consistent 4-to-6-point lead across late-October polls, massive $53.8M fundraising haul, and favorable midterm environment outweigh Republican outside spending for Mike Rogers.\",\n      \"reasoning\": \"El-Sayed leads in 16 of 17 October polls, including by 5 to 7 points in late-October surveys from SSRS, Glengariff, MSU/Verasight, Mitchell, and Republican-leaning Rasmussen. Although outside groups spent $35M supporting Mike Rogers and attacking El-Sayed from the center, El-Sayed's $53.8M campaign war chest and a national environment driven by 3.7% inflation and $4.27 gasoline give Democrats a decisive edge in a state where Rogers already lost in a much more Republican 2024 cycle.\"\n    },\n    \"MN\": {\n      \"winner\": \"Peggy Flanagan\",\n      \"probability\": 0.92,\n      \"vote_share\": {\n        \"Michele Tafoya\": 44.6,\n        \"Peggy Flanagan\": 52.2\n      },\n      \"key_factor\": \"Lt. Gov. Peggy Flanagan has led in every poll since mid-September—including Republican internals—backed by Minnesota's D+4.2 baseline and a strongly Democratic national wave.\",\n      \"reasoning\": \"Flanagan leads former sports broadcaster Michele Tafoya across the board, including 54-40 in late-October NYT/Siena polling, 48-41 in KSTP/SurveyUSA, and 48-44 even in Tafoya's own late-October internal poll. While Tafoya raised a respectable $12.5M and kept early autumn polls within 3 to 4 points, undecided voters in this DFL-leaning state have broken toward Flanagan down the stretch, putting her on track for a comfortable 7-to-8-point victory.\"\n    },\n    \"NC\": {\n      \"winner\": \"Roy Cooper\",\n      \"probability\": 0.95,\n      \"vote_share\": {\n        \"Michael Whatley\": 44.6,\n        \"Roy Cooper\": 53.2\n      },\n      \"key_factor\": \"Former two-term Gov. Roy Cooper holds a commanding double-digit polling lead, a 3.6-to-1 fundraising advantage, and faced early Republican triage after the Senate Leadership Fund canceled $30M in spending for Michael Whatley.\",\n      \"reasoning\": \"Roy Cooper has won six consecutive statewide elections in North Carolina and leads former RNC Chair Michael Whatley by 7 to 14 points in every October poll, including Republican partisan surveys. Cooper out-raised Whatley $49.6M to $13.7M, Democratic outside spending leads $28.1M to $16.0M after the Senate Leadership Fund pulled $30M out of the state, and Democrats hold a 321,000-ballot registration advantage in surging early voting.\"\n    },\n    \"NE\": {\n      \"winner\": \"Pete Ricketts\",\n      \"probability\": 0.72,\n      \"vote_share\": {\n        \"Pete Ricketts\": 50.2,\n        \"Dan Osborn\": 46.3\n      },\n      \"key_factor\": \"Nebraska's R+20.5 partisan baseline and incumbent Pete Ricketts's 49-47 lead even in Dan Osborn's own late-October internal poll point to a narrow Republican hold.\",\n      \"reasoning\": \"Independent union leader Dan Osborn has mounted another competitive campaign backed by $35.1M in outside spending and a favorable midterm climate. However, Osborn is no longer an unknown quantity after his 6.7-point loss in 2024, and Ricketts is a well-funded incumbent and former two-term governor with $25.5M in outside Republican support. Crucially, an October 14-20 Impact Research poll commissioned by Osborn's own campaign showed Ricketts ahead 49-47 (50-48 two-way), signaling Ricketts remains above water.\"\n    },\n    \"NH\": {\n      \"winner\": \"Chris Pappas\",\n      \"probability\": 0.89,\n      \"vote_share\": {\n        \"John E. Sununu\": 45.5,\n        \"Chris Pappas\": 51.8\n      },\n      \"key_factor\": \"Rep. Chris Pappas consistently hits 50% to 51% across all October polls while Constitution Party candidate Edmond LaPlante siphons conservative votes from former Sen. John E. Sununu.\",\n      \"reasoning\": \"Pappas leads Sununu by 5 to 8 points in every survey since mid-September, including Saint Anselm (50-43), UNH (50-42), NYT/Siena (50-45), and Republican pollsters Rasmussen (50-44) and National Public Affairs (50-43). Pappas has out-raised Sununu $23.7M to $5.7M, enjoys a D+2.8 state baseline in a D+8.5 national wave, and benefits from right-wing third-party candidate Edmond LaPlante drawing 2% to 4% of the vote.\"\n    },\n    \"OH\": {\n      \"winner\": \"Sherrod Brown\",\n      \"probability\": 0.68,\n      \"vote_share\": {\n        \"Jon Husted\": 47.7,\n        \"Sherrod Brown\": 49.8\n      },\n      \"key_factor\": \"Former Sen. Sherrod Brown's $68.4M-to-$19.9M fundraising dominance, proven crossover brand, and a D+8.5 midterm environment allow him to overcome Ohio's R+11.2 presidential baseline against appointed Sen. Jon Husted.\",\n      \"reasoning\": \"Brown outran the presidential ticket by 7.6 points in 2024 and now faces a midterm electorate without Donald Trump on the ballot. He leads Husted in 26 of 32 polls since September—including Fox News (52-47 LV), Cook Political (49-43), Marist (48-44), and Suffolk (47-44)—while capitalizing on voter backlash over utility costs and data-center tax breaks Husted championed. Even discounting polls by 1.5 to 2 points for historical Ohio bias, Brown's massive financial and brand advantages make him the favorite.\"\n    },\n    \"SC\": {\n      \"winner\": \"Darline Graham\",\n      \"probability\": 0.78,\n      \"vote_share\": {\n        \"Darline Graham\": 50.8,\n        \"Annie Andrews\": 45.9\n      },\n      \"key_factor\": \"South Carolina's inelastic R+17.9 partisan baseline and Republican consolidation following the August primary runoff protect appointed Sen. Darline Graham against well-funded Democrat Annie Andrews.\",\n      \"reasoning\": \"Following Sen. Lindsey Graham's death in July, his sister Darline Graham survived a divisive August primary runoff and was heavily out-raised by pediatrician Annie Andrews ($24.2M to $1.9M), tightening polls to a 48-48 tie in NYT/Siena. However, South Carolina is deeply inelastic, Republican super PACs have stepped in with $12.7M, and recent ECU (51-47), Citadel LV (43-39), and Targoz (47-46) polls show Graham ahead as conservative voters come home.\"\n    },\n    \"TX\": {\n      \"winner\": \"James Talarico\",\n      \"probability\": 0.55,\n      \"vote_share\": {\n        \"Ken Paxton\": 48.6,\n        \"James Talarico\": 49.3\n      },\n      \"key_factor\": \"State Rep. James Talarico's 7-to-1 combined spending advantage ($177.6M to $25.0M) and consistent polling lead against impeached Republican nominee Ken Paxton narrowly overcome Texas's Republican baseline.\",\n      \"reasoning\": \"After Ken Paxton ousted incumbent Sen. John Cornyn in a divisive runoff, Talarico has led in 46 of 55 polls since September (including 27 of 33 in October) by an average of 2.5 points, while out-raising Paxton $146.3M to $22.3M. Combined with a D+8.5 midterm wave, high gasoline prices hurting GOP gains among Hispanic voters, and Cornyn-wing defections, Talarico holds a slight edge despite Texas's R+13.7 baseline and a state voter-registration backlog.\"\n    }\n  },\n  \"senate\": {\n    \"republican_seats\": 48,\n    \"p_republican_control\": 0.35,\n    \"upset_watch\": {\n      \"race\": \"TX\",\n      \"why\": \"Although Ken Paxton trails in 46 of 55 polls and faces a $178M-to-$25M spending deficit, Texas's R+13.7 presidential baseline, sharp registered-to-likely voter turnout drop-off, and a 600,000-application DPS registration backlog give him a strong chance to overtake James Talarico on Election Day.\"\n    }\n  }\n}\n"
+  }
+ ]
+}

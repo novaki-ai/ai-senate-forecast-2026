@@ -35,4 +35,4 @@ Ranking: Brier score; ties broken by margin error.
 
 ## Changes after locking
 
-(none)
+1. **October 31, 2026, 02:20 UTC, during run 1.** The check "the winner must not have a lower vote share than the opponent" is no longer applied in **Alaska and Maine**. Both use ranked-choice voting, so a candidate can trail in first choices and still win after the ranked-choice count. GPT-6 Astra and GPT-6.1 Sol forecast exactly that in Alaska (Dan Sullivan winning while trailing Mary Peltola in first choices) and their replies were wrongly sent back. For every model whose first reply failed only because of this check, the **first reply is the official forecast**; the re-asked replies are published too, marked as not used. The original locked files are kept as `LOCK-v1.sha256`.

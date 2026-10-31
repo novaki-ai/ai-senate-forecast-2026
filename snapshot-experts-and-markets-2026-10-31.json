@@ -1,0 +1,3233 @@
+{
+ "snapshot_utc": "2026-10-31T02:12:00Z",
+ "collected_by": "Claude (Novaki research agent), read-only",
+ "method_notes": [
+  "Ratings: Wikipedia '2026 United States Senate elections' Predictions table (wikitext read 2026-10-31T01:39Z); each column's date is the date shown in that column header. Inside Elections additionally read from its own JSON feed (last_updated 2026-10-29T13:05-05:00).",
+  "Poll averages: aggregate-poll tables on each state's Wikipedia race page (read 2026-10-31 ~02:00Z), which transcribe DDHQ, FiftyPlusOne, RealClearPolitics, Silver Bulletin, 270toWin (and Texas Tribune). Values were not re-checked on the aggregator pages (RCP/DDHQ block automated reads).",
+  "Split Ticket: raw Datawrapper datasets behind The Argument's model page (saved in veri/kaynak-ham/).",
+  "Markets: Polymarket gamma API and Kalshi public trade API, read-only GET via WebFetch (polymarket.com and kalshi.com are DNS-blocked from this machine in Turkey; the block was not bypassed locally). Prices are implied probabilities; D and R contracts are separate books and need not sum to 1.",
+  "Nebraska: challenger is independent Dan Osborn -> stored as p_I / 'I'.",
+  "Wikipedia rating strings are kept as published (e.g. 'Lean D flip' = leans Democratic and would flip the seat). Inside Elections' own wording ('Tilt Democrat') is under rating_direct.",
+  "FiftyPlusOne numbers read from its public SvelteKit page-data endpoint (__data.json), raw extract in veri/kaynak-ham/fiftyplusone-senate-forecast.json."
+ ],
+ "races": {
+  "AK": {
+   "race": "Alaska",
+   "candidates": {
+    "R": "Dan Sullivan",
+    "D": "Mary Peltola"
+   },
+   "note": "Top-four primary + ranked-choice general election.",
+   "ratings": {
+    "Cook Political Report": {
+     "rating": "Tossup",
+     "date": "2026-10-30",
+     "url": "https://www.cookpolitical.com/ratings/senate-race-ratings",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    },
+    "Decision Desk HQ": {
+     "rating": "Tossup",
+     "date": "2026-10-30",
+     "url": "https://votes.decisiondeskhq.com/forecast/2026/senate",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    },
+    "The Economist": {
+     "rating": "Tossup",
+     "date": "2026-10-29",
+     "url": "https://www.economist.com/interactive/2026/us-midterms/prediction-model/senate/",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    },
+    "FiftyPlusOne": {
+     "rating": "Lean D flip",
+     "date": "2026-10-30",
+     "url": "https://fiftyplusone.news/forecast/senate/",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    },
+    "Fox News Power Rankings": {
+     "rating": "Tossup",
+     "date": "2026-10-29",
+     "url": "https://www.foxnews.com/politics/fox-news-power-rankings-south-carolina-moves-toss-up",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    },
+    "Inside Elections": {
+     "rating": "Tossup",
+     "date": "2026-10-29",
+     "url": "https://www.insideelections.com/ratings/senate",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions",
+     "rating_direct": "Toss-up",
+     "last_change": "2026-10-01T13:21:48-05:00",
+     "previous_rating": "Tilt Republican",
+     "direct_url": "https://insideelections.com/wp-content/themes/inside-elections/cache/ratings_latest_senate_year=2026_district=all_clean.json"
+    },
+    "NBC News": {
+     "rating": "Tossup",
+     "date": "2026-10-30",
+     "url": "https://www.nbcnews.com/politics/2026-elections/midterms#battle-for-control-section",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    },
+    "RealClearPolitics": {
+     "rating": "Tossup",
+     "date": "2026-10-28",
+     "url": "https://www.realclearpolling.com/maps/senate/2026/toss-up",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    },
+    "Sabato's Crystal Ball": {
+     "rating": "Lean D flip",
+     "date": "2026-10-29",
+     "url": "https://centerforpolitics.org/crystalball/2026-senate/",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    },
+    "Silver Bulletin (FLIPR, rating derived from model)": {
+     "rating": "Tossup",
+     "date": "2026-10-30",
+     "url": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    },
+    "Split Ticket (model bucket)": {
+     "rating": "Lean D flip",
+     "date": "2026-10-30",
+     "url": "https://www.theargumentmag.com/p/split-ticket-2026-midterms-model",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    }
+   },
+   "forecasts": {
+    "Split Ticket": {
+     "p_D": 0.66,
+     "p_I": null,
+     "p_R": 0.34,
+     "margin": "D+1.9",
+     "bucket": "Lean D",
+     "date": "2026-10-30 (Wikipedia column date; Datawrapper chart g4hHM v31)",
+     "url": "https://www.theargumentmag.com/p/split-ticket-2026-midterms-model",
+     "data_url": "https://datawrapper.dwcdn.net/g4hHM/31/dataset.csv"
+    },
+    "Silver Bulletin (FLIPR)": {
+     "p_D": 0.646,
+     "p_R": 0.354,
+     "margin": "",
+     "rating_bucket": "Tossup",
+     "date": "undated in article (\"as of Tuesday\"); same article gives Senate control 73.9%, i.e. older than the Oct 22 model (76.4%)",
+     "url": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-senate-model",
+     "note": "Race probabilities as reported by Newsweek; current (Oct 30) race numbers are paywalled.",
+     "p_R_computed": false,
+     "reported_by": "https://www.newsweek.com/nate-silvers-forecast-changes-for-democrats-seats-most-likely-to-flip-12542701"
+    },
+    "The Economist": {
+     "p_D": null,
+     "p_R": null,
+     "margin": "",
+     "rating_bucket": "Tossup",
+     "date": "2026-10-29",
+     "url": "https://www.economist.com/interactive/2026/us-midterms/prediction-model/senate/",
+     "note": "Page blocked (HTTP 403) for automated reads; bucket from Wikipedia (Economist 'Likely'/'Very likely' mapped to Lean/Likely)."
+    },
+    "Decision Desk HQ / The Hill": {
+     "p_D": null,
+     "p_R": null,
+     "margin": "",
+     "rating_bucket": "Tossup",
+     "date": "2026-10-30",
+     "url": "https://votes.decisiondeskhq.com/forecast/2026/senate",
+     "note": "Page returned HTTP 429 to automated reads; bucket from Wikipedia."
+    },
+    "FiftyPlusOne": {
+     "p_D": 0.6496,
+     "p_R": 0.3504,
+     "margin": "",
+     "rating_bucket": "Lean D flip",
+     "date": "model_date 2026-10-30, timestamp 2026-10-31T01:20:26Z",
+     "url": "https://fiftyplusone.news/forecast/senate/",
+     "note": "G. Elliott Morris model. Published race probabilities read from the SvelteKit data endpoint; no vote-margin field is published there (field \"spread\" = p_R - p_D).",
+     "rating_model": "Lean D",
+     "data_url": "https://fiftyplusone.news/forecast/senate/__data.json"
+    },
+    "Race to the WH": {
+     "p_D": null,
+     "p_R": null,
+     "margin": "",
+     "date": "",
+     "url": "https://www.racetothewh.com/senate/26",
+     "note": "Numbers are inside an Infogram embed that could not be parsed; not collected."
+    }
+   },
+   "poll_averages": {
+    "Decision Desk HQ": {
+     "R": 47.5,
+     "D": 49.1,
+     "margin_R_minus_D": -1.6,
+     "margin_label": "Peltola +1.6%",
+     "polls_through": "through October 16, 2026",
+     "updated": "October 28, 2026",
+     "url": "https://votes.decisiondeskhq.com/races/2026-11-03/alaska-us-senate-general-election/polling",
+     "via": "Wikipedia state page aggregate table (read 2026-10-31)"
+    },
+    "FiftyPlusOne": {
+     "R": 47.7,
+     "D": 49.7,
+     "margin_R_minus_D": -2.0,
+     "margin_label": "Peltola +2.0%",
+     "polls_through": "through October 16, 2026",
+     "updated": "October 28, 2026",
+     "url": "https://fiftyplusone.news/polls/senate/general/alaska",
+     "via": "Wikipedia state page aggregate table (read 2026-10-31)"
+    },
+    "RealClearPolitics": {
+     "R": 47.0,
+     "D": 49.5,
+     "margin_R_minus_D": -2.5,
+     "margin_label": "Peltola +2.5%",
+     "polls_through": "October 1–16, 2026",
+     "updated": "October 28, 2026",
+     "url": "https://www.realclearpolling.com/polls/senate/general/2026/alaska/peltola-vs-sullivan",
+     "via": "Wikipedia state page aggregate table (read 2026-10-31)"
+    },
+    "Silver Bulletin": {
+     "R": 44.4,
+     "D": 48.0,
+     "margin_R_minus_D": -3.6,
+     "margin_label": "Peltola +3.6%",
+     "polls_through": "through October 16, 2026",
+     "updated": "October 28, 2026",
+     "url": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model",
+     "via": "Wikipedia state page aggregate table (read 2026-10-31)"
+    },
+    "Wikipedia average of listed aggregators": {
+     "R": 46.7,
+     "D": 49.1,
+     "margin_R_minus_D": -2.4,
+     "margin_label": "Peltola +2.4%",
+     "polls_through": "",
+     "updated": "",
+     "url": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Alaska#Polling",
+     "via": "Wikipedia state page aggregate table (read 2026-10-31)"
+    }
+   },
+   "markets": {
+    "Kalshi": {
+     "p_D": 0.69,
+     "p_R": 0.31,
+     "D_bid_ask": [
+      0.68,
+      0.69
+     ],
+     "R_bid_ask": [
+      0.31,
+      0.32
+     ],
+     "previous_D": null,
+     "previous_R": null,
+     "ts": "2026-10-31T02:07Z/02:11Z (fetch window; the API returns no per-price timestamp)",
+     "url": "https://api.elections.kalshi.com/trade-api/v2/events/SENATEAK-26?with_nested_markets=true",
+     "api": "https://api.elections.kalshi.com/trade-api/v2/events/SENATEAK-26?with_nested_markets=true",
+     "price_field": "last_price_dollars (implied probability = price)",
+     "url_note": "kalshi.com is DNS-blocked from this machine; the public API URL is the verified source."
+    },
+    "Polymarket": {
+     "p_D": 0.705,
+     "p_R": 0.295,
+     "D_bid_ask": [
+      0.7,
+      0.71
+     ],
+     "ts": "2026-10-31T02:02:15Z",
+     "url": "https://polymarket.com/event/alaska-senate-election-winner",
+     "api": "https://gamma-api.polymarket.com/events?slug=alaska-senate-election-winner",
+     "price_field": "outcomePrices[Yes] (midpoint)",
+     "note": "Peltola/Sullivan candidate markets",
+     "url_note": "polymarket.com is DNS-blocked from this machine; prices read from the gamma API URL."
+    }
+   }
+  },
+  "FL": {
+   "race": "Florida (special)",
+   "candidates": {
+    "R": "Ashley Moody",
+    "D": "Angie Nixon"
+   },
+   "note": "Special election for the rest of Marco Rubio's term; Moody appointed 2025.",
+   "ratings": {
+    "Cook Political Report": {
+     "rating": "Likely R",
+     "date": "2026-10-30",
+     "url": "https://www.cookpolitical.com/ratings/senate-race-ratings",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    },
+    "Decision Desk HQ": {
+     "rating": "Likely R",
+     "date": "2026-10-30",
+     "url": "https://votes.decisiondeskhq.com/forecast/2026/senate",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    },
+    "The Economist": {
+     "rating": "Likely R",
+     "date": "2026-10-29",
+     "url": "https://www.economist.com/interactive/2026/us-midterms/prediction-model/senate/",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    },
+    "FiftyPlusOne": {
+     "rating": "Likely R",
+     "date": "2026-10-30",
+     "url": "https://fiftyplusone.news/forecast/senate/",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    },
+    "Fox News Power Rankings": {
+     "rating": "Solid R",
+     "date": "2026-10-29",
+     "url": "https://www.foxnews.com/politics/fox-news-power-rankings-south-carolina-moves-toss-up",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    },
+    "Inside Elections": {
+     "rating": "Likely R",
+     "date": "2026-10-29",
+     "url": "https://www.insideelections.com/ratings/senate",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions",
+     "rating_direct": "Likely Republican",
+     "last_change": "2026-10-15T13:35:48-05:00",
+     "previous_rating": "Solid Republican",
+     "direct_url": "https://insideelections.com/wp-content/themes/inside-elections/cache/ratings_latest_senate_year=2026_district=all_clean.json"
+    },
+    "NBC News": {
+     "rating": "Likely R",
+     "date": "2026-10-30",
+     "url": "https://www.nbcnews.com/politics/2026-elections/midterms#battle-for-control-section",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    },
+    "RealClearPolitics": {
+     "rating": "Lean R",
+     "date": "2026-10-28",
+     "url": "https://www.realclearpolling.com/maps/senate/2026/toss-up",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    },
+    "Sabato's Crystal Ball": {
+     "rating": "Likely R",
+     "date": "2026-10-29",
+     "url": "https://centerforpolitics.org/crystalball/2026-senate/",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    },
+    "Silver Bulletin (FLIPR, rating derived from model)": {
+     "rating": "Likely R",
+     "date": "2026-10-30",
+     "url": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    },
+    "Split Ticket (model bucket)": {
+     "rating": "Likely R",
+     "date": "2026-10-30",
+     "url": "https://www.theargumentmag.com/p/split-ticket-2026-midterms-model",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    }
+   },
+   "forecasts": {
+    "Split Ticket": {
+     "p_D": 0.08,
+     "p_I": null,
+     "p_R": 0.92,
+     "margin": "R+6.3",
+     "bucket": "Likely R",
+     "date": "2026-10-30 (Wikipedia column date; Datawrapper chart g4hHM v31)",
+     "url": "https://www.theargumentmag.com/p/split-ticket-2026-midterms-model",
+     "data_url": "https://datawrapper.dwcdn.net/g4hHM/31/dataset.csv"
+    },
+    "Silver Bulletin (FLIPR)": {
+     "p_D": null,
+     "p_R": null,
+     "margin": "",
+     "rating_bucket": "Likely R",
+     "date": "2026-10-30",
+     "url": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-senate-model",
+     "note": "Race probabilities are behind the paid wall; only Wikipedia's bucket conversion is public."
+    },
+    "The Economist": {
+     "p_D": null,
+     "p_R": null,
+     "margin": "",
+     "rating_bucket": "Likely R",
+     "date": "2026-10-29",
+     "url": "https://www.economist.com/interactive/2026/us-midterms/prediction-model/senate/",
+     "note": "Page blocked (HTTP 403) for automated reads; bucket from Wikipedia (Economist 'Likely'/'Very likely' mapped to Lean/Likely)."
+    },
+    "Decision Desk HQ / The Hill": {
+     "p_D": null,
+     "p_R": null,
+     "margin": "",
+     "rating_bucket": "Likely R",
+     "date": "2026-10-30",
+     "url": "https://votes.decisiondeskhq.com/forecast/2026/senate",
+     "note": "Page returned HTTP 429 to automated reads; bucket from Wikipedia."
+    },
+    "FiftyPlusOne": {
+     "p_D": 0.2176,
+     "p_R": 0.7824,
+     "margin": "",
+     "rating_bucket": "Likely R",
+     "date": "model_date 2026-10-30, timestamp 2026-10-31T01:20:26Z",
+     "url": "https://fiftyplusone.news/forecast/senate/",
+     "note": "G. Elliott Morris model. Published race probabilities read from the SvelteKit data endpoint; no vote-margin field is published there (field \"spread\" = p_R - p_D).",
+     "rating_model": "Likely R",
+     "data_url": "https://fiftyplusone.news/forecast/senate/__data.json"
+    },
+    "Race to the WH": {
+     "p_D": null,
+     "p_R": null,
+     "margin": "",
+     "date": "",
+     "url": "https://www.racetothewh.com/senate/26",
+     "note": "Numbers are inside an Infogram embed that could not be parsed; not collected."
+    }
+   },
+   "poll_averages": {
+    "270toWin": {
+     "R": 50.2,
+     "D": 43.8,
+     "margin_R_minus_D": 6.4,
+     "margin_label": "Moody +6.4%",
+     "polls_through": "October 12–27, 2026",
+     "updated": "October 28, 2026",
+     "url": "https://www.270towin.com/2026-senate-polls/florida",
+     "via": "Wikipedia state page aggregate table (read 2026-10-31)"
+    },
+    "Decision Desk HQ": {
+     "R": 49.8,
+     "D": 43.3,
+     "margin_R_minus_D": 6.5,
+     "margin_label": "Moody +6.5%",
+     "polls_through": "through October 27, 2026",
+     "updated": "October 28, 2026",
+     "url": "https://votes.decisiondeskhq.com/races/2026-11-03/florida-us-senate-special-election-general/polling",
+     "via": "Wikipedia state page aggregate table (read 2026-10-31)"
+    },
+    "FiftyPlusOne": {
+     "R": 49.9,
+     "D": 43.5,
+     "margin_R_minus_D": 6.4,
+     "margin_label": "Moody +6.4%",
+     "polls_through": "through October 27, 2026",
+     "updated": "October 28, 2026",
+     "url": "https://fiftyplusone.news/polls/senate/general/florida",
+     "via": "Wikipedia state page aggregate table (read 2026-10-31)"
+    },
+    "RealClearPolitics": {
+     "R": 49.5,
+     "D": 43.2,
+     "margin_R_minus_D": 6.3,
+     "margin_label": "Moody +6.3%",
+     "polls_through": "October 2–27, 2026",
+     "updated": "October 28, 2026",
+     "url": "https://www.realclearpolling.com/polls/senate/general/2026/florida/moody-vs-nixon",
+     "via": "Wikipedia state page aggregate table (read 2026-10-31)"
+    },
+    "Silver Bulletin": {
+     "R": 49.9,
+     "D": 43.3,
+     "margin_R_minus_D": 6.6,
+     "margin_label": "Moody +6.6%",
+     "polls_through": "through October 27, 2026",
+     "updated": "October 28, 2026",
+     "url": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model",
+     "via": "Wikipedia state page aggregate table (read 2026-10-31)"
+    },
+    "Wikipedia average of listed aggregators": {
+     "R": 49.9,
+     "D": 43.4,
+     "margin_R_minus_D": 6.5,
+     "margin_label": "Moody +6.5%",
+     "polls_through": "",
+     "updated": "",
+     "url": "https://en.wikipedia.org/wiki/2026_United_States_Senate_special_election_in_Florida#Polling",
+     "via": "Wikipedia state page aggregate table (read 2026-10-31)"
+    }
+   },
+   "markets": {
+    "Kalshi": {
+     "p_D": 0.11,
+     "p_R": 0.9,
+     "D_bid_ask": [
+      0.1,
+      0.11
+     ],
+     "R_bid_ask": [
+      0.89,
+      0.9
+     ],
+     "previous_D": 0.11,
+     "previous_R": 0.89,
+     "ts": "2026-10-31T02:07Z/02:11Z (fetch window; the API returns no per-price timestamp)",
+     "url": "https://api.elections.kalshi.com/trade-api/v2/events/SENATEFLS-26?with_nested_markets=true",
+     "api": "https://api.elections.kalshi.com/trade-api/v2/events/SENATEFLS-26?with_nested_markets=true",
+     "price_field": "last_price_dollars (implied probability = price)",
+     "url_note": "kalshi.com is DNS-blocked from this machine; the public API URL is the verified source."
+    },
+    "Polymarket": {
+     "p_D": 0.095,
+     "p_R": 0.905,
+     "D_bid_ask": [
+      0.09,
+      0.1
+     ],
+     "ts": "2026-10-31T02:04:15Z",
+     "url": "https://polymarket.com/event/florida-senate-election-winner",
+     "api": "https://gamma-api.polymarket.com/events?slug=florida-senate-election-winner",
+     "price_field": "outcomePrices[Yes] (midpoint)",
+     "note": "",
+     "url_note": "polymarket.com is DNS-blocked from this machine; prices read from the gamma API URL."
+    }
+   }
+  },
+  "IA": {
+   "race": "Iowa (open, Ernst retiring)",
+   "candidates": {
+    "R": "Ashley Hinson",
+    "D": "Josh Turek"
+   },
+   "note": "",
+   "ratings": {
+    "Cook Political Report": {
+     "rating": "Tossup",
+     "date": "2026-10-30",
+     "url": "https://www.cookpolitical.com/ratings/senate-race-ratings",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    },
+    "Decision Desk HQ": {
+     "rating": "Tossup",
+     "date": "2026-10-30",
+     "url": "https://votes.decisiondeskhq.com/forecast/2026/senate",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    },
+    "The Economist": {
+     "rating": "Lean R",
+     "date": "2026-10-29",
+     "url": "https://www.economist.com/interactive/2026/us-midterms/prediction-model/senate/",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    },
+    "FiftyPlusOne": {
+     "rating": "Tossup",
+     "date": "2026-10-30",
+     "url": "https://fiftyplusone.news/forecast/senate/",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    },
+    "Fox News Power Rankings": {
+     "rating": "Tossup",
+     "date": "2026-10-29",
+     "url": "https://www.foxnews.com/politics/fox-news-power-rankings-south-carolina-moves-toss-up",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    },
+    "Inside Elections": {
+     "rating": "Tossup",
+     "date": "2026-10-29",
+     "url": "https://www.insideelections.com/ratings/senate",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions",
+     "rating_direct": "Toss-up",
+     "last_change": "2026-10-29T13:05:00-05:00",
+     "previous_rating": "Tilt Republican",
+     "direct_url": "https://insideelections.com/wp-content/themes/inside-elections/cache/ratings_latest_senate_year=2026_district=all_clean.json"
+    },
+    "NBC News": {
+     "rating": "Tossup",
+     "date": "2026-10-30",
+     "url": "https://www.nbcnews.com/politics/2026-elections/midterms#battle-for-control-section",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    },
+    "RealClearPolitics": {
+     "rating": "Tossup",
+     "date": "2026-10-28",
+     "url": "https://www.realclearpolling.com/maps/senate/2026/toss-up",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    },
+    "Sabato's Crystal Ball": {
+     "rating": "Tossup",
+     "date": "2026-10-29",
+     "url": "https://centerforpolitics.org/crystalball/2026-senate/",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    },
+    "Silver Bulletin (FLIPR, rating derived from model)": {
+     "rating": "Tossup",
+     "date": "2026-10-30",
+     "url": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    },
+    "Split Ticket (model bucket)": {
+     "rating": "Tossup",
+     "date": "2026-10-30",
+     "url": "https://www.theargumentmag.com/p/split-ticket-2026-midterms-model",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    }
+   },
+   "forecasts": {
+    "Split Ticket": {
+     "p_D": 0.48,
+     "p_I": null,
+     "p_R": 0.52,
+     "margin": "R+0.3",
+     "bucket": "Tossup",
+     "date": "2026-10-30 (Wikipedia column date; Datawrapper chart g4hHM v31)",
+     "url": "https://www.theargumentmag.com/p/split-ticket-2026-midterms-model",
+     "data_url": "https://datawrapper.dwcdn.net/g4hHM/31/dataset.csv"
+    },
+    "Silver Bulletin (FLIPR)": {
+     "p_D": null,
+     "p_R": null,
+     "margin": "",
+     "rating_bucket": "Tossup",
+     "date": "2026-10-30",
+     "url": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-senate-model",
+     "note": "Race probabilities are behind the paid wall; only Wikipedia's bucket conversion is public."
+    },
+    "The Economist": {
+     "p_D": null,
+     "p_R": null,
+     "margin": "",
+     "rating_bucket": "Lean R",
+     "date": "2026-10-29",
+     "url": "https://www.economist.com/interactive/2026/us-midterms/prediction-model/senate/",
+     "note": "Page blocked (HTTP 403) for automated reads; bucket from Wikipedia (Economist 'Likely'/'Very likely' mapped to Lean/Likely)."
+    },
+    "Decision Desk HQ / The Hill": {
+     "p_D": null,
+     "p_R": null,
+     "margin": "",
+     "rating_bucket": "Tossup",
+     "date": "2026-10-30",
+     "url": "https://votes.decisiondeskhq.com/forecast/2026/senate",
+     "note": "Page returned HTTP 429 to automated reads; bucket from Wikipedia."
+    },
+    "FiftyPlusOne": {
+     "p_D": 0.5394,
+     "p_R": 0.4606,
+     "margin": "",
+     "rating_bucket": "Tossup",
+     "date": "model_date 2026-10-30, timestamp 2026-10-31T01:20:26Z",
+     "url": "https://fiftyplusone.news/forecast/senate/",
+     "note": "G. Elliott Morris model. Published race probabilities read from the SvelteKit data endpoint; no vote-margin field is published there (field \"spread\" = p_R - p_D).",
+     "rating_model": "Tossup",
+     "data_url": "https://fiftyplusone.news/forecast/senate/__data.json"
+    },
+    "Race to the WH": {
+     "p_D": null,
+     "p_R": null,
+     "margin": "",
+     "date": "",
+     "url": "https://www.racetothewh.com/senate/26",
+     "note": "Numbers are inside an Infogram embed that could not be parsed; not collected."
+    }
+   },
+   "poll_averages": {
+    "270toWin": {
+     "R": 45.8,
+     "D": 45.2,
+     "margin_R_minus_D": 0.6,
+     "margin_label": "Hinson +0.6%",
+     "polls_through": "October 8–28, 2026",
+     "updated": "October 29, 2026",
+     "url": "https://www.270towin.com/2026-senate-polls/iowa",
+     "via": "Wikipedia state page aggregate table (read 2026-10-31)"
+    },
+    "Decision Desk HQ": {
+     "R": 46.6,
+     "D": 45.6,
+     "margin_R_minus_D": 1.0,
+     "margin_label": "Hinson +1.0%",
+     "polls_through": "through October 28, 2026",
+     "updated": "October 29, 2026",
+     "url": "https://votes.decisiondeskhq.com/races/2026-11-03/iowa-us-senate-general-election/polling",
+     "via": "Wikipedia state page aggregate table (read 2026-10-31)"
+    },
+    "FiftyPlusOne": {
+     "R": 45.7,
+     "D": 46.1,
+     "margin_R_minus_D": -0.4,
+     "margin_label": "Turek +0.4%",
+     "polls_through": "through October 28, 2026",
+     "updated": "October 29, 2026",
+     "url": "https://fiftyplusone.news/polls/senate/general/iowa",
+     "via": "Wikipedia state page aggregate table (read 2026-10-31)"
+    },
+    "RealClearPolitics": {
+     "R": 46.0,
+     "D": 45.5,
+     "margin_R_minus_D": 0.5,
+     "margin_label": "Hinson +0.5%",
+     "polls_through": "September 29 – October 28, 2026",
+     "updated": "October 29, 2026",
+     "url": "https://www.realclearpolling.com/polls/senate/general/2026/iowa/turek-vs-hinson",
+     "via": "Wikipedia state page aggregate table (read 2026-10-31)"
+    },
+    "Silver Bulletin": {
+     "R": 46.0,
+     "D": 46.8,
+     "margin_R_minus_D": -0.8,
+     "margin_label": "Turek +0.8%",
+     "polls_through": "through October 23, 2026",
+     "updated": "October 29, 2026",
+     "url": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model",
+     "via": "Wikipedia state page aggregate table (read 2026-10-31)"
+    },
+    "Wikipedia average of listed aggregators": {
+     "R": 46.0,
+     "D": 45.8,
+     "margin_R_minus_D": 0.2,
+     "margin_label": "Hinson +0.2%",
+     "polls_through": "",
+     "updated": "",
+     "url": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Iowa#Polling",
+     "via": "Wikipedia state page aggregate table (read 2026-10-31)"
+    }
+   },
+   "markets": {
+    "Kalshi": {
+     "p_D": 0.45,
+     "p_R": 0.57,
+     "D_bid_ask": [
+      0.44,
+      0.45
+     ],
+     "R_bid_ask": [
+      0.56,
+      0.57
+     ],
+     "previous_D": 0.48,
+     "previous_R": 0.53,
+     "ts": "2026-10-31T02:07Z/02:11Z (fetch window; the API returns no per-price timestamp)",
+     "url": "https://api.elections.kalshi.com/trade-api/v2/events/SENATEIA-26?with_nested_markets=true",
+     "api": "https://api.elections.kalshi.com/trade-api/v2/events/SENATEIA-26?with_nested_markets=true",
+     "price_field": "last_price_dollars (implied probability = price)",
+     "url_note": "kalshi.com is DNS-blocked from this machine; the public API URL is the verified source."
+    },
+    "Polymarket": {
+     "p_D": 0.445,
+     "p_R": 0.555,
+     "D_bid_ask": [
+      0.44,
+      0.45
+     ],
+     "ts": "2026-10-31T02:02:15Z",
+     "url": "https://polymarket.com/event/iowa-senate-election-winner",
+     "api": "https://gamma-api.polymarket.com/events?slug=iowa-senate-election-winner",
+     "price_field": "outcomePrices[Yes] (midpoint)",
+     "note": "",
+     "url_note": "polymarket.com is DNS-blocked from this machine; prices read from the gamma API URL."
+    }
+   }
+  },
+  "KS": {
+   "race": "Kansas",
+   "candidates": {
+    "R": "Roger Marshall",
+    "D": "Adam Hamilton"
+   },
+   "note": "",
+   "ratings": {
+    "Cook Political Report": {
+     "rating": "Tossup",
+     "date": "2026-10-30",
+     "url": "https://www.cookpolitical.com/ratings/senate-race-ratings",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    },
+    "Decision Desk HQ": {
+     "rating": "Tossup",
+     "date": "2026-10-30",
+     "url": "https://votes.decisiondeskhq.com/forecast/2026/senate",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    },
+    "The Economist": {
+     "rating": "Tossup",
+     "date": "2026-10-29",
+     "url": "https://www.economist.com/interactive/2026/us-midterms/prediction-model/senate/",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    },
+    "FiftyPlusOne": {
+     "rating": "Tossup",
+     "date": "2026-10-30",
+     "url": "https://fiftyplusone.news/forecast/senate/",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    },
+    "Fox News Power Rankings": {
+     "rating": "Lean R",
+     "date": "2026-10-29",
+     "url": "https://www.foxnews.com/politics/fox-news-power-rankings-south-carolina-moves-toss-up",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    },
+    "Inside Elections": {
+     "rating": "Tossup",
+     "date": "2026-10-29",
+     "url": "https://www.insideelections.com/ratings/senate",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions",
+     "rating_direct": "Toss-up",
+     "last_change": "2026-10-29T13:05:00-05:00",
+     "previous_rating": "Tilt Republican",
+     "direct_url": "https://insideelections.com/wp-content/themes/inside-elections/cache/ratings_latest_senate_year=2026_district=all_clean.json"
+    },
+    "NBC News": {
+     "rating": "Tossup",
+     "date": "2026-10-30",
+     "url": "https://www.nbcnews.com/politics/2026-elections/midterms#battle-for-control-section",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    },
+    "RealClearPolitics": {
+     "rating": "Tossup",
+     "date": "2026-10-28",
+     "url": "https://www.realclearpolling.com/maps/senate/2026/toss-up",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    },
+    "Sabato's Crystal Ball": {
+     "rating": "Tossup",
+     "date": "2026-10-29",
+     "url": "https://centerforpolitics.org/crystalball/2026-senate/",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    },
+    "Silver Bulletin (FLIPR, rating derived from model)": {
+     "rating": "Lean D flip",
+     "date": "2026-10-30",
+     "url": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    },
+    "Split Ticket (model bucket)": {
+     "rating": "Tossup",
+     "date": "2026-10-30",
+     "url": "https://www.theargumentmag.com/p/split-ticket-2026-midterms-model",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    }
+   },
+   "forecasts": {
+    "Split Ticket": {
+     "p_D": 0.39,
+     "p_I": null,
+     "p_R": 0.61,
+     "margin": "R+1.6",
+     "bucket": "Lean R",
+     "date": "2026-10-30 (Wikipedia column date; Datawrapper chart g4hHM v31)",
+     "url": "https://www.theargumentmag.com/p/split-ticket-2026-midterms-model",
+     "data_url": "https://datawrapper.dwcdn.net/g4hHM/31/dataset.csv"
+    },
+    "Silver Bulletin (FLIPR)": {
+     "p_D": null,
+     "p_R": null,
+     "margin": "",
+     "rating_bucket": "Lean D flip",
+     "date": "2026-10-30",
+     "url": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-senate-model",
+     "note": "Race probabilities are behind the paid wall; only Wikipedia's bucket conversion is public."
+    },
+    "The Economist": {
+     "p_D": null,
+     "p_R": null,
+     "margin": "",
+     "rating_bucket": "Tossup",
+     "date": "2026-10-29",
+     "url": "https://www.economist.com/interactive/2026/us-midterms/prediction-model/senate/",
+     "note": "Page blocked (HTTP 403) for automated reads; bucket from Wikipedia (Economist 'Likely'/'Very likely' mapped to Lean/Likely)."
+    },
+    "Decision Desk HQ / The Hill": {
+     "p_D": null,
+     "p_R": null,
+     "margin": "",
+     "rating_bucket": "Tossup",
+     "date": "2026-10-30",
+     "url": "https://votes.decisiondeskhq.com/forecast/2026/senate",
+     "note": "Page returned HTTP 429 to automated reads; bucket from Wikipedia."
+    },
+    "FiftyPlusOne": {
+     "p_D": 0.576,
+     "p_R": 0.424,
+     "margin": "",
+     "rating_bucket": "Tossup",
+     "date": "model_date 2026-10-30, timestamp 2026-10-31T01:20:26Z",
+     "url": "https://fiftyplusone.news/forecast/senate/",
+     "note": "G. Elliott Morris model. Published race probabilities read from the SvelteKit data endpoint; no vote-margin field is published there (field \"spread\" = p_R - p_D).",
+     "rating_model": "Tossup",
+     "data_url": "https://fiftyplusone.news/forecast/senate/__data.json"
+    },
+    "Race to the WH": {
+     "p_D": null,
+     "p_R": null,
+     "margin": "",
+     "date": "",
+     "url": "https://www.racetothewh.com/senate/26",
+     "note": "Numbers are inside an Infogram embed that could not be parsed; not collected."
+    }
+   },
+   "poll_averages": {
+    "270toWin": {
+     "R": 45.2,
+     "D": 49.0,
+     "margin_R_minus_D": -3.8,
+     "margin_label": "Hamilton +3.8%",
+     "polls_through": "September 24 – October 28, 2026",
+     "updated": "October 30, 2026",
+     "url": "https://www.270towin.com/2026-senate-polls/kansas",
+     "via": "Wikipedia state page aggregate table (read 2026-10-31)"
+    },
+    "Decision Desk HQ": {
+     "R": 45.4,
+     "D": 48.3,
+     "margin_R_minus_D": -2.9,
+     "margin_label": "Hamilton +2.9%",
+     "polls_through": "through October 28, 2026",
+     "updated": "October 30, 2026",
+     "url": "https://votes.decisiondeskhq.com/races/2026-11-03/kansas-us-senate-general-election/polling",
+     "via": "Wikipedia state page aggregate table (read 2026-10-31)"
+    },
+    "FiftyPlusOne": {
+     "R": 45.1,
+     "D": 48.4,
+     "margin_R_minus_D": -3.3,
+     "margin_label": "Hamilton +3.3%",
+     "polls_through": "through October 28, 2026",
+     "updated": "October 30, 2026",
+     "url": "https://fiftyplusone.news/polls/senate/general/kansas",
+     "via": "Wikipedia state page aggregate table (read 2026-10-31)"
+    },
+    "RealClearPolitics": {
+     "R": 45.7,
+     "D": 48.3,
+     "margin_R_minus_D": -2.6,
+     "margin_label": "Hamilton +2.6%",
+     "polls_through": "September 22 – October 28, 2026",
+     "updated": "October 30, 2026",
+     "url": "https://www.realclearpolling.com/polls/senate/general/2026/kansas/marshall-vs-hamilton",
+     "via": "Wikipedia state page aggregate table (read 2026-10-31)"
+    },
+    "Silver Bulletin": {
+     "R": 45.9,
+     "D": 49.0,
+     "margin_R_minus_D": -3.1,
+     "margin_label": "Hamilton +3.1%",
+     "polls_through": "through October 28, 2026",
+     "updated": "October 30, 2026",
+     "url": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model",
+     "via": "Wikipedia state page aggregate table (read 2026-10-31)"
+    },
+    "Wikipedia average of listed aggregators": {
+     "R": 45.5,
+     "D": 48.6,
+     "margin_R_minus_D": -3.1,
+     "margin_label": "Hamilton +3.1%",
+     "polls_through": "",
+     "updated": "",
+     "url": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Kansas#Polling",
+     "via": "Wikipedia state page aggregate table (read 2026-10-31)"
+    }
+   },
+   "markets": {
+    "Kalshi": {
+     "p_D": 0.52,
+     "p_R": 0.49,
+     "D_bid_ask": [
+      0.51,
+      0.52
+     ],
+     "R_bid_ask": [
+      0.49,
+      0.5
+     ],
+     "previous_D": 0.49,
+     "previous_R": 0.52,
+     "ts": "2026-10-31T02:07Z/02:11Z (fetch window; the API returns no per-price timestamp)",
+     "url": "https://api.elections.kalshi.com/trade-api/v2/events/SENATEKS-26?with_nested_markets=true",
+     "api": "https://api.elections.kalshi.com/trade-api/v2/events/SENATEKS-26?with_nested_markets=true",
+     "price_field": "last_price_dollars (implied probability = price)",
+     "url_note": "kalshi.com is DNS-blocked from this machine; the public API URL is the verified source."
+    },
+    "Polymarket": {
+     "p_D": 0.525,
+     "p_R": 0.475,
+     "D_bid_ask": [
+      0.52,
+      0.53
+     ],
+     "ts": "2026-10-31T02:02:15Z",
+     "url": "https://polymarket.com/event/kansas-senate-election-winner",
+     "api": "https://gamma-api.polymarket.com/events?slug=kansas-senate-election-winner",
+     "price_field": "outcomePrices[Yes] (midpoint)",
+     "note": "",
+     "url_note": "polymarket.com is DNS-blocked from this machine; prices read from the gamma API URL."
+    }
+   }
+  },
+  "ME": {
+   "race": "Maine",
+   "candidates": {
+    "R": "Susan Collins",
+    "D": "Troy Jackson"
+   },
+   "note": "RCV general election. Jackson replaced Graham Platner (withdrew July 8, 2026) via state convention.",
+   "ratings": {
+    "Cook Political Report": {
+     "rating": "Tossup",
+     "date": "2026-10-30",
+     "url": "https://www.cookpolitical.com/ratings/senate-race-ratings",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    },
+    "Decision Desk HQ": {
+     "rating": "Tossup",
+     "date": "2026-10-30",
+     "url": "https://votes.decisiondeskhq.com/forecast/2026/senate",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    },
+    "The Economist": {
+     "rating": "Lean D flip",
+     "date": "2026-10-29",
+     "url": "https://www.economist.com/interactive/2026/us-midterms/prediction-model/senate/",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    },
+    "FiftyPlusOne": {
+     "rating": "Lean D flip",
+     "date": "2026-10-30",
+     "url": "https://fiftyplusone.news/forecast/senate/",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    },
+    "Fox News Power Rankings": {
+     "rating": "Tossup",
+     "date": "2026-10-29",
+     "url": "https://www.foxnews.com/politics/fox-news-power-rankings-south-carolina-moves-toss-up",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    },
+    "Inside Elections": {
+     "rating": "Tossup",
+     "date": "2026-10-29",
+     "url": "https://www.insideelections.com/ratings/senate",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions",
+     "rating_direct": "Toss-up",
+     "last_change": "2026-09-17T13:25:00-05:00",
+     "previous_rating": "Tilt Republican",
+     "direct_url": "https://insideelections.com/wp-content/themes/inside-elections/cache/ratings_latest_senate_year=2026_district=all_clean.json"
+    },
+    "NBC News": {
+     "rating": "Lean D flip",
+     "date": "2026-10-30",
+     "url": "https://www.nbcnews.com/politics/2026-elections/midterms#battle-for-control-section",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    },
+    "RealClearPolitics": {
+     "rating": "Tossup",
+     "date": "2026-10-28",
+     "url": "https://www.realclearpolling.com/maps/senate/2026/toss-up",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    },
+    "Sabato's Crystal Ball": {
+     "rating": "Tossup",
+     "date": "2026-10-29",
+     "url": "https://centerforpolitics.org/crystalball/2026-senate/",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    },
+    "Silver Bulletin (FLIPR, rating derived from model)": {
+     "rating": "Lean D flip",
+     "date": "2026-10-30",
+     "url": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    },
+    "Split Ticket (model bucket)": {
+     "rating": "Lean D flip",
+     "date": "2026-10-30",
+     "url": "https://www.theargumentmag.com/p/split-ticket-2026-midterms-model",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    }
+   },
+   "forecasts": {
+    "Split Ticket": {
+     "p_D": 0.66,
+     "p_I": null,
+     "p_R": 0.34,
+     "margin": "D+2.0",
+     "bucket": "Lean D",
+     "date": "2026-10-30 (Wikipedia column date; Datawrapper chart g4hHM v31)",
+     "url": "https://www.theargumentmag.com/p/split-ticket-2026-midterms-model",
+     "data_url": "https://datawrapper.dwcdn.net/g4hHM/31/dataset.csv"
+    },
+    "Silver Bulletin (FLIPR)": {
+     "p_D": 0.706,
+     "p_R": 0.294,
+     "margin": "",
+     "rating_bucket": "Lean D flip",
+     "date": "undated in article (\"as of Tuesday\"); same article gives Senate control 73.9%, i.e. older than the Oct 22 model (76.4%)",
+     "url": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-senate-model",
+     "note": "Race probabilities as reported by Newsweek; current (Oct 30) race numbers are paywalled. Collins probability not given; p_R = 1 - p_D.",
+     "p_R_computed": true,
+     "reported_by": "https://www.newsweek.com/nate-silvers-forecast-changes-for-democrats-seats-most-likely-to-flip-12542701"
+    },
+    "The Economist": {
+     "p_D": null,
+     "p_R": null,
+     "margin": "",
+     "rating_bucket": "Lean D flip",
+     "date": "2026-10-29",
+     "url": "https://www.economist.com/interactive/2026/us-midterms/prediction-model/senate/",
+     "note": "Page blocked (HTTP 403) for automated reads; bucket from Wikipedia (Economist 'Likely'/'Very likely' mapped to Lean/Likely)."
+    },
+    "Decision Desk HQ / The Hill": {
+     "p_D": null,
+     "p_R": null,
+     "margin": "",
+     "rating_bucket": "Tossup",
+     "date": "2026-10-30",
+     "url": "https://votes.decisiondeskhq.com/forecast/2026/senate",
+     "note": "Page returned HTTP 429 to automated reads; bucket from Wikipedia."
+    },
+    "FiftyPlusOne": {
+     "p_D": 0.7056,
+     "p_R": 0.2944,
+     "margin": "",
+     "rating_bucket": "Lean D flip",
+     "date": "model_date 2026-10-30, timestamp 2026-10-31T01:20:26Z",
+     "url": "https://fiftyplusone.news/forecast/senate/",
+     "note": "G. Elliott Morris model. Published race probabilities read from the SvelteKit data endpoint; no vote-margin field is published there (field \"spread\" = p_R - p_D).",
+     "rating_model": "Lean D",
+     "data_url": "https://fiftyplusone.news/forecast/senate/__data.json"
+    },
+    "Race to the WH": {
+     "p_D": null,
+     "p_R": null,
+     "margin": "",
+     "date": "",
+     "url": "https://www.racetothewh.com/senate/26",
+     "note": "Numbers are inside an Infogram embed that could not be parsed; not collected."
+    }
+   },
+   "poll_averages": {
+    "270toWin": {
+     "R": 46.4,
+     "D": 49.0,
+     "margin_R_minus_D": -2.6,
+     "margin_label": "Jackson +2.6%",
+     "polls_through": "October 16–26, 2026",
+     "updated": "October 29, 2026",
+     "url": "https://www.270towin.com/2026-senate-polls/maine",
+     "via": "Wikipedia state page aggregate table (read 2026-10-31)"
+    },
+    "Decision Desk HQ": {
+     "R": 46.4,
+     "D": 49.9,
+     "margin_R_minus_D": -3.5,
+     "margin_label": "Jackson +3.5%",
+     "polls_through": "through October 26, 2026",
+     "updated": "October 29, 2026",
+     "url": "https://votes.decisiondeskhq.com/races/2026-11-03/maine-us-senate-general-election/polling",
+     "via": "Wikipedia state page aggregate table (read 2026-10-31)"
+    },
+    "FiftyPlusOne": {
+     "R": 46.2,
+     "D": 49.4,
+     "margin_R_minus_D": -3.2,
+     "margin_label": "Jackson +3.2%",
+     "polls_through": "through October 26, 2026",
+     "updated": "October 30, 2026",
+     "url": "https://fiftyplusone.news/polls/senate/general/maine",
+     "via": "Wikipedia state page aggregate table (read 2026-10-31)"
+    },
+    "RealClearPolitics": {
+     "R": 47.3,
+     "D": 48.7,
+     "margin_R_minus_D": -1.4,
+     "margin_label": "Jackson +1.4%",
+     "polls_through": "September 23 – October 26, 2026",
+     "updated": "October 29, 2026",
+     "url": "https://www.realclearpolling.com/polls/senate/general/2026/collins-vs-jackson",
+     "via": "Wikipedia state page aggregate table (read 2026-10-31)"
+    },
+    "Silver Bulletin": {
+     "R": 46.9,
+     "D": 49.4,
+     "margin_R_minus_D": -2.5,
+     "margin_label": "Jackson +2.5%",
+     "polls_through": "through October 26, 2026",
+     "updated": "October 30, 2026",
+     "url": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model",
+     "via": "Wikipedia state page aggregate table (read 2026-10-31)"
+    },
+    "Wikipedia average of listed aggregators": {
+     "R": 46.6,
+     "D": 49.3,
+     "margin_R_minus_D": -2.7,
+     "margin_label": "Jackson +2.7%",
+     "polls_through": "",
+     "updated": "",
+     "url": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Maine#Polling",
+     "via": "Wikipedia state page aggregate table (read 2026-10-31)"
+    }
+   },
+   "markets": {
+    "Kalshi": {
+     "p_D": 0.68,
+     "p_R": 0.33,
+     "D_bid_ask": [
+      0.67,
+      0.68
+     ],
+     "R_bid_ask": [
+      0.32,
+      0.33
+     ],
+     "previous_D": 0.64,
+     "previous_R": 0.37,
+     "ts": "2026-10-31T02:07Z/02:11Z (fetch window; the API returns no per-price timestamp)",
+     "url": "https://api.elections.kalshi.com/trade-api/v2/events/SENATEME-26?with_nested_markets=true",
+     "api": "https://api.elections.kalshi.com/trade-api/v2/events/SENATEME-26?with_nested_markets=true",
+     "price_field": "last_price_dollars (implied probability = price)",
+     "url_note": "kalshi.com is DNS-blocked from this machine; the public API URL is the verified source."
+    },
+    "Polymarket": {
+     "p_D": 0.685,
+     "p_R": 0.315,
+     "D_bid_ask": [
+      0.68,
+      0.69
+     ],
+     "ts": "2026-10-31T02:04:15Z",
+     "url": "https://polymarket.com/event/maine-senate-election-winner",
+     "api": "https://gamma-api.polymarket.com/events?slug=maine-senate-election-winner",
+     "price_field": "outcomePrices[Yes] (midpoint)",
+     "note": "",
+     "url_note": "polymarket.com is DNS-blocked from this machine; prices read from the gamma API URL."
+    }
+   }
+  },
+  "MI": {
+   "race": "Michigan (open, Peters retiring)",
+   "candidates": {
+    "R": "Mike Rogers",
+    "D": "Abdul El-Sayed"
+   },
+   "note": "",
+   "ratings": {
+    "Cook Political Report": {
+     "rating": "Tossup",
+     "date": "2026-10-30",
+     "url": "https://www.cookpolitical.com/ratings/senate-race-ratings",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    },
+    "Decision Desk HQ": {
+     "rating": "Lean D",
+     "date": "2026-10-30",
+     "url": "https://votes.decisiondeskhq.com/forecast/2026/senate",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    },
+    "The Economist": {
+     "rating": "Lean D",
+     "date": "2026-10-29",
+     "url": "https://www.economist.com/interactive/2026/us-midterms/prediction-model/senate/",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    },
+    "FiftyPlusOne": {
+     "rating": "Lean D",
+     "date": "2026-10-30",
+     "url": "https://fiftyplusone.news/forecast/senate/",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    },
+    "Fox News Power Rankings": {
+     "rating": "Tossup",
+     "date": "2026-10-29",
+     "url": "https://www.foxnews.com/politics/fox-news-power-rankings-south-carolina-moves-toss-up",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    },
+    "Inside Elections": {
+     "rating": "Tilt D",
+     "date": "2026-10-29",
+     "url": "https://www.insideelections.com/ratings/senate",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions",
+     "rating_direct": "Tilt Democrat",
+     "last_change": "2026-10-01T13:22:03-05:00",
+     "previous_rating": "Toss-up",
+     "direct_url": "https://insideelections.com/wp-content/themes/inside-elections/cache/ratings_latest_senate_year=2026_district=all_clean.json"
+    },
+    "NBC News": {
+     "rating": "Lean D",
+     "date": "2026-10-30",
+     "url": "https://www.nbcnews.com/politics/2026-elections/midterms#battle-for-control-section",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    },
+    "RealClearPolitics": {
+     "rating": "Tossup",
+     "date": "2026-10-28",
+     "url": "https://www.realclearpolling.com/maps/senate/2026/toss-up",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    },
+    "Sabato's Crystal Ball": {
+     "rating": "Lean D",
+     "date": "2026-10-29",
+     "url": "https://centerforpolitics.org/crystalball/2026-senate/",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    },
+    "Silver Bulletin (FLIPR, rating derived from model)": {
+     "rating": "Likely D",
+     "date": "2026-10-30",
+     "url": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    },
+    "Split Ticket (model bucket)": {
+     "rating": "Lean D",
+     "date": "2026-10-30",
+     "url": "https://www.theargumentmag.com/p/split-ticket-2026-midterms-model",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    }
+   },
+   "forecasts": {
+    "Split Ticket": {
+     "p_D": 0.79,
+     "p_I": null,
+     "p_R": 0.21,
+     "margin": "D+3.8",
+     "bucket": "Lean D",
+     "date": "2026-10-30 (Wikipedia column date; Datawrapper chart g4hHM v31)",
+     "url": "https://www.theargumentmag.com/p/split-ticket-2026-midterms-model",
+     "data_url": "https://datawrapper.dwcdn.net/g4hHM/31/dataset.csv"
+    },
+    "Silver Bulletin (FLIPR)": {
+     "p_D": null,
+     "p_R": null,
+     "margin": "",
+     "rating_bucket": "Likely D",
+     "date": "2026-10-30",
+     "url": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-senate-model",
+     "note": "Race probabilities are behind the paid wall; only Wikipedia's bucket conversion is public."
+    },
+    "The Economist": {
+     "p_D": null,
+     "p_R": null,
+     "margin": "",
+     "rating_bucket": "Lean D",
+     "date": "2026-10-29",
+     "url": "https://www.economist.com/interactive/2026/us-midterms/prediction-model/senate/",
+     "note": "Page blocked (HTTP 403) for automated reads; bucket from Wikipedia (Economist 'Likely'/'Very likely' mapped to Lean/Likely)."
+    },
+    "Decision Desk HQ / The Hill": {
+     "p_D": null,
+     "p_R": null,
+     "margin": "",
+     "rating_bucket": "Lean D",
+     "date": "2026-10-30",
+     "url": "https://votes.decisiondeskhq.com/forecast/2026/senate",
+     "note": "Page returned HTTP 429 to automated reads; bucket from Wikipedia."
+    },
+    "FiftyPlusOne": {
+     "p_D": 0.7348,
+     "p_R": 0.2652,
+     "margin": "",
+     "rating_bucket": "Lean D",
+     "date": "model_date 2026-10-30, timestamp 2026-10-31T01:20:26Z",
+     "url": "https://fiftyplusone.news/forecast/senate/",
+     "note": "G. Elliott Morris model. Published race probabilities read from the SvelteKit data endpoint; no vote-margin field is published there (field \"spread\" = p_R - p_D).",
+     "rating_model": "Lean D",
+     "data_url": "https://fiftyplusone.news/forecast/senate/__data.json"
+    },
+    "Race to the WH": {
+     "p_D": null,
+     "p_R": null,
+     "margin": "",
+     "date": "",
+     "url": "https://www.racetothewh.com/senate/26",
+     "note": "Numbers are inside an Infogram embed that could not be parsed; not collected."
+    }
+   },
+   "poll_averages": {
+    "270toWin": {
+     "R": 44.0,
+     "D": 49.8,
+     "margin_R_minus_D": -5.8,
+     "margin_label": "El-Sayed +5.8%",
+     "polls_through": "October 8–27, 2026",
+     "updated": "October 30, 2026",
+     "url": "https://www.270towin.com/2026-senate-polls/michigan",
+     "via": "Wikipedia state page aggregate table (read 2026-10-31)"
+    },
+    "Decision Desk HQ": {
+     "R": 44.3,
+     "D": 49.0,
+     "margin_R_minus_D": -4.7,
+     "margin_label": "El-Sayed +4.7%",
+     "polls_through": "through October 29, 2026",
+     "updated": "October 30, 2026",
+     "url": "https://votes.decisiondeskhq.com/races/2026-11-03/michigan-us-senate-general-election/polling",
+     "via": "Wikipedia state page aggregate table (read 2026-10-31)"
+    },
+    "FiftyPlusOne": {
+     "R": 44.4,
+     "D": 49.2,
+     "margin_R_minus_D": -4.8,
+     "margin_label": "El-Sayed +4.8%",
+     "polls_through": "through October 28, 2026",
+     "updated": "October 30, 2026",
+     "url": "https://fiftyplusone.news/polls/senate/general/michigan",
+     "via": "Wikipedia state page aggregate table (read 2026-10-31)"
+    },
+    "RealClearPolitics": {
+     "R": 45.6,
+     "D": 49.1,
+     "margin_R_minus_D": -3.5,
+     "margin_label": "El-Sayed +3.5%",
+     "polls_through": "September 28 – October 29, 2026",
+     "updated": "October 30, 2026",
+     "url": "https://www.realclearpolling.com/polls/senate/general/2026/michigan/rogers-vs-el-sayed",
+     "via": "Wikipedia state page aggregate table (read 2026-10-31)"
+    },
+    "Silver Bulletin": {
+     "R": 45.6,
+     "D": 49.3,
+     "margin_R_minus_D": -3.7,
+     "margin_label": "El-Sayed +3.7%",
+     "polls_through": "through October 27, 2026",
+     "updated": "October 30, 2026",
+     "url": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model",
+     "via": "Wikipedia state page aggregate table (read 2026-10-31)"
+    },
+    "Wikipedia average of listed aggregators": {
+     "R": 44.8,
+     "D": 49.3,
+     "margin_R_minus_D": -4.5,
+     "margin_label": "El-Sayed +4.5%",
+     "polls_through": "",
+     "updated": "",
+     "url": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Michigan#Polling",
+     "via": "Wikipedia state page aggregate table (read 2026-10-31)"
+    }
+   },
+   "markets": {
+    "Kalshi": {
+     "p_D": 0.76,
+     "p_R": 0.26,
+     "D_bid_ask": [
+      0.75,
+      0.76
+     ],
+     "R_bid_ask": [
+      0.24,
+      0.25
+     ],
+     "previous_D": 0.75,
+     "previous_R": 0.25,
+     "ts": "2026-10-31T02:07Z/02:11Z (fetch window; the API returns no per-price timestamp)",
+     "url": "https://api.elections.kalshi.com/trade-api/v2/events/SENATEMI-26?with_nested_markets=true",
+     "api": "https://api.elections.kalshi.com/trade-api/v2/events/SENATEMI-26?with_nested_markets=true",
+     "price_field": "last_price_dollars (implied probability = price)",
+     "url_note": "kalshi.com is DNS-blocked from this machine; the public API URL is the verified source."
+    },
+    "Polymarket": {
+     "p_D": 0.765,
+     "p_R": 0.235,
+     "D_bid_ask": [
+      0.76,
+      0.77
+     ],
+     "ts": "2026-10-31T02:06:16Z",
+     "url": "https://polymarket.com/event/michigan-senate-election-winner",
+     "api": "https://gamma-api.polymarket.com/events?slug=michigan-senate-election-winner",
+     "price_field": "outcomePrices[Yes] (midpoint)",
+     "note": "",
+     "url_note": "polymarket.com is DNS-blocked from this machine; prices read from the gamma API URL."
+    }
+   }
+  },
+  "MN": {
+   "race": "Minnesota (open, Smith retiring)",
+   "candidates": {
+    "R": "Michele Tafoya",
+    "D": "Peggy Flanagan (DFL)"
+   },
+   "note": "",
+   "ratings": {
+    "Cook Political Report": {
+     "rating": "Lean D",
+     "date": "2026-10-30",
+     "url": "https://www.cookpolitical.com/ratings/senate-race-ratings",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    },
+    "Decision Desk HQ": {
+     "rating": "Likely D",
+     "date": "2026-10-30",
+     "url": "https://votes.decisiondeskhq.com/forecast/2026/senate",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    },
+    "The Economist": {
+     "rating": "Likely D",
+     "date": "2026-10-29",
+     "url": "https://www.economist.com/interactive/2026/us-midterms/prediction-model/senate/",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    },
+    "FiftyPlusOne": {
+     "rating": "Likely D",
+     "date": "2026-10-30",
+     "url": "https://fiftyplusone.news/forecast/senate/",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    },
+    "Fox News Power Rankings": {
+     "rating": "Lean D",
+     "date": "2026-10-29",
+     "url": "https://www.foxnews.com/politics/fox-news-power-rankings-south-carolina-moves-toss-up",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    },
+    "Inside Elections": {
+     "rating": "Lean D",
+     "date": "2026-10-29",
+     "url": "https://www.insideelections.com/ratings/senate",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions",
+     "rating_direct": "Lean Democrat",
+     "last_change": "2026-10-01T13:22:08-05:00",
+     "previous_rating": "Likely Democrat",
+     "direct_url": "https://insideelections.com/wp-content/themes/inside-elections/cache/ratings_latest_senate_year=2026_district=all_clean.json"
+    },
+    "NBC News": {
+     "rating": "Likely D",
+     "date": "2026-10-30",
+     "url": "https://www.nbcnews.com/politics/2026-elections/midterms#battle-for-control-section",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    },
+    "RealClearPolitics": {
+     "rating": "Lean D",
+     "date": "2026-10-28",
+     "url": "https://www.realclearpolling.com/maps/senate/2026/toss-up",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    },
+    "Sabato's Crystal Ball": {
+     "rating": "Likely D",
+     "date": "2026-10-29",
+     "url": "https://centerforpolitics.org/crystalball/2026-senate/",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    },
+    "Silver Bulletin (FLIPR, rating derived from model)": {
+     "rating": "Likely D",
+     "date": "2026-10-30",
+     "url": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    },
+    "Split Ticket (model bucket)": {
+     "rating": "Likely D",
+     "date": "2026-10-30",
+     "url": "https://www.theargumentmag.com/p/split-ticket-2026-midterms-model",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    }
+   },
+   "forecasts": {
+    "Split Ticket": {
+     "p_D": 0.93,
+     "p_I": null,
+     "p_R": 0.07,
+     "margin": "D+7.4",
+     "bucket": "Likely D",
+     "date": "2026-10-30 (Wikipedia column date; Datawrapper chart g4hHM v31)",
+     "url": "https://www.theargumentmag.com/p/split-ticket-2026-midterms-model",
+     "data_url": "https://datawrapper.dwcdn.net/g4hHM/31/dataset.csv"
+    },
+    "Silver Bulletin (FLIPR)": {
+     "p_D": null,
+     "p_R": null,
+     "margin": "",
+     "rating_bucket": "Likely D",
+     "date": "2026-10-30",
+     "url": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-senate-model",
+     "note": "Race probabilities are behind the paid wall; only Wikipedia's bucket conversion is public."
+    },
+    "The Economist": {
+     "p_D": null,
+     "p_R": null,
+     "margin": "",
+     "rating_bucket": "Likely D",
+     "date": "2026-10-29",
+     "url": "https://www.economist.com/interactive/2026/us-midterms/prediction-model/senate/",
+     "note": "Page blocked (HTTP 403) for automated reads; bucket from Wikipedia (Economist 'Likely'/'Very likely' mapped to Lean/Likely)."
+    },
+    "Decision Desk HQ / The Hill": {
+     "p_D": null,
+     "p_R": null,
+     "margin": "",
+     "rating_bucket": "Likely D",
+     "date": "2026-10-30",
+     "url": "https://votes.decisiondeskhq.com/forecast/2026/senate",
+     "note": "Page returned HTTP 429 to automated reads; bucket from Wikipedia."
+    },
+    "FiftyPlusOne": {
+     "p_D": 0.8958,
+     "p_R": 0.1042,
+     "margin": "",
+     "rating_bucket": "Likely D",
+     "date": "model_date 2026-10-30, timestamp 2026-10-31T01:20:26Z",
+     "url": "https://fiftyplusone.news/forecast/senate/",
+     "note": "G. Elliott Morris model. Published race probabilities read from the SvelteKit data endpoint; no vote-margin field is published there (field \"spread\" = p_R - p_D).",
+     "rating_model": "Likely D",
+     "data_url": "https://fiftyplusone.news/forecast/senate/__data.json"
+    },
+    "Race to the WH": {
+     "p_D": null,
+     "p_R": null,
+     "margin": "",
+     "date": "",
+     "url": "https://www.racetothewh.com/senate/26",
+     "note": "Numbers are inside an Infogram embed that could not be parsed; not collected."
+    }
+   },
+   "poll_averages": {
+    "270toWin": {
+     "R": 42.2,
+     "D": 48.2,
+     "margin_R_minus_D": -6.0,
+     "margin_label": "Flanagan +6.0%",
+     "polls_through": "October 1–26, 2026",
+     "updated": "October 28, 2026",
+     "url": "https://www.270towin.com/2026-senate-polls/minnesota",
+     "via": "Wikipedia state page aggregate table (read 2026-10-31)"
+    },
+    "Decision Desk HQ": {
+     "R": 42.7,
+     "D": 49.5,
+     "margin_R_minus_D": -6.8,
+     "margin_label": "Flanagan +6.8%",
+     "polls_through": "through October 26, 2026",
+     "updated": "October 28, 2026",
+     "url": "https://votes.decisiondeskhq.com/races/2026-11-03/minnesota-us-senate-general-election/polling",
+     "via": "Wikipedia state page aggregate table (read 2026-10-31)"
+    },
+    "FiftyPlusOne": {
+     "R": 41.9,
+     "D": 49.7,
+     "margin_R_minus_D": -7.8,
+     "margin_label": "Flanagan +7.8%",
+     "polls_through": "through October 26, 2026",
+     "updated": "October 28, 2026",
+     "url": "https://fiftyplusone.news/polls/senate/general/minnesota",
+     "via": "Wikipedia state page aggregate table (read 2026-10-31)"
+    },
+    "RealClearPolitics": {
+     "R": 42.7,
+     "D": 47.8,
+     "margin_R_minus_D": -5.1,
+     "margin_label": "Flanagan +5.1%",
+     "polls_through": "October 2–26, 2026",
+     "updated": "October 28, 2026",
+     "url": "https://www.realclearpolling.com/polls/senate/general/2026/minnesota/tafoya-vs-flanagan",
+     "via": "Wikipedia state page aggregate table (read 2026-10-31)"
+    },
+    "Silver Bulletin": {
+     "R": 42.8,
+     "D": 49.2,
+     "margin_R_minus_D": -6.4,
+     "margin_label": "Flanagan +6.4%",
+     "polls_through": "through October 26, 2026",
+     "updated": "October 28, 2026",
+     "url": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model",
+     "via": "Wikipedia state page aggregate table (read 2026-10-31)"
+    },
+    "Wikipedia average of listed aggregators": {
+     "R": 42.5,
+     "D": 48.9,
+     "margin_R_minus_D": -6.4,
+     "margin_label": "Flanagan +6.4%",
+     "polls_through": "",
+     "updated": "",
+     "url": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Minnesota#Polling",
+     "via": "Wikipedia state page aggregate table (read 2026-10-31)"
+    }
+   },
+   "markets": {
+    "Kalshi": {
+     "p_D": 0.904,
+     "p_R": 0.096,
+     "D_bid_ask": [
+      0.904,
+      0.905
+     ],
+     "R_bid_ask": [
+      0.095,
+      0.096
+     ],
+     "previous_D": 0.901,
+     "previous_R": 0.11,
+     "ts": "2026-10-31T02:07Z/02:11Z (fetch window; the API returns no per-price timestamp)",
+     "url": "https://api.elections.kalshi.com/trade-api/v2/events/SENATEMN-26?with_nested_markets=true",
+     "api": "https://api.elections.kalshi.com/trade-api/v2/events/SENATEMN-26?with_nested_markets=true",
+     "price_field": "last_price_dollars (implied probability = price)",
+     "url_note": "kalshi.com is DNS-blocked from this machine; the public API URL is the verified source."
+    },
+    "Polymarket": {
+     "p_D": 0.915,
+     "p_R": 0.085,
+     "D_bid_ask": [
+      0.91,
+      0.92
+     ],
+     "ts": "2026-10-31T02:02:15Z",
+     "url": "https://polymarket.com/event/minnesota-senate-election-winner",
+     "api": "https://gamma-api.polymarket.com/events?slug=minnesota-senate-election-winner",
+     "price_field": "outcomePrices[Yes] (midpoint)",
+     "note": "",
+     "url_note": "polymarket.com is DNS-blocked from this machine; prices read from the gamma API URL."
+    }
+   }
+  },
+  "NE": {
+   "race": "Nebraska",
+   "candidates": {
+    "R": "Pete Ricketts",
+    "I": "Dan Osborn"
+   },
+   "note": "Main challenger is independent Dan Osborn; Nebraska Democrats declined to recruit a nominee (Kalshi still lists a Democratic market, \"Cindy Burbank\", at ~0.6%). p_D fields below are left null; p_I = Osborn.",
+   "ratings": {
+    "Cook Political Report": {
+     "rating": "Lean R",
+     "date": "2026-10-30",
+     "url": "https://www.cookpolitical.com/ratings/senate-race-ratings",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    },
+    "Decision Desk HQ": {
+     "rating": "Lean R",
+     "date": "2026-10-30",
+     "url": "https://votes.decisiondeskhq.com/forecast/2026/senate",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    },
+    "The Economist": {
+     "rating": "Likely R",
+     "date": "2026-10-29",
+     "url": "https://www.economist.com/interactive/2026/us-midterms/prediction-model/senate/",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    },
+    "FiftyPlusOne": {
+     "rating": "Likely R",
+     "date": "2026-10-30",
+     "url": "https://fiftyplusone.news/forecast/senate/",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    },
+    "Fox News Power Rankings": {
+     "rating": "Likely R",
+     "date": "2026-10-29",
+     "url": "https://www.foxnews.com/politics/fox-news-power-rankings-south-carolina-moves-toss-up",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    },
+    "Inside Elections": {
+     "rating": "Tilt R",
+     "date": "2026-10-29",
+     "url": "https://www.insideelections.com/ratings/senate",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions",
+     "rating_direct": "Tilt Republican",
+     "last_change": "2026-10-29T13:05:00-05:00",
+     "previous_rating": "Lean Republican",
+     "direct_url": "https://insideelections.com/wp-content/themes/inside-elections/cache/ratings_latest_senate_year=2026_district=all_clean.json"
+    },
+    "NBC News": {
+     "rating": "Likely R",
+     "date": "2026-10-30",
+     "url": "https://www.nbcnews.com/politics/2026-elections/midterms#battle-for-control-section",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    },
+    "RealClearPolitics": {
+     "rating": "Tossup",
+     "date": "2026-10-28",
+     "url": "https://www.realclearpolling.com/maps/senate/2026/toss-up",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    },
+    "Sabato's Crystal Ball": {
+     "rating": "Lean R",
+     "date": "2026-10-29",
+     "url": "https://centerforpolitics.org/crystalball/2026-senate/",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    },
+    "Silver Bulletin (FLIPR, rating derived from model)": {
+     "rating": "Lean R",
+     "date": "2026-10-30",
+     "url": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    },
+    "Split Ticket (model bucket)": {
+     "rating": "Lean R",
+     "date": "2026-10-30",
+     "url": "https://www.theargumentmag.com/p/split-ticket-2026-midterms-model",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    }
+   },
+   "forecasts": {
+    "Split Ticket": {
+     "p_D": null,
+     "p_I": 0.36,
+     "p_R": 0.64,
+     "margin": "R+1.9",
+     "bucket": "Lean R",
+     "date": "2026-10-30 (Wikipedia column date; Datawrapper chart g4hHM v31)",
+     "url": "https://www.theargumentmag.com/p/split-ticket-2026-midterms-model",
+     "data_url": "https://datawrapper.dwcdn.net/g4hHM/31/dataset.csv"
+    },
+    "Silver Bulletin (FLIPR)": {
+     "p_D": null,
+     "p_R": null,
+     "margin": "",
+     "rating_bucket": "Lean R",
+     "date": "2026-10-30",
+     "url": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-senate-model",
+     "note": "Race probabilities are behind the paid wall; only Wikipedia's bucket conversion is public."
+    },
+    "The Economist": {
+     "p_D": null,
+     "p_R": null,
+     "margin": "",
+     "rating_bucket": "Likely R",
+     "date": "2026-10-29",
+     "url": "https://www.economist.com/interactive/2026/us-midterms/prediction-model/senate/",
+     "note": "Page blocked (HTTP 403) for automated reads; bucket from Wikipedia (Economist 'Likely'/'Very likely' mapped to Lean/Likely)."
+    },
+    "Decision Desk HQ / The Hill": {
+     "p_D": null,
+     "p_R": null,
+     "margin": "",
+     "rating_bucket": "Lean R",
+     "date": "2026-10-30",
+     "url": "https://votes.decisiondeskhq.com/forecast/2026/senate",
+     "note": "Page returned HTTP 429 to automated reads; bucket from Wikipedia."
+    },
+    "FiftyPlusOne": {
+     "p_D": null,
+     "p_R": 0.7416,
+     "margin": "",
+     "rating_bucket": "Likely R",
+     "date": "model_date 2026-10-30, timestamp 2026-10-31T01:20:26Z",
+     "url": "https://fiftyplusone.news/forecast/senate/",
+     "note": "G. Elliott Morris model. Published race probabilities read from the SvelteKit data endpoint; no vote-margin field is published there (field \"spread\" = p_R - p_D). Osborn (IND) is modeled with effective_party DEM; his chance is in dem_chance.",
+     "p_I": 0.2584,
+     "rating_model": "Lean R",
+     "data_url": "https://fiftyplusone.news/forecast/senate/__data.json"
+    },
+    "Race to the WH": {
+     "p_D": null,
+     "p_R": null,
+     "margin": "",
+     "date": "",
+     "url": "https://www.racetothewh.com/senate/26",
+     "note": "Numbers are inside an Infogram embed that could not be parsed; not collected."
+    }
+   },
+   "poll_averages": {
+    "270toWin": {
+     "R": 46.3,
+     "I": 44.3,
+     "margin_R_minus_I": 2.0,
+     "margin_label": "Ricketts +2.0%",
+     "polls_through": "September 24 – October 23, 2026",
+     "updated": "October 27, 2026",
+     "url": "https://www.270towin.com/2026-senate-polls/nebraska",
+     "via": "Wikipedia state page aggregate table (read 2026-10-31)"
+    },
+    "Decision Desk HQ": {
+     "R": 47.0,
+     "I": 46.3,
+     "margin_R_minus_I": 0.7,
+     "margin_label": "Ricketts +0.7%",
+     "polls_through": "through October 23, 2026",
+     "updated": "October 27, 2026",
+     "url": "https://votes.decisiondeskhq.com/races/2026-11-03/nebraska-us-senate-general-election/polling",
+     "via": "Wikipedia state page aggregate table (read 2026-10-31)"
+    },
+    "FiftyPlusOne": {
+     "R": 46.4,
+     "I": 46.1,
+     "margin_R_minus_I": 0.3,
+     "margin_label": "Ricketts +0.3%",
+     "polls_through": "through October 23, 2026",
+     "updated": "October 27, 2026",
+     "url": "https://fiftyplusone.news/polls/senate/general/nebraska",
+     "via": "Wikipedia state page aggregate table (read 2026-10-31)"
+    },
+    "Silver Bulletin": {
+     "R": 46.3,
+     "I": 46.5,
+     "margin_R_minus_I": -0.2,
+     "margin_label": "Osborn +0.2%",
+     "polls_through": "through October 23, 2026",
+     "updated": "October 27, 2026",
+     "url": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model",
+     "via": "Wikipedia state page aggregate table (read 2026-10-31)"
+    },
+    "Wikipedia average of listed aggregators": {
+     "R": 46.5,
+     "I": 45.8,
+     "margin_R_minus_I": 0.7,
+     "margin_label": "Ricketts +0.7%",
+     "polls_through": "",
+     "updated": "",
+     "url": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Nebraska#Polling",
+     "via": "Wikipedia state page aggregate table (read 2026-10-31)"
+    }
+   },
+   "markets": {
+    "Kalshi": {
+     "p_I": 0.34,
+     "p_R": 0.68,
+     "I_bid_ask": [
+      0.33,
+      0.34
+     ],
+     "R_bid_ask": [
+      0.67,
+      0.68
+     ],
+     "previous_I": 0.33,
+     "previous_R": 0.68,
+     "ts": "2026-10-31T02:07Z/02:11Z (fetch window; the API returns no per-price timestamp)",
+     "url": "https://api.elections.kalshi.com/trade-api/v2/events/SENATENE-26?with_nested_markets=true",
+     "api": "https://api.elections.kalshi.com/trade-api/v2/events/SENATENE-26?with_nested_markets=true",
+     "price_field": "last_price_dollars (implied probability = price)",
+     "p_D": null,
+     "url_note": "kalshi.com is DNS-blocked from this machine; the public API URL is the verified source."
+    },
+    "Polymarket": {
+     "p_I": 0.31,
+     "p_R": 0.685,
+     "I_bid_ask": [
+      0.3,
+      0.32
+     ],
+     "ts": "2026-10-31T02:04:15Z",
+     "url": "https://polymarket.com/event/nebraska-senate-election-winner",
+     "api": "https://gamma-api.polymarket.com/events?slug=nebraska-senate-election-winner",
+     "price_field": "outcomePrices[Yes] (midpoint)",
+     "note": "first value = \"Will an independent win\" market; Democrats market Yes 0.0005",
+     "p_D": null,
+     "url_note": "polymarket.com is DNS-blocked from this machine; prices read from the gamma API URL."
+    }
+   }
+  },
+  "NH": {
+   "race": "New Hampshire (open, Shaheen retiring)",
+   "candidates": {
+    "R": "John E. Sununu",
+    "D": "Chris Pappas"
+   },
+   "note": "",
+   "ratings": {
+    "Cook Political Report": {
+     "rating": "Lean D",
+     "date": "2026-10-30",
+     "url": "https://www.cookpolitical.com/ratings/senate-race-ratings",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    },
+    "Decision Desk HQ": {
+     "rating": "Likely D",
+     "date": "2026-10-30",
+     "url": "https://votes.decisiondeskhq.com/forecast/2026/senate",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    },
+    "The Economist": {
+     "rating": "Likely D",
+     "date": "2026-10-29",
+     "url": "https://www.economist.com/interactive/2026/us-midterms/prediction-model/senate/",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    },
+    "FiftyPlusOne": {
+     "rating": "Likely D",
+     "date": "2026-10-30",
+     "url": "https://fiftyplusone.news/forecast/senate/",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    },
+    "Fox News Power Rankings": {
+     "rating": "Lean D",
+     "date": "2026-10-29",
+     "url": "https://www.foxnews.com/politics/fox-news-power-rankings-south-carolina-moves-toss-up",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    },
+    "Inside Elections": {
+     "rating": "Tilt D",
+     "date": "2026-10-29",
+     "url": "https://www.insideelections.com/ratings/senate",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions",
+     "rating_direct": "Tilt Democrat",
+     "last_change": "2026-10-15T13:28:05-05:00",
+     "previous_rating": "Toss-up",
+     "direct_url": "https://insideelections.com/wp-content/themes/inside-elections/cache/ratings_latest_senate_year=2026_district=all_clean.json"
+    },
+    "NBC News": {
+     "rating": "Lean D",
+     "date": "2026-10-30",
+     "url": "https://www.nbcnews.com/politics/2026-elections/midterms#battle-for-control-section",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    },
+    "RealClearPolitics": {
+     "rating": "Lean D",
+     "date": "2026-10-28",
+     "url": "https://www.realclearpolling.com/maps/senate/2026/toss-up",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    },
+    "Sabato's Crystal Ball": {
+     "rating": "Likely D",
+     "date": "2026-10-29",
+     "url": "https://centerforpolitics.org/crystalball/2026-senate/",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    },
+    "Silver Bulletin (FLIPR, rating derived from model)": {
+     "rating": "Likely D",
+     "date": "2026-10-30",
+     "url": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    },
+    "Split Ticket (model bucket)": {
+     "rating": "Likely D",
+     "date": "2026-10-30",
+     "url": "https://www.theargumentmag.com/p/split-ticket-2026-midterms-model",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    }
+   },
+   "forecasts": {
+    "Split Ticket": {
+     "p_D": 0.93,
+     "p_I": null,
+     "p_R": 0.07,
+     "margin": "D+8.1",
+     "bucket": "Likely D",
+     "date": "2026-10-30 (Wikipedia column date; Datawrapper chart g4hHM v31)",
+     "url": "https://www.theargumentmag.com/p/split-ticket-2026-midterms-model",
+     "data_url": "https://datawrapper.dwcdn.net/g4hHM/31/dataset.csv"
+    },
+    "Silver Bulletin (FLIPR)": {
+     "p_D": null,
+     "p_R": null,
+     "margin": "",
+     "rating_bucket": "Likely D",
+     "date": "2026-10-30",
+     "url": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-senate-model",
+     "note": "Race probabilities are behind the paid wall; only Wikipedia's bucket conversion is public."
+    },
+    "The Economist": {
+     "p_D": null,
+     "p_R": null,
+     "margin": "",
+     "rating_bucket": "Likely D",
+     "date": "2026-10-29",
+     "url": "https://www.economist.com/interactive/2026/us-midterms/prediction-model/senate/",
+     "note": "Page blocked (HTTP 403) for automated reads; bucket from Wikipedia (Economist 'Likely'/'Very likely' mapped to Lean/Likely)."
+    },
+    "Decision Desk HQ / The Hill": {
+     "p_D": null,
+     "p_R": null,
+     "margin": "",
+     "rating_bucket": "Likely D",
+     "date": "2026-10-30",
+     "url": "https://votes.decisiondeskhq.com/forecast/2026/senate",
+     "note": "Page returned HTTP 429 to automated reads; bucket from Wikipedia."
+    },
+    "FiftyPlusOne": {
+     "p_D": 0.9054,
+     "p_R": 0.0946,
+     "margin": "",
+     "rating_bucket": "Likely D",
+     "date": "model_date 2026-10-30, timestamp 2026-10-31T01:20:26Z",
+     "url": "https://fiftyplusone.news/forecast/senate/",
+     "note": "G. Elliott Morris model. Published race probabilities read from the SvelteKit data endpoint; no vote-margin field is published there (field \"spread\" = p_R - p_D).",
+     "rating_model": "Likely D",
+     "data_url": "https://fiftyplusone.news/forecast/senate/__data.json"
+    },
+    "Race to the WH": {
+     "p_D": null,
+     "p_R": null,
+     "margin": "",
+     "date": "",
+     "url": "https://www.racetothewh.com/senate/26",
+     "note": "Numbers are inside an Infogram embed that could not be parsed; not collected."
+    }
+   },
+   "poll_averages": {
+    "270toWin": {
+     "R": 42.8,
+     "D": 49.7,
+     "margin_R_minus_D": -6.9,
+     "margin_label": "Pappas +6.9%",
+     "polls_through": "September 15 – October 20, 2026",
+     "updated": "October 22, 2026",
+     "url": "https://www.270towin.com/2026-senate-polls/new-hampshire",
+     "via": "Wikipedia state page aggregate table (read 2026-10-31)"
+    },
+    "Decision Desk HQ": {
+     "R": 43.8,
+     "D": 51.1,
+     "margin_R_minus_D": -7.3,
+     "margin_label": "Pappas +7.3%",
+     "polls_through": "through October 20, 2026",
+     "updated": "October 22, 2026",
+     "url": "https://votes.decisiondeskhq.com/races/2026-11-03/new-hampshire-us-senate-general-election/polling",
+     "via": "Wikipedia state page aggregate table (read 2026-10-31)"
+    },
+    "FiftyPlusOne": {
+     "R": 43.1,
+     "D": 50.0,
+     "margin_R_minus_D": -6.9,
+     "margin_label": "Pappas +6.9%",
+     "polls_through": "through October 20, 2026",
+     "updated": "October 22, 2026",
+     "url": "https://fiftyplusone.news/polls/senate/general/new-hampshire",
+     "via": "Wikipedia state page aggregate table (read 2026-10-31)"
+    },
+    "RealClearPolitics": {
+     "R": 43.0,
+     "D": 49.5,
+     "margin_R_minus_D": -6.5,
+     "margin_label": "Pappas +6.5%",
+     "polls_through": "September 15 – October 20, 2026",
+     "updated": "October 22, 2026",
+     "url": "https://www.realclearpolling.com/polls/senate/general/2026/new-hampshire/pappas-vs-sununu",
+     "via": "Wikipedia state page aggregate table (read 2026-10-31)"
+    },
+    "Silver Bulletin": {
+     "R": 42.3,
+     "D": 49.6,
+     "margin_R_minus_D": -7.3,
+     "margin_label": "Pappas +7.3%",
+     "polls_through": "through October 20, 2026",
+     "updated": "October 22, 2026",
+     "url": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model",
+     "via": "Wikipedia state page aggregate table (read 2026-10-31)"
+    },
+    "Wikipedia average of listed aggregators": {
+     "R": 43.0,
+     "D": 50.0,
+     "margin_R_minus_D": -7.0,
+     "margin_label": "Pappas +7.0%",
+     "polls_through": "",
+     "updated": "",
+     "url": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_New_Hampshire#Polling",
+     "via": "Wikipedia state page aggregate table (read 2026-10-31)"
+    }
+   },
+   "markets": {
+    "Kalshi": {
+     "p_D": 0.923,
+     "p_R": 0.079,
+     "D_bid_ask": [
+      0.922,
+      0.924
+     ],
+     "R_bid_ask": [
+      0.077,
+      0.079
+     ],
+     "previous_D": 0.914,
+     "previous_R": 0.09,
+     "ts": "2026-10-31T02:07Z/02:11Z (fetch window; the API returns no per-price timestamp)",
+     "url": "https://api.elections.kalshi.com/trade-api/v2/events/SENATENH-26?with_nested_markets=true",
+     "api": "https://api.elections.kalshi.com/trade-api/v2/events/SENATENH-26?with_nested_markets=true",
+     "price_field": "last_price_dollars (implied probability = price)",
+     "url_note": "kalshi.com is DNS-blocked from this machine; the public API URL is the verified source."
+    },
+    "Polymarket": {
+     "p_D": 0.925,
+     "p_R": 0.075,
+     "D_bid_ask": [
+      0.92,
+      0.93
+     ],
+     "ts": "2026-10-31T02:02:15Z",
+     "url": "https://polymarket.com/event/new-hampshire-senate-election-winner",
+     "api": "https://gamma-api.polymarket.com/events?slug=new-hampshire-senate-election-winner",
+     "price_field": "outcomePrices[Yes] (midpoint)",
+     "note": "",
+     "url_note": "polymarket.com is DNS-blocked from this machine; prices read from the gamma API URL."
+    }
+   }
+  },
+  "NC": {
+   "race": "North Carolina (open, Tillis retiring)",
+   "candidates": {
+    "R": "Michael Whatley",
+    "D": "Roy Cooper"
+   },
+   "note": "",
+   "ratings": {
+    "Cook Political Report": {
+     "rating": "Likely D flip",
+     "date": "2026-10-30",
+     "url": "https://www.cookpolitical.com/ratings/senate-race-ratings",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    },
+    "Decision Desk HQ": {
+     "rating": "Likely D flip",
+     "date": "2026-10-30",
+     "url": "https://votes.decisiondeskhq.com/forecast/2026/senate",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    },
+    "The Economist": {
+     "rating": "Likely D flip",
+     "date": "2026-10-29",
+     "url": "https://www.economist.com/interactive/2026/us-midterms/prediction-model/senate/",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    },
+    "FiftyPlusOne": {
+     "rating": "Likely D flip",
+     "date": "2026-10-30",
+     "url": "https://fiftyplusone.news/forecast/senate/",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    },
+    "Fox News Power Rankings": {
+     "rating": "Likely D flip",
+     "date": "2026-10-29",
+     "url": "https://www.foxnews.com/politics/fox-news-power-rankings-south-carolina-moves-toss-up",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    },
+    "Inside Elections": {
+     "rating": "Lean D flip",
+     "date": "2026-10-29",
+     "url": "https://www.insideelections.com/ratings/senate",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions",
+     "rating_direct": "Lean Democrat",
+     "last_change": "2026-10-01T13:22:51-05:00",
+     "previous_rating": "Tilt Democrat",
+     "direct_url": "https://insideelections.com/wp-content/themes/inside-elections/cache/ratings_latest_senate_year=2026_district=all_clean.json"
+    },
+    "NBC News": {
+     "rating": "Likely D flip",
+     "date": "2026-10-30",
+     "url": "https://www.nbcnews.com/politics/2026-elections/midterms#battle-for-control-section",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    },
+    "RealClearPolitics": {
+     "rating": "Likely D flip",
+     "date": "2026-10-28",
+     "url": "https://www.realclearpolling.com/maps/senate/2026/toss-up",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    },
+    "Sabato's Crystal Ball": {
+     "rating": "Likely D flip",
+     "date": "2026-10-29",
+     "url": "https://centerforpolitics.org/crystalball/2026-senate/",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    },
+    "Silver Bulletin (FLIPR, rating derived from model)": {
+     "rating": "Solid D flip",
+     "date": "2026-10-30",
+     "url": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    },
+    "Split Ticket (model bucket)": {
+     "rating": "Safe D flip",
+     "date": "2026-10-30",
+     "url": "https://www.theargumentmag.com/p/split-ticket-2026-midterms-model",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    }
+   },
+   "forecasts": {
+    "Split Ticket": {
+     "p_D": 0.97,
+     "p_I": null,
+     "p_R": 0.03,
+     "margin": "D+8.9",
+     "bucket": "Safe D",
+     "date": "2026-10-30 (Wikipedia column date; Datawrapper chart g4hHM v31)",
+     "url": "https://www.theargumentmag.com/p/split-ticket-2026-midterms-model",
+     "data_url": "https://datawrapper.dwcdn.net/g4hHM/31/dataset.csv"
+    },
+    "Silver Bulletin (FLIPR)": {
+     "p_D": 0.953,
+     "p_R": 0.047,
+     "margin": "",
+     "rating_bucket": "Solid D flip",
+     "date": "undated in article (\"as of Tuesday\"); same article gives Senate control 73.9%, i.e. older than the Oct 22 model (76.4%)",
+     "url": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-senate-model",
+     "note": "Race probabilities as reported by Newsweek; current (Oct 30) race numbers are paywalled.",
+     "p_R_computed": false,
+     "reported_by": "https://www.newsweek.com/nate-silvers-forecast-changes-for-democrats-seats-most-likely-to-flip-12542701"
+    },
+    "The Economist": {
+     "p_D": null,
+     "p_R": null,
+     "margin": "",
+     "rating_bucket": "Likely D flip",
+     "date": "2026-10-29",
+     "url": "https://www.economist.com/interactive/2026/us-midterms/prediction-model/senate/",
+     "note": "Page blocked (HTTP 403) for automated reads; bucket from Wikipedia (Economist 'Likely'/'Very likely' mapped to Lean/Likely)."
+    },
+    "Decision Desk HQ / The Hill": {
+     "p_D": null,
+     "p_R": null,
+     "margin": "",
+     "rating_bucket": "Likely D flip",
+     "date": "2026-10-30",
+     "url": "https://votes.decisiondeskhq.com/forecast/2026/senate",
+     "note": "Page returned HTTP 429 to automated reads; bucket from Wikipedia."
+    },
+    "FiftyPlusOne": {
+     "p_D": 0.9218,
+     "p_R": 0.0782,
+     "margin": "",
+     "rating_bucket": "Likely D flip",
+     "date": "model_date 2026-10-30, timestamp 2026-10-31T01:20:26Z",
+     "url": "https://fiftyplusone.news/forecast/senate/",
+     "note": "G. Elliott Morris model. Published race probabilities read from the SvelteKit data endpoint; no vote-margin field is published there (field \"spread\" = p_R - p_D).",
+     "rating_model": "Likely D",
+     "data_url": "https://fiftyplusone.news/forecast/senate/__data.json"
+    },
+    "Race to the WH": {
+     "p_D": null,
+     "p_R": null,
+     "margin": "",
+     "date": "",
+     "url": "https://www.racetothewh.com/senate/26",
+     "note": "Numbers are inside an Infogram embed that could not be parsed; not collected."
+    }
+   },
+   "poll_averages": {
+    "270toWin": {
+     "R": 41.3,
+     "D": 52.7,
+     "margin_R_minus_D": -11.4,
+     "margin_label": "Cooper +11.4%",
+     "polls_through": "September 29 – October 25, 2026",
+     "updated": "October 26, 2026",
+     "url": "https://www.270towin.com/2026-senate-polls/north-carolina",
+     "via": "Wikipedia state page aggregate table (read 2026-10-31)"
+    },
+    "Decision Desk HQ": {
+     "R": 41.9,
+     "D": 51.4,
+     "margin_R_minus_D": -9.5,
+     "margin_label": "Cooper +9.5%",
+     "polls_through": "through October 25, 2026",
+     "updated": "October 26, 2026",
+     "url": "https://votes.decisiondeskhq.com/races/2026-11-03/north-carolina-us-senate-general-election/polling",
+     "via": "Wikipedia state page aggregate table (read 2026-10-31)"
+    },
+    "FiftyPlusOne": {
+     "R": 41.9,
+     "D": 51.6,
+     "margin_R_minus_D": -9.7,
+     "margin_label": "Cooper +9.7%",
+     "polls_through": "through October 25, 2026",
+     "updated": "October 26, 2026",
+     "url": "https://fiftyplusone.news/polls/senate/general/north-carolina",
+     "via": "Wikipedia state page aggregate table (read 2026-10-31)"
+    },
+    "RealClearPolitics": {
+     "R": 40.5,
+     "D": 50.8,
+     "margin_R_minus_D": -10.3,
+     "margin_label": "Cooper +10.3%",
+     "polls_through": "September 27 – October 25, 2026",
+     "updated": "October 26, 2026",
+     "url": "https://www.realclearpolling.com/polls/senate/general/2026/north-carolina/cooper-vs-whatley",
+     "via": "Wikipedia state page aggregate table (read 2026-10-31)"
+    },
+    "Silver Bulletin": {
+     "R": 41.9,
+     "D": 51.7,
+     "margin_R_minus_D": -9.8,
+     "margin_label": "Cooper +9.8%",
+     "polls_through": "through October 25, 2026",
+     "updated": "October 26, 2026",
+     "url": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model",
+     "via": "Wikipedia state page aggregate table (read 2026-10-31)"
+    },
+    "Wikipedia average of listed aggregators": {
+     "R": 41.5,
+     "D": 51.6,
+     "margin_R_minus_D": -10.1,
+     "margin_label": "Cooper +10.1%",
+     "polls_through": "",
+     "updated": "",
+     "url": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_North_Carolina#Polling",
+     "via": "Wikipedia state page aggregate table (read 2026-10-31)"
+    }
+   },
+   "markets": {
+    "Kalshi": {
+     "p_D": 0.969,
+     "p_R": 0.036,
+     "D_bid_ask": [
+      0.968,
+      0.97
+     ],
+     "R_bid_ask": [
+      0.032,
+      0.036
+     ],
+     "previous_D": 0.968,
+     "previous_R": 0.039,
+     "ts": "2026-10-31T02:07Z/02:11Z (fetch window; the API returns no per-price timestamp)",
+     "url": "https://api.elections.kalshi.com/trade-api/v2/events/SENATENC-26?with_nested_markets=true",
+     "api": "https://api.elections.kalshi.com/trade-api/v2/events/SENATENC-26?with_nested_markets=true",
+     "price_field": "last_price_dollars (implied probability = price)",
+     "url_note": "kalshi.com is DNS-blocked from this machine; the public API URL is the verified source."
+    },
+    "Polymarket": {
+     "p_D": 0.974,
+     "p_R": 0.027,
+     "D_bid_ask": [
+      0.971,
+      0.977
+     ],
+     "ts": "2026-10-31T02:06:16Z",
+     "url": "https://polymarket.com/event/north-carolina-senate-election-winner",
+     "api": "https://gamma-api.polymarket.com/events?slug=north-carolina-senate-election-winner",
+     "price_field": "outcomePrices[Yes] (midpoint)",
+     "note": "",
+     "url_note": "polymarket.com is DNS-blocked from this machine; prices read from the gamma API URL."
+    }
+   }
+  },
+  "OH": {
+   "race": "Ohio (special)",
+   "candidates": {
+    "R": "Jon Husted",
+    "D": "Sherrod Brown"
+   },
+   "note": "Special election for the rest of JD Vance's term; Husted appointed 2025.",
+   "ratings": {
+    "Cook Political Report": {
+     "rating": "Tossup",
+     "date": "2026-10-30",
+     "url": "https://www.cookpolitical.com/ratings/senate-race-ratings",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    },
+    "Decision Desk HQ": {
+     "rating": "Tossup",
+     "date": "2026-10-30",
+     "url": "https://votes.decisiondeskhq.com/forecast/2026/senate",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    },
+    "The Economist": {
+     "rating": "Tossup",
+     "date": "2026-10-29",
+     "url": "https://www.economist.com/interactive/2026/us-midterms/prediction-model/senate/",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    },
+    "FiftyPlusOne": {
+     "rating": "Lean D flip",
+     "date": "2026-10-30",
+     "url": "https://fiftyplusone.news/forecast/senate/",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    },
+    "Fox News Power Rankings": {
+     "rating": "Lean D flip",
+     "date": "2026-10-29",
+     "url": "https://www.foxnews.com/politics/fox-news-power-rankings-south-carolina-moves-toss-up",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    },
+    "Inside Elections": {
+     "rating": "Tilt D flip",
+     "date": "2026-10-29",
+     "url": "https://www.insideelections.com/ratings/senate",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions",
+     "rating_direct": "Tilt Democrat",
+     "last_change": "2026-10-29T13:05:00-05:00",
+     "previous_rating": "Toss-up",
+     "direct_url": "https://insideelections.com/wp-content/themes/inside-elections/cache/ratings_latest_senate_year=2026_district=all_clean.json"
+    },
+    "NBC News": {
+     "rating": "Tossup",
+     "date": "2026-10-30",
+     "url": "https://www.nbcnews.com/politics/2026-elections/midterms#battle-for-control-section",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    },
+    "RealClearPolitics": {
+     "rating": "Tossup",
+     "date": "2026-10-28",
+     "url": "https://www.realclearpolling.com/maps/senate/2026/toss-up",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    },
+    "Sabato's Crystal Ball": {
+     "rating": "Tossup",
+     "date": "2026-10-29",
+     "url": "https://centerforpolitics.org/crystalball/2026-senate/",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    },
+    "Silver Bulletin (FLIPR, rating derived from model)": {
+     "rating": "Lean D flip",
+     "date": "2026-10-30",
+     "url": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    },
+    "Split Ticket (model bucket)": {
+     "rating": "Lean D flip",
+     "date": "2026-10-30",
+     "url": "https://www.theargumentmag.com/p/split-ticket-2026-midterms-model",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    }
+   },
+   "forecasts": {
+    "Split Ticket": {
+     "p_D": 0.71,
+     "p_I": null,
+     "p_R": 0.29,
+     "margin": "D+2.8",
+     "bucket": "Lean D",
+     "date": "2026-10-30 (Wikipedia column date; Datawrapper chart g4hHM v31)",
+     "url": "https://www.theargumentmag.com/p/split-ticket-2026-midterms-model",
+     "data_url": "https://datawrapper.dwcdn.net/g4hHM/31/dataset.csv"
+    },
+    "Silver Bulletin (FLIPR)": {
+     "p_D": 0.739,
+     "p_R": 0.261,
+     "margin": "",
+     "rating_bucket": "Lean D flip",
+     "date": "undated in article (\"as of Tuesday\"); same article gives Senate control 73.9%, i.e. older than the Oct 22 model (76.4%)",
+     "url": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-senate-model",
+     "note": "Race probabilities as reported by Newsweek; current (Oct 30) race numbers are paywalled.",
+     "p_R_computed": false,
+     "reported_by": "https://www.newsweek.com/nate-silvers-forecast-changes-for-democrats-seats-most-likely-to-flip-12542701"
+    },
+    "The Economist": {
+     "p_D": null,
+     "p_R": null,
+     "margin": "",
+     "rating_bucket": "Tossup",
+     "date": "2026-10-29",
+     "url": "https://www.economist.com/interactive/2026/us-midterms/prediction-model/senate/",
+     "note": "Page blocked (HTTP 403) for automated reads; bucket from Wikipedia (Economist 'Likely'/'Very likely' mapped to Lean/Likely)."
+    },
+    "Decision Desk HQ / The Hill": {
+     "p_D": null,
+     "p_R": null,
+     "margin": "",
+     "rating_bucket": "Tossup",
+     "date": "2026-10-30",
+     "url": "https://votes.decisiondeskhq.com/forecast/2026/senate",
+     "note": "Page returned HTTP 429 to automated reads; bucket from Wikipedia."
+    },
+    "FiftyPlusOne": {
+     "p_D": 0.613,
+     "p_R": 0.387,
+     "margin": "",
+     "rating_bucket": "Lean D flip",
+     "date": "model_date 2026-10-30, timestamp 2026-10-31T01:20:26Z",
+     "url": "https://fiftyplusone.news/forecast/senate/",
+     "note": "G. Elliott Morris model. Published race probabilities read from the SvelteKit data endpoint; no vote-margin field is published there (field \"spread\" = p_R - p_D).",
+     "rating_model": "Lean D",
+     "data_url": "https://fiftyplusone.news/forecast/senate/__data.json"
+    },
+    "Race to the WH": {
+     "p_D": null,
+     "p_R": null,
+     "margin": "",
+     "date": "",
+     "url": "https://www.racetothewh.com/senate/26",
+     "note": "Numbers are inside an Infogram embed that could not be parsed; not collected."
+    }
+   },
+   "poll_averages": {
+    "270toWin": {
+     "R": 44.8,
+     "D": 48.3,
+     "margin_R_minus_D": -3.5,
+     "margin_label": "Brown +3.5%",
+     "polls_through": "October 9–26, 2026",
+     "updated": "October 28, 2026",
+     "url": "https://www.270towin.com/2026-senate-polls/ohio",
+     "via": "Wikipedia state page aggregate table (read 2026-10-31)"
+    },
+    "Decision Desk HQ": {
+     "R": 44.6,
+     "D": 47.8,
+     "margin_R_minus_D": -3.2,
+     "margin_label": "Brown +3.2%",
+     "polls_through": "through October 26, 2026",
+     "updated": "October 28, 2026",
+     "url": "https://polls.decisiondeskhq.com/averages/general-ballot-test/2026-oh-us-senate/ohio/lv-rv-adults",
+     "via": "Wikipedia state page aggregate table (read 2026-10-31)"
+    },
+    "FiftyPlusOne": {
+     "R": 44.7,
+     "D": 48.0,
+     "margin_R_minus_D": -3.3,
+     "margin_label": "Brown +3.3%",
+     "polls_through": "through October 26, 2026",
+     "updated": "October 28, 2026",
+     "url": "https://fiftyplusone.news/polls/senate/general/ohio",
+     "via": "Wikipedia state page aggregate table (read 2026-10-31)"
+    },
+    "RealClearPolitics": {
+     "R": 44.8,
+     "D": 48.1,
+     "margin_R_minus_D": -3.3,
+     "margin_label": "Brown +3.3%",
+     "polls_through": "September 22 – October 26, 2026",
+     "updated": "October 28, 2026",
+     "url": "https://www.realclearpolling.com/polls/senate/special-election/2026/ohio/husted-vs-brown",
+     "via": "Wikipedia state page aggregate table (read 2026-10-31)"
+    },
+    "Silver Bulletin": {
+     "R": 45.1,
+     "D": 48.2,
+     "margin_R_minus_D": -3.1,
+     "margin_label": "Brown +3.1%",
+     "polls_through": "through October 23, 2026",
+     "updated": "October 27, 2026",
+     "url": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model",
+     "via": "Wikipedia state page aggregate table (read 2026-10-31)"
+    },
+    "Wikipedia average of listed aggregators": {
+     "R": 44.8,
+     "D": 48.1,
+     "margin_R_minus_D": -3.3,
+     "margin_label": "Brown +3.3%",
+     "polls_through": "",
+     "updated": "",
+     "url": "https://en.wikipedia.org/wiki/2026_United_States_Senate_special_election_in_Ohio#Polling",
+     "via": "Wikipedia state page aggregate table (read 2026-10-31)"
+    }
+   },
+   "markets": {
+    "Kalshi": {
+     "p_D": 0.7,
+     "p_R": 0.3,
+     "D_bid_ask": [
+      0.7,
+      0.71
+     ],
+     "R_bid_ask": [
+      0.29,
+      0.3
+     ],
+     "previous_D": 0.7,
+     "previous_R": 0.31,
+     "ts": "2026-10-31T02:07Z/02:11Z (fetch window; the API returns no per-price timestamp)",
+     "url": "https://api.elections.kalshi.com/trade-api/v2/events/SENATEOHS-26?with_nested_markets=true",
+     "api": "https://api.elections.kalshi.com/trade-api/v2/events/SENATEOHS-26?with_nested_markets=true",
+     "price_field": "last_price_dollars (implied probability = price)",
+     "url_note": "kalshi.com is DNS-blocked from this machine; the public API URL is the verified source."
+    },
+    "Polymarket": {
+     "p_D": 0.705,
+     "p_R": 0.285,
+     "D_bid_ask": [
+      0.7,
+      0.71
+     ],
+     "ts": "2026-10-31T02:04:15Z",
+     "url": "https://polymarket.com/event/ohio-senate-election-winner",
+     "api": "https://gamma-api.polymarket.com/events?slug=ohio-senate-election-winner",
+     "price_field": "outcomePrices[Yes] (midpoint)",
+     "note": "D and R markets are separate books; they sum to 0.99",
+     "url_note": "polymarket.com is DNS-blocked from this machine; prices read from the gamma API URL."
+    }
+   }
+  },
+  "SC": {
+   "race": "South Carolina",
+   "candidates": {
+    "R": "Darline Graham",
+    "D": "Annie Andrews"
+   },
+   "note": "Lindsey Graham died in office July 11, 2026 (per Wikipedia); his sister Darline Graham was appointed and is the GOP nominee.",
+   "ratings": {
+    "Cook Political Report": {
+     "rating": "Lean R",
+     "date": "2026-10-30",
+     "url": "https://www.cookpolitical.com/ratings/senate-race-ratings",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    },
+    "Decision Desk HQ": {
+     "rating": "Lean R",
+     "date": "2026-10-30",
+     "url": "https://votes.decisiondeskhq.com/forecast/2026/senate",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    },
+    "The Economist": {
+     "rating": "Lean R",
+     "date": "2026-10-29",
+     "url": "https://www.economist.com/interactive/2026/us-midterms/prediction-model/senate/",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    },
+    "FiftyPlusOne": {
+     "rating": "Lean R",
+     "date": "2026-10-30",
+     "url": "https://fiftyplusone.news/forecast/senate/",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    },
+    "Fox News Power Rankings": {
+     "rating": "Tossup",
+     "date": "2026-10-29",
+     "url": "https://www.foxnews.com/politics/fox-news-power-rankings-south-carolina-moves-toss-up",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    },
+    "Inside Elections": {
+     "rating": "Tilt R",
+     "date": "2026-10-29",
+     "url": "https://www.insideelections.com/ratings/senate",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions",
+     "rating_direct": "Tilt Republican",
+     "last_change": "2026-10-29T13:05:00-05:00",
+     "previous_rating": "Lean Republican",
+     "direct_url": "https://insideelections.com/wp-content/themes/inside-elections/cache/ratings_latest_senate_year=2026_district=all_clean.json"
+    },
+    "NBC News": {
+     "rating": "Lean R",
+     "date": "2026-10-30",
+     "url": "https://www.nbcnews.com/politics/2026-elections/midterms#battle-for-control-section",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    },
+    "RealClearPolitics": {
+     "rating": "Tossup",
+     "date": "2026-10-28",
+     "url": "https://www.realclearpolling.com/maps/senate/2026/toss-up",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    },
+    "Sabato's Crystal Ball": {
+     "rating": "Lean R",
+     "date": "2026-10-29",
+     "url": "https://centerforpolitics.org/crystalball/2026-senate/",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    },
+    "Silver Bulletin (FLIPR, rating derived from model)": {
+     "rating": "Lean R",
+     "date": "2026-10-30",
+     "url": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    },
+    "Split Ticket (model bucket)": {
+     "rating": "Lean R",
+     "date": "2026-10-30",
+     "url": "https://www.theargumentmag.com/p/split-ticket-2026-midterms-model",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    }
+   },
+   "forecasts": {
+    "Split Ticket": {
+     "p_D": 0.26,
+     "p_I": null,
+     "p_R": 0.74,
+     "margin": "R+3.3",
+     "bucket": "Lean R",
+     "date": "2026-10-30 (Wikipedia column date; Datawrapper chart g4hHM v31)",
+     "url": "https://www.theargumentmag.com/p/split-ticket-2026-midterms-model",
+     "data_url": "https://datawrapper.dwcdn.net/g4hHM/31/dataset.csv"
+    },
+    "Silver Bulletin (FLIPR)": {
+     "p_D": null,
+     "p_R": null,
+     "margin": "",
+     "rating_bucket": "Lean R",
+     "date": "2026-10-30",
+     "url": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-senate-model",
+     "note": "Race probabilities are behind the paid wall; only Wikipedia's bucket conversion is public."
+    },
+    "The Economist": {
+     "p_D": null,
+     "p_R": null,
+     "margin": "",
+     "rating_bucket": "Lean R",
+     "date": "2026-10-29",
+     "url": "https://www.economist.com/interactive/2026/us-midterms/prediction-model/senate/",
+     "note": "Page blocked (HTTP 403) for automated reads; bucket from Wikipedia (Economist 'Likely'/'Very likely' mapped to Lean/Likely)."
+    },
+    "Decision Desk HQ / The Hill": {
+     "p_D": null,
+     "p_R": null,
+     "margin": "",
+     "rating_bucket": "Lean R",
+     "date": "2026-10-30",
+     "url": "https://votes.decisiondeskhq.com/forecast/2026/senate",
+     "note": "Page returned HTTP 429 to automated reads; bucket from Wikipedia."
+    },
+    "FiftyPlusOne": {
+     "p_D": 0.3826,
+     "p_R": 0.6174,
+     "margin": "",
+     "rating_bucket": "Lean R",
+     "date": "model_date 2026-10-30, timestamp 2026-10-31T01:20:26Z",
+     "url": "https://fiftyplusone.news/forecast/senate/",
+     "note": "G. Elliott Morris model. Published race probabilities read from the SvelteKit data endpoint; no vote-margin field is published there (field \"spread\" = p_R - p_D).",
+     "rating_model": "Lean R",
+     "data_url": "https://fiftyplusone.news/forecast/senate/__data.json"
+    },
+    "Race to the WH": {
+     "p_D": null,
+     "p_R": null,
+     "margin": "",
+     "date": "",
+     "url": "https://www.racetothewh.com/senate/26",
+     "note": "Numbers are inside an Infogram embed that could not be parsed; not collected."
+    }
+   },
+   "poll_averages": {
+    "270toWin": {
+     "R": 47.6,
+     "D": 45.2,
+     "margin_R_minus_D": 2.4,
+     "margin_label": "Graham +2.4%",
+     "polls_through": "October 16–26, 2026",
+     "updated": "October 29, 2026",
+     "url": "https://www.270towin.com/2026-senate-polls/south-carolina",
+     "via": "Wikipedia state page aggregate table (read 2026-10-31)"
+    },
+    "Decision Desk HQ": {
+     "R": 45.7,
+     "D": 45.6,
+     "margin_R_minus_D": 0.1,
+     "margin_label": "Graham +0.1%",
+     "polls_through": "through October 29, 2026",
+     "updated": "October 30, 2026",
+     "url": "https://votes.decisiondeskhq.com/races/2026-11-03/south-carolina-us-senate-general-election/polling",
+     "via": "Wikipedia state page aggregate table (read 2026-10-31)"
+    },
+    "FiftyPlusOne": {
+     "R": 46.0,
+     "D": 45.6,
+     "margin_R_minus_D": 0.4,
+     "margin_label": "Graham +0.4%",
+     "polls_through": "through October 29, 2026",
+     "updated": "October 30, 2026",
+     "url": "https://fiftyplusone.news/polls/senate/general/south-carolina",
+     "via": "Wikipedia state page aggregate table (read 2026-10-31)"
+    },
+    "RealClearPolitics": {
+     "R": 47.7,
+     "D": 45.0,
+     "margin_R_minus_D": 2.7,
+     "margin_label": "Graham +2.7%",
+     "polls_through": "September 28 – October 26, 2026",
+     "updated": "October 29, 2026",
+     "url": "https://www.realclearpolling.com/polls/senate/general/2026/south-carolina/graham-nordone-vs-andrews",
+     "via": "Wikipedia state page aggregate table (read 2026-10-31)"
+    },
+    "Silver Bulletin": {
+     "R": 46.6,
+     "D": 45.1,
+     "margin_R_minus_D": 1.5,
+     "margin_label": "Graham +1.5%",
+     "polls_through": "through October 26, 2026",
+     "updated": "October 30, 2026",
+     "url": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model",
+     "via": "Wikipedia state page aggregate table (read 2026-10-31)"
+    },
+    "Wikipedia average of listed aggregators": {
+     "R": 46.7,
+     "D": 45.3,
+     "margin_R_minus_D": 1.4,
+     "margin_label": "Graham +1.4%",
+     "polls_through": "",
+     "updated": "",
+     "url": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_South_Carolina#Polling",
+     "via": "Wikipedia state page aggregate table (read 2026-10-31)"
+    }
+   },
+   "markets": {
+    "Kalshi": {
+     "p_D": 0.28,
+     "p_R": 0.73,
+     "D_bid_ask": [
+      0.27,
+      0.28
+     ],
+     "R_bid_ask": [
+      0.72,
+      0.73
+     ],
+     "previous_D": 0.28,
+     "previous_R": 0.72,
+     "ts": "2026-10-31T02:07Z/02:11Z (fetch window; the API returns no per-price timestamp)",
+     "url": "https://api.elections.kalshi.com/trade-api/v2/events/SENATESC-26?with_nested_markets=true",
+     "api": "https://api.elections.kalshi.com/trade-api/v2/events/SENATESC-26?with_nested_markets=true",
+     "price_field": "last_price_dollars (implied probability = price)",
+     "url_note": "kalshi.com is DNS-blocked from this machine; the public API URL is the verified source."
+    },
+    "Polymarket": {
+     "p_D": 0.275,
+     "p_R": 0.725,
+     "D_bid_ask": [
+      0.27,
+      0.28
+     ],
+     "ts": "2026-10-31T02:04:15Z",
+     "url": "https://polymarket.com/event/south-carolina-senate-election-winner",
+     "api": "https://gamma-api.polymarket.com/events?slug=south-carolina-senate-election-winner",
+     "price_field": "outcomePrices[Yes] (midpoint)",
+     "note": "",
+     "url_note": "polymarket.com is DNS-blocked from this machine; prices read from the gamma API URL."
+    }
+   }
+  },
+  "TX": {
+   "race": "Texas",
+   "candidates": {
+    "R": "Ken Paxton",
+    "D": "James Talarico"
+   },
+   "note": "Paxton defeated incumbent John Cornyn for the GOP nomination.",
+   "ratings": {
+    "Cook Political Report": {
+     "rating": "Tossup",
+     "date": "2026-10-30",
+     "url": "https://www.cookpolitical.com/ratings/senate-race-ratings",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    },
+    "Decision Desk HQ": {
+     "rating": "Tossup",
+     "date": "2026-10-30",
+     "url": "https://votes.decisiondeskhq.com/forecast/2026/senate",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    },
+    "The Economist": {
+     "rating": "Tossup",
+     "date": "2026-10-29",
+     "url": "https://www.economist.com/interactive/2026/us-midterms/prediction-model/senate/",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    },
+    "FiftyPlusOne": {
+     "rating": "Lean D flip",
+     "date": "2026-10-30",
+     "url": "https://fiftyplusone.news/forecast/senate/",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    },
+    "Fox News Power Rankings": {
+     "rating": "Tossup",
+     "date": "2026-10-29",
+     "url": "https://www.foxnews.com/politics/fox-news-power-rankings-south-carolina-moves-toss-up",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    },
+    "Inside Elections": {
+     "rating": "Tilt D flip",
+     "date": "2026-10-29",
+     "url": "https://www.insideelections.com/ratings/senate",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions",
+     "rating_direct": "Tilt Democrat",
+     "last_change": "2026-10-29T13:05:00-05:00",
+     "previous_rating": "Toss-up",
+     "direct_url": "https://insideelections.com/wp-content/themes/inside-elections/cache/ratings_latest_senate_year=2026_district=all_clean.json"
+    },
+    "NBC News": {
+     "rating": "Tossup",
+     "date": "2026-10-30",
+     "url": "https://www.nbcnews.com/politics/2026-elections/midterms#battle-for-control-section",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    },
+    "RealClearPolitics": {
+     "rating": "Tossup",
+     "date": "2026-10-28",
+     "url": "https://www.realclearpolling.com/maps/senate/2026/toss-up",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    },
+    "Sabato's Crystal Ball": {
+     "rating": "Tossup",
+     "date": "2026-10-29",
+     "url": "https://centerforpolitics.org/crystalball/2026-senate/",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    },
+    "Silver Bulletin (FLIPR, rating derived from model)": {
+     "rating": "Lean D flip",
+     "date": "2026-10-30",
+     "url": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    },
+    "Split Ticket (model bucket)": {
+     "rating": "Lean D flip",
+     "date": "2026-10-30",
+     "url": "https://www.theargumentmag.com/p/split-ticket-2026-midterms-model",
+     "via": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions"
+    }
+   },
+   "forecasts": {
+    "Split Ticket": {
+     "p_D": 0.74,
+     "p_I": null,
+     "p_R": 0.26,
+     "margin": "D+2.7",
+     "bucket": "Lean D",
+     "date": "2026-10-30 (Wikipedia column date; Datawrapper chart g4hHM v31)",
+     "url": "https://www.theargumentmag.com/p/split-ticket-2026-midterms-model",
+     "data_url": "https://datawrapper.dwcdn.net/g4hHM/31/dataset.csv"
+    },
+    "Silver Bulletin (FLIPR)": {
+     "p_D": 0.743,
+     "p_R": 0.257,
+     "margin": "",
+     "rating_bucket": "Lean D flip",
+     "date": "undated in article (\"as of Tuesday\"); same article gives Senate control 73.9%, i.e. older than the Oct 22 model (76.4%)",
+     "url": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-senate-model",
+     "note": "Race probabilities as reported by Newsweek; current (Oct 30) race numbers are paywalled.",
+     "p_R_computed": false,
+     "reported_by": "https://www.newsweek.com/nate-silvers-forecast-changes-for-democrats-seats-most-likely-to-flip-12542701"
+    },
+    "The Economist": {
+     "p_D": null,
+     "p_R": null,
+     "margin": "",
+     "rating_bucket": "Tossup",
+     "date": "2026-10-29",
+     "url": "https://www.economist.com/interactive/2026/us-midterms/prediction-model/senate/",
+     "note": "Page blocked (HTTP 403) for automated reads; bucket from Wikipedia (Economist 'Likely'/'Very likely' mapped to Lean/Likely)."
+    },
+    "Decision Desk HQ / The Hill": {
+     "p_D": null,
+     "p_R": null,
+     "margin": "",
+     "rating_bucket": "Tossup",
+     "date": "2026-10-30",
+     "url": "https://votes.decisiondeskhq.com/forecast/2026/senate",
+     "note": "Page returned HTTP 429 to automated reads; bucket from Wikipedia."
+    },
+    "FiftyPlusOne": {
+     "p_D": 0.6088,
+     "p_R": 0.3912,
+     "margin": "",
+     "rating_bucket": "Lean D flip",
+     "date": "model_date 2026-10-30, timestamp 2026-10-31T01:20:26Z",
+     "url": "https://fiftyplusone.news/forecast/senate/",
+     "note": "G. Elliott Morris model. Published race probabilities read from the SvelteKit data endpoint; no vote-margin field is published there (field \"spread\" = p_R - p_D).",
+     "rating_model": "Lean D",
+     "data_url": "https://fiftyplusone.news/forecast/senate/__data.json"
+    },
+    "Race to the WH": {
+     "p_D": null,
+     "p_R": null,
+     "margin": "",
+     "date": "",
+     "url": "https://www.racetothewh.com/senate/26",
+     "note": "Numbers are inside an Infogram embed that could not be parsed; not collected."
+    }
+   },
+   "poll_averages": {
+    "270toWin": {
+     "R": 46.4,
+     "D": 49.6,
+     "margin_R_minus_D": -3.2,
+     "margin_label": "Talarico +3.2%",
+     "polls_through": "October 1–28, 2026",
+     "updated": "October 30, 2026",
+     "url": "https://www.270towin.com/2026-senate-polls/texas",
+     "via": "Wikipedia state page aggregate table (read 2026-10-31)"
+    },
+    "Decision Desk HQ": {
+     "R": 45.5,
+     "D": 49.2,
+     "margin_R_minus_D": -3.7,
+     "margin_label": "Talarico +3.7%",
+     "polls_through": "through October 28, 2026",
+     "updated": "October 30, 2026",
+     "url": "https://votes.decisiondeskhq.com/races/2026-11-03/texas-us-senate-general-election/polling",
+     "via": "Wikipedia state page aggregate table (read 2026-10-31)"
+    },
+    "FiftyPlusOne": {
+     "R": 46.0,
+     "D": 49.3,
+     "margin_R_minus_D": -3.3,
+     "margin_label": "Talarico +3.3%",
+     "polls_through": "through October 28, 2026",
+     "updated": "October 30, 2026",
+     "url": "https://fiftyplusone.news/polls/senate/general/texas",
+     "via": "Wikipedia state page aggregate table (read 2026-10-31)"
+    },
+    "RealClearPolitics": {
+     "R": 47.0,
+     "D": 48.8,
+     "margin_R_minus_D": -1.8,
+     "margin_label": "Talarico +1.8%",
+     "polls_through": "October 8–28, 2026",
+     "updated": "October 30, 2026",
+     "url": "https://www.realclearpolling.com/polls/senate/general/2026/texas/talarico-vs-paxton",
+     "via": "Wikipedia state page aggregate table (read 2026-10-31)"
+    },
+    "The Texas Tribune": {
+     "R": 46.1,
+     "D": 49.0,
+     "margin_R_minus_D": -2.9,
+     "margin_label": "Talarico +2.9%",
+     "polls_through": "through October 27, 2026",
+     "updated": "October 29, 2026",
+     "url": "https://www.texastribune.org/2026/08/07/texas-us-senate-james-talarico-ken-paxton-polls/",
+     "via": "Wikipedia state page aggregate table (read 2026-10-31)"
+    },
+    "Silver Bulletin": {
+     "R": 46.2,
+     "D": 49.1,
+     "margin_R_minus_D": -2.9,
+     "margin_label": "Talarico +2.9%",
+     "polls_through": "through October 28, 2026",
+     "updated": "October 30, 2026",
+     "url": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model",
+     "via": "Wikipedia state page aggregate table (read 2026-10-31)"
+    },
+    "Wikipedia average of listed aggregators": {
+     "R": 46.2,
+     "D": 49.2,
+     "margin_R_minus_D": -3.0,
+     "margin_label": "Talarico +3.0%",
+     "polls_through": "",
+     "updated": "",
+     "url": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Texas#Polling",
+     "via": "Wikipedia state page aggregate table (read 2026-10-31)"
+    }
+   },
+   "markets": {
+    "Kalshi": {
+     "p_D": 0.7,
+     "p_R": 0.3,
+     "D_bid_ask": [
+      0.7,
+      0.71
+     ],
+     "R_bid_ask": [
+      0.29,
+      0.3
+     ],
+     "previous_D": 0.7,
+     "previous_R": 0.32,
+     "ts": "2026-10-31T02:07Z/02:11Z (fetch window; the API returns no per-price timestamp)",
+     "url": "https://api.elections.kalshi.com/trade-api/v2/events/SENATETX-26?with_nested_markets=true",
+     "api": "https://api.elections.kalshi.com/trade-api/v2/events/SENATETX-26?with_nested_markets=true",
+     "price_field": "last_price_dollars (implied probability = price)",
+     "url_note": "kalshi.com is DNS-blocked from this machine; the public API URL is the verified source."
+    },
+    "Polymarket": {
+     "p_D": 0.715,
+     "p_R": 0.285,
+     "D_bid_ask": [
+      0.71,
+      0.72
+     ],
+     "ts": "2026-10-31T02:02:15Z",
+     "url": "https://polymarket.com/event/texas-senate-election-winner",
+     "api": "https://gamma-api.polymarket.com/events?slug=texas-senate-election-winner",
+     "price_field": "outcomePrices[Yes] (midpoint)",
+     "note": "",
+     "url_note": "polymarket.com is DNS-blocked from this machine; prices read from the gamma API URL."
+    }
+   }
+  }
+ },
+ "control": {
+  "status_quo": "Republicans 53-47; Democrats need a net gain of 4 seats (VP JD Vance breaks a 50-50 tie).",
+  "markets": {
+   "Kalshi": {
+    "p_D": 0.71,
+    "p_R": 0.3,
+    "D_bid_ask": [
+     0.7,
+     0.71
+    ],
+    "R_bid_ask": [
+     0.29,
+     0.3
+    ],
+    "previous_D": 0.68,
+    "previous_R": 0.33,
+    "volume_contracts": {
+     "D": 9682705.3,
+     "R": 13719063.94
+    },
+    "ts": "2026-10-31T02:07Z/02:11Z (fetch window; the API returns no per-price timestamp)",
+    "event": "CONTROLS-2026",
+    "url": "https://api.elections.kalshi.com/trade-api/v2/events/CONTROLS-2026?with_nested_markets=true",
+    "api": "https://api.elections.kalshi.com/trade-api/v2/events/CONTROLS-2026?with_nested_markets=true"
+   },
+   "Polymarket": {
+    "p_D": 0.705,
+    "p_R": 0.295,
+    "D_bid_ask": [
+     0.7,
+     0.71
+    ],
+    "volume_usd": 13046041.03,
+    "ts": "2026-10-31T02:06:16Z",
+    "url": "https://polymarket.com/event/which-party-will-win-the-senate-in-2026",
+    "api": "https://gamma-api.polymarket.com/events?slug=which-party-will-win-the-senate-in-2026"
+   }
+  },
+  "forecasts": {
+   "Split Ticket": {
+    "p_D": 0.69374,
+    "p_R": 0.30626,
+    "median_seats": {
+     "D": 52,
+     "R": 48
+    },
+    "date": "2026-10-30 (chart toEMi v8 / GhLiF v18; post updated 2026-10-20)",
+    "seat_distribution_D_pct": {
+     "40": 0.01,
+     "41": 0.02,
+     "42": 0.05,
+     "43": 0.42,
+     "44": 0.81,
+     "45": 1.51,
+     "46": 2.62,
+     "47": 4.03,
+     "48": 5.5,
+     "49": 7.04,
+     "50": 8.61,
+     "51": 9.91,
+     "52": 11.46,
+     "53": 12.14,
+     "54": 11.94,
+     "55": 10.56,
+     "56": 7.39,
+     "57": 3.52,
+     "58": 1.52,
+     "59": 0.57,
+     "60": 0.21
+    },
+    "url": "https://www.theargumentmag.com/p/split-ticket-2026-midterms-model",
+    "data_url": "https://datawrapper.dwcdn.net/toEMi/8/dataset.csv"
+   },
+   "Silver Bulletin (FLIPR)": {
+    "p_D": 0.764,
+    "p_R": 0.236,
+    "mean_seats": {
+     "D": 52,
+     "R": 48
+    },
+    "date": "model update 2026-10-22 (as reported by Newsweek, checked 2026-10-23 07:00 ET)",
+    "url": "https://www.newsweek.com/who-will-win-the-midterms-what-polls-show-10-days-out-12610772",
+    "latest_public_text": "Oct 30, 2026: \"Democrats remain overwhelming favorites to retake the House and are also clearly favored in the Senate, especially given their excellent state-level polls over the past couple days.\"",
+    "latest_url": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model",
+    "note": "Current (Oct 30) topline is behind a free-signup/paid wall; 76.4% is the most recent number found in reporting.",
+    "earlier": {
+     "p_D": 0.739,
+     "date": "undated (\"as of Tuesday\"), before Oct 23",
+     "url": "https://www.newsweek.com/nate-silvers-forecast-changes-for-democrats-seats-most-likely-to-flip-12542701"
+    }
+   },
+   "Decision Desk HQ / The Hill": {
+    "p_D": 0.57,
+    "p_R": 0.43,
+    "expected_seats": {
+     "D": 51
+    },
+    "date": "2026-10-26 (as reported by News9/Newsweek)",
+    "url": "https://www.news9.com/national-politics-oklahoma/one-week-away-the-stakes-if-the-midterm-elections-loom-large",
+    "quote": "gives Democrats a slimmer 57% chance of winning control of the upper chamber, projecting 51 total Democratic seats.",
+    "note": "DDHQ forecast page returned HTTP 429; not verified at source."
+   },
+   "VoteHub": {
+    "p_D": 0.6,
+    "p_R": 0.4,
+    "expected_seats": {
+     "D": 52,
+     "R": 48
+    },
+    "date": "as reported by Newsweek, checked 2026-10-23",
+    "url": "https://www.newsweek.com/who-will-win-the-midterms-what-polls-show-10-days-out-12610772",
+    "quote": "gives Democrats a 60 percent chance of controlling the Senate and projects a 52-48 chamber."
+   },
+   "The Economist": {
+    "p_D": null,
+    "p_R": null,
+    "date": "",
+    "url": "https://www.economist.com/interactive/2026/us-midterms/prediction-model/senate/",
+    "note": "Not retrievable (HTTP 403 / fetch blocked). Last figure found in search was from May 2026 (D 49%) and is stale; do not use."
+   },
+   "Race to the WH": {
+    "p_D": null,
+    "p_R": null,
+    "url": "https://www.racetothewh.com/senate/26",
+    "note": "Infogram embed; not collected."
+   },
+   "FiftyPlusOne": {
+    "p_D": 0.7687,
+    "p_R": 0.2313,
+    "median_seats": {
+     "D": 52
+    },
+    "seat_interval_D": [
+     48,
+     56
+    ],
+    "date": "model_date 2026-10-30, timestamp 2026-10-31T01:20:26Z",
+    "url": "https://fiftyplusone.news/forecast/senate/",
+    "data_url": "https://fiftyplusone.news/forecast/senate/__data.json",
+    "note": "Model by FiftyPlusOne; its About page lists G. Elliott Morris (Head of Analytics) as managing 'the editorial operation and statistical models powering 50+1's averages and forecasts.'"
+   }
+  },
+  "ratings": {
+   "Inside Elections": {
+    "projection": "Democrats +4-6 seats",
+    "date": "2026-10-29",
+    "url": "https://insideelections.com/ratings/senate/"
+   },
+   "Cook Political Report": {
+    "note": "seven toss-ups: Alaska, Iowa, Kansas, Maine, Michigan, Ohio, Texas (six Republican-held)",
+    "date": "week of 2026-10-26 (as reported by News9)",
+    "url": "https://www.news9.com/national-politics-oklahoma/one-week-away-the-stakes-if-the-midterm-elections-loom-large"
+   }
+  }
+ },
+ "verification": {
+  "watson_v_rnc": "Decided 2026-06-29, 5-4, Barrett (SCOTUSblog case page re-checked 2026-10-31).",
+  "split_ticket": "Numbers read from Datawrapper CSVs behind the embeds, not from screenshots.",
+  "markets": "Each Polymarket/Kalshi price read individually from the public API (13 races + control)."
+ }
+}

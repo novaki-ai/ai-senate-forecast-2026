@@ -1,0 +1,171 @@
+{
+ "model": "GPT-6 Astra",
+ "company": "OpenAI",
+ "run_through": "Codex",
+ "setting": "ultra",
+ "note": null,
+ "run": 1,
+ "official": true,
+ "recorded_at": "2026-10-31T05:21:45+0300",
+ "forecast": {
+  "races": {
+   "AK": {
+    "winner": "Dan S. Sullivan",
+    "probability": 0.58,
+    "vote_share": {
+     "Dan S. Sullivan": 47.7,
+     "Mary Peltola": 48.3
+    },
+    "key_factor": "The listed polls all predate the October 28 allegations concerning spoiler recruitment by Peltola's campaign.",
+    "reasoning": "Peltola's primary performance and polling demonstrate substantial crossover appeal, but the late allegations could weaken that support. Transfers from the two minor candidates are also likely to favor Sullivan. Vote shares are first choices; I narrowly expect Sullivan to overtake Peltola during ranked-choice tabulation, with considerable uncertainty about transfers and the allegations' impact."
+   },
+   "FL": {
+    "winner": "Ashley Moody",
+    "probability": 0.91,
+    "vote_share": {
+     "Ashley Moody": 52.3,
+     "Angie Nixon": 46.2
+    },
+    "key_factor": "Recent independent likely-voter polls consistently give Moody leads of four to six points.",
+    "reasoning": "Florida's recent Republican margins and Moody's statewide electoral experience reinforce her polling advantage. The Democratic national environment reduces her cushion, but Nixon's ideological profile makes the necessary crossover gains difficult. The consistency across pollsters supports a clear favorite while leaving room for systematic polling error."
+   },
+   "IA": {
+    "winner": "Ashley Hinson",
+    "probability": 0.56,
+    "vote_share": {
+     "Ashley Hinson": 49.1,
+     "Josh Turek": 48.4
+    },
+    "key_factor": "The newest co/efficient and InsiderAdvantage likely-voter polls both give Hinson two-point leads.",
+    "reasoning": "Independent surveys are mixed, and the latest evidence favoring Hinson comes predominantly from Republican-sponsored polling. Iowa's underlying Republican lean gives her a slight advantage. Turek's substantial financial support, competitive independent polling and the Democratic national environment make this almost an even contest."
+   },
+   "KS": {
+    "winner": "Adam Hamilton",
+    "probability": 0.73,
+    "vote_share": {
+     "Roger Marshall": 47.3,
+     "Adam Hamilton": 50.2
+    },
+    "key_factor": "Emerson's October 26–28 poll gives Hamilton a three-point lead after including leaners.",
+    "reasoning": "Several independent late polls corroborate Hamilton's advantage. Marshall's patient-debt controversy and Hamilton's fundraising strength provide plausible explanations for Republican defections in an unfavorable national environment for the GOP. Kansas's Republican baseline and disagreement among pollsters still leave Marshall a substantial chance."
+   },
+   "ME": {
+    "winner": "Troy Jackson",
+    "probability": 0.65,
+    "vote_share": {
+     "Susan Collins": 48.8,
+     "Troy Jackson": 51.0
+    },
+    "key_factor": "Jackson leads in most recent likely-voter surveys, although several show a tie.",
+    "reasoning": "Maine's Democratic lean and the national environment favor Jackson, whose small polling advantage has persisted after the nominee replacement. Collins's demonstrated ability to attract Democratic presidential voters keeps uncertainty high. With only two candidates on the ballot, ranked-choice voting is unlikely to change the outcome."
+   },
+   "MI": {
+    "winner": "Abdul El-Sayed",
+    "probability": 0.88,
+    "vote_share": {
+     "Mike Rogers": 46.2,
+     "Abdul El-Sayed": 51.3
+    },
+    "key_factor": "Late October polling consistently places El-Sayed ahead, including Republican-sponsored surveys.",
+    "reasoning": "The breadth and recent size of El-Sayed's polling lead support a Democratic hold in a favorable national environment. Rogers's narrow 2024 loss demonstrates his competitiveness, and Republican outside spending remains substantial. Those considerations temper confidence, but the evidence supports an El-Sayed victory by several points."
+   },
+   "MN": {
+    "winner": "Peggy Flanagan",
+    "probability": 0.93,
+    "vote_share": {
+     "Michele Tafoya": 44.6,
+     "Peggy Flanagan": 52.3
+    },
+    "key_factor": "SurveyUSA's latest likely-voter poll gives Flanagan a seven-point lead.",
+    "reasoning": "Minnesota's Democratic baseline and the national environment reinforce Flanagan's lead. Late independent polling suggests a wider advantage than earlier surveys, while even Tafoya's campaign poll shows her trailing. I discount the exceptionally large Siena margin somewhat and retain uncertainty about undecided voters and turnout."
+   },
+   "NC": {
+    "winner": "Roy Cooper",
+    "probability": 0.98,
+    "vote_share": {
+     "Michael Whatley": 44.0,
+     "Roy Cooper": 54.2
+    },
+    "key_factor": "Even the latest Republican-sponsored Quantus survey gives Cooper an eight- to nine-point lead.",
+    "reasoning": "Cooper combines a proven statewide electoral coalition with a large, persistent polling advantage across different pollsters. His financial advantage and the cancellation of major Republican advertising reservations reinforce that evidence. North Carolina's Republican presidential lean warrants some uncertainty, but overturning this lead would require an unusually large polling miss."
+   },
+   "NE": {
+    "winner": "Pete Ricketts",
+    "probability": 0.65,
+    "vote_share": {
+     "Pete Ricketts": 49.8,
+     "Dan Osborn": 47.7
+    },
+    "key_factor": "Osborn's own October campaign poll puts Ricketts ahead by two points.",
+    "reasoning": "Osborn's demonstrated crossover support and the Democratic national environment make this competitive. Ricketts nevertheless retains a small advantage in several recent surveys and benefits from Nebraska's strong Republican baseline. The scarcity of recent independent polling and conflicting sponsored surveys justify substantial uncertainty."
+   },
+   "NH": {
+    "winner": "Chris Pappas",
+    "probability": 0.93,
+    "vote_share": {
+     "John E. Sununu": 45.9,
+     "Chris Pappas": 52.5
+    },
+    "key_factor": "Every listed poll completed in October places Pappas at least five points ahead.",
+    "reasoning": "Pappas's consistent lead spans local academic and Republican-sponsored polling. His current electoral base and strong fundraising complement a favorable Democratic national environment. Sununu's name recognition and New Hampshire's willingness to elect Republicans keep an upset possible, but there is little polling evidence of a late breakthrough."
+   },
+   "OH": {
+    "winner": "Sherrod Brown",
+    "probability": 0.74,
+    "vote_share": {
+     "Jon Husted": 47.2,
+     "Sherrod Brown": 50.4
+    },
+    "key_factor": "Brown leads most recent likely-voter polls across both independent and partisan sources.",
+    "reasoning": "Brown substantially outperformed the Democratic presidential ticket in 2024, and the current national environment offers a credible path back. His fundraising and broad polling advantage support a narrow win. Ohio's Republican lean, Husted's statewide experience and some tied or Republican-leading surveys prevent a high-confidence call."
+   },
+   "SC": {
+    "winner": "Darline Graham",
+    "probability": 0.66,
+    "vote_share": {
+     "Darline Graham": 49.6,
+     "Annie Andrews": 47.1
+    },
+    "key_factor": "Most late likely-voter polls show Graham tied or narrowly ahead.",
+    "reasoning": "Andrews's financial advantage and Graham's abbreviated campaign make this considerably more competitive than the state's presidential result. The balance of late likely-voter polling and South Carolina's Republican baseline still favor Graham narrowly. Siena's tied result and uncertainty about turnout leave Andrews a clear upset path."
+   },
+   "TX": {
+    "winner": "James Talarico",
+    "probability": 0.65,
+    "vote_share": {
+     "Ken Paxton": 48.1,
+     "James Talarico": 50.0
+    },
+    "key_factor": "Talarico holds small leads across most recent independent likely-voter surveys.",
+    "reasoning": "Talarico's polling advantage fits the strong Democratic national environment. Paxton's controversies and Talarico's financial resources make a Democratic breakthrough plausible. Texas's Republican baseline, Paxton's previous statewide victories and several tied or Paxton-leading polls keep this close; a modest systematic polling error could reverse the outcome."
+   }
+  },
+  "senate": {
+   "republican_seats": 48,
+   "p_republican_control": 0.27,
+   "upset_watch": {
+    "race": "IA",
+    "why": "Turek's leads in several independent likely-voter surveys make Hinson's narrow projected advantage especially vulnerable to a small polling or turnout error."
+   }
+  }
+ },
+ "rule_change_1_applied": true,
+ "attempts": [
+  {
+   "attempt": 1,
+   "prompt_sha256": "1db2fad133f4be2bae0fdaeae41dcbdf2bd5890d96a5069a712140abbce6c016",
+   "seconds": 214.4,
+   "used_as_official": true,
+   "sent_back_because": null,
+   "reply": "{\n  \"races\": {\n    \"AK\": {\n      \"winner\": \"Dan S. Sullivan\",\n      \"probability\": 0.58,\n      \"vote_share\": {\n        \"Dan S. Sullivan\": 47.7,\n        \"Mary Peltola\": 48.3\n      },\n      \"key_factor\": \"The listed polls all predate the October 28 allegations concerning spoiler recruitment by Peltola's campaign.\",\n      \"reasoning\": \"Peltola's primary performance and polling demonstrate substantial crossover appeal, but the late allegations could weaken that support. Transfers from the two minor candidates are also likely to favor Sullivan. Vote shares are first choices; I narrowly expect Sullivan to overtake Peltola during ranked-choice tabulation, with considerable uncertainty about transfers and the allegations' impact.\"\n    },\n    \"FL\": {\n      \"winner\": \"Ashley Moody\",\n      \"probability\": 0.91,\n      \"vote_share\": {\n        \"Ashley Moody\": 52.3,\n        \"Angie Nixon\": 46.2\n      },\n      \"key_factor\": \"Recent independent likely-voter polls consistently give Moody leads of four to six points.\",\n      \"reasoning\": \"Florida's recent Republican margins and Moody's statewide electoral experience reinforce her polling advantage. The Democratic national environment reduces her cushion, but Nixon's ideological profile makes the necessary crossover gains difficult. The consistency across pollsters supports a clear favorite while leaving room for systematic polling error.\"\n    },\n    \"IA\": {\n      \"winner\": \"Ashley Hinson\",\n      \"probability\": 0.56,\n      \"vote_share\": {\n        \"Ashley Hinson\": 49.1,\n        \"Josh Turek\": 48.4\n      },\n      \"key_factor\": \"The newest co/efficient and InsiderAdvantage likely-voter polls both give Hinson two-point leads.\",\n      \"reasoning\": \"Independent surveys are mixed, and the latest evidence favoring Hinson comes predominantly from Republican-sponsored polling. Iowa's underlying Republican lean gives her a slight advantage. Turek's substantial financial support, competitive independent polling and the Democratic national environment make this almost an even contest.\"\n    },\n    \"KS\": {\n      \"winner\": \"Adam Hamilton\",\n      \"probability\": 0.73,\n      \"vote_share\": {\n        \"Roger Marshall\": 47.3,\n        \"Adam Hamilton\": 50.2\n      },\n      \"key_factor\": \"Emerson's October 26–28 poll gives Hamilton a three-point lead after including leaners.\",\n      \"reasoning\": \"Several independent late polls corroborate Hamilton's advantage. Marshall's patient-debt controversy and Hamilton's fundraising strength provide plausible explanations for Republican defections in an unfavorable national environment for the GOP. Kansas's Republican baseline and disagreement among pollsters still leave Marshall a substantial chance.\"\n    },\n    \"ME\": {\n      \"winner\": \"Troy Jackson\",\n      \"probability\": 0.65,\n      \"vote_share\": {\n        \"Susan Collins\": 48.8,\n        \"Troy Jackson\": 51.0\n      },\n      \"key_factor\": \"Jackson leads in most recent likely-voter surveys, although several show a tie.\",\n      \"reasoning\": \"Maine's Democratic lean and the national environment favor Jackson, whose small polling advantage has persisted after the nominee replacement. Collins's demonstrated ability to attract Democratic presidential voters keeps uncertainty high. With only two candidates on the ballot, ranked-choice voting is unlikely to change the outcome.\"\n    },\n    \"MI\": {\n      \"winner\": \"Abdul El-Sayed\",\n      \"probability\": 0.88,\n      \"vote_share\": {\n        \"Mike Rogers\": 46.2,\n        \"Abdul El-Sayed\": 51.3\n      },\n      \"key_factor\": \"Late October polling consistently places El-Sayed ahead, including Republican-sponsored surveys.\",\n      \"reasoning\": \"The breadth and recent size of El-Sayed's polling lead support a Democratic hold in a favorable national environment. Rogers's narrow 2024 loss demonstrates his competitiveness, and Republican outside spending remains substantial. Those considerations temper confidence, but the evidence supports an El-Sayed victory by several points.\"\n    },\n    \"MN\": {\n      \"winner\": \"Peggy Flanagan\",\n      \"probability\": 0.93,\n      \"vote_share\": {\n        \"Michele Tafoya\": 44.6,\n        \"Peggy Flanagan\": 52.3\n      },\n      \"key_factor\": \"SurveyUSA's latest likely-voter poll gives Flanagan a seven-point lead.\",\n      \"reasoning\": \"Minnesota's Democratic baseline and the national environment reinforce Flanagan's lead. Late independent polling suggests a wider advantage than earlier surveys, while even Tafoya's campaign poll shows her trailing. I discount the exceptionally large Siena margin somewhat and retain uncertainty about undecided voters and turnout.\"\n    },\n    \"NC\": {\n      \"winner\": \"Roy Cooper\",\n      \"probability\": 0.98,\n      \"vote_share\": {\n        \"Michael Whatley\": 44.0,\n        \"Roy Cooper\": 54.2\n      },\n      \"key_factor\": \"Even the latest Republican-sponsored Quantus survey gives Cooper an eight- to nine-point lead.\",\n      \"reasoning\": \"Cooper combines a proven statewide electoral coalition with a large, persistent polling advantage across different pollsters. His financial advantage and the cancellation of major Republican advertising reservations reinforce that evidence. North Carolina's Republican presidential lean warrants some uncertainty, but overturning this lead would require an unusually large polling miss.\"\n    },\n    \"NE\": {\n      \"winner\": \"Pete Ricketts\",\n      \"probability\": 0.65,\n      \"vote_share\": {\n        \"Pete Ricketts\": 49.8,\n        \"Dan Osborn\": 47.7\n      },\n      \"key_factor\": \"Osborn's own October campaign poll puts Ricketts ahead by two points.\",\n      \"reasoning\": \"Osborn's demonstrated crossover support and the Democratic national environment make this competitive. Ricketts nevertheless retains a small advantage in several recent surveys and benefits from Nebraska's strong Republican baseline. The scarcity of recent independent polling and conflicting sponsored surveys justify substantial uncertainty.\"\n    },\n    \"NH\": {\n      \"winner\": \"Chris Pappas\",\n      \"probability\": 0.93,\n      \"vote_share\": {\n        \"John E. Sununu\": 45.9,\n        \"Chris Pappas\": 52.5\n      },\n      \"key_factor\": \"Every listed poll completed in October places Pappas at least five points ahead.\",\n      \"reasoning\": \"Pappas's consistent lead spans local academic and Republican-sponsored polling. His current electoral base and strong fundraising complement a favorable Democratic national environment. Sununu's name recognition and New Hampshire's willingness to elect Republicans keep an upset possible, but there is little polling evidence of a late breakthrough.\"\n    },\n    \"OH\": {\n      \"winner\": \"Sherrod Brown\",\n      \"probability\": 0.74,\n      \"vote_share\": {\n        \"Jon Husted\": 47.2,\n        \"Sherrod Brown\": 50.4\n      },\n      \"key_factor\": \"Brown leads most recent likely-voter polls across both independent and partisan sources.\",\n      \"reasoning\": \"Brown substantially outperformed the Democratic presidential ticket in 2024, and the current national environment offers a credible path back. His fundraising and broad polling advantage support a narrow win. Ohio's Republican lean, Husted's statewide experience and some tied or Republican-leading surveys prevent a high-confidence call.\"\n    },\n    \"SC\": {\n      \"winner\": \"Darline Graham\",\n      \"probability\": 0.66,\n      \"vote_share\": {\n        \"Darline Graham\": 49.6,\n        \"Annie Andrews\": 47.1\n      },\n      \"key_factor\": \"Most late likely-voter polls show Graham tied or narrowly ahead.\",\n      \"reasoning\": \"Andrews's financial advantage and Graham's abbreviated campaign make this considerably more competitive than the state's presidential result. The balance of late likely-voter polling and South Carolina's Republican baseline still favor Graham narrowly. Siena's tied result and uncertainty about turnout leave Andrews a clear upset path.\"\n    },\n    \"TX\": {\n      \"winner\": \"James Talarico\",\n      \"probability\": 0.65,\n      \"vote_share\": {\n        \"Ken Paxton\": 48.1,\n        \"James Talarico\": 50.0\n      },\n      \"key_factor\": \"Talarico holds small leads across most recent independent likely-voter surveys.\",\n      \"reasoning\": \"Talarico's polling advantage fits the strong Democratic national environment. Paxton's controversies and Talarico's financial resources make a Democratic breakthrough plausible. Texas's Republican baseline, Paxton's previous statewide victories and several tied or Paxton-leading polls keep this close; a modest systematic polling error could reverse the outcome.\"\n    }\n  },\n  \"senate\": {\n    \"republican_seats\": 48,\n    \"p_republican_control\": 0.27,\n    \"upset_watch\": {\n      \"race\": \"IA\",\n      \"why\": \"Turek's leads in several independent likely-voter surveys make Hinson's narrow projected advantage especially vulnerable to a small polling or turnout error.\"\n    }\n  }\n}"
+  },
+  {
+   "attempt": 2,
+   "prompt_sha256": "8d32e79e132fc7cf09ee36c0d4551777b842fcc09908749acb93c835710d41b4",
+   "seconds": 155.7,
+   "used_as_official": false,
+   "sent_back_because": "AK: your winner Dan S. Sullivan has a lower vote share than Mary Peltola",
+   "reply": "{\n  \"races\": {\n    \"AK\": {\n      \"winner\": \"Dan S. Sullivan\",\n      \"probability\": 0.61,\n      \"vote_share\": {\n        \"Dan S. Sullivan\": 48.8,\n        \"Mary Peltola\": 47.8\n      },\n      \"key_factor\": \"The October 28 spoiler-recruitment allegations emerged after every listed Alaska poll.\",\n      \"reasoning\": \"Peltola's polling and primary performance make this close, but I expect the late allegations to erode some crossover support. Sullivan also benefits from Alaska's Republican lean and likely transfers from the other candidates. These vote shares describe first choices.\"\n    },\n    \"FL\": {\n      \"winner\": \"Ashley Moody\",\n      \"probability\": 0.92,\n      \"vote_share\": {\n        \"Ashley Moody\": 52.4,\n        \"Angie Nixon\": 46.1\n      },\n      \"key_factor\": \"Every listed October poll puts Moody ahead.\",\n      \"reasoning\": \"Recent independent surveys generally show a four-to-six-point Moody advantage. Florida's Republican shift supports that lead despite the Democratic national environment. Nixon's outside support makes the race competitive, but the evidence does not indicate that she has closed the gap.\"\n    },\n    \"IA\": {\n      \"winner\": \"Ashley Hinson\",\n      \"probability\": 0.55,\n      \"vote_share\": {\n        \"Ashley Hinson\": 48.8,\n        \"Josh Turek\": 48.2\n      },\n      \"key_factor\": \"Iowa's Republican baseline gives Hinson a slight advantage when the independent polling is essentially divided.\",\n      \"reasoning\": \"Mixed independent surveys suggest a near tie; recent Republican-sponsored leads do not establish a decisive advantage. Iowa's partisan lean gives Hinson the smallest edge, while Turek's financial advantage and the Democratic national environment make an upset nearly as likely.\"\n    },\n    \"KS\": {\n      \"winner\": \"Adam Hamilton\",\n      \"probability\": 0.70,\n      \"vote_share\": {\n        \"Roger Marshall\": 47.4,\n        \"Adam Hamilton\": 50.3\n      },\n      \"key_factor\": \"Emerson, Washington Post/SSPG and SSRS all show Hamilton leading in their late-October surveys.\",\n      \"reasoning\": \"I give the recent independent polls more weight than older tied surveys, without treating alternative versions of the same poll as independent evidence. Hamilton's fundraising and Marshall's patient-debt controversy make crossover support plausible, although Kansas's Republican baseline warrants substantial uncertainty.\"\n    },\n    \"ME\": {\n      \"winner\": \"Troy Jackson\",\n      \"probability\": 0.64,\n      \"vote_share\": {\n        \"Susan Collins\": 48.8,\n        \"Troy Jackson\": 51.0\n      },\n      \"key_factor\": \"Most October likely-voter surveys give Jackson a small lead.\",\n      \"reasoning\": \"Jackson benefits from Maine's Democratic orientation and the unfavorable national environment for Republicans. Late polling supports a narrow Democratic advantage. Collins's established crossover appeal and the state's history of substantial Senate polling misses keep this far from secure.\"\n    },\n    \"MI\": {\n      \"winner\": \"Abdul El-Sayed\",\n      \"probability\": 0.88,\n      \"vote_share\": {\n        \"Mike Rogers\": 46.0,\n        \"Abdul El-Sayed\": 51.1\n      },\n      \"key_factor\": \"El-Sayed leads across independent and Republican-sponsored late-October polls.\",\n      \"reasoning\": \"Several recent independent surveys show El-Sayed ahead by six to eight points, although other polls show smaller margins. The national Democratic advantage supports the direction of that evidence. Rogers's close 2024 result and substantial outside support leave a meaningful chance of a Republican win.\"\n    },\n    \"MN\": {\n      \"winner\": \"Peggy Flanagan\",\n      \"probability\": 0.93,\n      \"vote_share\": {\n        \"Michele Tafoya\": 44.7,\n        \"Peggy Flanagan\": 52.3\n      },\n      \"key_factor\": \"SurveyUSA shows Flanagan improving from a September tie to a seven-point late-October lead.\",\n      \"reasoning\": \"Flanagan's improving position in SurveyUSA is corroborated by Siena, although I temper Siena's unusually large margin with narrower results elsewhere. Minnesota's Democratic baseline and the national environment make Tafoya a substantial underdog.\"\n    },\n    \"NC\": {\n      \"winner\": \"Roy Cooper\",\n      \"probability\": 0.98,\n      \"vote_share\": {\n        \"Michael Whatley\": 43.4,\n        \"Roy Cooper\": 54.3\n      },\n      \"key_factor\": \"Even the latest Republican-sponsored polling gives Cooper an eight-to-nine-point lead.\",\n      \"reasoning\": \"Cooper combines a durable polling advantage with statewide electoral experience and substantially greater fundraising. Independent surveys often show still larger leads. The cancellation of Republican advertising reinforces the evidence that this is the clearest Democratic pickup.\"\n    },\n    \"NE\": {\n      \"winner\": \"Pete Ricketts\",\n      \"probability\": 0.66,\n      \"vote_share\": {\n        \"Pete Ricketts\": 49.9,\n        \"Dan Osborn\": 47.8\n      },\n      \"key_factor\": \"Osborn's own October campaign poll places Ricketts two points ahead.\",\n      \"reasoning\": \"Ricketts narrowly leads most recent surveys. Osborn's 2024 performance demonstrates substantial crossover appeal, and the national environment improves his opportunity. Ricketts's statewide experience and Nebraska's Republican baseline nevertheless support a close Republican hold.\"\n    },\n    \"NH\": {\n      \"winner\": \"Chris Pappas\",\n      \"probability\": 0.93,\n      \"vote_share\": {\n        \"John E. Sununu\": 45.7,\n        \"Chris Pappas\": 52.2\n      },\n      \"key_factor\": \"October polls consistently place Pappas approximately five to eight points ahead.\",\n      \"reasoning\": \"Pappas leads across independent and Republican-sponsored surveys. His fundraising advantage and the national environment reinforce that lead. Sununu's recognizable name gives Republicans a credible candidate, but the available evidence shows little late narrowing.\"\n    },\n    \"OH\": {\n      \"winner\": \"Sherrod Brown\",\n      \"probability\": 0.74,\n      \"vote_share\": {\n        \"Jon Husted\": 47.0,\n        \"Sherrod Brown\": 49.9\n      },\n      \"key_factor\": \"Brown repeatedly leads independent likely-voter surveys by approximately three to six points.\",\n      \"reasoning\": \"Brown's persistent polling advantage and demonstrated ability to outperform other Ohio Democrats justify a narrow edge. His fundraising advantage also helps. Ohio's Republican lean and the possibility of a shared polling error prevent a more confident call.\"\n    },\n    \"SC\": {\n      \"winner\": \"Darline Graham\",\n      \"probability\": 0.67,\n      \"vote_share\": {\n        \"Darline Graham\": 49.8,\n        \"Annie Andrews\": 47.4\n      },\n      \"key_factor\": \"Most late independent likely-voter surveys show Graham tied or narrowly ahead.\",\n      \"reasoning\": \"The polling indicates a much tighter contest than South Carolina's recent elections. Graham's limited electoral experience and Andrews's financial advantage make an upset plausible. The state's Republican baseline and Graham's small polling edge nevertheless favor a Republican hold.\"\n    },\n    \"TX\": {\n      \"winner\": \"James Talarico\",\n      \"probability\": 0.65,\n      \"vote_share\": {\n        \"Ken Paxton\": 47.9,\n        \"James Talarico\": 50.1\n      },\n      \"key_factor\": \"Talarico holds a small lead across several independent October polls.\",\n      \"reasoning\": \"Talarico's polling position is supported by a substantial financial advantage and an unusually favorable national environment. Paxton's political vulnerabilities make crossover gains plausible. Texas's Republican baseline and several tied or Paxton-leading surveys leave considerable uncertainty.\"\n    }\n  },\n  \"senate\": {\n    \"republican_seats\": 48,\n    \"p_republican_control\": 0.28,\n    \"upset_watch\": {\n      \"race\": \"IA\",\n      \"why\": \"Josh Turek is essentially tied with Ashley Hinson in the independent polling, and a slightly stronger Democratic turnout could reverse this narrow Republican forecast.\"\n    }\n  }\n}"
+  }
+ ]
+}
