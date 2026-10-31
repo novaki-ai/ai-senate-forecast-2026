@@ -1,0 +1,4434 @@
+{
+ "as_of": "2026-10-31",
+ "election_date": {
+  "date": "2026-11-03",
+  "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections"
+ },
+ "senate_composition": {
+  "current": {
+   "R": 53,
+   "D": 45,
+   "I_caucusing_with_D": 2,
+   "total": 100,
+   "vacant": 0
+  },
+  "independents": [
+   "Bernie Sanders (VT)",
+   "Angus King (ME)"
+  ],
+  "changes_in_119th_congress": [
+   {
+    "date": "2025-01-10",
+    "what": "JD Vance (R-OH) resigned to become Vice President; Jon Husted (R) appointed, took office Jan 21, 2025"
+   },
+   {
+    "date": "2025-01-20",
+    "what": "Marco Rubio (R-FL) resigned after confirmation as Secretary of State; Ashley Moody (R) sworn in Jan 21, 2025"
+   },
+   {
+    "date": "2026-03-23",
+    "what": "Markwayne Mullin (R-OK) resigned after confirmation as Secretary of Homeland Security; Alan Armstrong (R) sworn in Mar 24, 2026"
+   },
+   {
+    "date": "2026-07-11",
+    "what": "Lindsey Graham (R-SC) died in office; Darline Graham (R) sworn in Jul 14, 2026"
+   }
+  ],
+  "senate_majority_leader": "John Thune (R-SD)",
+  "senate_minority_leader": "Chuck Schumer (D-NY)",
+  "sources": [
+   "https://en.wikipedia.org/wiki/119th_United_States_Congress#Senate_party_summary",
+   "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections"
+  ]
+ },
+ "majority_rule": {
+  "seats_needed": 51,
+  "tie_rule": "In a 50-50 Senate the Vice President, as President of the Senate, casts tie-breaking votes; the current Vice President is JD Vance (R). Control therefore requires 51 seats, or 50 seats plus the vice presidency.",
+  "constitutional_basis": "U.S. Constitution, Article I, Section 3: the Vice President \"shall be President of the Senate, but shall have no Vote, unless they be equally divided.\"",
+  "arithmetic": "Republicans hold 53 seats. If the Vice President breaks ties for Republicans, Democrats (with the 2 independents) need a net gain of 4 seats to reach 51.",
+  "sources": [
+   "https://constitution.congress.gov/browse/article-1/section-3/",
+   "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections"
+  ]
+ },
+ "seats_up": {
+  "count": 35,
+  "composition_of_seats_up": {
+   "R_held": 22,
+   "D_held": 13
+  },
+  "note": "No expert ratings included. Candidates are those listed in Wikipedia's race summary table (compiled from state candidate lists). pres_2024 R/D = each candidate's share of the total certified vote (Wikipedia results-by-state table, with the state certified source); margin = R% minus D%.",
+  "seats": [
+   {
+    "state": "Florida",
+    "seat": "Class 3 special",
+    "incumbent": "Ashley Moody",
+    "incumbent_party": "Republican",
+    "incumbent_status": "appointed, running",
+    "incumbent_status_wikipedia_text": "Interim appointee nominated",
+    "candidates_on_ballot": [
+     {
+      "name": "Neil Gillespie",
+      "party": "Independent"
+     },
+     {
+      "name": "Ashley Moody",
+      "party": "Republican"
+     },
+     {
+      "name": "Angie Nixon",
+      "party": "Democratic"
+     }
+    ],
+    "last_election_this_seat": {
+     "year": 2022,
+     "winner": "Marco Rubio",
+     "party": "Republican",
+     "winner_pct": 57.68,
+     "note": "Rubio resigned Jan 20, 2025 (Secretary of State); Ashley Moody appointed"
+    },
+    "pres_2024": {
+     "R": 56.09,
+     "D": 42.99,
+     "margin": "R+13.1",
+     "certified_source": "https://floridaelectionwatch.gov/FederalOffices/President"
+    },
+    "sources": [
+     "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Race_summary",
+     "https://en.wikipedia.org/wiki/2024_United_States_presidential_election#Results_by_state"
+    ]
+   },
+   {
+    "state": "Ohio",
+    "seat": "Class 3 special",
+    "incumbent": "Jon Husted",
+    "incumbent_party": "Republican",
+    "incumbent_status": "appointed, running",
+    "incumbent_status_wikipedia_text": "Interim appointee nominated",
+    "candidates_on_ballot": [
+     {
+      "name": "Sherrod Brown",
+      "party": "Democratic"
+     },
+     {
+      "name": "Jon Husted",
+      "party": "Republican"
+     },
+     {
+      "name": "Greg Levy",
+      "party": "Independent"
+     },
+     {
+      "name": "William Redpath",
+      "party": "Libertarian"
+     }
+    ],
+    "last_election_this_seat": {
+     "year": 2022,
+     "winner": "JD Vance",
+     "party": "Republican",
+     "winner_pct": 53.0,
+     "note": "Vance resigned Jan 10, 2025 (Vice President); Jon Husted appointed"
+    },
+    "pres_2024": {
+     "R": 55.14,
+     "D": 43.93,
+     "margin": "R+11.2",
+     "certified_source": "https://www.ohiosos.gov/elections/election-results-and-data/2024-official-election-results/"
+    },
+    "sources": [
+     "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Race_summary",
+     "https://en.wikipedia.org/wiki/2024_United_States_presidential_election#Results_by_state"
+    ]
+   },
+   {
+    "state": "Alabama",
+    "seat": "Class 2 regular",
+    "incumbent": "Tommy Tuberville",
+    "incumbent_party": "Republican",
+    "incumbent_status": "retiring (running for governor)",
+    "incumbent_status_wikipedia_text": "Incumbent retiring to run for governor",
+    "candidates_on_ballot": [
+     {
+      "name": "Barry Moore",
+      "party": "Republican"
+     },
+     {
+      "name": "Everett Wess",
+      "party": "Democratic"
+     }
+    ],
+    "last_election_this_seat": {
+     "year": 2020,
+     "winner": "Tommy Tuberville",
+     "party": "Republican",
+     "winner_pct": 60.1
+    },
+    "pres_2024": {
+     "R": 64.57,
+     "D": 34.1,
+     "margin": "R+30.5",
+     "certified_source": "https://www.sos.alabama.gov/alabama-votes"
+    },
+    "sources": [
+     "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Race_summary",
+     "https://en.wikipedia.org/wiki/2024_United_States_presidential_election#Results_by_state"
+    ]
+   },
+   {
+    "state": "Alaska",
+    "seat": "Class 2 regular",
+    "incumbent": "Dan Sullivan",
+    "incumbent_party": "Republican",
+    "incumbent_status": "running",
+    "incumbent_status_wikipedia_text": "Incumbent advanced to general",
+    "candidates_on_ballot": [
+     {
+      "name": "Gerald Heikes",
+      "party": "Republican"
+     },
+     {
+      "name": "Mary Peltola",
+      "party": "Democratic"
+     },
+     {
+      "name": "Dan J. Sullivan",
+      "party": "Republican"
+     },
+     {
+      "name": "Dan S. Sullivan",
+      "party": "Republican"
+     }
+    ],
+    "last_election_this_seat": {
+     "year": 2020,
+     "winner": "Dan Sullivan",
+     "party": "Republican",
+     "winner_pct": 53.9
+    },
+    "pres_2024": {
+     "R": 54.54,
+     "D": 41.41,
+     "margin": "R+13.1",
+     "certified_source": "https://www.elections.alaska.gov/enr/"
+    },
+    "sources": [
+     "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Race_summary",
+     "https://en.wikipedia.org/wiki/2024_United_States_presidential_election#Results_by_state"
+    ]
+   },
+   {
+    "state": "Arkansas",
+    "seat": "Class 2 regular",
+    "incumbent": "Tom Cotton",
+    "incumbent_party": "Republican",
+    "incumbent_status": "running",
+    "incumbent_status_wikipedia_text": "Incumbent renominated",
+    "candidates_on_ballot": [
+     {
+      "name": "Tom Cotton",
+      "party": "Republican"
+     },
+     {
+      "name": "Hallie Shoffner",
+      "party": "Democratic"
+     },
+     {
+      "name": "Jeff Wadlin",
+      "party": "Libertarian"
+     }
+    ],
+    "last_election_this_seat": {
+     "year": 2020,
+     "winner": "Tom Cotton",
+     "party": "Republican",
+     "winner_pct": 66.5
+    },
+    "pres_2024": {
+     "R": 64.2,
+     "D": 33.56,
+     "margin": "R+30.6",
+     "certified_source": "https://results.enr.clarityelections.com/AR/122502/web.345435/#/summary"
+    },
+    "sources": [
+     "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Race_summary",
+     "https://en.wikipedia.org/wiki/2024_United_States_presidential_election#Results_by_state"
+    ]
+   },
+   {
+    "state": "Colorado",
+    "seat": "Class 2 regular",
+    "incumbent": "John Hickenlooper",
+    "incumbent_party": "Democratic",
+    "incumbent_status": "running",
+    "incumbent_status_wikipedia_text": "Incumbent renominated",
+    "candidates_on_ballot": [
+     {
+      "name": "Mark Baisley",
+      "party": "Republican"
+     },
+     {
+      "name": "Christopher Baum",
+      "party": "Approval Voting"
+     },
+     {
+      "name": "Bob Chew",
+      "party": "Forward"
+     },
+     {
+      "name": "John Hickenlooper",
+      "party": "Democratic"
+     },
+     {
+      "name": "Blake Huber",
+      "party": "Libertarian"
+     },
+     {
+      "name": "Adam Withrow",
+      "party": "Unity"
+     }
+    ],
+    "last_election_this_seat": {
+     "year": 2020,
+     "winner": "John Hickenlooper",
+     "party": "Democratic",
+     "winner_pct": 53.5
+    },
+    "pres_2024": {
+     "R": 43.14,
+     "D": 54.13,
+     "margin": "D+11.0",
+     "certified_source": "https://www.archives.gov/electoral-college/2024"
+    },
+    "sources": [
+     "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Race_summary",
+     "https://en.wikipedia.org/wiki/2024_United_States_presidential_election#Results_by_state"
+    ]
+   },
+   {
+    "state": "Delaware",
+    "seat": "Class 2 regular",
+    "incumbent": "Chris Coons",
+    "incumbent_party": "Democratic",
+    "incumbent_status": "running",
+    "incumbent_status_wikipedia_text": "Incumbent renominated",
+    "candidates_on_ballot": [
+     {
+      "name": "Chris Coons",
+      "party": "Democratic"
+     },
+     {
+      "name": "Michael Katz",
+      "party": "Republican"
+     }
+    ],
+    "last_election_this_seat": {
+     "year": 2020,
+     "winner": "Chris Coons",
+     "party": "Democratic",
+     "winner_pct": 59.4
+    },
+    "pres_2024": {
+     "R": 41.79,
+     "D": 56.49,
+     "margin": "D+14.7",
+     "certified_source": "https://elections.delaware.gov/results/html/index.shtml?dc=report&electionId=GE2024"
+    },
+    "sources": [
+     "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Race_summary",
+     "https://en.wikipedia.org/wiki/2024_United_States_presidential_election#Results_by_state"
+    ]
+   },
+   {
+    "state": "Georgia",
+    "seat": "Class 2 regular",
+    "incumbent": "Jon Ossoff",
+    "incumbent_party": "Democratic",
+    "incumbent_status": "running",
+    "incumbent_status_wikipedia_text": "Incumbent renominated",
+    "candidates_on_ballot": [
+     {
+      "name": "Mike Collins",
+      "party": "Republican"
+     },
+     {
+      "name": "Jon Ossoff",
+      "party": "Democratic"
+     }
+    ],
+    "last_election_this_seat": {
+     "year": 2021,
+     "winner": "Jon Ossoff",
+     "party": "Democratic",
+     "winner_pct": 50.6
+    },
+    "pres_2024": {
+     "R": 50.72,
+     "D": 48.53,
+     "margin": "R+2.2",
+     "certified_source": "https://results.sos.ga.gov/results/public/Georgia/elections/2024NovGen"
+    },
+    "sources": [
+     "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Race_summary",
+     "https://en.wikipedia.org/wiki/2024_United_States_presidential_election#Results_by_state"
+    ]
+   },
+   {
+    "state": "Idaho",
+    "seat": "Class 2 regular",
+    "incumbent": "Jim Risch",
+    "incumbent_party": "Republican",
+    "incumbent_status": "running",
+    "incumbent_status_wikipedia_text": "Incumbent renominated",
+    "candidates_on_ballot": [
+     {
+      "name": "Todd Achilles",
+      "party": "Independent"
+     },
+     {
+      "name": "Natalie Fleming",
+      "party": "Independent"
+     },
+     {
+      "name": "Matt Loesby",
+      "party": "Libertarian"
+     },
+     {
+      "name": "Jim Risch",
+      "party": "Republican"
+     }
+    ],
+    "last_election_this_seat": {
+     "year": 2020,
+     "winner": "Jim Risch",
+     "party": "Republican",
+     "winner_pct": 62.6
+    },
+    "pres_2024": {
+     "R": 66.87,
+     "D": 30.38,
+     "margin": "R+36.5",
+     "certified_source": "https://results.voteidaho.gov/presidential.html"
+    },
+    "sources": [
+     "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Race_summary",
+     "https://en.wikipedia.org/wiki/2024_United_States_presidential_election#Results_by_state"
+    ]
+   },
+   {
+    "state": "Illinois",
+    "seat": "Class 2 regular",
+    "incumbent": "Dick Durbin",
+    "incumbent_party": "Democratic",
+    "incumbent_status": "retiring",
+    "incumbent_status_wikipedia_text": "Incumbent retiring",
+    "candidates_on_ballot": [
+     {
+      "name": "Whitfield Harrington Jr.",
+      "party": "Independent"
+     },
+     {
+      "name": "Juliana Stratton",
+      "party": "Democratic"
+     },
+     {
+      "name": "Don Tracy",
+      "party": "Republican"
+     }
+    ],
+    "last_election_this_seat": {
+     "year": 2020,
+     "winner": "Dick Durbin",
+     "party": "Democratic",
+     "winner_pct": 54.9
+    },
+    "pres_2024": {
+     "R": 43.47,
+     "D": 54.37,
+     "margin": "D+10.9",
+     "certified_source": "https://www.elections.il.gov/electionoperations/ElectionVoteTotals.aspx"
+    },
+    "sources": [
+     "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Race_summary",
+     "https://en.wikipedia.org/wiki/2024_United_States_presidential_election#Results_by_state"
+    ]
+   },
+   {
+    "state": "Iowa",
+    "seat": "Class 2 regular",
+    "incumbent": "Joni Ernst",
+    "incumbent_party": "Republican",
+    "incumbent_status": "retiring",
+    "incumbent_status_wikipedia_text": "Incumbent retiring",
+    "candidates_on_ballot": [
+     {
+      "name": "Ashley Hinson",
+      "party": "Republican"
+     },
+     {
+      "name": "Thomas Laehn",
+      "party": "Libertarian"
+     },
+     {
+      "name": "Josh Turek",
+      "party": "Democratic"
+     }
+    ],
+    "last_election_this_seat": {
+     "year": 2020,
+     "winner": "Joni Ernst",
+     "party": "Republican",
+     "winner_pct": 51.7
+    },
+    "pres_2024": {
+     "R": 55.73,
+     "D": 42.52,
+     "margin": "R+13.2",
+     "certified_source": "https://electionresults.iowa.gov/IA/122322/web.345435/#/summary"
+    },
+    "sources": [
+     "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Race_summary",
+     "https://en.wikipedia.org/wiki/2024_United_States_presidential_election#Results_by_state"
+    ]
+   },
+   {
+    "state": "Kansas",
+    "seat": "Class 2 regular",
+    "incumbent": "Roger Marshall",
+    "incumbent_party": "Republican",
+    "incumbent_status": "running",
+    "incumbent_status_wikipedia_text": "Incumbent renominated",
+    "candidates_on_ballot": [
+     {
+      "name": "David Graham",
+      "party": "Libertarian"
+     },
+     {
+      "name": "Adam Hamilton",
+      "party": "Democratic"
+     },
+     {
+      "name": "Roger Marshall",
+      "party": "Republican"
+     }
+    ],
+    "last_election_this_seat": {
+     "year": 2020,
+     "winner": "Roger Marshall",
+     "party": "Republican",
+     "winner_pct": 53.2
+    },
+    "pres_2024": {
+     "R": 57.16,
+     "D": 41.04,
+     "margin": "R+16.1",
+     "certified_source": "https://sos.ks.gov/elections/election-results.html"
+    },
+    "sources": [
+     "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Race_summary",
+     "https://en.wikipedia.org/wiki/2024_United_States_presidential_election#Results_by_state"
+    ]
+   },
+   {
+    "state": "Kentucky",
+    "seat": "Class 2 regular",
+    "incumbent": "Mitch McConnell",
+    "incumbent_party": "Republican",
+    "incumbent_status": "retiring",
+    "incumbent_status_wikipedia_text": "Incumbent retiring",
+    "candidates_on_ballot": [
+     {
+      "name": "Andy Barr",
+      "party": "Republican"
+     },
+     {
+      "name": "Charles Booker",
+      "party": "Democratic"
+     },
+     {
+      "name": "Christopher Campbell",
+      "party": "Independent"
+     }
+    ],
+    "last_election_this_seat": {
+     "year": 2020,
+     "winner": "Mitch McConnell",
+     "party": "Republican",
+     "winner_pct": 57.8
+    },
+    "pres_2024": {
+     "R": 64.47,
+     "D": 33.94,
+     "margin": "R+30.5",
+     "certified_source": null
+    },
+    "sources": [
+     "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Race_summary",
+     "https://en.wikipedia.org/wiki/2024_United_States_presidential_election#Results_by_state"
+    ]
+   },
+   {
+    "state": "Louisiana",
+    "seat": "Class 2 regular",
+    "incumbent": "Bill Cassidy",
+    "incumbent_party": "Republican",
+    "incumbent_status": "lost renomination",
+    "incumbent_status_wikipedia_text": "Incumbent lost renomination",
+    "candidates_on_ballot": [
+     {
+      "name": "Jamie Davis",
+      "party": "Democratic"
+     },
+     {
+      "name": "Julia Letlow",
+      "party": "Republican"
+     }
+    ],
+    "last_election_this_seat": {
+     "year": 2020,
+     "winner": "Bill Cassidy",
+     "party": "Republican",
+     "winner_pct": 59.3
+    },
+    "pres_2024": {
+     "R": 60.22,
+     "D": 38.21,
+     "margin": "R+22.0",
+     "certified_source": "https://voterportal.sos.la.gov/graphical"
+    },
+    "sources": [
+     "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Race_summary",
+     "https://en.wikipedia.org/wiki/2024_United_States_presidential_election#Results_by_state"
+    ]
+   },
+   {
+    "state": "Maine",
+    "seat": "Class 2 regular",
+    "incumbent": "Susan Collins",
+    "incumbent_party": "Republican",
+    "incumbent_status": "running",
+    "incumbent_status_wikipedia_text": "Incumbent renominated",
+    "candidates_on_ballot": [
+     {
+      "name": "Susan Collins",
+      "party": "Republican"
+     },
+     {
+      "name": "Troy Jackson",
+      "party": "Democratic"
+     }
+    ],
+    "last_election_this_seat": {
+     "year": 2020,
+     "winner": "Susan Collins",
+     "party": "Republican",
+     "winner_pct": 51.0
+    },
+    "pres_2024": {
+     "R": 45.46,
+     "D": 52.4,
+     "margin": "D+6.9",
+     "certified_source": "https://www.maine.gov/sos/cec/elec/results/results24.html#Nonranked"
+    },
+    "sources": [
+     "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Race_summary",
+     "https://en.wikipedia.org/wiki/2024_United_States_presidential_election#Results_by_state"
+    ]
+   },
+   {
+    "state": "Massachusetts",
+    "seat": "Class 2 regular",
+    "incumbent": "Ed Markey",
+    "incumbent_party": "Democratic",
+    "incumbent_status": "running",
+    "incumbent_status_wikipedia_text": "Incumbent renominated",
+    "candidates_on_ballot": [
+     {
+      "name": "Shiva Ayyadurai",
+      "party": "Independent"
+     },
+     {
+      "name": "John Deaton",
+      "party": "Republican"
+     },
+     {
+      "name": "Ed Markey",
+      "party": "Democratic"
+     },
+     {
+      "name": "Joe Tache",
+      "party": "Socialism and Liberation"
+     }
+    ],
+    "last_election_this_seat": {
+     "year": 2020,
+     "winner": "Ed Markey",
+     "party": "Democratic",
+     "winner_pct": 66.2
+    },
+    "pres_2024": {
+     "R": 36.02,
+     "D": 61.22,
+     "margin": "D+25.2",
+     "certified_source": "https://electionstats.state.ma.us/elections/view/165300/"
+    },
+    "sources": [
+     "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Race_summary",
+     "https://en.wikipedia.org/wiki/2024_United_States_presidential_election#Results_by_state"
+    ]
+   },
+   {
+    "state": "Michigan",
+    "seat": "Class 2 regular",
+    "incumbent": "Gary Peters",
+    "incumbent_party": "Democratic",
+    "incumbent_status": "retiring",
+    "incumbent_status_wikipedia_text": "Incumbent retiring",
+    "candidates_on_ballot": [
+     {
+      "name": "Lydia Christensen",
+      "party": "Libertarian"
+     },
+     {
+      "name": "Abdul El-Sayed",
+      "party": "Democratic"
+     },
+     {
+      "name": "Walter P. Kristy",
+      "party": "Natural Law"
+     },
+     {
+      "name": "Tim Long",
+      "party": "U.S. Taxpayers"
+     },
+     {
+      "name": "Douglas P. Marsh",
+      "party": "Green"
+     },
+     {
+      "name": "Mike Rogers",
+      "party": "Republican"
+     }
+    ],
+    "last_election_this_seat": {
+     "year": 2020,
+     "winner": "Gary Peters",
+     "party": "Democratic",
+     "winner_pct": 49.9
+    },
+    "pres_2024": {
+     "R": 49.73,
+     "D": 48.31,
+     "margin": "R+1.4",
+     "certified_source": "https://mvic.sos.state.mi.us/votehistory/Index?type=C&electionDate=11-5-2024"
+    },
+    "sources": [
+     "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Race_summary",
+     "https://en.wikipedia.org/wiki/2024_United_States_presidential_election#Results_by_state"
+    ]
+   },
+   {
+    "state": "Minnesota",
+    "seat": "Class 2 regular",
+    "incumbent": "Tina Smith",
+    "incumbent_party": "DFL",
+    "incumbent_status": "retiring",
+    "incumbent_status_wikipedia_text": "Incumbent retiring",
+    "candidates_on_ballot": [
+     {
+      "name": "Peggy Flanagan",
+      "party": "DFL"
+     },
+     {
+      "name": "Marisa Simonetti",
+      "party": "Independent"
+     },
+     {
+      "name": "Michele Tafoya",
+      "party": "Republican"
+     },
+     {
+      "name": "Rebecca Whiting",
+      "party": "Libertarian"
+     }
+    ],
+    "last_election_this_seat": {
+     "year": 2020,
+     "winner": "Tina Smith",
+     "party": "DFL",
+     "winner_pct": 48.7
+    },
+    "pres_2024": {
+     "R": 46.68,
+     "D": 50.92,
+     "margin": "D+4.2",
+     "certified_source": "https://officialdocuments.sos.state.mn.us/Files/GetDocument/145965"
+    },
+    "sources": [
+     "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Race_summary",
+     "https://en.wikipedia.org/wiki/2024_United_States_presidential_election#Results_by_state"
+    ]
+   },
+   {
+    "state": "Mississippi",
+    "seat": "Class 2 regular",
+    "incumbent": "Cindy Hyde-Smith",
+    "incumbent_party": "Republican",
+    "incumbent_status": "running",
+    "incumbent_status_wikipedia_text": "Incumbent renominated",
+    "candidates_on_ballot": [
+     {
+      "name": "Scott Colom",
+      "party": "Democratic"
+     },
+     {
+      "name": "Cindy Hyde-Smith",
+      "party": "Republican"
+     },
+     {
+      "name": "Ty Pinkins",
+      "party": "Independent"
+     }
+    ],
+    "last_election_this_seat": {
+     "year": 2020,
+     "winner": "Cindy Hyde-Smith",
+     "party": "Republican",
+     "winner_pct": 54.1
+    },
+    "pres_2024": {
+     "R": 60.89,
+     "D": 38.0,
+     "margin": "R+22.9",
+     "certified_source": "https://www.sos.ms.gov/elections-voting/2024-general-election"
+    },
+    "sources": [
+     "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Race_summary",
+     "https://en.wikipedia.org/wiki/2024_United_States_presidential_election#Results_by_state"
+    ]
+   },
+   {
+    "state": "Montana",
+    "seat": "Class 2 regular",
+    "incumbent": "Steve Daines",
+    "incumbent_party": "Republican",
+    "incumbent_status": "retiring",
+    "incumbent_status_wikipedia_text": "Incumbent retiring",
+    "candidates_on_ballot": [
+     {
+      "name": "Kurt Alme",
+      "party": "Republican"
+     },
+     {
+      "name": "Kyle Austin",
+      "party": "Libertarian"
+     },
+     {
+      "name": "Alani Bankhead",
+      "party": "Democratic"
+     },
+     {
+      "name": "Seth Bodnar",
+      "party": "Independent"
+     }
+    ],
+    "last_election_this_seat": {
+     "year": 2020,
+     "winner": "Steve Daines",
+     "party": "Republican",
+     "winner_pct": 55.0
+    },
+    "pres_2024": {
+     "R": 58.39,
+     "D": 38.46,
+     "margin": "R+19.9",
+     "certified_source": null
+    },
+    "sources": [
+     "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Race_summary",
+     "https://en.wikipedia.org/wiki/2024_United_States_presidential_election#Results_by_state"
+    ]
+   },
+   {
+    "state": "Nebraska",
+    "seat": "Class 2 regular",
+    "incumbent": "Pete Ricketts",
+    "incumbent_party": "Republican",
+    "incumbent_status": "running",
+    "incumbent_status_wikipedia_text": "Incumbent renominated",
+    "candidates_on_ballot": [
+     {
+      "name": "Chuck Conboy",
+      "party": "America First"
+     },
+     {
+      "name": "Mike Marvin",
+      "party": "Legal Marijuana Now"
+     },
+     {
+      "name": "Dan Osborn",
+      "party": "Independent"
+     },
+     {
+      "name": "Robin Richards",
+      "party": "Working People"
+     },
+     {
+      "name": "Pete Ricketts",
+      "party": "Republican"
+     }
+    ],
+    "last_election_this_seat": {
+     "year": 2024,
+     "winner": "Pete Ricketts",
+     "party": "Republican",
+     "winner_pct": 62.6,
+     "note": "2024 special election for the remainder of Ben Sasse's term"
+    },
+    "pres_2024": {
+     "R": 59.32,
+     "D": 38.86,
+     "margin": "R+20.5",
+     "certified_source": "https://sos.nebraska.gov/elections/2024-elections"
+    },
+    "sources": [
+     "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Race_summary",
+     "https://en.wikipedia.org/wiki/2024_United_States_presidential_election#Results_by_state"
+    ]
+   },
+   {
+    "state": "New Hampshire",
+    "seat": "Class 2 regular",
+    "incumbent": "Jeanne Shaheen",
+    "incumbent_party": "Democratic",
+    "incumbent_status": "retiring",
+    "incumbent_status_wikipedia_text": "Incumbent retiring",
+    "candidates_on_ballot": [
+     {
+      "name": "Edmond LaPlante",
+      "party": "Constitution"
+     },
+     {
+      "name": "Chris Pappas",
+      "party": "Democratic"
+     },
+     {
+      "name": "John E. Sununu",
+      "party": "Republican"
+     }
+    ],
+    "last_election_this_seat": {
+     "year": 2020,
+     "winner": "Jeanne Shaheen",
+     "party": "Democratic",
+     "winner_pct": 56.6
+    },
+    "pres_2024": {
+     "R": 47.87,
+     "D": 50.65,
+     "margin": "D+2.8",
+     "certified_source": "https://www.sos.nh.gov/2024-general-election-results"
+    },
+    "sources": [
+     "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Race_summary",
+     "https://en.wikipedia.org/wiki/2024_United_States_presidential_election#Results_by_state"
+    ]
+   },
+   {
+    "state": "New Jersey",
+    "seat": "Class 2 regular",
+    "incumbent": "Cory Booker",
+    "incumbent_party": "Democratic",
+    "incumbent_status": "running",
+    "incumbent_status_wikipedia_text": "Incumbent renominated",
+    "candidates_on_ballot": [
+     {
+      "name": "Cory Booker",
+      "party": "Democratic"
+     },
+     {
+      "name": "Veronica Fernandez",
+      "party": "Independent"
+     },
+     {
+      "name": "Joanne Kuniansky",
+      "party": "Socialist Workers"
+     },
+     {
+      "name": "Justin Murphy",
+      "party": "Republican"
+     }
+    ],
+    "last_election_this_seat": {
+     "year": 2020,
+     "winner": "Cory Booker",
+     "party": "Democratic",
+     "winner_pct": 57.2
+    },
+    "pres_2024": {
+     "R": 46.06,
+     "D": 51.97,
+     "margin": "D+5.9",
+     "certified_source": "https://www.nj.gov/state/elections/election-information-2024.shtml"
+    },
+    "sources": [
+     "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Race_summary",
+     "https://en.wikipedia.org/wiki/2024_United_States_presidential_election#Results_by_state"
+    ]
+   },
+   {
+    "state": "New Mexico",
+    "seat": "Class 2 regular",
+    "incumbent": "Ben Ray Luján",
+    "incumbent_party": "Democratic",
+    "incumbent_status": "running",
+    "incumbent_status_wikipedia_text": "Incumbent renominated",
+    "candidates_on_ballot": [
+     {
+      "name": "Ben Ray Luján",
+      "party": "Democratic"
+     },
+     {
+      "name": "Larry Marker",
+      "party": "Republican"
+     }
+    ],
+    "last_election_this_seat": {
+     "year": 2020,
+     "winner": "Ben Ray Luján",
+     "party": "Democratic",
+     "winner_pct": 51.7
+    },
+    "pres_2024": {
+     "R": 45.85,
+     "D": 51.85,
+     "margin": "D+6.0",
+     "certified_source": "https://electionresults.sos.nm.gov/resultsSW.aspx?type=FED&map=CTY"
+    },
+    "sources": [
+     "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Race_summary",
+     "https://en.wikipedia.org/wiki/2024_United_States_presidential_election#Results_by_state"
+    ]
+   },
+   {
+    "state": "North Carolina",
+    "seat": "Class 2 regular",
+    "incumbent": "Thom Tillis",
+    "incumbent_party": "Republican",
+    "incumbent_status": "retiring",
+    "incumbent_status_wikipedia_text": "Incumbent retiring",
+    "candidates_on_ballot": [
+     {
+      "name": "Shannon Bray",
+      "party": "Libertarian"
+     },
+     {
+      "name": "Roy Cooper",
+      "party": "Democratic"
+     },
+     {
+      "name": "Michael Dublin",
+      "party": "Green"
+     },
+     {
+      "name": "Michael Whatley",
+      "party": "Republican"
+     }
+    ],
+    "last_election_this_seat": {
+     "year": 2020,
+     "winner": "Thom Tillis",
+     "party": "Republican",
+     "winner_pct": 48.7
+    },
+    "pres_2024": {
+     "R": 50.86,
+     "D": 47.65,
+     "margin": "R+3.2",
+     "certified_source": "https://dl.ncsbe.gov/?prefix=State_Board_Meeting_Docs/2024-11-26/Canvass/"
+    },
+    "sources": [
+     "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Race_summary",
+     "https://en.wikipedia.org/wiki/2024_United_States_presidential_election#Results_by_state"
+    ]
+   },
+   {
+    "state": "Oklahoma",
+    "seat": "Class 2 regular",
+    "incumbent": "Alan Armstrong",
+    "incumbent_party": "Republican",
+    "incumbent_status": "appointed, not running (ineligible under state law)",
+    "incumbent_status_wikipedia_text": "Interim appointee ineligible to run",
+    "candidates_on_ballot": [
+     {
+      "name": "Kevin Hern",
+      "party": "Republican"
+     },
+     {
+      "name": "Ron Meinhardt",
+      "party": "Independent"
+     },
+     {
+      "name": "Curtis Stinnett",
+      "party": "Independent"
+     },
+     {
+      "name": "N'Kiyla Jasmine Thomas",
+      "party": "Democratic"
+     },
+     {
+      "name": "Sevier White",
+      "party": "Libertarian"
+     }
+    ],
+    "last_election_this_seat": {
+     "year": 2022,
+     "winner": "Markwayne Mullin",
+     "party": "Republican",
+     "winner_pct": 61.8,
+     "note": "2022 special election; Mullin resigned Mar 23, 2026 (Secretary of Homeland Security); Alan Armstrong appointed"
+    },
+    "pres_2024": {
+     "R": 66.16,
+     "D": 31.9,
+     "margin": "R+34.3",
+     "certified_source": "https://results.okelections.gov/OKER/?elecDate=20241105"
+    },
+    "sources": [
+     "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Race_summary",
+     "https://en.wikipedia.org/wiki/2024_United_States_presidential_election#Results_by_state"
+    ]
+   },
+   {
+    "state": "Oregon",
+    "seat": "Class 2 regular",
+    "incumbent": "Jeff Merkley",
+    "incumbent_party": "Democratic",
+    "incumbent_status": "running",
+    "incumbent_status_wikipedia_text": "Incumbent renominated",
+    "candidates_on_ballot": [
+     {
+      "name": "Gary Lyndon Dye",
+      "party": "Libertarian"
+     },
+     {
+      "name": "Chris Henry",
+      "party": "Progressive"
+     },
+     {
+      "name": "Jeff Merkley",
+      "party": "Democratic"
+     },
+     {
+      "name": "David Brock Smith",
+      "party": "Republican"
+     }
+    ],
+    "last_election_this_seat": {
+     "year": 2020,
+     "winner": "Jeff Merkley",
+     "party": "Democratic",
+     "winner_pct": 56.9
+    },
+    "pres_2024": {
+     "R": 40.97,
+     "D": 55.27,
+     "margin": "D+14.3",
+     "certified_source": "https://sos.oregon.gov/elections/Pages/electionhistory.aspx"
+    },
+    "sources": [
+     "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Race_summary",
+     "https://en.wikipedia.org/wiki/2024_United_States_presidential_election#Results_by_state"
+    ]
+   },
+   {
+    "state": "Rhode Island",
+    "seat": "Class 2 regular",
+    "incumbent": "Jack Reed",
+    "incumbent_party": "Democratic",
+    "incumbent_status": "running",
+    "incumbent_status_wikipedia_text": "Incumbent renominated",
+    "candidates_on_ballot": [
+     {
+      "name": "Michael Bahry",
+      "party": "Independent"
+     },
+     {
+      "name": "Raymond McKay",
+      "party": "Republican"
+     },
+     {
+      "name": "Jack Reed",
+      "party": "Democratic"
+     }
+    ],
+    "last_election_this_seat": {
+     "year": 2020,
+     "winner": "Jack Reed",
+     "party": "Democratic",
+     "winner_pct": 66.5
+    },
+    "pres_2024": {
+     "R": 41.76,
+     "D": 55.54,
+     "margin": "D+13.8",
+     "certified_source": "https://www.ri.gov/election/results/2024/general_election/"
+    },
+    "sources": [
+     "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Race_summary",
+     "https://en.wikipedia.org/wiki/2024_United_States_presidential_election#Results_by_state"
+    ]
+   },
+   {
+    "state": "South Carolina",
+    "seat": "Class 2 regular",
+    "incumbent": "Darline Graham",
+    "incumbent_party": "Republican",
+    "incumbent_status": "appointed, running",
+    "incumbent_status_wikipedia_text": "Interim appointee nominated in runoff",
+    "candidates_on_ballot": [
+     {
+      "name": "Annie Andrews",
+      "party": "Democratic"
+     },
+     {
+      "name": "Darline Graham",
+      "party": "Republican"
+     },
+     {
+      "name": "Mark Hackett",
+      "party": "Constitution"
+     },
+     {
+      "name": "Kasie Whitener",
+      "party": "Libertarian"
+     }
+    ],
+    "last_election_this_seat": {
+     "year": 2020,
+     "winner": "Lindsey Graham",
+     "party": "Republican",
+     "winner_pct": 54.4,
+     "note": "Lindsey Graham died in office Jul 11, 2026; Darline Graham appointed, sworn in Jul 14, 2026"
+    },
+    "pres_2024": {
+     "R": 58.23,
+     "D": 40.36,
+     "margin": "R+17.9",
+     "certified_source": "https://www.enr-scvotes.org/SC/122436/web.345435/#/summary"
+    },
+    "sources": [
+     "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Race_summary",
+     "https://en.wikipedia.org/wiki/2024_United_States_presidential_election#Results_by_state"
+    ]
+   },
+   {
+    "state": "South Dakota",
+    "seat": "Class 2 regular",
+    "incumbent": "Mike Rounds",
+    "incumbent_party": "Republican",
+    "incumbent_status": "running",
+    "incumbent_status_wikipedia_text": "Incumbent renominated",
+    "candidates_on_ballot": [
+     {
+      "name": "Brian Bengs",
+      "party": "Independent"
+     },
+     {
+      "name": "Mike Rounds",
+      "party": "Republican"
+     }
+    ],
+    "last_election_this_seat": {
+     "year": 2020,
+     "winner": "Mike Rounds",
+     "party": "Republican",
+     "winner_pct": 65.7
+    },
+    "pres_2024": {
+     "R": 63.43,
+     "D": 34.24,
+     "margin": "R+29.2",
+     "certified_source": "https://sdsos.gov/elections-voting/upcoming-elections/general-information/default.aspx"
+    },
+    "sources": [
+     "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Race_summary",
+     "https://en.wikipedia.org/wiki/2024_United_States_presidential_election#Results_by_state"
+    ]
+   },
+   {
+    "state": "Tennessee",
+    "seat": "Class 2 regular",
+    "incumbent": "Bill Hagerty",
+    "incumbent_party": "Republican",
+    "incumbent_status": "running",
+    "incumbent_status_wikipedia_text": "Incumbent renominated",
+    "candidates_on_ballot": [
+     {
+      "name": "Marquita Bradshaw",
+      "party": "Democratic"
+     },
+     {
+      "name": "Tharon Chandler",
+      "party": "Independent"
+     },
+     {
+      "name": "Andrew Gerena",
+      "party": "Independent"
+     },
+     {
+      "name": "Bill Hagerty",
+      "party": "Republican"
+     },
+     {
+      "name": "Jeremy Hearn",
+      "party": "Independent"
+     },
+     {
+      "name": "Robert Jones",
+      "party": "Independent"
+     },
+     {
+      "name": "James Macon III",
+      "party": "Independent"
+     },
+     {
+      "name": "Yoshi Matthews",
+      "party": "Independent"
+     },
+     {
+      "name": "David Sutman Jr.",
+      "party": "Independent"
+     },
+     {
+      "name": "Catherine Whitson",
+      "party": "Independent"
+     }
+    ],
+    "last_election_this_seat": {
+     "year": 2020,
+     "winner": "Bill Hagerty",
+     "party": "Republican",
+     "winner_pct": 62.2
+    },
+    "pres_2024": {
+     "R": 64.19,
+     "D": 34.47,
+     "margin": "R+29.7",
+     "certified_source": "https://sos.tn.gov/elections/results#2024"
+    },
+    "sources": [
+     "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Race_summary",
+     "https://en.wikipedia.org/wiki/2024_United_States_presidential_election#Results_by_state"
+    ]
+   },
+   {
+    "state": "Texas",
+    "seat": "Class 2 regular",
+    "incumbent": "John Cornyn",
+    "incumbent_party": "Republican",
+    "incumbent_status": "lost renomination",
+    "incumbent_status_wikipedia_text": "Incumbent lost renomination in runoff",
+    "candidates_on_ballot": [
+     {
+      "name": "Ted Brown",
+      "party": "Libertarian"
+     },
+     {
+      "name": "Ken Paxton",
+      "party": "Republican"
+     },
+     {
+      "name": "James Talarico",
+      "party": "Democratic"
+     }
+    ],
+    "last_election_this_seat": {
+     "year": 2020,
+     "winner": "John Cornyn",
+     "party": "Republican",
+     "winner_pct": 53.5
+    },
+    "pres_2024": {
+     "R": 56.14,
+     "D": 42.46,
+     "margin": "R+13.7",
+     "certified_source": "https://results.texas-election.com/races"
+    },
+    "sources": [
+     "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Race_summary",
+     "https://en.wikipedia.org/wiki/2024_United_States_presidential_election#Results_by_state"
+    ]
+   },
+   {
+    "state": "Virginia",
+    "seat": "Class 2 regular",
+    "incumbent": "Mark Warner",
+    "incumbent_party": "Democratic",
+    "incumbent_status": "running",
+    "incumbent_status_wikipedia_text": "Incumbent renominated",
+    "candidates_on_ballot": [
+     {
+      "name": "Bert Mizusawa",
+      "party": "Republican"
+     },
+     {
+      "name": "Mark Warner",
+      "party": "Democratic"
+     }
+    ],
+    "last_election_this_seat": {
+     "year": 2020,
+     "winner": "Mark Warner",
+     "party": "Democratic",
+     "winner_pct": 56.0
+    },
+    "pres_2024": {
+     "R": 46.05,
+     "D": 51.83,
+     "margin": "D+5.8",
+     "certified_source": "https://enr.elections.virginia.gov/results/public/Virginia/elections/2024NovemberGeneral"
+    },
+    "sources": [
+     "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Race_summary",
+     "https://en.wikipedia.org/wiki/2024_United_States_presidential_election#Results_by_state"
+    ]
+   },
+   {
+    "state": "West Virginia",
+    "seat": "Class 2 regular",
+    "incumbent": "Shelley Moore Capito",
+    "incumbent_party": "Republican",
+    "incumbent_status": "running",
+    "incumbent_status_wikipedia_text": "Incumbent renominated",
+    "candidates_on_ballot": [
+     {
+      "name": "Rachel Fetty Anderson",
+      "party": "Democratic"
+     },
+     {
+      "name": "Shelley Moore Capito",
+      "party": "Republican"
+     },
+     {
+      "name": "S. Marshall Wilson",
+      "party": "Constitution"
+     }
+    ],
+    "last_election_this_seat": {
+     "year": 2020,
+     "winner": "Shelley Moore Capito",
+     "party": "Republican",
+     "winner_pct": 70.3
+    },
+    "pres_2024": {
+     "R": 69.97,
+     "D": 28.1,
+     "margin": "R+41.9",
+     "certified_source": null
+    },
+    "sources": [
+     "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Race_summary",
+     "https://en.wikipedia.org/wiki/2024_United_States_presidential_election#Results_by_state"
+    ]
+   },
+   {
+    "state": "Wyoming",
+    "seat": "Class 2 regular",
+    "incumbent": "Cynthia Lummis",
+    "incumbent_party": "Republican",
+    "incumbent_status": "retiring",
+    "incumbent_status_wikipedia_text": "Incumbent retiring",
+    "candidates_on_ballot": [
+     {
+      "name": "James W. Byrd",
+      "party": "Democratic"
+     },
+     {
+      "name": "Harriet Hageman",
+      "party": "Republican"
+     }
+    ],
+    "last_election_this_seat": {
+     "year": 2020,
+     "winner": "Cynthia Lummis",
+     "party": "Republican",
+     "winner_pct": 72.9
+    },
+    "pres_2024": {
+     "R": 71.6,
+     "D": 25.84,
+     "margin": "R+45.8",
+     "certified_source": "https://sos.wyo.gov/Elections/Docs/2024/2024GeneralResults.aspx"
+    },
+    "sources": [
+     "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Race_summary",
+     "https://en.wikipedia.org/wiki/2024_United_States_presidential_election#Results_by_state"
+    ]
+   }
+  ]
+ },
+ "generic_ballot_polls": {
+  "question": "Generic congressional ballot (which party's candidate for the U.S. House the respondent would vote for / prefers to control Congress)",
+  "period": "polls with field end date on or after 2026-09-01",
+  "index_source": "https://www.nbcnews.com/politics/2026-elections/house-control-polls",
+  "index_note": "NBC News source-poll table used only as an index of individual polls (its average is NOT included). source_url is the pollster/sponsor release linked by the index. partisan_sponsor uses the index flag isPartisanAffiliated (false for all rows in this period). LV/RV/A versions are separate rows. Undecided share not provided by the index.",
+  "count": 120,
+  "polls": [
+   {
+    "poll_name_as_listed": "ActiVote",
+    "pollster": "ActiVote",
+    "sponsor": null,
+    "partisan_sponsor": "none",
+    "field_start": "2026-10-22",
+    "field_end": "2026-10-30",
+    "sample_size": 2000,
+    "population": "LV",
+    "margin_of_error": "+/-2.2%",
+    "D": 53.5,
+    "R": 46.5,
+    "source_url": "https://www.activote.net/polls/generic-ballot/2026-10-30/"
+   },
+   {
+    "poll_name_as_listed": "The Honest Poll",
+    "pollster": "The Honest Poll",
+    "sponsor": null,
+    "partisan_sponsor": "none",
+    "field_start": "2026-10-28",
+    "field_end": "2026-10-29",
+    "sample_size": 1310,
+    "population": "RV",
+    "margin_of_error": "+/-2.9%",
+    "D": 52.0,
+    "R": 40.0,
+    "source_url": "https://www.thehonestpoll.com/polls/democrats-lead-by-13-points-among-likely-voters-as-harris-voters-report-far-more-enthusiasm-than-trump-voters"
+   },
+   {
+    "poll_name_as_listed": "The Honest Poll",
+    "pollster": "The Honest Poll",
+    "sponsor": null,
+    "partisan_sponsor": "none",
+    "field_start": "2026-10-28",
+    "field_end": "2026-10-29",
+    "sample_size": 1158,
+    "population": "LV",
+    "margin_of_error": "+/-3.1%",
+    "D": 54.0,
+    "R": 41.0,
+    "source_url": "https://www.thehonestpoll.com/polls/democrats-lead-by-13-points-among-likely-voters-as-harris-voters-report-far-more-enthusiasm-than-trump-voters"
+   },
+   {
+    "poll_name_as_listed": "Tufts Public Opinion Lab/YouGov",
+    "pollster": "YouGov",
+    "sponsor": "Tufts Public Opinion Lab",
+    "partisan_sponsor": "none",
+    "field_start": "2026-10-23",
+    "field_end": "2026-10-27",
+    "sample_size": 499,
+    "population": "LV",
+    "margin_of_error": "+/-4.6%",
+    "D": 52.0,
+    "R": 40.0,
+    "source_url": "https://tufts.app.box.com/s/mz81q5uqscd3m82y02dg4c50x4mm4n8i"
+   },
+   {
+    "poll_name_as_listed": "Reuters/Ipsos",
+    "pollster": "Ipsos",
+    "sponsor": "Reuters",
+    "partisan_sponsor": "none",
+    "field_start": "2026-10-22",
+    "field_end": "2026-10-26",
+    "sample_size": 1280,
+    "population": "RV",
+    "margin_of_error": "+/-2.8%",
+    "D": 50.0,
+    "R": 41.0,
+    "source_url": "https://www.ipsos.com/en-us/democrats-hold-9-point-edge-midterm-congressional-ballot"
+   },
+   {
+    "poll_name_as_listed": "Reuters/Ipsos",
+    "pollster": "Ipsos",
+    "sponsor": "Reuters",
+    "partisan_sponsor": "none",
+    "field_start": "2026-10-22",
+    "field_end": "2026-10-26",
+    "sample_size": 1164,
+    "population": "LV",
+    "margin_of_error": "+/-2.9%",
+    "D": 53.0,
+    "R": 44.0,
+    "source_url": "https://www.ipsos.com/en-us/democrats-hold-9-point-edge-midterm-congressional-ballot"
+   },
+   {
+    "poll_name_as_listed": "Economist/YouGov",
+    "pollster": "YouGov",
+    "sponsor": "Economist",
+    "partisan_sponsor": "none",
+    "field_start": "2026-10-23",
+    "field_end": "2026-10-26",
+    "sample_size": 1440,
+    "population": "RV",
+    "margin_of_error": "+/-3%",
+    "D": 46.0,
+    "R": 40.0,
+    "source_url": "https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_nJaupnc.pdf"
+   },
+   {
+    "poll_name_as_listed": "Economist/YouGov",
+    "pollster": "YouGov",
+    "sponsor": "Economist",
+    "partisan_sponsor": "none",
+    "field_start": "2026-10-23",
+    "field_end": "2026-10-26",
+    "sample_size": 1272,
+    "population": "LV",
+    "margin_of_error": "",
+    "D": 50.0,
+    "R": 41.0,
+    "source_url": "https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_nJaupnc.pdf"
+   },
+   {
+    "poll_name_as_listed": "Emerson College",
+    "pollster": "Emerson College",
+    "sponsor": null,
+    "partisan_sponsor": "none",
+    "field_start": "2026-10-24",
+    "field_end": "2026-10-26",
+    "sample_size": 1000,
+    "population": "LV",
+    "margin_of_error": "+/-3%",
+    "D": 52.4,
+    "R": 42.4,
+    "source_url": "https://emersoncollegepolling.com/october-2026-national-poll-democrats-hold-10-point-midterm-advantage/"
+   },
+   {
+    "poll_name_as_listed": "Leger",
+    "pollster": "Leger",
+    "sponsor": null,
+    "partisan_sponsor": "none",
+    "field_start": "2026-10-23",
+    "field_end": "2026-10-25",
+    "sample_size": 1037,
+    "population": "A",
+    "margin_of_error": "+/-3.09%",
+    "D": 42.0,
+    "R": 36.0,
+    "source_url": "https://leger360.com/in-the-news-us-midterms-2026/"
+   },
+   {
+    "poll_name_as_listed": "Morning Consult",
+    "pollster": "Morning Consult",
+    "sponsor": null,
+    "partisan_sponsor": "none",
+    "field_start": "2026-10-19",
+    "field_end": "2026-10-25",
+    "sample_size": 17491,
+    "population": "LV",
+    "margin_of_error": "+/-1%",
+    "D": 50.1,
+    "R": 43.4,
+    "source_url": "https://share.mcpidata.dev/press"
+   },
+   {
+    "poll_name_as_listed": "Cygnal",
+    "pollster": "Cygnal",
+    "sponsor": null,
+    "partisan_sponsor": "none",
+    "field_start": "2026-10-23",
+    "field_end": "2026-10-24",
+    "sample_size": 1500,
+    "population": "LV",
+    "margin_of_error": "+/-2.53%",
+    "D": 51.5,
+    "R": 43.1,
+    "source_url": "https://www.cygn.al/wp-content/uploads/2026/10/Cygnal-National-Late-Oct26-NVT-Deck-Public.pdf"
+   },
+   {
+    "poll_name_as_listed": "The Argument/Verasight",
+    "pollster": "Verasight",
+    "sponsor": "The Argument",
+    "partisan_sponsor": "none",
+    "field_start": "2026-10-21",
+    "field_end": "2026-10-23",
+    "sample_size": 1549,
+    "population": "RV",
+    "margin_of_error": "+/-2.7%",
+    "D": 54.7,
+    "R": 45.3,
+    "source_url": "https://www.theargumentmag.com/p/how-republicans-lost-voters-trust"
+   },
+   {
+    "poll_name_as_listed": "NetChoice/Echelon Insights",
+    "pollster": "Echelon Insights",
+    "sponsor": "NetChoice",
+    "partisan_sponsor": "none",
+    "field_start": "2026-10-16",
+    "field_end": "2026-10-23",
+    "sample_size": 2907,
+    "population": "LV",
+    "margin_of_error": "+/-3.2%",
+    "D": 51.0,
+    "R": 46.0,
+    "source_url": "https://netchoice.org/netchoice-echelon-insights-poll-voters-rank-ai-regulation-far-behind-cost-of-living-want-one-national-ai-standard/"
+   },
+   {
+    "poll_name_as_listed": "CBS/YouGov",
+    "pollster": "YouGov",
+    "sponsor": "CBS",
+    "partisan_sponsor": "none",
+    "field_start": "2026-10-21",
+    "field_end": "2026-10-23",
+    "sample_size": 1749,
+    "population": "LV",
+    "margin_of_error": "",
+    "D": 53.0,
+    "R": 45.0,
+    "source_url": "https://www.cbsnews.com/news/poll-house-estimate-midterm-elections-2026/"
+   },
+   {
+    "poll_name_as_listed": "Clarity Campaign Labs",
+    "pollster": "Clarity Campaign Labs",
+    "sponsor": null,
+    "partisan_sponsor": "none",
+    "field_start": "2026-10-15",
+    "field_end": "2026-10-21",
+    "sample_size": 1016,
+    "population": "LV",
+    "margin_of_error": "+/-3.1%",
+    "D": 52.0,
+    "R": 44.0,
+    "source_url": "https://www.claritycampaigns.com/clarity-omnibus-2026-oct"
+   },
+   {
+    "poll_name_as_listed": "ActiVote",
+    "pollster": "ActiVote",
+    "sponsor": null,
+    "partisan_sponsor": "none",
+    "field_start": "2026-10-15",
+    "field_end": "2026-10-21",
+    "sample_size": 1000,
+    "population": "LV",
+    "margin_of_error": "+/-3.1%",
+    "D": 53.7,
+    "R": 46.3,
+    "source_url": "https://www.activote.net/polls/generic-ballot/"
+   },
+   {
+    "poll_name_as_listed": "Economist/YouGov",
+    "pollster": "YouGov",
+    "sponsor": "Economist",
+    "partisan_sponsor": "none",
+    "field_start": "2026-10-19",
+    "field_end": "2026-10-20",
+    "sample_size": 1501,
+    "population": "RV",
+    "margin_of_error": "+/-3%",
+    "D": 45.0,
+    "R": 40.0,
+    "source_url": "https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_55Zxk28.pdf"
+   },
+   {
+    "poll_name_as_listed": "Economist/YouGov",
+    "pollster": "YouGov",
+    "sponsor": "Economist",
+    "partisan_sponsor": "none",
+    "field_start": "2026-10-19",
+    "field_end": "2026-10-20",
+    "sample_size": 1315,
+    "population": "LV",
+    "margin_of_error": "",
+    "D": 50.0,
+    "R": 43.0,
+    "source_url": "https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_55Zxk28.pdf"
+   },
+   {
+    "poll_name_as_listed": "Rainey Center/Bedrock Research",
+    "pollster": "Bedrock Research",
+    "sponsor": "Rainey Center",
+    "partisan_sponsor": "none",
+    "field_start": "2026-10-14",
+    "field_end": "2026-10-20",
+    "sample_size": 1279,
+    "population": "RV",
+    "margin_of_error": "+/-3.6%",
+    "D": 52.0,
+    "R": 44.0,
+    "source_url": "https://www.raineycenter.org/polling/ai-data-centers-energy-and-kids-online"
+   },
+   {
+    "poll_name_as_listed": "NPR/PBS News/Marist Poll",
+    "pollster": "Marist Poll",
+    "sponsor": "NPR/PBS News",
+    "partisan_sponsor": "none",
+    "field_start": "2026-10-19",
+    "field_end": "2026-10-20",
+    "sample_size": 1289,
+    "population": "LV",
+    "margin_of_error": "+/-3.8%",
+    "D": 52.0,
+    "R": 44.0,
+    "source_url": "https://maristpoll.marist.edu/polls/u-s-midterm-elections-october-2026/"
+   },
+   {
+    "poll_name_as_listed": "Financial Times/Focaldata",
+    "pollster": "Focaldata",
+    "sponsor": "Financial Times",
+    "partisan_sponsor": "none",
+    "field_start": "2026-10-16",
+    "field_end": "2026-10-20",
+    "sample_size": 1845,
+    "population": "A",
+    "margin_of_error": "+/-2.6%",
+    "D": 49.0,
+    "R": 40.0,
+    "source_url": "https://www.focaldata.com/blog/democrats-hit-new-high-in-penultimate-midterms-poll"
+   },
+   {
+    "poll_name_as_listed": "Financial Times/Focaldata",
+    "pollster": "Focaldata",
+    "sponsor": "Financial Times",
+    "partisan_sponsor": "none",
+    "field_start": "2026-10-16",
+    "field_end": "2026-10-20",
+    "sample_size": 1648,
+    "population": "RV",
+    "margin_of_error": "+/-2.8%",
+    "D": 51.0,
+    "R": 41.0,
+    "source_url": "https://www.focaldata.com/blog/democrats-hit-new-high-in-penultimate-midterms-poll"
+   },
+   {
+    "poll_name_as_listed": "Financial Times/Focaldata",
+    "pollster": "Focaldata",
+    "sponsor": "Financial Times",
+    "partisan_sponsor": "none",
+    "field_start": "2026-10-16",
+    "field_end": "2026-10-20",
+    "sample_size": 1594,
+    "population": "LV",
+    "margin_of_error": "+/-3%",
+    "D": 53.0,
+    "R": 44.0,
+    "source_url": "https://www.focaldata.com/blog/democrats-hit-new-high-in-penultimate-midterms-poll"
+   },
+   {
+    "poll_name_as_listed": "NPR/PBS News/Marist Poll",
+    "pollster": "Marist Poll",
+    "sponsor": "NPR/PBS News",
+    "partisan_sponsor": "none",
+    "field_start": "2026-10-19",
+    "field_end": "2026-10-20",
+    "sample_size": 1289,
+    "population": "RV",
+    "margin_of_error": "+/-3.7%",
+    "D": 52.0,
+    "R": 42.0,
+    "source_url": "https://maristpoll.marist.edu/polls/u-s-midterm-elections-october-2026/"
+   },
+   {
+    "poll_name_as_listed": "Penn State McCourtney Institute for Democracy/YouGov",
+    "pollster": "YouGov",
+    "sponsor": "Penn State McCourtney Institute for Democracy",
+    "partisan_sponsor": "none",
+    "field_start": "2026-10-14",
+    "field_end": "2026-10-20",
+    "sample_size": 724,
+    "population": "LV",
+    "margin_of_error": "+/-4.4%",
+    "D": 47.0,
+    "R": 43.0,
+    "source_url": "https://democracy.psu.edu/poll-report-archive/democrats-have-tiny-edge-in-congressional-generic-ballot/"
+   },
+   {
+    "poll_name_as_listed": "Echelon Insights",
+    "pollster": "Echelon Insights",
+    "sponsor": null,
+    "partisan_sponsor": "none",
+    "field_start": "2026-10-15",
+    "field_end": "2026-10-19",
+    "sample_size": 1010,
+    "population": "RV",
+    "margin_of_error": "+/-3.6%",
+    "D": 50.0,
+    "R": 45.0,
+    "source_url": "https://echeloninsights.com/insights/october-2026-verified-voter-omnibus"
+   },
+   {
+    "poll_name_as_listed": "New York Times/Siena",
+    "pollster": "Siena",
+    "sponsor": "New York Times",
+    "partisan_sponsor": "none",
+    "field_start": "2026-10-12",
+    "field_end": "2026-10-19",
+    "sample_size": 3494,
+    "population": "RV",
+    "margin_of_error": "+/-2.2%",
+    "D": 51.0,
+    "R": 39.0,
+    "source_url": "https://www.nytimes.com/interactive/2026/10/21/polls/times-siena-poll-rv-crosstabs.html"
+   },
+   {
+    "poll_name_as_listed": "New York Times/Siena",
+    "pollster": "Siena",
+    "sponsor": "New York Times",
+    "partisan_sponsor": "none",
+    "field_start": "2026-10-12",
+    "field_end": "2026-10-19",
+    "sample_size": 3494,
+    "population": "LV",
+    "margin_of_error": "+/-2.2%",
+    "D": 52.0,
+    "R": 41.0,
+    "source_url": "https://www.nytimes.com/interactive/2026/10/21/polls/times-siena-poll-crosstabs.html"
+   },
+   {
+    "poll_name_as_listed": "Strength In Numbers/Verasight",
+    "pollster": "Verasight",
+    "sponsor": "Strength In Numbers",
+    "partisan_sponsor": "none",
+    "field_start": "2026-10-13",
+    "field_end": "2026-10-19",
+    "sample_size": 2028,
+    "population": "A",
+    "margin_of_error": "+/-4.2%",
+    "D": 50.0,
+    "R": 40.0,
+    "source_url": "https://www.gelliottmorris.com/p/2026-10-21-october-strength-in-numbers-verasight-poll-release?utm_campaign=email-half-post&r=8kmho5&utm_source=substack&utm_medium=email"
+   },
+   {
+    "poll_name_as_listed": "Strength In Numbers/Verasight",
+    "pollster": "Verasight",
+    "sponsor": "Strength In Numbers",
+    "partisan_sponsor": "none",
+    "field_start": "2026-10-13",
+    "field_end": "2026-10-19",
+    "sample_size": 1824,
+    "population": "RV",
+    "margin_of_error": "+/-4.5%",
+    "D": 52.0,
+    "R": 41.0,
+    "source_url": "https://www.gelliottmorris.com/p/2026-10-21-october-strength-in-numbers-verasight-poll-release?utm_campaign=email-half-post&r=8kmho5&utm_source=substack&utm_medium=email"
+   },
+   {
+    "poll_name_as_listed": "Strength In Numbers/Verasight",
+    "pollster": "Verasight",
+    "sponsor": "Strength In Numbers",
+    "partisan_sponsor": "none",
+    "field_start": "2026-10-13",
+    "field_end": "2026-10-19",
+    "sample_size": 1824,
+    "population": "LV",
+    "margin_of_error": "+/-4.6%",
+    "D": 54.0,
+    "R": 42.0,
+    "source_url": "https://www.gelliottmorris.com/p/2026-10-21-october-strength-in-numbers-verasight-poll-release?utm_campaign=email-half-post&r=8kmho5&utm_source=substack&utm_medium=email"
+   },
+   {
+    "poll_name_as_listed": "Reuters/Ipsos",
+    "pollster": "Ipsos",
+    "sponsor": "Reuters",
+    "partisan_sponsor": "none",
+    "field_start": "2026-10-16",
+    "field_end": "2026-10-19",
+    "sample_size": 1679,
+    "population": "A",
+    "margin_of_error": "+/-2.4%",
+    "D": 40.0,
+    "R": 29.0,
+    "source_url": "https://www.ipsos.com/en-us/reutersipsos-mid-october-survey"
+   },
+   {
+    "poll_name_as_listed": "Reuters/Ipsos",
+    "pollster": "Ipsos",
+    "sponsor": "Reuters",
+    "partisan_sponsor": "none",
+    "field_start": "2026-10-16",
+    "field_end": "2026-10-19",
+    "sample_size": 1279,
+    "population": "RV",
+    "margin_of_error": "+/-2.8%",
+    "D": 47.0,
+    "R": 35.0,
+    "source_url": "https://www.ipsos.com/en-us/reutersipsos-mid-october-survey"
+   },
+   {
+    "poll_name_as_listed": "Morning Consult",
+    "pollster": "Morning Consult",
+    "sponsor": null,
+    "partisan_sponsor": "none",
+    "field_start": "2026-10-12",
+    "field_end": "2026-10-18",
+    "sample_size": 17706,
+    "population": "LV",
+    "margin_of_error": "+/-0.9%",
+    "D": 50.44,
+    "R": 43.14,
+    "source_url": "https://share.mcpidata.dev/press"
+   },
+   {
+    "poll_name_as_listed": "CNBC/Hart Research Associates/Public Opinion Strategies",
+    "pollster": "Hart Research Associates/Public Opinion Strategies",
+    "sponsor": "CNBC",
+    "partisan_sponsor": "none",
+    "field_start": "2026-10-14",
+    "field_end": "2026-10-18",
+    "sample_size": 1000,
+    "population": "RV",
+    "margin_of_error": "+/-3.1%",
+    "D": 52.0,
+    "R": 45.0,
+    "source_url": "https://www.cnbc.com/2026/10/22/trump-economic-approval-rating-midterms-poll.html"
+   },
+   {
+    "poll_name_as_listed": "CNN/SSRS",
+    "pollster": "SSRS",
+    "sponsor": "CNN",
+    "partisan_sponsor": "none",
+    "field_start": "2026-10-15",
+    "field_end": "2026-10-18",
+    "sample_size": 1206,
+    "population": "RV",
+    "margin_of_error": "+/-3.3%",
+    "D": 49.0,
+    "R": 39.0,
+    "source_url": "https://www.cnn.com/2026/10/21/politics/cnn-poll-trump-democrats-republicans-midterms"
+   },
+   {
+    "poll_name_as_listed": "ActiVote",
+    "pollster": "ActiVote",
+    "sponsor": null,
+    "partisan_sponsor": "none",
+    "field_start": "2026-10-04",
+    "field_end": "2026-10-14",
+    "sample_size": 1000,
+    "population": "LV",
+    "margin_of_error": "+/-3.1%",
+    "D": 53.3,
+    "R": 46.7,
+    "source_url": "https://www.activote.net/polls/generic-ballot/2026-10-14/"
+   },
+   {
+    "poll_name_as_listed": "ABC News/Washington Post/Ipsos",
+    "pollster": "Ipsos",
+    "sponsor": "ABC News/Washington Post",
+    "partisan_sponsor": "none",
+    "field_start": "2026-10-09",
+    "field_end": "2026-10-13",
+    "sample_size": 2032,
+    "population": "RV",
+    "margin_of_error": "+/-2.2%",
+    "D": 50.0,
+    "R": 42.0,
+    "source_url": "https://www.ipsos.com/en-us/ABC-News-Washington-Post-Ipsos-Poll-October-2026"
+   },
+   {
+    "poll_name_as_listed": "ABC News/Washington Post/Ipsos",
+    "pollster": "Ipsos",
+    "sponsor": "ABC News/Washington Post",
+    "partisan_sponsor": "none",
+    "field_start": "2026-10-09",
+    "field_end": "2026-10-13",
+    "sample_size": 2032,
+    "population": "LV",
+    "margin_of_error": "+/-2.2%",
+    "D": 52.0,
+    "R": 44.0,
+    "source_url": "https://www.ipsos.com/en-us/ABC-News-Washington-Post-Ipsos-Poll-October-2027"
+   },
+   {
+    "poll_name_as_listed": "Fox News/Beacon Research/Shaw & Company Research",
+    "pollster": "Beacon Research/Shaw & Company Research",
+    "sponsor": "Fox News",
+    "partisan_sponsor": "none",
+    "field_start": "2026-10-09",
+    "field_end": "2026-10-12",
+    "sample_size": 1202,
+    "population": "RV",
+    "margin_of_error": "+/-2.5%",
+    "D": 54.0,
+    "R": 45.0,
+    "source_url": "https://www.foxnews.com/politics/fox-news-poll-cost-living-concerns-weigh-gop-midterms"
+   },
+   {
+    "poll_name_as_listed": "AP-NORC",
+    "pollster": "AP-NORC",
+    "sponsor": null,
+    "partisan_sponsor": "none",
+    "field_start": "2026-10-08",
+    "field_end": "2026-10-12",
+    "sample_size": 1119,
+    "population": "A",
+    "margin_of_error": "+/-3.9%",
+    "D": 43.0,
+    "R": 34.0,
+    "source_url": "https://apnorc.org/projects/ahead-of-the-midterms-most-voters-cite-the-economy-and-cost-of-living-as-top-issues-and-favor-political-change/"
+   },
+   {
+    "poll_name_as_listed": "NBC News Decision Desk/SurveyMonkey",
+    "pollster": "SurveyMonkey",
+    "sponsor": "NBC News Decision Desk",
+    "partisan_sponsor": "none",
+    "field_start": "2026-09-28",
+    "field_end": "2026-10-12",
+    "sample_size": 17649,
+    "population": "RV",
+    "margin_of_error": "+/-1.6%",
+    "D": 55.0,
+    "R": 45.0,
+    "source_url": "https://www.nbcnews.com/politics/2026-election/poll-americans-anxious-pessimistic-deeply-unhappy-trump-ahead-midterms-rcna603064"
+   },
+   {
+    "poll_name_as_listed": "Economist/YouGov",
+    "pollster": "YouGov",
+    "sponsor": "Economist",
+    "partisan_sponsor": "none",
+    "field_start": "2026-10-10",
+    "field_end": "2026-10-12",
+    "sample_size": 1403,
+    "population": "RV",
+    "margin_of_error": "+/-3.5%",
+    "D": 46.0,
+    "R": 39.0,
+    "source_url": "https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_7pgxnD3.pdf"
+   },
+   {
+    "poll_name_as_listed": "Economist/YouGov",
+    "pollster": "YouGov",
+    "sponsor": "Economist",
+    "partisan_sponsor": "none",
+    "field_start": "2026-10-10",
+    "field_end": "2026-10-12",
+    "sample_size": 1184,
+    "population": "LV",
+    "margin_of_error": "",
+    "D": 49.0,
+    "R": 41.0,
+    "source_url": "https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_703uvs1.pdf"
+   },
+   {
+    "poll_name_as_listed": "Morning Consult",
+    "pollster": "Morning Consult",
+    "sponsor": null,
+    "partisan_sponsor": "none",
+    "field_start": "2026-10-05",
+    "field_end": "2026-10-11",
+    "sample_size": 17654,
+    "population": "LV",
+    "margin_of_error": "+/-0.9%",
+    "D": 49.65,
+    "R": 43.07,
+    "source_url": "https://share.mcpidata.dev/press"
+   },
+   {
+    "poll_name_as_listed": "Cygnal",
+    "pollster": "Cygnal",
+    "sponsor": null,
+    "partisan_sponsor": "none",
+    "field_start": "2026-10-07",
+    "field_end": "2026-10-10",
+    "sample_size": 1500,
+    "population": "LV",
+    "margin_of_error": "+/-2.5%",
+    "D": 51.0,
+    "R": 42.0,
+    "source_url": "https://www.cygn.al/polls/national-poll-voters-views-on-foreign-conflicts-self-defense-and-tyranny/"
+   },
+   {
+    "poll_name_as_listed": "NewsNation/DDHQ/TrueDot.ai",
+    "pollster": "TrueDot.ai",
+    "sponsor": "NewsNation/DDHQ",
+    "partisan_sponsor": "none",
+    "field_start": "2026-10-05",
+    "field_end": "2026-10-09",
+    "sample_size": 974,
+    "population": "LV",
+    "margin_of_error": "+/-3.2%",
+    "D": 49.0,
+    "R": 42.0,
+    "source_url": "https://thehill.com/homenews/campaign/6143963-democrats-lead-congressional-ballot-ddhq/"
+   },
+   {
+    "poll_name_as_listed": "The Honest Poll",
+    "pollster": "The Honest Poll",
+    "sponsor": null,
+    "partisan_sponsor": "none",
+    "field_start": "2026-10-04",
+    "field_end": "2026-10-06",
+    "sample_size": 939,
+    "population": "RV",
+    "margin_of_error": "+/-3.4%",
+    "D": 52.0,
+    "R": 41.0,
+    "source_url": "https://www.thehonestpoll.com/polls/democrats-lead-by-12-points-among-likely-voters-in-latest-honest-poll-survey"
+   },
+   {
+    "poll_name_as_listed": "The Honest Poll",
+    "pollster": "The Honest Poll",
+    "sponsor": null,
+    "partisan_sponsor": "none",
+    "field_start": "2026-10-04",
+    "field_end": "2026-10-06",
+    "sample_size": 780,
+    "population": "LV",
+    "margin_of_error": "",
+    "D": 54.0,
+    "R": 42.0,
+    "source_url": "https://www.thehonestpoll.com/polls/democrats-lead-by-12-points-among-likely-voters-in-latest-honest-poll-survey"
+   },
+   {
+    "poll_name_as_listed": "Economist/YouGov",
+    "pollster": "YouGov",
+    "sponsor": "Economist",
+    "partisan_sponsor": "none",
+    "field_start": "2026-10-02",
+    "field_end": "2026-10-05",
+    "sample_size": 1381,
+    "population": "RV",
+    "margin_of_error": "+/-3.4%",
+    "D": 47.0,
+    "R": 38.0,
+    "source_url": "https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_703uvs1.pdf"
+   },
+   {
+    "poll_name_as_listed": "Economist/YouGov",
+    "pollster": "YouGov",
+    "sponsor": "Economist",
+    "partisan_sponsor": "none",
+    "field_start": "2026-10-02",
+    "field_end": "2026-10-05",
+    "sample_size": 1173,
+    "population": "LV",
+    "margin_of_error": "",
+    "D": 51.0,
+    "R": 40.0,
+    "source_url": "https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_703uvs1.pdf"
+   },
+   {
+    "poll_name_as_listed": "Reuters/Ipsos",
+    "pollster": "Ipsos",
+    "sponsor": "Reuters",
+    "partisan_sponsor": "none",
+    "field_start": "2026-09-30",
+    "field_end": "2026-10-05",
+    "sample_size": 4506,
+    "population": "A",
+    "margin_of_error": "+/-1.5%",
+    "D": 37.0,
+    "R": 30.0,
+    "source_url": "https://www.ipsos.com/en-us/reutersipsos-october-survey"
+   },
+   {
+    "poll_name_as_listed": "Reuters/Ipsos",
+    "pollster": "Ipsos",
+    "sponsor": "Reuters",
+    "partisan_sponsor": "none",
+    "field_start": "2026-09-30",
+    "field_end": "2026-10-05",
+    "sample_size": 3526,
+    "population": "RV",
+    "margin_of_error": "+/-1.7%",
+    "D": 44.0,
+    "R": 37.0,
+    "source_url": "https://www.ipsos.com/en-us/reutersipsos-october-survey"
+   },
+   {
+    "poll_name_as_listed": "Financial Times/Focaldata",
+    "pollster": "Focaldata",
+    "sponsor": "Financial Times",
+    "partisan_sponsor": "none",
+    "field_start": "2026-10-02",
+    "field_end": "2026-10-05",
+    "sample_size": 2553,
+    "population": "A",
+    "margin_of_error": "",
+    "D": 47.0,
+    "R": 41.0,
+    "source_url": "https://www.focaldata.com/blog/democrats-further-extend-generic-ballot-lead-as-midterms-approach"
+   },
+   {
+    "poll_name_as_listed": "Financial Times/Focaldata",
+    "pollster": "Focaldata",
+    "sponsor": "Financial Times",
+    "partisan_sponsor": "none",
+    "field_start": "2026-10-02",
+    "field_end": "2026-10-05",
+    "sample_size": 2275,
+    "population": "RV",
+    "margin_of_error": "",
+    "D": 49.0,
+    "R": 43.0,
+    "source_url": "https://www.focaldata.com/blog/democrats-further-extend-generic-ballot-lead-as-midterms-approach"
+   },
+   {
+    "poll_name_as_listed": "Financial Times/Focaldata",
+    "pollster": "Focaldata",
+    "sponsor": "Financial Times",
+    "partisan_sponsor": "none",
+    "field_start": "2026-10-02",
+    "field_end": "2026-10-05",
+    "sample_size": 2201,
+    "population": "LV",
+    "margin_of_error": "",
+    "D": 52.0,
+    "R": 44.0,
+    "source_url": "https://www.focaldata.com/blog/democrats-further-extend-generic-ballot-lead-as-midterms-approach"
+   },
+   {
+    "poll_name_as_listed": "Morning Consult",
+    "pollster": "Morning Consult",
+    "sponsor": null,
+    "partisan_sponsor": "none",
+    "field_start": "2026-09-28",
+    "field_end": "2026-10-04",
+    "sample_size": 17659,
+    "population": "LV",
+    "margin_of_error": "+/-0.9%",
+    "D": 49.88,
+    "R": 43.24,
+    "source_url": "https://share.mcpidata.dev/press"
+   },
+   {
+    "poll_name_as_listed": "Pew Research Center/SSRS",
+    "pollster": "SSRS",
+    "sponsor": "Pew Research Center",
+    "partisan_sponsor": "none",
+    "field_start": "2026-09-28",
+    "field_end": "2026-10-04",
+    "sample_size": 3917,
+    "population": "RV",
+    "margin_of_error": "+/-1.8%",
+    "D": 44.0,
+    "R": 36.0,
+    "source_url": "https://www.pewresearch.org/short-reads/2026/10/08/iran-conflict-remains-deeply-unpopular-as-many-americans-expect-it-to-go-on-for-months/"
+   },
+   {
+    "poll_name_as_listed": "UMass Lowell/YouGov",
+    "pollster": "YouGov",
+    "sponsor": "UMass Lowell",
+    "partisan_sponsor": "none",
+    "field_start": "2026-10-02",
+    "field_end": "2026-10-04",
+    "sample_size": 1000,
+    "population": "LV",
+    "margin_of_error": "+/-3.84%",
+    "D": 52.0,
+    "R": 43.0,
+    "source_url": "https://www.uml.edu/news/press-releases/2026/102226-nat-poll-october.aspx"
+   },
+   {
+    "poll_name_as_listed": "ActiVote",
+    "pollster": "ActiVote",
+    "sponsor": null,
+    "partisan_sponsor": "none",
+    "field_start": "2026-09-22",
+    "field_end": "2026-10-02",
+    "sample_size": 1000,
+    "population": "LV",
+    "margin_of_error": "+/-3.1%",
+    "D": 52.2,
+    "R": 47.8,
+    "source_url": "https://www.activote.net/polls/generic-ballot/"
+   },
+   {
+    "poll_name_as_listed": "Cygnal",
+    "pollster": "Cygnal",
+    "sponsor": null,
+    "partisan_sponsor": "none",
+    "field_start": "2026-10-01",
+    "field_end": "2026-10-02",
+    "sample_size": 1500,
+    "population": "LV",
+    "margin_of_error": "+/-2.53%",
+    "D": 51.6,
+    "R": 42.5,
+    "source_url": "https://www.cygn.al/polls/october-2026-national-voter-trends-nvt-poll/"
+   },
+   {
+    "poll_name_as_listed": "CBS/YouGov",
+    "pollster": "YouGov",
+    "sponsor": "CBS",
+    "partisan_sponsor": "none",
+    "field_start": "2026-09-30",
+    "field_end": "2026-10-02",
+    "sample_size": 1572,
+    "population": "LV",
+    "margin_of_error": "",
+    "D": 54.0,
+    "R": 45.0,
+    "source_url": "https://www.cbsnews.com/news/midterm-poll-battleground-tracker-democrats-house-advantage/"
+   },
+   {
+    "poll_name_as_listed": "Centerline Research and Strategy",
+    "pollster": "Centerline Research and Strategy",
+    "sponsor": null,
+    "partisan_sponsor": "none",
+    "field_start": "2026-09-26",
+    "field_end": "2026-10-01",
+    "sample_size": 1239,
+    "population": "RV",
+    "margin_of_error": "+/-3.2%",
+    "D": 49.0,
+    "R": 39.0,
+    "source_url": "https://centerliners.com/assets/polls/centerline-national-poll-release-100626.pdf"
+   },
+   {
+    "poll_name_as_listed": "Centerline Research and Strategy",
+    "pollster": "Centerline Research and Strategy",
+    "sponsor": null,
+    "partisan_sponsor": "none",
+    "field_start": "2026-09-26",
+    "field_end": "2026-10-01",
+    "sample_size": 930,
+    "population": "LV",
+    "margin_of_error": "+/-3.8%",
+    "D": 50.0,
+    "R": 42.0,
+    "source_url": "https://centerliners.com/assets/polls/centerline-national-poll-release-100626.pdf"
+   },
+   {
+    "poll_name_as_listed": "Independent Center Voice/AlphaROC",
+    "pollster": "AlphaROC",
+    "sponsor": "Independent Center Voice",
+    "partisan_sponsor": "none",
+    "field_start": "2026-09-25",
+    "field_end": "2026-09-28",
+    "sample_size": 1000,
+    "population": "A",
+    "margin_of_error": "+/-3.1%",
+    "D": 43.4,
+    "R": 37.1,
+    "source_url": "https://independentcentervoice.com/insights/september-2026-national-survey-agreement-on-ai"
+   },
+   {
+    "poll_name_as_listed": "Harvard CAPS/Harris Poll",
+    "pollster": "Harris Poll",
+    "sponsor": "Harvard CAPS",
+    "partisan_sponsor": "none",
+    "field_start": "2026-09-26",
+    "field_end": "2026-09-28",
+    "sample_size": 2200,
+    "population": "RV",
+    "margin_of_error": "+/-2.1%",
+    "D": 50.0,
+    "R": 50.0,
+    "source_url": "https://harvardharrispoll.com/"
+   },
+   {
+    "poll_name_as_listed": "Economist/YouGov",
+    "pollster": "YouGov",
+    "sponsor": "Economist",
+    "partisan_sponsor": "none",
+    "field_start": "2026-09-25",
+    "field_end": "2026-09-28",
+    "sample_size": 1429,
+    "population": "RV",
+    "margin_of_error": "+/-3.4%",
+    "D": 45.0,
+    "R": 37.0,
+    "source_url": "https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_CCphJ5Q.pdf"
+   },
+   {
+    "poll_name_as_listed": "Economist/YouGov",
+    "pollster": "YouGov",
+    "sponsor": "Economist",
+    "partisan_sponsor": "none",
+    "field_start": "2026-09-25",
+    "field_end": "2026-09-28",
+    "sample_size": 1007,
+    "population": "LV",
+    "margin_of_error": "",
+    "D": 53.0,
+    "R": 38.0,
+    "source_url": "https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_CCphJ5Q.pdf"
+   },
+   {
+    "poll_name_as_listed": "Morning Consult",
+    "pollster": "Morning Consult",
+    "sponsor": null,
+    "partisan_sponsor": "none",
+    "field_start": "2026-09-21",
+    "field_end": "2026-09-27",
+    "sample_size": 18786,
+    "population": "LV",
+    "margin_of_error": "+/-0.9%",
+    "D": 50.27,
+    "R": 42.81,
+    "source_url": "https://share.mcpidata.dev/press"
+   },
+   {
+    "poll_name_as_listed": "Quinnipiac",
+    "pollster": "Quinnipiac",
+    "sponsor": null,
+    "partisan_sponsor": "none",
+    "field_start": "2026-09-24",
+    "field_end": "2026-09-27",
+    "sample_size": 1032,
+    "population": "RV",
+    "margin_of_error": "+/-3.8%",
+    "D": 51.0,
+    "R": 39.0,
+    "source_url": "https://poll.qu.edu/poll-release?releaseid=3968"
+   },
+   {
+    "poll_name_as_listed": "Angus Reid Institute",
+    "pollster": "Angus Reid Institute",
+    "sponsor": null,
+    "partisan_sponsor": "none",
+    "field_start": "2026-09-19",
+    "field_end": "2026-09-25",
+    "sample_size": 1205,
+    "population": "A",
+    "margin_of_error": "+/-2.5%",
+    "D": 45.0,
+    "R": 34.0,
+    "source_url": "https://angusreid.us/blue-wave-democrats/"
+   },
+   {
+    "poll_name_as_listed": "Third Way/GBAO",
+    "pollster": "GBAO",
+    "sponsor": "Third Way",
+    "partisan_sponsor": "none",
+    "field_start": "2026-09-17",
+    "field_end": "2026-09-24",
+    "sample_size": 2000,
+    "population": "RV",
+    "margin_of_error": "",
+    "D": 49.0,
+    "R": 41.0,
+    "source_url": "https://www.thirdway.org/memo/voters-are-clear-costs-are-the-signal"
+   },
+   {
+    "poll_name_as_listed": "The Argument/Verasight",
+    "pollster": "Verasight",
+    "sponsor": "The Argument",
+    "partisan_sponsor": "none",
+    "field_start": "2026-09-16",
+    "field_end": "2026-09-22",
+    "sample_size": 1603,
+    "population": "RV",
+    "margin_of_error": "+/-2.6%",
+    "D": 53.0,
+    "R": 47.0,
+    "source_url": "https://www.theargumentmag.com/p/the-least-popular-war-since-vietnam?utm_source=post-email-title&publication_id=5247799&post_id=218065408&utm_campaign=email-post-title&isFreemail=false&r=8kmho5&triedRedirect=true&utm_medium=email"
+   },
+   {
+    "poll_name_as_listed": "Emerson College",
+    "pollster": "Emerson College",
+    "sponsor": null,
+    "partisan_sponsor": "none",
+    "field_start": "2026-09-21",
+    "field_end": "2026-09-22",
+    "sample_size": 1000,
+    "population": "LV",
+    "margin_of_error": "+/-3%",
+    "D": 53.0,
+    "R": 42.0,
+    "source_url": "https://emersoncollegepolling.com/september-2026-national-poll-democrats/"
+   },
+   {
+    "poll_name_as_listed": "McLaughlin & Associates",
+    "pollster": "McLaughlin & Associates",
+    "sponsor": null,
+    "partisan_sponsor": "none",
+    "field_start": "2026-09-16",
+    "field_end": "2026-09-22",
+    "sample_size": 1000,
+    "population": "LV",
+    "margin_of_error": "",
+    "D": 48.0,
+    "R": 43.0,
+    "source_url": "https://mclaughlinonline.com/pols/wp-content/uploads/2026/09/National-September-Presentation-RELEASE-.pdf"
+   },
+   {
+    "poll_name_as_listed": "ActiVote",
+    "pollster": "ActiVote",
+    "sponsor": null,
+    "partisan_sponsor": "none",
+    "field_start": "2026-09-11",
+    "field_end": "2026-09-21",
+    "sample_size": 1000,
+    "population": "LV",
+    "margin_of_error": "+/-3.1%",
+    "D": 52.8,
+    "R": 47.2,
+    "source_url": "https://www.activote.net/polls/generic-ballot/2026-09-22/"
+   },
+   {
+    "poll_name_as_listed": "Strength In Numbers/Verasight",
+    "pollster": "Verasight",
+    "sponsor": "Strength In Numbers",
+    "partisan_sponsor": "none",
+    "field_start": "2026-09-16",
+    "field_end": "2026-09-21",
+    "sample_size": 1528,
+    "population": "A",
+    "margin_of_error": "+/-2.6%",
+    "D": 49.0,
+    "R": 41.0,
+    "source_url": "https://www.gelliottmorris.com/p/poll?utm_source=substack&utm_medium=email"
+   },
+   {
+    "poll_name_as_listed": "Strength In Numbers/Verasight",
+    "pollster": "Verasight",
+    "sponsor": "Strength In Numbers",
+    "partisan_sponsor": "none",
+    "field_start": "2026-09-16",
+    "field_end": "2026-09-21",
+    "sample_size": 1374,
+    "population": "RV",
+    "margin_of_error": "",
+    "D": 50.0,
+    "R": 42.0,
+    "source_url": "https://www.gelliottmorris.com/p/poll?utm_source=substack&utm_medium=email"
+   },
+   {
+    "poll_name_as_listed": "Echelon Insights",
+    "pollster": "Echelon Insights",
+    "sponsor": null,
+    "partisan_sponsor": "none",
+    "field_start": "2026-09-17",
+    "field_end": "2026-09-21",
+    "sample_size": 1002,
+    "population": "LV",
+    "margin_of_error": "+/-3.6%",
+    "D": 51.0,
+    "R": 43.0,
+    "source_url": "https://echeloninsights.com/insights/september-2026-verified-voter-omnibus"
+   },
+   {
+    "poll_name_as_listed": "Economist/YouGov",
+    "pollster": "YouGov",
+    "sponsor": "Economist",
+    "partisan_sponsor": "none",
+    "field_start": "2026-09-18",
+    "field_end": "2026-09-21",
+    "sample_size": 1401,
+    "population": "RV",
+    "margin_of_error": "+/-3.4%",
+    "D": 45.0,
+    "R": 36.0,
+    "source_url": "https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_5WiMaRX.pdf"
+   },
+   {
+    "poll_name_as_listed": "Economist/YouGov",
+    "pollster": "YouGov",
+    "sponsor": "Economist",
+    "partisan_sponsor": "none",
+    "field_start": "2026-09-18",
+    "field_end": "2026-09-21",
+    "sample_size": 982,
+    "population": "LV",
+    "margin_of_error": "",
+    "D": 52.0,
+    "R": 38.0,
+    "source_url": "https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_5WiMaRX.pdf"
+   },
+   {
+    "poll_name_as_listed": "Morning Consult",
+    "pollster": "Morning Consult",
+    "sponsor": null,
+    "partisan_sponsor": "none",
+    "field_start": "2026-09-14",
+    "field_end": "2026-09-20",
+    "sample_size": 18336,
+    "population": "LV",
+    "margin_of_error": "+/-0.9%",
+    "D": 49.74,
+    "R": 42.62,
+    "source_url": "https://share.mcpidata.dev/press"
+   },
+   {
+    "poll_name_as_listed": "Reuters/Ipsos",
+    "pollster": "Ipsos",
+    "sponsor": "Reuters",
+    "partisan_sponsor": "none",
+    "field_start": "2026-09-17",
+    "field_end": "2026-09-20",
+    "sample_size": 1277,
+    "population": "A",
+    "margin_of_error": "+/-2.8%",
+    "D": 37.0,
+    "R": 29.0,
+    "source_url": "https://www.ipsos.com/en-us/republicans-rating-trump-cost-living-declines"
+   },
+   {
+    "poll_name_as_listed": "Reuters/Ipsos",
+    "pollster": "Ipsos",
+    "sponsor": "Reuters",
+    "partisan_sponsor": "none",
+    "field_start": "2026-09-17",
+    "field_end": "2026-09-20",
+    "sample_size": 979,
+    "population": "RV",
+    "margin_of_error": "+/-3.2%",
+    "D": 43.0,
+    "R": 35.0,
+    "source_url": "https://www.ipsos.com/en-us/republicans-rating-trump-cost-living-declines"
+   },
+   {
+    "poll_name_as_listed": "Quantus Insights",
+    "pollster": "Quantus Insights",
+    "sponsor": null,
+    "partisan_sponsor": "none",
+    "field_start": "2026-09-15",
+    "field_end": "2026-09-18",
+    "sample_size": 1389,
+    "population": "LV",
+    "margin_of_error": "+/-2.9%",
+    "D": 54.7,
+    "R": 45.3,
+    "source_url": "https://quantusinsights.org/f/quantus-survey-democrats-hold-big-midterm-lead-over-republicans"
+   },
+   {
+    "poll_name_as_listed": "CNN/SSRS",
+    "pollster": "SSRS",
+    "sponsor": "CNN",
+    "partisan_sponsor": "none",
+    "field_start": "2026-09-16",
+    "field_end": "2026-09-17",
+    "sample_size": 1206,
+    "population": "A",
+    "margin_of_error": "+/-3.5%",
+    "D": 49.0,
+    "R": 41.0,
+    "source_url": "https://www.documentcloud.org/documents/28674589-trumps-midterm-woes-deepen-amid-worsened-economic-backdrop-cnn-poll/"
+   },
+   {
+    "poll_name_as_listed": "NPR/PBS News/Marist Poll",
+    "pollster": "Marist Poll",
+    "sponsor": "NPR/PBS News",
+    "partisan_sponsor": "none",
+    "field_start": "2026-09-14",
+    "field_end": "2026-09-15",
+    "sample_size": 1280,
+    "population": "RV",
+    "margin_of_error": "+/-3.8%",
+    "D": 53.0,
+    "R": 41.0,
+    "source_url": "https://maristpoll.marist.edu/polls/2026-midterm-elections-september-2026/"
+   },
+   {
+    "poll_name_as_listed": "NBC News/Hart Research/Public Opinion Strategies",
+    "pollster": "Hart Research/Public Opinion Strategies",
+    "sponsor": "NBC News",
+    "partisan_sponsor": "none",
+    "field_start": "2026-09-11",
+    "field_end": "2026-09-15",
+    "sample_size": 1000,
+    "population": "RV",
+    "margin_of_error": "+/-3.1%",
+    "D": 50.0,
+    "R": 45.0,
+    "source_url": "https://www.nbcnews.com/politics/2026-election/poll-voters-say-trump-hurt-economy-competitive-midterm-election-looms-rcna597868"
+   },
+   {
+    "poll_name_as_listed": "Public Polling Project/Big Data Poll",
+    "pollster": "Big Data Poll",
+    "sponsor": "Public Polling Project",
+    "partisan_sponsor": "none",
+    "field_start": "2026-09-13",
+    "field_end": "2026-09-15",
+    "sample_size": 2947,
+    "population": "RV",
+    "margin_of_error": "+/-1.8%",
+    "D": 48.0,
+    "R": 38.0,
+    "source_url": "https://www.bigdatapoll.com/blog/democrats-maintain-significant-midterm-advantage-in-post-labor-day-poll/"
+   },
+   {
+    "poll_name_as_listed": "Public Polling Project/Big Data Poll",
+    "pollster": "Big Data Poll",
+    "sponsor": "Public Polling Project",
+    "partisan_sponsor": "none",
+    "field_start": "2026-09-13",
+    "field_end": "2026-09-15",
+    "sample_size": 2633,
+    "population": "LV",
+    "margin_of_error": "+/-1.7%",
+    "D": 51.0,
+    "R": 39.0,
+    "source_url": "https://www.bigdatapoll.com/blog/democrats-maintain-significant-midterm-advantage-in-post-labor-day-poll/"
+   },
+   {
+    "poll_name_as_listed": "Napolitan News Service/RMG Research",
+    "pollster": "RMG Research",
+    "sponsor": "Napolitan News Service",
+    "partisan_sponsor": "none",
+    "field_start": "2026-09-08",
+    "field_end": "2026-09-15",
+    "sample_size": 2000,
+    "population": "RV",
+    "margin_of_error": "+/-2.2%",
+    "D": 51.0,
+    "R": 43.0,
+    "source_url": "https://napolitannews.org/posts/generic-ballot-first-likely-voter-numbers-have-dems-ahead-6"
+   },
+   {
+    "poll_name_as_listed": "Rainey Center/Bedrock Research",
+    "pollster": "Bedrock Research",
+    "sponsor": "Rainey Center",
+    "partisan_sponsor": "none",
+    "field_start": "2026-09-10",
+    "field_end": "2026-09-14",
+    "sample_size": 1004,
+    "population": "RV",
+    "margin_of_error": "+/-4.9%",
+    "D": 48.0,
+    "R": 42.0,
+    "source_url": "https://www.raineycenter.org/polling/september-policy-survey-summary-of-findings"
+   },
+   {
+    "poll_name_as_listed": "Reuters/Ipsos",
+    "pollster": "Ipsos",
+    "sponsor": "Reuters",
+    "partisan_sponsor": "none",
+    "field_start": "2026-09-11",
+    "field_end": "2026-09-14",
+    "sample_size": 1143,
+    "population": "A",
+    "margin_of_error": "+/-3%",
+    "D": 39.0,
+    "R": 31.0,
+    "source_url": "https://www.ipsos.com/en-us/reutersipsos-september-2026-survey"
+   },
+   {
+    "poll_name_as_listed": "Reuters/Ipsos",
+    "pollster": "Ipsos",
+    "sponsor": "Reuters",
+    "partisan_sponsor": "none",
+    "field_start": "2026-09-11",
+    "field_end": "2026-09-14",
+    "sample_size": 896,
+    "population": "RV",
+    "margin_of_error": "+/-3.4%",
+    "D": 44.0,
+    "R": 37.0,
+    "source_url": "https://www.ipsos.com/en-us/reutersipsos-september-2026-survey"
+   },
+   {
+    "poll_name_as_listed": "Economist/YouGov",
+    "pollster": "YouGov",
+    "sponsor": "Economist",
+    "partisan_sponsor": "none",
+    "field_start": "2026-09-11",
+    "field_end": "2026-09-14",
+    "sample_size": 1461,
+    "population": "RV",
+    "margin_of_error": "+/-3.3%",
+    "D": 44.0,
+    "R": 39.0,
+    "source_url": "https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_ZmVljW6.pdf"
+   },
+   {
+    "poll_name_as_listed": "Economist/YouGov",
+    "pollster": "YouGov",
+    "sponsor": "Economist",
+    "partisan_sponsor": "none",
+    "field_start": "2026-09-11",
+    "field_end": "2026-09-14",
+    "sample_size": 1051,
+    "population": "LV",
+    "margin_of_error": "",
+    "D": 51.0,
+    "R": 39.0,
+    "source_url": "https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_ZmVljW6.pdf"
+   },
+   {
+    "poll_name_as_listed": "Fox News/Beacon Research/Shaw & Company Research",
+    "pollster": "Beacon Research/Shaw & Company Research",
+    "sponsor": "Fox News",
+    "partisan_sponsor": "none",
+    "field_start": "2026-09-11",
+    "field_end": "2026-09-14",
+    "sample_size": 1211,
+    "population": "RV",
+    "margin_of_error": "+/-3%",
+    "D": 51.0,
+    "R": 44.0,
+    "source_url": "https://www.foxnews.com/politics/fox-news-poll-squeezed-costs-frustrated-voters-turn-democrats"
+   },
+   {
+    "poll_name_as_listed": "New York Times/Siena",
+    "pollster": "Siena",
+    "sponsor": "New York Times",
+    "partisan_sponsor": "none",
+    "field_start": "2026-09-08",
+    "field_end": "2026-09-13",
+    "sample_size": 1503,
+    "population": "RV",
+    "margin_of_error": "+/-3.3%",
+    "D": 49.0,
+    "R": 42.0,
+    "source_url": "https://www.nytimes.com/interactive/2026/09/15/polls/times-siena-poll-registered-voter-crosstabs.html"
+   },
+   {
+    "poll_name_as_listed": "New York Times/Siena",
+    "pollster": "Siena",
+    "sponsor": "New York Times",
+    "partisan_sponsor": "none",
+    "field_start": "2026-09-08",
+    "field_end": "2026-09-13",
+    "sample_size": 1503,
+    "population": "LV",
+    "margin_of_error": "+/-3.2%",
+    "D": 51.0,
+    "R": 43.0,
+    "source_url": "https://www.nytimes.com/interactive/2026/09/15/polls/times-siena-poll-likely-voter-crosstabs.html"
+   },
+   {
+    "poll_name_as_listed": "Morning Consult",
+    "pollster": "Morning Consult",
+    "sponsor": null,
+    "partisan_sponsor": "none",
+    "field_start": "2026-09-07",
+    "field_end": "2026-09-13",
+    "sample_size": 18127,
+    "population": "LV",
+    "margin_of_error": "+/-0.9%",
+    "D": 49.07,
+    "R": 43.34,
+    "source_url": "https://share.mcpidata.dev/press"
+   },
+   {
+    "poll_name_as_listed": "Veteran Action/The Honest Poll",
+    "pollster": "The Honest Poll",
+    "sponsor": "Veteran Action",
+    "partisan_sponsor": "none",
+    "field_start": "2026-09-07",
+    "field_end": "2026-09-13",
+    "sample_size": 1633,
+    "population": "RV",
+    "margin_of_error": "+/-2.6%",
+    "D": 50.0,
+    "R": 40.0,
+    "source_url": "https://cdn.prod.website-files.com/69dee02bd9a8213e6f823267/6aa834a9f22b0afdd89b7440_Veteran%20Action%20September%202026%20TCAVA%20Legislative%20Crosstabs.pdf"
+   },
+   {
+    "poll_name_as_listed": "Veteran Action/The Honest Poll",
+    "pollster": "The Honest Poll",
+    "sponsor": "Veteran Action",
+    "partisan_sponsor": "none",
+    "field_start": "2026-09-07",
+    "field_end": "2026-09-13",
+    "sample_size": null,
+    "population": "LV",
+    "margin_of_error": "",
+    "D": 51.0,
+    "R": 42.0,
+    "source_url": "https://cdn.prod.website-files.com/69dee02bd9a8213e6f823267/6aa834a9f22b0afdd89b7440_Veteran%20Action%20September%202026%20TCAVA%20Legislative%20Crosstabs.pdf"
+   },
+   {
+    "poll_name_as_listed": "CBS/YouGov",
+    "pollster": "YouGov",
+    "sponsor": "CBS",
+    "partisan_sponsor": "none",
+    "field_start": "2026-09-08",
+    "field_end": "2026-09-11",
+    "sample_size": null,
+    "population": "LV",
+    "margin_of_error": "",
+    "D": 54.0,
+    "R": 46.0,
+    "source_url": "https://www.cbsnews.com/news/poll-trump-battleground-tracker-house-control-2026-midterm-elections/"
+   },
+   {
+    "poll_name_as_listed": "ActiVote",
+    "pollster": "ActiVote",
+    "sponsor": null,
+    "partisan_sponsor": "none",
+    "field_start": "2026-08-31",
+    "field_end": "2026-09-10",
+    "sample_size": 1000,
+    "population": "LV",
+    "margin_of_error": "+/-3.1%",
+    "D": 52.3,
+    "R": 47.7,
+    "source_url": "https://www.activote.net/polls/generic-ballot/2026-09-11/"
+   },
+   {
+    "poll_name_as_listed": "Marquette Law School/SSRS",
+    "pollster": "SSRS",
+    "sponsor": "Marquette Law School",
+    "partisan_sponsor": "none",
+    "field_start": "2026-09-02",
+    "field_end": "2026-09-09",
+    "sample_size": 1023,
+    "population": "A",
+    "margin_of_error": "+/-3.3%",
+    "D": 48.0,
+    "R": 39.0,
+    "source_url": "https://law.marquette.edu/poll/2026/09/15/detailed-results-of-the-marquette-law-school-supreme-court-poll-september-2-9-2026/"
+   },
+   {
+    "poll_name_as_listed": "Marquette Law School/SSRS",
+    "pollster": "SSRS",
+    "sponsor": "Marquette Law School",
+    "partisan_sponsor": "none",
+    "field_start": "2026-09-02",
+    "field_end": "2026-09-09",
+    "sample_size": 864,
+    "population": "RV",
+    "margin_of_error": "+/-3.6%",
+    "D": 50.0,
+    "R": 42.0,
+    "source_url": "https://law.marquette.edu/poll/2026/09/15/detailed-results-of-the-marquette-law-school-supreme-court-poll-september-2-9-2026/"
+   },
+   {
+    "poll_name_as_listed": "Marquette Law School/SSRS",
+    "pollster": "SSRS",
+    "sponsor": "Marquette Law School",
+    "partisan_sponsor": "none",
+    "field_start": "2026-09-02",
+    "field_end": "2026-09-09",
+    "sample_size": 581,
+    "population": "LV",
+    "margin_of_error": "+/-4.3%",
+    "D": 54.0,
+    "R": 41.0,
+    "source_url": "https://law.marquette.edu/poll/2026/09/15/detailed-results-of-the-marquette-law-school-supreme-court-poll-september-2-9-2026/"
+   },
+   {
+    "poll_name_as_listed": "Catawba College Center for North Carolina Politics & Public Service/YouGov",
+    "pollster": "YouGov",
+    "sponsor": "Catawba College Center for North Carolina Politics & Public Service",
+    "partisan_sponsor": "none",
+    "field_start": "2026-09-04",
+    "field_end": "2026-09-09",
+    "sample_size": 1200,
+    "population": "A",
+    "margin_of_error": "+/-3.6%",
+    "D": 49.0,
+    "R": 38.0,
+    "source_url": "https://www.catawba.edu/news/all-news/2026/yougov-36/"
+   },
+   {
+    "poll_name_as_listed": "Economist/YouGov",
+    "pollster": "YouGov",
+    "sponsor": "Economist",
+    "partisan_sponsor": "none",
+    "field_start": "2026-09-04",
+    "field_end": "2026-09-08",
+    "sample_size": 1469,
+    "population": "RV",
+    "margin_of_error": "+/-3.4%",
+    "D": 42.0,
+    "R": 35.0,
+    "source_url": "https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_SlcWdVd.pdf"
+   },
+   {
+    "poll_name_as_listed": "Economist/YouGov",
+    "pollster": "YouGov",
+    "sponsor": "Economist",
+    "partisan_sponsor": "none",
+    "field_start": "2026-09-04",
+    "field_end": "2026-09-08",
+    "sample_size": 1019,
+    "population": "LV",
+    "margin_of_error": "",
+    "D": 49.0,
+    "R": 38.0,
+    "source_url": "https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_SlcWdVd.pdf"
+   },
+   {
+    "poll_name_as_listed": "Andrew Carnegie Foundation/Ford Foundation/Unitarian Universalist Veatch Program at Shelter Rock/Public Religion Research Institute",
+    "pollster": "Public Religion Research Institute",
+    "sponsor": "Andrew Carnegie Foundation/Ford Foundation/Unitarian Universalist Veatch Program at Shelter Rock",
+    "partisan_sponsor": "none",
+    "field_start": "2026-08-20",
+    "field_end": "2026-09-07",
+    "sample_size": 5200,
+    "population": "A",
+    "margin_of_error": "+/-1.6%",
+    "D": 36.0,
+    "R": 28.0,
+    "source_url": "https://prri.org/research/darkening-mood-and-shifting-political-loyalties-ahead-of-midterm-elections-findings-from-the-2026-american-values-survey/"
+   },
+   {
+    "poll_name_as_listed": "Morning Consult",
+    "pollster": "Morning Consult",
+    "sponsor": null,
+    "partisan_sponsor": "none",
+    "field_start": "2026-08-31",
+    "field_end": "2026-09-06",
+    "sample_size": 17739,
+    "population": "LV",
+    "margin_of_error": "+/-0.9%",
+    "D": 49.26,
+    "R": 43.04,
+    "source_url": "https://share.mcpidata.dev/press"
+   },
+   {
+    "poll_name_as_listed": "Morning Consult",
+    "pollster": "Morning Consult",
+    "sponsor": null,
+    "partisan_sponsor": "none",
+    "field_start": "2026-08-31",
+    "field_end": "2026-09-06",
+    "sample_size": 29427,
+    "population": "RV",
+    "margin_of_error": "+/-0.6%",
+    "D": 46.3,
+    "R": 42.2,
+    "source_url": "https://share.mcpidata.dev/press"
+   },
+   {
+    "poll_name_as_listed": "Quinnipiac",
+    "pollster": "Quinnipiac",
+    "sponsor": null,
+    "partisan_sponsor": "none",
+    "field_start": "2026-09-03",
+    "field_end": "2026-09-06",
+    "sample_size": 970,
+    "population": "RV",
+    "margin_of_error": "+/-3.9%",
+    "D": 49.0,
+    "R": 38.0,
+    "source_url": "https://poll.qu.edu/poll-release?releaseid=3965"
+   },
+   {
+    "poll_name_as_listed": "Cygnal",
+    "pollster": "Cygnal",
+    "sponsor": null,
+    "partisan_sponsor": "none",
+    "field_start": "2026-09-01",
+    "field_end": "2026-09-02",
+    "sample_size": 1500,
+    "population": "LV",
+    "margin_of_error": "+/-2.53%",
+    "D": 51.0,
+    "R": 42.0,
+    "source_url": "https://www.cygn.al/polls/september-2026-national-voter-trends-nvt-poll/"
+   },
+   {
+    "poll_name_as_listed": "Financial Times/Focaldata",
+    "pollster": "Focaldata",
+    "sponsor": "Financial Times",
+    "partisan_sponsor": "none",
+    "field_start": "2026-08-28",
+    "field_end": "2026-09-02",
+    "sample_size": 2180,
+    "population": "A",
+    "margin_of_error": "",
+    "D": 46.0,
+    "R": 41.0,
+    "source_url": "https://www.focaldata.com/blog/trump-approval-hits-record-low-as-democrats-extend-house-lead"
+   },
+   {
+    "poll_name_as_listed": "Financial Times/Focaldata",
+    "pollster": "Focaldata",
+    "sponsor": "Financial Times",
+    "partisan_sponsor": "none",
+    "field_start": "2026-08-28",
+    "field_end": "2026-09-02",
+    "sample_size": 1914,
+    "population": "RV",
+    "margin_of_error": "",
+    "D": 49.0,
+    "R": 42.0,
+    "source_url": "https://www.focaldata.com/blog/trump-approval-hits-record-low-as-democrats-extend-house-lead"
+   },
+   {
+    "poll_name_as_listed": "Financial Times/Focaldata",
+    "pollster": "Focaldata",
+    "sponsor": "Financial Times",
+    "partisan_sponsor": "none",
+    "field_start": "2026-08-28",
+    "field_end": "2026-09-02",
+    "sample_size": 1837,
+    "population": "LV",
+    "margin_of_error": "",
+    "D": 52.0,
+    "R": 45.0,
+    "source_url": "https://www.focaldata.com/blog/trump-approval-hits-record-low-as-democrats-extend-house-lead"
+   },
+   {
+    "poll_name_as_listed": "Bowling Green State University Democracy and Public Policy Network/YouGov",
+    "pollster": "YouGov",
+    "sponsor": "Bowling Green State University Democracy and Public Policy Network",
+    "partisan_sponsor": "none",
+    "field_start": "2026-08-25",
+    "field_end": "2026-09-01",
+    "sample_size": 1200,
+    "population": "LV",
+    "margin_of_error": "+/-3.3%",
+    "D": 51.0,
+    "R": 44.0,
+    "source_url": "https://www.bgsu.edu/arts-and-sciences/democracy-and-public-policy-research-network/bgsu-poll.html"
+   }
+  ]
+ },
+ "trump_approval_polls": {
+  "question": "Do you approve or disapprove of the way Donald Trump is handling his job as president?",
+  "period": "polls with field end date on or after 2026-10-01",
+  "index_sources": [
+   "https://www.nbcnews.com/politics/2026-elections/presidential-approval-polls",
+   "https://en.wikipedia.org/wiki/Opinion_polling_on_the_second_Trump_presidency#October_2026"
+  ],
+  "index_note": "Individual polls only; no averages. Primary index NBC News approval source-poll table (separate A/RV/LV rows); one Wikipedia-listed poll missing from it (Prolific) added. source_url is the pollster/sponsor release.",
+  "count": 60,
+  "polls": [
+   {
+    "poll_name_as_listed": "Tufts Public Opinion Lab/YouGov",
+    "pollster": "YouGov",
+    "sponsor": "Tufts Public Opinion Lab",
+    "partisan_sponsor": "none",
+    "field_start": "2026-10-23",
+    "field_end": "2026-10-27",
+    "sample_size": 1000,
+    "population": "A",
+    "margin_of_error": "+/-3.6%",
+    "approve": 36.0,
+    "disapprove": 61.0,
+    "source_url": "https://tufts.app.box.com/s/mz81q5uqscd3m82y02dg4c50x4mm4n8i",
+    "index": "https://www.nbcnews.com/politics/2026-elections/presidential-approval-polls"
+   },
+   {
+    "poll_name_as_listed": "Economist/YouGov",
+    "pollster": "YouGov",
+    "sponsor": "Economist",
+    "partisan_sponsor": "none",
+    "field_start": "2026-10-23",
+    "field_end": "2026-10-26",
+    "sample_size": 1440,
+    "population": "RV",
+    "margin_of_error": "+/-3%",
+    "approve": 39.0,
+    "disapprove": 58.0,
+    "source_url": "https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_nJaupnc.pdf",
+    "index": "https://www.nbcnews.com/politics/2026-elections/presidential-approval-polls"
+   },
+   {
+    "poll_name_as_listed": "Economist/YouGov",
+    "pollster": "YouGov",
+    "sponsor": "Economist",
+    "partisan_sponsor": "none",
+    "field_start": "2026-10-23",
+    "field_end": "2026-10-26",
+    "sample_size": 1272,
+    "population": "LV",
+    "margin_of_error": "",
+    "approve": 40.0,
+    "disapprove": 58.0,
+    "source_url": "https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_nJaupnc.pdf",
+    "index": "https://www.nbcnews.com/politics/2026-elections/presidential-approval-polls"
+   },
+   {
+    "poll_name_as_listed": "Reuters/Ipsos",
+    "pollster": "Ipsos",
+    "sponsor": "Reuters",
+    "partisan_sponsor": "none",
+    "field_start": "2026-10-22",
+    "field_end": "2026-10-26",
+    "sample_size": 1679,
+    "population": "A",
+    "margin_of_error": "+/-2.4%",
+    "approve": 32.0,
+    "disapprove": 66.0,
+    "source_url": "https://www.ipsos.com/en-us/democrats-hold-9-point-edge-midterm-congressional-ballot",
+    "index": "https://www.nbcnews.com/politics/2026-elections/presidential-approval-polls"
+   },
+   {
+    "poll_name_as_listed": "Reuters/Ipsos",
+    "pollster": "Ipsos",
+    "sponsor": "Reuters",
+    "partisan_sponsor": "none",
+    "field_start": "2026-10-22",
+    "field_end": "2026-10-26",
+    "sample_size": 1280,
+    "population": "RV",
+    "margin_of_error": "+/-2.8%",
+    "approve": 35.0,
+    "disapprove": 64.0,
+    "source_url": "https://www.ipsos.com/en-us/democrats-hold-9-point-edge-midterm-congressional-ballot",
+    "index": "https://www.nbcnews.com/politics/2026-elections/presidential-approval-polls"
+   },
+   {
+    "poll_name_as_listed": "Harvard CAPS/Harris Poll",
+    "pollster": "Harris Poll",
+    "sponsor": "Harvard CAPS",
+    "partisan_sponsor": "none",
+    "field_start": "2026-10-24",
+    "field_end": "2026-10-26",
+    "sample_size": 2700,
+    "population": "RV",
+    "margin_of_error": "+/-1.9%",
+    "approve": 39.0,
+    "disapprove": 59.0,
+    "source_url": "https://harvardharrispoll.com/key-results-october-2026/",
+    "index": "https://www.nbcnews.com/politics/2026-elections/presidential-approval-polls"
+   },
+   {
+    "poll_name_as_listed": "Emerson College",
+    "pollster": "Emerson College",
+    "sponsor": null,
+    "partisan_sponsor": "none",
+    "field_start": "2026-10-24",
+    "field_end": "2026-10-26",
+    "sample_size": 1000,
+    "population": "LV",
+    "margin_of_error": "+/-3%",
+    "approve": 37.2,
+    "disapprove": 57.1,
+    "source_url": "https://emersoncollegepolling.com/october-2026-national-poll-democrats-hold-10-point-midterm-advantage/",
+    "index": "https://www.nbcnews.com/politics/2026-elections/presidential-approval-polls"
+   },
+   {
+    "poll_name_as_listed": "Morning Consult",
+    "pollster": "Morning Consult",
+    "sponsor": null,
+    "partisan_sponsor": "none",
+    "field_start": "2026-10-23",
+    "field_end": "2026-10-25",
+    "sample_size": 2204,
+    "population": "RV",
+    "margin_of_error": "+/-2.1%",
+    "approve": 40.46,
+    "disapprove": 57.42,
+    "source_url": "https://share.mcpidata.dev/press",
+    "index": "https://www.nbcnews.com/politics/2026-elections/presidential-approval-polls"
+   },
+   {
+    "poll_name_as_listed": "Leger",
+    "pollster": "Leger",
+    "sponsor": null,
+    "partisan_sponsor": "none",
+    "field_start": "2026-10-23",
+    "field_end": "2026-10-25",
+    "sample_size": 1037,
+    "population": "A",
+    "margin_of_error": "+/-3.09%",
+    "approve": 33.0,
+    "disapprove": 58.0,
+    "source_url": "https://leger360.com/in-the-news-us-midterms-2026/",
+    "index": "https://www.nbcnews.com/politics/2026-elections/presidential-approval-polls"
+   },
+   {
+    "poll_name_as_listed": "CBS/YouGov",
+    "pollster": "YouGov",
+    "sponsor": "CBS",
+    "partisan_sponsor": "none",
+    "field_start": "2026-10-21",
+    "field_end": "2026-10-23",
+    "sample_size": 2355,
+    "population": "A",
+    "margin_of_error": "+/-2.6%",
+    "approve": 39.0,
+    "disapprove": 61.0,
+    "source_url": "https://www.cbsnews.com/news/poll-house-estimate-midterm-elections-2026/",
+    "index": "https://www.nbcnews.com/politics/2026-elections/presidential-approval-polls"
+   },
+   {
+    "poll_name_as_listed": "The Argument/Verasight",
+    "pollster": "Verasight",
+    "sponsor": "The Argument",
+    "partisan_sponsor": "none",
+    "field_start": "2026-10-21",
+    "field_end": "2026-10-23",
+    "sample_size": 1549,
+    "population": "RV",
+    "margin_of_error": "+/-2.7%",
+    "approve": 37.0,
+    "disapprove": 61.0,
+    "source_url": "https://www.theargumentmag.com/p/how-republicans-lost-voters-trust",
+    "index": "https://www.nbcnews.com/politics/2026-elections/presidential-approval-polls"
+   },
+   {
+    "poll_name_as_listed": "NetChoice/Echelon Insights",
+    "pollster": "Echelon Insights",
+    "sponsor": "NetChoice",
+    "partisan_sponsor": "none",
+    "field_start": "2026-10-16",
+    "field_end": "2026-10-23",
+    "sample_size": 2907,
+    "population": "LV",
+    "margin_of_error": "+/-3.2%",
+    "approve": 40.0,
+    "disapprove": 59.0,
+    "source_url": "https://netchoice.org/netchoice-echelon-insights-poll-voters-rank-ai-regulation-far-behind-cost-of-living-want-one-national-ai-standard/",
+    "index": "https://www.nbcnews.com/politics/2026-elections/presidential-approval-polls"
+   },
+   {
+    "poll_name_as_listed": "Prolific",
+    "pollster": "Prolific",
+    "sponsor": null,
+    "partisan_sponsor": "none",
+    "field_start": "2026-10-21",
+    "field_end": "2026-10-22",
+    "sample_size": 1118,
+    "population": "RV",
+    "margin_of_error": null,
+    "approve": 36.0,
+    "disapprove": 63.0,
+    "source_url": "https://www.prolific.com/resources/poll-democrats-lead-by-11-points-here-s-how-we-reached-that-number",
+    "index": "https://en.wikipedia.org/wiki/Opinion_polling_on_the_second_Trump_presidency#October_2026"
+   },
+   {
+    "poll_name_as_listed": "Clarity Campaign Labs",
+    "pollster": "Clarity Campaign Labs",
+    "sponsor": null,
+    "partisan_sponsor": "none",
+    "field_start": "2026-10-15",
+    "field_end": "2026-10-21",
+    "sample_size": 1016,
+    "population": "LV",
+    "margin_of_error": "+/-3.1%",
+    "approve": 42.0,
+    "disapprove": 56.0,
+    "source_url": "https://www.claritycampaigns.com/clarity-omnibus-2026-oct",
+    "index": "https://www.nbcnews.com/politics/2026-elections/presidential-approval-polls"
+   },
+   {
+    "poll_name_as_listed": "Economist/YouGov",
+    "pollster": "YouGov",
+    "sponsor": "Economist",
+    "partisan_sponsor": "none",
+    "field_start": "2026-10-19",
+    "field_end": "2026-10-20",
+    "sample_size": 1501,
+    "population": "RV",
+    "margin_of_error": "+/-3%",
+    "approve": 40.0,
+    "disapprove": 59.0,
+    "source_url": "https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_55Zxk28.pdf",
+    "index": "https://www.nbcnews.com/politics/2026-elections/presidential-approval-polls"
+   },
+   {
+    "poll_name_as_listed": "Economist/YouGov",
+    "pollster": "YouGov",
+    "sponsor": "Economist",
+    "partisan_sponsor": "none",
+    "field_start": "2026-10-19",
+    "field_end": "2026-10-20",
+    "sample_size": 1315,
+    "population": "LV",
+    "margin_of_error": "",
+    "approve": 41.0,
+    "disapprove": 59.0,
+    "source_url": "https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_55Zxk28.pdf",
+    "index": "https://www.nbcnews.com/politics/2026-elections/presidential-approval-polls"
+   },
+   {
+    "poll_name_as_listed": "Deseret News/Hinckley Insititute of Politics/Morning Consult",
+    "pollster": "Morning Consult",
+    "sponsor": "Deseret News/Hinckley Insititute of Politics",
+    "partisan_sponsor": "none",
+    "field_start": "2026-10-13",
+    "field_end": "2026-10-20",
+    "sample_size": 2050,
+    "population": "RV",
+    "margin_of_error": "+/-2%",
+    "approve": 41.0,
+    "disapprove": 56.0,
+    "source_url": "https://www.deseret.com/politics/2026/10/27/voters-confidence-trump-approval-iran-war-midterms/",
+    "index": "https://www.nbcnews.com/politics/2026-elections/presidential-approval-polls"
+   },
+   {
+    "poll_name_as_listed": "NPR/PBS News/Marist Poll",
+    "pollster": "Marist Poll",
+    "sponsor": "NPR/PBS News",
+    "partisan_sponsor": "none",
+    "field_start": "2026-10-19",
+    "field_end": "2026-10-20",
+    "sample_size": 1289,
+    "population": "RV",
+    "margin_of_error": "+/-3.7%",
+    "approve": 38.0,
+    "disapprove": 61.0,
+    "source_url": "https://maristpoll.marist.edu/polls/u-s-midterm-elections-october-2026/",
+    "index": "https://www.nbcnews.com/politics/2026-elections/presidential-approval-polls"
+   },
+   {
+    "poll_name_as_listed": "NPR/PBS News/Marist Poll",
+    "pollster": "Marist Poll",
+    "sponsor": "NPR/PBS News",
+    "partisan_sponsor": "none",
+    "field_start": "2026-10-19",
+    "field_end": "2026-10-20",
+    "sample_size": 1289,
+    "population": "LV",
+    "margin_of_error": "+/-3.8%",
+    "approve": 40.0,
+    "disapprove": 59.0,
+    "source_url": "https://maristpoll.marist.edu/polls/u-s-midterm-elections-october-2026/",
+    "index": "https://www.nbcnews.com/politics/2026-elections/presidential-approval-polls"
+   },
+   {
+    "poll_name_as_listed": "Financial Times/Focaldata",
+    "pollster": "Focaldata",
+    "sponsor": "Financial Times",
+    "partisan_sponsor": "none",
+    "field_start": "2026-10-16",
+    "field_end": "2026-10-20",
+    "sample_size": 1845,
+    "population": "A",
+    "margin_of_error": "+/-2.6%",
+    "approve": 34.0,
+    "disapprove": 59.0,
+    "source_url": "https://www.focaldata.com/blog/democrats-hit-new-high-in-penultimate-midterms-poll",
+    "index": "https://www.nbcnews.com/politics/2026-elections/presidential-approval-polls"
+   },
+   {
+    "poll_name_as_listed": "Financial Times/Focaldata",
+    "pollster": "Focaldata",
+    "sponsor": "Financial Times",
+    "partisan_sponsor": "none",
+    "field_start": "2026-10-16",
+    "field_end": "2026-10-20",
+    "sample_size": 1648,
+    "population": "RV",
+    "margin_of_error": "+/-2.8%",
+    "approve": 35.0,
+    "disapprove": 59.0,
+    "source_url": "https://www.focaldata.com/blog/democrats-hit-new-high-in-penultimate-midterms-poll",
+    "index": "https://www.nbcnews.com/politics/2026-elections/presidential-approval-polls"
+   },
+   {
+    "poll_name_as_listed": "Financial Times/Focaldata",
+    "pollster": "Focaldata",
+    "sponsor": "Financial Times",
+    "partisan_sponsor": "none",
+    "field_start": "2026-10-16",
+    "field_end": "2026-10-20",
+    "sample_size": 1594,
+    "population": "LV",
+    "margin_of_error": "+/-3%",
+    "approve": 37.0,
+    "disapprove": 58.0,
+    "source_url": "https://www.focaldata.com/blog/democrats-hit-new-high-in-penultimate-midterms-poll",
+    "index": "https://www.nbcnews.com/politics/2026-elections/presidential-approval-polls"
+   },
+   {
+    "poll_name_as_listed": "Rainey Center/Bedrock Research",
+    "pollster": "Bedrock Research",
+    "sponsor": "Rainey Center",
+    "partisan_sponsor": "none",
+    "field_start": "2026-10-14",
+    "field_end": "2026-10-20",
+    "sample_size": 1279,
+    "population": "RV",
+    "margin_of_error": "+/-3.6%",
+    "approve": 42.0,
+    "disapprove": 58.0,
+    "source_url": "https://www.raineycenter.org/polling/ai-data-centers-energy-and-kids-online",
+    "index": "https://www.nbcnews.com/politics/2026-elections/presidential-approval-polls"
+   },
+   {
+    "poll_name_as_listed": "American Research Group",
+    "pollster": "American Research Group",
+    "sponsor": null,
+    "partisan_sponsor": "none",
+    "field_start": "2026-10-16",
+    "field_end": "2026-10-20",
+    "sample_size": 1100,
+    "population": "A",
+    "margin_of_error": "+/-3%",
+    "approve": 29.0,
+    "disapprove": 67.0,
+    "source_url": "https://americanresearchgroup.com/economy/",
+    "index": "https://www.nbcnews.com/politics/2026-elections/presidential-approval-polls"
+   },
+   {
+    "poll_name_as_listed": "Strength In Numbers/Verasight",
+    "pollster": "Verasight",
+    "sponsor": "Strength In Numbers",
+    "partisan_sponsor": "none",
+    "field_start": "2026-10-13",
+    "field_end": "2026-10-19",
+    "sample_size": 2028,
+    "population": "A",
+    "margin_of_error": "+/-2.2%",
+    "approve": 34.0,
+    "disapprove": 62.0,
+    "source_url": "https://www.gelliottmorris.com/p/2026-10-21-october-strength-in-numbers-verasight-poll-release?utm_campaign=email-half-post&r=8kmho5&utm_source=substack&utm_medium=email",
+    "index": "https://www.nbcnews.com/politics/2026-elections/presidential-approval-polls"
+   },
+   {
+    "poll_name_as_listed": "New York Times/Siena",
+    "pollster": "Siena",
+    "sponsor": "New York Times",
+    "partisan_sponsor": "none",
+    "field_start": "2026-10-12",
+    "field_end": "2026-10-19",
+    "sample_size": 3494,
+    "population": "LV",
+    "margin_of_error": "+/-2.2%",
+    "approve": 36.0,
+    "disapprove": 59.0,
+    "source_url": "https://www.nytimes.com/interactive/2026/10/21/polls/times-siena-poll-crosstabs.html",
+    "index": "https://www.nbcnews.com/politics/2026-elections/presidential-approval-polls"
+   },
+   {
+    "poll_name_as_listed": "New York Times/Siena",
+    "pollster": "Siena",
+    "sponsor": "New York Times",
+    "partisan_sponsor": "none",
+    "field_start": "2026-10-12",
+    "field_end": "2026-10-19",
+    "sample_size": 3494,
+    "population": "RV",
+    "margin_of_error": "+/-2.2%",
+    "approve": 34.0,
+    "disapprove": 60.0,
+    "source_url": "https://www.nytimes.com/interactive/2026/10/21/polls/times-siena-poll-rv-crosstabs.html",
+    "index": "https://www.nbcnews.com/politics/2026-elections/presidential-approval-polls"
+   },
+   {
+    "poll_name_as_listed": "Reuters/Ipsos",
+    "pollster": "Ipsos",
+    "sponsor": "Reuters",
+    "partisan_sponsor": "none",
+    "field_start": "2026-10-16",
+    "field_end": "2026-10-19",
+    "sample_size": 1679,
+    "population": "A",
+    "margin_of_error": "+/-2.4%",
+    "approve": 31.0,
+    "disapprove": 66.0,
+    "source_url": "https://www.ipsos.com/en-us/reutersipsos-mid-october-survey",
+    "index": "https://www.nbcnews.com/politics/2026-elections/presidential-approval-polls"
+   },
+   {
+    "poll_name_as_listed": "Reuters/Ipsos",
+    "pollster": "Ipsos",
+    "sponsor": "Reuters",
+    "partisan_sponsor": "none",
+    "field_start": "2026-10-16",
+    "field_end": "2026-10-19",
+    "sample_size": 1279,
+    "population": "RV",
+    "margin_of_error": "+/-2.8%",
+    "approve": 34.0,
+    "disapprove": 65.0,
+    "source_url": "https://www.ipsos.com/en-us/reutersipsos-mid-october-survey",
+    "index": "https://www.nbcnews.com/politics/2026-elections/presidential-approval-polls"
+   },
+   {
+    "poll_name_as_listed": "Echelon Insights",
+    "pollster": "Echelon Insights",
+    "sponsor": null,
+    "partisan_sponsor": "none",
+    "field_start": "2026-10-15",
+    "field_end": "2026-10-19",
+    "sample_size": 1010,
+    "population": "RV",
+    "margin_of_error": "+/-3.6%",
+    "approve": 39.0,
+    "disapprove": 60.0,
+    "source_url": "https://echeloninsights.com/insights/october-2026-verified-voter-omnibus",
+    "index": "https://www.nbcnews.com/politics/2026-elections/presidential-approval-polls"
+   },
+   {
+    "poll_name_as_listed": "CNN/SSRS",
+    "pollster": "SSRS",
+    "sponsor": "CNN",
+    "partisan_sponsor": "none",
+    "field_start": "2026-10-15",
+    "field_end": "2026-10-18",
+    "sample_size": 1701,
+    "population": "A",
+    "margin_of_error": "+/-2.9%",
+    "approve": 32.0,
+    "disapprove": 67.0,
+    "source_url": "https://www.cnn.com/2026/10/21/politics/cnn-poll-trump-democrats-republicans-midterms",
+    "index": "https://www.nbcnews.com/politics/2026-elections/presidential-approval-polls"
+   },
+   {
+    "poll_name_as_listed": "CNN/SSRS",
+    "pollster": "SSRS",
+    "sponsor": "CNN",
+    "partisan_sponsor": "none",
+    "field_start": "2026-10-15",
+    "field_end": "2026-10-18",
+    "sample_size": 1206,
+    "population": "RV",
+    "margin_of_error": "+/-3.3%",
+    "approve": 34.0,
+    "disapprove": 66.0,
+    "source_url": "https://www.cnn.com/2026/10/21/politics/cnn-poll-trump-democrats-republicans-midterms",
+    "index": "https://www.nbcnews.com/politics/2026-elections/presidential-approval-polls"
+   },
+   {
+    "poll_name_as_listed": "Morning Consult",
+    "pollster": "Morning Consult",
+    "sponsor": null,
+    "partisan_sponsor": "none",
+    "field_start": "2026-10-16",
+    "field_end": "2026-10-18",
+    "sample_size": 2202,
+    "population": "RV",
+    "margin_of_error": "+/-2.1%",
+    "approve": 41.53,
+    "disapprove": 56.39,
+    "source_url": "https://share.mcpidata.dev/press",
+    "index": "https://www.nbcnews.com/politics/2026-elections/presidential-approval-polls"
+   },
+   {
+    "poll_name_as_listed": "CNBC/Hart Research Associates/Public Opinion Strategies",
+    "pollster": "Hart Research Associates/Public Opinion Strategies",
+    "sponsor": "CNBC",
+    "partisan_sponsor": "none",
+    "field_start": "2026-10-14",
+    "field_end": "2026-10-18",
+    "sample_size": 1000,
+    "population": "RV",
+    "margin_of_error": "+/-3.1%",
+    "approve": 40.0,
+    "disapprove": 59.0,
+    "source_url": "https://www.cnbc.com/2026/10/22/trump-economic-approval-rating-midterms-poll.html",
+    "index": "https://www.nbcnews.com/politics/2026-elections/presidential-approval-polls"
+   },
+   {
+    "poll_name_as_listed": "ABC News/Washington Post/Ipsos",
+    "pollster": "Ipsos",
+    "sponsor": "ABC News/Washington Post",
+    "partisan_sponsor": "none",
+    "field_start": "2026-10-09",
+    "field_end": "2026-10-13",
+    "sample_size": 2545,
+    "population": "A",
+    "margin_of_error": "+/-2%",
+    "approve": 33.0,
+    "disapprove": 66.0,
+    "source_url": "https://www.ipsos.com/en-us/ABC-News-Washington-Post-Ipsos-Poll-October-2026",
+    "index": "https://www.nbcnews.com/politics/2026-elections/presidential-approval-polls"
+   },
+   {
+    "poll_name_as_listed": "ABC News/Washington Post/Ipsos",
+    "pollster": "Ipsos",
+    "sponsor": "ABC News/Washington Post",
+    "partisan_sponsor": "none",
+    "field_start": "2026-10-09",
+    "field_end": "2026-10-13",
+    "sample_size": 2032,
+    "population": "RV",
+    "margin_of_error": "+/-2.2%",
+    "approve": 37.0,
+    "disapprove": 63.0,
+    "source_url": "https://www.ipsos.com/en-us/ABC-News-Washington-Post-Ipsos-Poll-October-2026",
+    "index": "https://www.nbcnews.com/politics/2026-elections/presidential-approval-polls"
+   },
+   {
+    "poll_name_as_listed": "Economist/YouGov",
+    "pollster": "YouGov",
+    "sponsor": "Economist",
+    "partisan_sponsor": "none",
+    "field_start": "2026-10-10",
+    "field_end": "2026-10-12",
+    "sample_size": 1403,
+    "population": "RV",
+    "margin_of_error": "+/-3.5%",
+    "approve": 38.0,
+    "disapprove": 61.0,
+    "source_url": "https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_7pgxnD3.pdf",
+    "index": "https://www.nbcnews.com/politics/2026-elections/presidential-approval-polls"
+   },
+   {
+    "poll_name_as_listed": "Economist/YouGov",
+    "pollster": "YouGov",
+    "sponsor": "Economist",
+    "partisan_sponsor": "none",
+    "field_start": "2026-10-10",
+    "field_end": "2026-10-12",
+    "sample_size": 1184,
+    "population": "LV",
+    "margin_of_error": "",
+    "approve": 39.0,
+    "disapprove": 60.0,
+    "source_url": "https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_7pgxnD3.pdf",
+    "index": "https://www.nbcnews.com/politics/2026-elections/presidential-approval-polls"
+   },
+   {
+    "poll_name_as_listed": "NBC News Decision Desk/SurveyMonkey",
+    "pollster": "SurveyMonkey",
+    "sponsor": "NBC News Decision Desk",
+    "partisan_sponsor": "none",
+    "field_start": "2026-09-28",
+    "field_end": "2026-10-12",
+    "sample_size": 19135,
+    "population": "A",
+    "margin_of_error": "+/-2.6%",
+    "approve": 34.0,
+    "disapprove": 66.0,
+    "source_url": "https://www.nbcnews.com/politics/2026-election/poll-americans-anxious-pessimistic-deeply-unhappy-trump-ahead-midterms-rcna603064",
+    "index": "https://www.nbcnews.com/politics/2026-elections/presidential-approval-polls"
+   },
+   {
+    "poll_name_as_listed": "NBC News Decision Desk/SurveyMonkey",
+    "pollster": "SurveyMonkey",
+    "sponsor": "NBC News Decision Desk",
+    "partisan_sponsor": "none",
+    "field_start": "2026-09-28",
+    "field_end": "2026-10-12",
+    "sample_size": 18061,
+    "population": "RV",
+    "margin_of_error": "+/-1.6%",
+    "approve": 39.0,
+    "disapprove": 61.0,
+    "source_url": "https://www.nbcnews.com/politics/2026-election/poll-americans-anxious-pessimistic-deeply-unhappy-trump-ahead-midterms-rcna603064",
+    "index": "https://www.nbcnews.com/politics/2026-elections/presidential-approval-polls"
+   },
+   {
+    "poll_name_as_listed": "Fox News/Beacon Research/Shaw & Company Research",
+    "pollster": "Beacon Research/Shaw & Company Research",
+    "sponsor": "Fox News",
+    "partisan_sponsor": "none",
+    "field_start": "2026-10-09",
+    "field_end": "2026-10-12",
+    "sample_size": 1202,
+    "population": "RV",
+    "margin_of_error": "+/-2.5%",
+    "approve": 36.0,
+    "disapprove": 64.0,
+    "source_url": "https://www.foxnews.com/politics/fox-news-poll-cost-living-concerns-weigh-gop-midterms",
+    "index": "https://www.nbcnews.com/politics/2026-elections/presidential-approval-polls"
+   },
+   {
+    "poll_name_as_listed": "AP-NORC",
+    "pollster": "AP-NORC",
+    "sponsor": null,
+    "partisan_sponsor": "none",
+    "field_start": "2026-10-08",
+    "field_end": "2026-10-12",
+    "sample_size": 1119,
+    "population": "A",
+    "margin_of_error": "+/-3.9%",
+    "approve": 35.0,
+    "disapprove": 64.0,
+    "source_url": "https://apnorc.org/projects/ahead-of-the-midterms-most-voters-cite-the-economy-and-cost-of-living-as-top-issues-and-favor-political-change/",
+    "index": "https://www.nbcnews.com/politics/2026-elections/presidential-approval-polls"
+   },
+   {
+    "poll_name_as_listed": "Morning Consult",
+    "pollster": "Morning Consult",
+    "sponsor": null,
+    "partisan_sponsor": "none",
+    "field_start": "2026-10-09",
+    "field_end": "2026-10-11",
+    "sample_size": 2204,
+    "population": "RV",
+    "margin_of_error": "+/-2.1%",
+    "approve": 41.87,
+    "disapprove": 55.98,
+    "source_url": "https://share.mcpidata.dev/press",
+    "index": "https://www.nbcnews.com/politics/2026-elections/presidential-approval-polls"
+   },
+   {
+    "poll_name_as_listed": "Independent Center Voice/The Bullfinch Group",
+    "pollster": "The Bullfinch Group",
+    "sponsor": "Independent Center Voice",
+    "partisan_sponsor": "none",
+    "field_start": "2026-10-01",
+    "field_end": "2026-10-06",
+    "sample_size": 1200,
+    "population": "A",
+    "margin_of_error": "+/-2.8%",
+    "approve": 40.0,
+    "disapprove": 57.0,
+    "source_url": "https://cdn.prod.website-files.com/65fc824bf835683ce2d35418/6ace58914c8869d5e23541a6_d5e4922b2109f079e83b1eb387994685_6ace58914c8869d5e23541a6_National-Policy-Survey-Oct2026-Toplines-O13.pdf",
+    "index": "https://www.nbcnews.com/politics/2026-elections/presidential-approval-polls"
+   },
+   {
+    "poll_name_as_listed": "Independent Center Voice/The Bullfinch Group",
+    "pollster": "The Bullfinch Group",
+    "sponsor": "Independent Center Voice",
+    "partisan_sponsor": "none",
+    "field_start": "2026-10-01",
+    "field_end": "2026-10-06",
+    "sample_size": 1000,
+    "population": "RV",
+    "margin_of_error": "+/-3.1%",
+    "approve": 41.0,
+    "disapprove": 57.0,
+    "source_url": "https://cdn.prod.website-files.com/65fc824bf835683ce2d35418/6ace58914c8869d5e23541a6_d5e4922b2109f079e83b1eb387994685_6ace58914c8869d5e23541a6_National-Policy-Survey-Oct2026-Toplines-O13.pdf",
+    "index": "https://www.nbcnews.com/politics/2026-elections/presidential-approval-polls"
+   },
+   {
+    "poll_name_as_listed": "Economist/YouGov",
+    "pollster": "YouGov",
+    "sponsor": "Economist",
+    "partisan_sponsor": "none",
+    "field_start": "2026-10-02",
+    "field_end": "2026-10-05",
+    "sample_size": 1381,
+    "population": "RV",
+    "margin_of_error": "+/-3.4%",
+    "approve": 38.0,
+    "disapprove": 60.0,
+    "source_url": "https://yougov.com/en-us/topics/topic/The_Economist_YouGov_polls",
+    "index": "https://www.nbcnews.com/politics/2026-elections/presidential-approval-polls"
+   },
+   {
+    "poll_name_as_listed": "Economist/YouGov",
+    "pollster": "YouGov",
+    "sponsor": "Economist",
+    "partisan_sponsor": "none",
+    "field_start": "2026-10-02",
+    "field_end": "2026-10-05",
+    "sample_size": 1181,
+    "population": "LV",
+    "margin_of_error": "",
+    "approve": 38.0,
+    "disapprove": 61.0,
+    "source_url": "https://yougov.com/en-us/topics/topic/The_Economist_YouGov_polls",
+    "index": "https://www.nbcnews.com/politics/2026-elections/presidential-approval-polls"
+   },
+   {
+    "poll_name_as_listed": "Global Strategy Group/GBAO/Navigator Research",
+    "pollster": "Navigator Research",
+    "sponsor": "Global Strategy Group/GBAO",
+    "partisan_sponsor": "none",
+    "field_start": "2026-10-01",
+    "field_end": "2026-10-05",
+    "sample_size": 1000,
+    "population": "RV",
+    "margin_of_error": "+/-3.1%",
+    "approve": 36.0,
+    "disapprove": 62.0,
+    "source_url": "https://navigatorresearch.org/wp-content/uploads/2026/10/Navigator-Toplines-10.05.2026.pdf",
+    "index": "https://www.nbcnews.com/politics/2026-elections/presidential-approval-polls"
+   },
+   {
+    "poll_name_as_listed": "Morning Consult",
+    "pollster": "Morning Consult",
+    "sponsor": null,
+    "partisan_sponsor": "none",
+    "field_start": "2026-10-04",
+    "field_end": "2026-10-05",
+    "sample_size": 2202,
+    "population": "RV",
+    "margin_of_error": "+/-2.1%",
+    "approve": 40.84,
+    "disapprove": 56.89,
+    "source_url": "https://share.mcpidata.dev/press",
+    "index": "https://www.nbcnews.com/politics/2026-elections/presidential-approval-polls"
+   },
+   {
+    "poll_name_as_listed": "Reuters/Ipsos",
+    "pollster": "Ipsos",
+    "sponsor": "Reuters",
+    "partisan_sponsor": "none",
+    "field_start": "2026-09-30",
+    "field_end": "2026-10-05",
+    "sample_size": 4506,
+    "population": "A",
+    "margin_of_error": "+/-1.5%",
+    "approve": 32.0,
+    "disapprove": 65.0,
+    "source_url": "https://www.ipsos.com/en-us/reutersipsos-october-survey",
+    "index": "https://www.nbcnews.com/politics/2026-elections/presidential-approval-polls"
+   },
+   {
+    "poll_name_as_listed": "Reuters/Ipsos",
+    "pollster": "Ipsos",
+    "sponsor": "Reuters",
+    "partisan_sponsor": "none",
+    "field_start": "2026-09-30",
+    "field_end": "2026-10-05",
+    "sample_size": 3526,
+    "population": "RV",
+    "margin_of_error": "+/-1.7%",
+    "approve": 36.0,
+    "disapprove": 64.0,
+    "source_url": "https://www.ipsos.com/en-us/reutersipsos-october-survey",
+    "index": "https://www.nbcnews.com/politics/2026-elections/presidential-approval-polls"
+   },
+   {
+    "poll_name_as_listed": "Financial Times/Focaldata",
+    "pollster": "Focaldata",
+    "sponsor": "Financial Times",
+    "partisan_sponsor": "none",
+    "field_start": "2026-10-02",
+    "field_end": "2026-10-05",
+    "sample_size": 2201,
+    "population": "LV",
+    "margin_of_error": "",
+    "approve": 36.0,
+    "disapprove": 58.0,
+    "source_url": "https://www.focaldata.com/blog/democrats-further-extend-generic-ballot-lead-as-midterms-approach",
+    "index": "https://www.nbcnews.com/politics/2026-elections/presidential-approval-polls"
+   },
+   {
+    "poll_name_as_listed": "Financial Times/Focaldata",
+    "pollster": "Focaldata",
+    "sponsor": "Financial Times",
+    "partisan_sponsor": "none",
+    "field_start": "2026-10-02",
+    "field_end": "2026-10-05",
+    "sample_size": 2553,
+    "population": "A",
+    "margin_of_error": "",
+    "approve": 33.0,
+    "disapprove": 58.0,
+    "source_url": "https://www.focaldata.com/blog/democrats-further-extend-generic-ballot-lead-as-midterms-approach",
+    "index": "https://www.nbcnews.com/politics/2026-elections/presidential-approval-polls"
+   },
+   {
+    "poll_name_as_listed": "Financial Times/Focaldata",
+    "pollster": "Focaldata",
+    "sponsor": "Financial Times",
+    "partisan_sponsor": "none",
+    "field_start": "2026-10-02",
+    "field_end": "2026-10-05",
+    "sample_size": 2275,
+    "population": "RV",
+    "margin_of_error": "",
+    "approve": 34.0,
+    "disapprove": 59.0,
+    "source_url": "https://www.focaldata.com/blog/democrats-further-extend-generic-ballot-lead-as-midterms-approach",
+    "index": "https://www.nbcnews.com/politics/2026-elections/presidential-approval-polls"
+   },
+   {
+    "poll_name_as_listed": "UMass Lowell/YouGov",
+    "pollster": "YouGov",
+    "sponsor": "UMass Lowell",
+    "partisan_sponsor": "none",
+    "field_start": "2026-10-02",
+    "field_end": "2026-10-04",
+    "sample_size": 1000,
+    "population": "LV",
+    "margin_of_error": "+/-3.84%",
+    "approve": 39.0,
+    "disapprove": 61.0,
+    "source_url": "https://www.uml.edu/news/press-releases/2026/102226-nat-poll-october.aspx",
+    "index": "https://www.nbcnews.com/politics/2026-elections/presidential-approval-polls"
+   },
+   {
+    "poll_name_as_listed": "Pew Research Center/SSRS",
+    "pollster": "SSRS",
+    "sponsor": "Pew Research Center",
+    "partisan_sponsor": "none",
+    "field_start": "2026-09-28",
+    "field_end": "2026-10-04",
+    "sample_size": 5062,
+    "population": "A",
+    "margin_of_error": "+/-1.6%",
+    "approve": 30.0,
+    "disapprove": 68.0,
+    "source_url": "https://www.pewresearch.org/short-reads/2026/10/08/iran-conflict-remains-deeply-unpopular-as-many-americans-expect-it-to-go-on-for-months/",
+    "index": "https://www.nbcnews.com/politics/2026-elections/presidential-approval-polls"
+   },
+   {
+    "poll_name_as_listed": "CBS/YouGov",
+    "pollster": "YouGov",
+    "sponsor": "CBS",
+    "partisan_sponsor": "none",
+    "field_start": "2026-09-30",
+    "field_end": "2026-10-02",
+    "sample_size": 2166,
+    "population": "A",
+    "margin_of_error": "+/-2.5%",
+    "approve": 39.0,
+    "disapprove": 61.0,
+    "source_url": "https://www.cbsnews.com/news/midterm-poll-battleground-tracker-democrats-house-advantage/",
+    "index": "https://www.nbcnews.com/politics/2026-elections/presidential-approval-polls"
+   },
+   {
+    "poll_name_as_listed": "Issues & Insights/TIPP",
+    "pollster": "TIPP",
+    "sponsor": "Issues & Insights",
+    "partisan_sponsor": "none",
+    "field_start": "2026-09-29",
+    "field_end": "2026-10-01",
+    "sample_size": 1488,
+    "population": "A",
+    "margin_of_error": "+/-2.9%",
+    "approve": 39.0,
+    "disapprove": 52.0,
+    "source_url": "https://issuesinsights.com/2026/10/05/trumps-approval-among-voters-has-stabilized-but-is-that-enough-to-boost-gop-in-midterms-ii-tipp-poll/",
+    "index": "https://www.nbcnews.com/politics/2026-elections/presidential-approval-polls"
+   },
+   {
+    "poll_name_as_listed": "Centerline Research and Strategy",
+    "pollster": "Centerline Research and Strategy",
+    "sponsor": null,
+    "partisan_sponsor": "none",
+    "field_start": "2026-09-26",
+    "field_end": "2026-10-01",
+    "sample_size": 1239,
+    "population": "RV",
+    "margin_of_error": "+/-3.2%",
+    "approve": 35.0,
+    "disapprove": 64.0,
+    "source_url": "https://centerliners.com/assets/polls/centerline-national-poll-release-100626.pdf",
+    "index": "https://www.nbcnews.com/politics/2026-elections/presidential-approval-polls"
+   },
+   {
+    "poll_name_as_listed": "Centerline Research and Strategy",
+    "pollster": "Centerline Research and Strategy",
+    "sponsor": null,
+    "partisan_sponsor": "none",
+    "field_start": "2026-09-26",
+    "field_end": "2026-10-01",
+    "sample_size": 930,
+    "population": "LV",
+    "margin_of_error": "+/-3.8%",
+    "approve": 38.0,
+    "disapprove": 62.0,
+    "source_url": "https://centerliners.com/assets/polls/centerline-national-poll-release-100626.pdf",
+    "index": "https://www.nbcnews.com/politics/2026-elections/presidential-approval-polls"
+   }
+  ]
+ },
+ "notes_uncertain": [
+  "Generic-ballot and approval poll lists come from NBC News source-poll tables (index only; its averages are excluded). Polls the index did not list may be missing. Undecided shares are not given by the index.",
+  "NBC index URL for the ABC News/Washington Post/Ipsos LV row ends in 'October-2027' (likely a typo in the index); the RV row's URL ends in 'October-2026'.",
+  "partisan_sponsor = 'none' follows the NBC index flag isPartisanAffiliated (false for every row in the period); no independent check of each sponsor's affiliation was made.",
+  "pollster/sponsor split is mechanical from the listed poll name (last segment = pollster, except known joint pollster pairs); 'poll_name_as_listed' keeps the original.",
+  "Several polls were in the field in late August/September and ended on or after Sept 1; field_end is used as the inclusion date (publication dates were not checked one by one).",
+  "CA-1 special election: Wikipedia gives the 2024 presidential result only for the newly redrawn (Proposition 50) district (Harris 54.5-42.3); the presidential result for the lines used in the special election was not found.",
+  "Wyoming 2020 seat result: Wikipedia race-summary table says 72.9%, state section text says 72.8% (Cynthia Lummis).",
+  "UCSB lists 20 Senate seats to defend for the president's party in 2026 (apparently Class 2 only); the ballot has 22 Republican-held seats including the FL and OH specials.",
+  "GA-14 and NJ-11 specials: the district-level 2024 presidential result was not collected.",
+  "Reuters/Ipsos releases report more than one generic-ballot version (e.g., with and without leaners); the index values are used as listed and were not re-checked against each release.",
+  "senate.gov returned HTTP 403; current Senate composition is taken from Wikipedia's 119th Congress party summary (with dated changes) and matches the 2026 Senate elections infobox (53 R, 45 D, 2 I)."
+ ],
+ "midterm_history_senate": {
+  "description": "Senate seat change for the president's party in the last 20 midterm elections (1946-2022), with Gallup job approval of the president in early/late October of that year where available (null = not available in source).",
+  "elections": [
+   {
+    "year": 1946,
+    "president": "Harry S. Truman",
+    "president_party": "D",
+    "senate_seat_change_presidents_party": -12,
+    "gallup_approval_early_oct": null,
+    "gallup_approval_late_oct": 27
+   },
+   {
+    "year": 1950,
+    "president": "Harry S. Truman",
+    "president_party": "D",
+    "senate_seat_change_presidents_party": -6,
+    "gallup_approval_early_oct": 43,
+    "gallup_approval_late_oct": 41
+   },
+   {
+    "year": 1954,
+    "president": "Dwight D. Eisenhower",
+    "president_party": "R",
+    "senate_seat_change_presidents_party": -1,
+    "gallup_approval_early_oct": 62,
+    "gallup_approval_late_oct": null
+   },
+   {
+    "year": 1958,
+    "president": "Dwight D. Eisenhower",
+    "president_party": "R",
+    "senate_seat_change_presidents_party": -13,
+    "gallup_approval_early_oct": 57,
+    "gallup_approval_late_oct": null
+   },
+   {
+    "year": 1962,
+    "president": "John F. Kennedy",
+    "president_party": "D",
+    "senate_seat_change_presidents_party": 3,
+    "gallup_approval_early_oct": null,
+    "gallup_approval_late_oct": 61
+   },
+   {
+    "year": 1966,
+    "president": "Lyndon B. Johnson",
+    "president_party": "D",
+    "senate_seat_change_presidents_party": -4,
+    "gallup_approval_early_oct": 44,
+    "gallup_approval_late_oct": 44
+   },
+   {
+    "year": 1970,
+    "president": "Richard Nixon",
+    "president_party": "R",
+    "senate_seat_change_presidents_party": 2,
+    "gallup_approval_early_oct": 58,
+    "gallup_approval_late_oct": null
+   },
+   {
+    "year": 1974,
+    "president": "Gerald R. Ford",
+    "president_party": "R",
+    "senate_seat_change_presidents_party": -5,
+    "gallup_approval_early_oct": 53,
+    "gallup_approval_late_oct": null
+   },
+   {
+    "year": 1978,
+    "president": "Jimmy Carter",
+    "president_party": "D",
+    "senate_seat_change_presidents_party": -3,
+    "gallup_approval_early_oct": 49,
+    "gallup_approval_late_oct": 45
+   },
+   {
+    "year": 1982,
+    "president": "Ronald Reagan",
+    "president_party": "R",
+    "senate_seat_change_presidents_party": 1,
+    "gallup_approval_early_oct": null,
+    "gallup_approval_late_oct": 42
+   },
+   {
+    "year": 1986,
+    "president": "Ronald Reagan",
+    "president_party": "R",
+    "senate_seat_change_presidents_party": -8,
+    "gallup_approval_early_oct": 64,
+    "gallup_approval_late_oct": null
+   },
+   {
+    "year": 1990,
+    "president": "George H. W. Bush",
+    "president_party": "R",
+    "senate_seat_change_presidents_party": -1,
+    "gallup_approval_early_oct": null,
+    "gallup_approval_late_oct": 57
+   },
+   {
+    "year": 1994,
+    "president": "Bill Clinton",
+    "president_party": "D",
+    "senate_seat_change_presidents_party": -8,
+    "gallup_approval_early_oct": 43,
+    "gallup_approval_late_oct": 48
+   },
+   {
+    "year": 1998,
+    "president": "Bill Clinton",
+    "president_party": "D",
+    "senate_seat_change_presidents_party": 0,
+    "gallup_approval_early_oct": 65,
+    "gallup_approval_late_oct": 65
+   },
+   {
+    "year": 2002,
+    "president": "George W. Bush",
+    "president_party": "R",
+    "senate_seat_change_presidents_party": 2,
+    "gallup_approval_early_oct": 68,
+    "gallup_approval_late_oct": 67
+   },
+   {
+    "year": 2006,
+    "president": "George W. Bush",
+    "president_party": "R",
+    "senate_seat_change_presidents_party": -6,
+    "gallup_approval_early_oct": 37,
+    "gallup_approval_late_oct": 37
+   },
+   {
+    "year": 2010,
+    "president": "Barack Obama",
+    "president_party": "D",
+    "senate_seat_change_presidents_party": -6,
+    "gallup_approval_early_oct": 45,
+    "gallup_approval_late_oct": 45
+   },
+   {
+    "year": 2014,
+    "president": "Barack Obama",
+    "president_party": "D",
+    "senate_seat_change_presidents_party": -9,
+    "gallup_approval_early_oct": 42,
+    "gallup_approval_late_oct": 41
+   },
+   {
+    "year": 2018,
+    "president": "Donald Trump",
+    "president_party": "R",
+    "senate_seat_change_presidents_party": 2,
+    "gallup_approval_early_oct": 44,
+    "gallup_approval_late_oct": 44
+   },
+   {
+    "year": 2022,
+    "president": "Joe Biden",
+    "president_party": "D",
+    "senate_seat_change_presidents_party": 1,
+    "gallup_approval_early_oct": 42,
+    "gallup_approval_late_oct": 40
+   }
+  ],
+  "summary_counts": {
+   "gained_seats": 6,
+   "years_gained": [
+    1962,
+    1970,
+    1982,
+    2002,
+    2018,
+    2022
+   ],
+   "lost_seats": 13,
+   "no_change": 1,
+   "years_no_change": [
+    1998
+   ],
+   "net_total_change_over_20_midterms": -71
+  },
+  "2026_row_in_source": {
+   "president": "Donald J. Trump (second term)",
+   "party": "R",
+   "gallup_approval_early_aug_2026": 35,
+   "gallup_approval_late_aug_2026": 33,
+   "senate_seats_to_defend_listed": 20,
+   "note": "Source lists 20 Senate seats to defend for 2026 (Class 2 Republicans); with the Florida and Ohio Class 3 specials, Republicans defend 22 of the 35 seats on the ballot."
+  },
+  "source": "https://www.presidency.ucsb.edu/statistics/data/seats-congress-gainedlost-the-presidents-party-mid-term-elections"
+ },
+ "economy": {
+  "cpi": {
+   "reference_month": "2026-09",
+   "all_items_12_month_change_nsa_pct": 3.7,
+   "all_items_monthly_change_sa_pct": 0.6,
+   "core_less_food_energy_12_month_pct": 2.6,
+   "energy_index_12_month_pct": 20.4,
+   "gasoline_index_12_month_pct": 34.2,
+   "previous_12_month_change_aug_2026_pct": 3.4,
+   "index_level_cpi_u": 336.94,
+   "release_date": "2026-10-14",
+   "next_release": "2026-11-10 (October 2026 CPI, after Election Day)",
+   "source_url": "https://www.bls.gov/news.release/archives/cpi_10142026.htm",
+   "verification": "Index values checked via BLS public API series CUUR0000SA0 (Sep 2026 336.940 vs Sep 2025 324.800 = +3.74%) and CUUR0000SA0L1E (+2.56%): https://api.bls.gov/publicAPI/v1/timeseries/data/CUUR0000SA0",
+   "note": "October 2025 CPI was not published due to the 2025 lapse in appropriations (BLS footnote)."
+  },
+  "unemployment": {
+   "reference_month": "2026-09",
+   "unemployment_rate_pct": 4.2,
+   "previous_month_pct": 4.1,
+   "nonfarm_payroll_change": 29000,
+   "release_date": "2026-10-02",
+   "next_release": "2026-11-06 (October 2026 report, after Election Day)",
+   "source_url": "https://www.bls.gov/news.release/archives/empsit_10022026.htm",
+   "verification": "BLS API LNS14000000 (Sep 2026 = 4.2) and CES0000000001 (Sep 159,044k vs Aug 159,015k = +29k): https://api.bls.gov/publicAPI/v1/timeseries/data/LNS14000000",
+   "recent_series_unemployment_rate": {
+    "2026-01": 4.3,
+    "2026-02": 4.4,
+    "2026-03": 4.3,
+    "2026-04": 4.3,
+    "2026-05": 4.3,
+    "2026-06": 4.2,
+    "2026-07": 4.1,
+    "2026-08": 4.1,
+    "2026-09": 4.2
+   }
+  },
+  "gdp": {
+   "quarter": "2026-Q3",
+   "estimate": "advance",
+   "real_gdp_growth_annual_rate_pct": 3.4,
+   "previous_quarter_2026_q2_pct": 2.2,
+   "bea_summary": "Increases in investment, consumer spending, and government spending were partly offset by a decrease in exports; imports increased.",
+   "release_date": "2026-10-29",
+   "next_release": "2026-11-25",
+   "source_url": "https://www.bea.gov/data/gdp/gross-domestic-product"
+  },
+  "gasoline_price": {
+   "series": "EIA U.S. regular gasoline retail price, weekly",
+   "week_of": "2026-10-26",
+   "usd_per_gallon": 4.269,
+   "prior_weeks": {
+    "2026-10-12": 4.331,
+    "2026-10-19": 4.284
+   },
+   "change_vs_year_ago_usd": 1.234,
+   "change_vs_week_ago_usd": -0.015,
+   "release_date": "2026-10-27",
+   "source_url": "https://www.eia.gov/petroleum/gasdiesel/"
+  }
+ },
+ "special_elections_2026": {
+  "description": "Special elections to the U.S. House (119th Congress) held in calendar 2026, as listed by Wikipedia (six). Winner percentages from Wikipedia result tables.",
+  "source_index": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections#Special_elections",
+  "house": [
+   {
+    "district": "TX-18",
+    "date": "2026-01-31",
+    "type": "runoff (two Democrats) after Nov 4, 2025 jungle primary",
+    "previous": "Sylvester Turner (D), died Mar 5, 2025",
+    "winner": "Christian Menefee",
+    "winner_party": "D",
+    "result": {
+     "Christian Menefee (D)": 68.9,
+     "Amanda Edwards (D)": 31.1
+    }
+   },
+   {
+    "district": "GA-14",
+    "date": "2026-04-07",
+    "type": "runoff after Mar 10, 2026 jungle primary",
+    "previous": "Marjorie Taylor Greene (R), resigned Jan 5, 2026",
+    "winner": "Clay Fuller",
+    "winner_party": "R",
+    "result": {
+     "Clay Fuller (R)": 55.9,
+     "Shawn Harris (D)": 44.1
+    },
+    "margin": "R+11.8",
+    "total_votes": 129435,
+    "source_url": "https://en.wikipedia.org/wiki/2026_Georgia%27s_14th_congressional_district_special_election"
+   },
+   {
+    "district": "NJ-11",
+    "date": "2026-04-16",
+    "type": "special general",
+    "previous": "Mikie Sherrill (D), resigned Nov 20, 2025 to become governor of New Jersey",
+    "winner": "Analilia Mejia",
+    "winner_party": "D",
+    "result": {
+     "Analilia Mejia (D)": 60.2,
+     "Joe Hathaway (R)": 39.4,
+     "Alan Bond (I)": 0.5
+    },
+    "margin": "D+20.8",
+    "total_votes": 135970,
+    "source_url": "https://en.wikipedia.org/wiki/2026_New_Jersey%27s_11th_congressional_district_special_election"
+   },
+   {
+    "district": "CA-1",
+    "date": "2026-06-02",
+    "type": "special general",
+    "previous": "Doug LaMalfa (R), died Jan 6, 2026",
+    "winner": "James Gallagher",
+    "winner_party": "R",
+    "result": {
+     "James Gallagher (R)": 62.1,
+     "Audrey Denney (D)": 18.5,
+     "Mike McGuire (D)": 17.3,
+     "Jot Thiara (R)": 1.2,
+     "Richard Montgomery (NPP)": 0.9
+    },
+    "total_votes": 198942,
+    "source_url": "https://en.wikipedia.org/wiki/2026_California%27s_1st_congressional_district_special_election"
+   },
+   {
+    "district": "CA-14",
+    "date": "2026-08-18",
+    "type": "runoff (two Democrats) after Jun 16, 2026 jungle primary",
+    "previous": "Eric Swalwell (D), resigned Apr 14, 2026",
+    "winner": "Aisha Wahab",
+    "winner_party": "D",
+    "result": {
+     "Aisha Wahab (D)": 53.1,
+     "Melissa Hernandez (D)": 46.9
+    }
+   },
+   {
+    "district": "GA-13",
+    "date": "2026-08-25",
+    "type": "runoff (two Democrats) after Jul 28, 2026 jungle primary",
+    "previous": "David Scott (D), died Apr 22, 2026",
+    "winner": "Everton Blair",
+    "winner_party": "D",
+    "result": {
+     "Everton Blair (D)": 53.9,
+     "Marcye Scott (D)": 46.1
+    }
+   }
+  ],
+  "partisan_outcome_summary": "All six seats stayed with the party that previously held them (2 Republican holds, 4 Democratic holds).",
+  "state_legislative_specials": "Not collected (no single neutral official source checked)."
+ },
+ "other_objective_signals": {
+  "senate_retirements_2026": "Eleven senators (four Democrats, seven Republicans) are not seeking reelection, the most in a cycle since 1996 (13), per Wikipedia citing Axios; two Republican incumbents (Bill Cassidy, LA; John Cornyn, TX) lost renomination.",
+  "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Retirements",
+  "primary_turnout": "Not collected: no single neutral official national source checked within time budget."
+ }
+}

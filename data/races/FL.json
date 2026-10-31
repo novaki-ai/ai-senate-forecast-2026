@@ -1,0 +1,700 @@
+{
+ "state": "Florida",
+ "code": "FL",
+ "seat": "Class 3 special",
+ "incumbent": {
+  "name": "Ashley Moody",
+  "party": "Republican",
+  "status": "appointed, running"
+ },
+ "rules": "Special election for the remainder of Marco Rubio's term (ends January 3, 2029). Plurality winner; no runoff. Three candidates on the ballot: Ashley Moody (R), Angie Nixon (D), Neil Gillespie (no party affiliation). In-person early voting ran October 24-31 in all 67 counties (some counties offered extra days). Under Florida law, vote-by-mail ballots must be received by 7 p.m. local time on Election Day (overseas voters have up to 10 days for federal races) and may be canvassed before Election Day; Florida results are usually reported on election night. Polls close at 7 p.m. local time (the western Panhandle is on Central time). Sources: https://en.wikipedia.org/wiki/2026_United_States_Senate_special_election_in_Florida ; https://www.wusf.org/politics-issues/2026-10-26/florida-voters-almost-2-8m-surge-past-22-midterm-benchmark-as-early-voting-goes-statewide",
+ "candidates": [
+  {
+   "name": "Ashley Moody",
+   "party": "Republican",
+   "incumbent": true,
+   "age": 51,
+   "current_or_last_office": "U.S. senator (appointed; in office since January 21, 2025)",
+   "bio_short": "Moody was Florida attorney general from 2019 to 2025; earlier she was a federal prosecutor and a Hillsborough County circuit judge (2006-2017). Gov. Ron DeSantis appointed her to the Senate in January 2025 after Marco Rubio became secretary of state.",
+   "primary_result": "Won the August 18, 2026 Republican primary with 79.6% (1,320,780 votes) over Chris Gleason (13.7%), Ernie Rivera (4.8%) and Neelam Taneja Perry (1.9%).",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Ashley_Moody",
+    "https://www.nbcnews.com/politics/congress/ron-desantis-picks-florida-attorney-general-ashley-moody-fill-rubios-s-rcna187938",
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_special_election_in_Florida"
+   ]
+  },
+  {
+   "name": "Angie Nixon",
+   "party": "Democratic",
+   "incumbent": false,
+   "age": 42,
+   "current_or_last_office": "Member of the Florida House of Representatives (since 2020)",
+   "bio_short": "Nixon has represented a Jacksonville district in the Florida House since 2020. Wikipedia describes her as a member of the Working Families Party and the Democratic Socialists of America; she campaigned on universal health care, free child care and a national rent freeze, according to coverage cited on the race page.",
+   "primary_result": "Won the August 18, 2026 Democratic primary with 56.1% (705,835 votes) over Alexander Vindman (43.9%, 553,138 votes).",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Angie_Nixon",
+    "https://www.theguardian.com/us-news/2026/aug/18/angie-nixon-alex-vindman-florida-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_special_election_in_Florida"
+   ]
+  },
+  {
+   "name": "Neil Gillespie",
+   "party": "Independent (no party affiliation)",
+   "incumbent": false,
+   "age": null,
+   "current_or_last_office": "",
+   "bio_short": "Gillespie qualified for the general-election ballot with no party affiliation, according to the Florida Division of Elections candidate list. His FEC committee reported $13,284 raised through October 14, 2026.",
+   "primary_result": "No primary (no party affiliation).",
+   "sources": [
+    "https://dos.elections.myflorida.com/candidates/CanList.asp",
+    "https://www.fec.gov/data/candidate/S6FL00863/?cycle=2026&election_full=true"
+   ]
+  }
+ ],
+ "past_results": {
+  "pres_2024": {
+   "R": 56.09,
+   "D": 42.99,
+   "margin": "R+13.1",
+   "source_url": "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_Florida"
+  },
+  "pres_2020": {
+   "R": 51.22,
+   "D": 47.86,
+   "margin": "R+3.4",
+   "source_url": "https://en.wikipedia.org/wiki/2020_United_States_presidential_election_in_Florida"
+  },
+  "senate_last_this_seat": {
+   "year": 2022,
+   "winner": "Marco Rubio",
+   "party": "Republican",
+   "margin": "R+16.4 (57.68% vs 41.27% for Val Demings)",
+   "source_url": "https://en.wikipedia.org/wiki/2022_United_States_Senate_election_in_Florida"
+  },
+  "other_recent": [
+   {
+    "race": "2024 U.S. Senate (other seat)",
+    "winner": "Rick Scott (R), defeating Debbie Mucarsel-Powell (D)",
+    "margin": "R+12.8 (55.57% vs 42.79%)",
+    "source_url": "https://en.wikipedia.org/wiki/2024_United_States_Senate_election_in_Florida"
+   },
+   {
+    "race": "2022 governor",
+    "winner": "Ron DeSantis (R), defeating Charlie Crist (D)",
+    "margin": "R+19.4 (59.37% vs 39.97%)",
+    "source_url": "https://en.wikipedia.org/wiki/2022_Florida_gubernatorial_election"
+   }
+  ]
+ },
+ "polls_note": "Polls with field_end on or after 2026-09-01, taken from the Wikipedia race page polling table (used as an index), with the pollster/sponsor link given there (source_url; often the pollster's or sponsor's own release, sometimes a news report). Multiple rows with the same pollster and dates are different versions of one poll (LV vs RV, full ballot vs two-way, leaners pushed); see notes. partisan_sponsor follows Wikipedia's (R)/(D) tag on the pollster ('none' = untagged, or a bipartisan R+D pollster pair); sponsor text is Wikipedia's footnote. Results are percentages as published; null = not reported. 'Other' may include named minor candidates (see notes, copied from Wikipedia footnotes). No averages or aggregates are included.",
+ "polls": [
+  {
+   "pollster": "St. Pete Polls",
+   "sponsor": "Poll sponsored by Florida Politics",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-10-25",
+   "field_end": "2026-10-27",
+   "sample_size": 916,
+   "population": "LV",
+   "margin_of_error": "± 3.2%",
+   "results": {
+    "Ashley Moody": 49.0,
+    "Angie Nixon": 45.0,
+    "Other": 3.0,
+    "Undecided": 4.0
+   },
+   "notes": [
+    "\"Someone else\" with 3%"
+   ],
+   "source_url": "https://data.ddhq.io/polls/2026/10/28/St.-Pete-Polls-Florida"
+  },
+  {
+   "pollster": "ActiVote",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-10-17",
+   "field_end": "2026-10-27",
+   "sample_size": 400,
+   "population": "LV",
+   "margin_of_error": "± 4.9%",
+   "results": {
+    "Ashley Moody": 53.0,
+    "Angie Nixon": 47.0,
+    "Other": null,
+    "Undecided": null
+   },
+   "notes": [],
+   "source_url": "https://www.activote.net/polls/2026/fl-u-s-senate/"
+  },
+  {
+   "pollster": "New York Times/Siena University",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-10-19",
+   "field_end": "2026-10-25",
+   "sample_size": 813,
+   "population": "LV",
+   "margin_of_error": "± 3.9%",
+   "results": {
+    "Ashley Moody": 50.0,
+    "Angie Nixon": 44.0,
+    "Other": 0.0,
+    "Undecided": 5.0
+   },
+   "notes": [],
+   "source_url": "https://www.nytimes.com/interactive/2026/10/28/polls/times-siena-fl-poll-toplines.html"
+  },
+  {
+   "pollster": "RedBox Research",
+   "sponsor": "",
+   "partisan_sponsor": "D",
+   "wikipedia_partisan_label": "D",
+   "field_start": "2026-10-20",
+   "field_end": "2026-10-23",
+   "sample_size": 4832,
+   "population": "LV",
+   "margin_of_error": "± 2.5%",
+   "results": {
+    "Ashley Moody": 50.0,
+    "Angie Nixon": 43.0,
+    "Other": 3.0,
+    "Undecided": 4.0
+   },
+   "notes": [
+    "Neil Gillespie with 1%; \"Prefer not to answer\" with 2%; \"Someone else\" with 1%; \"Did not vote in this race\" with 0%"
+   ],
+   "source_url": "https://afightworthhaving.com/polling/2026/florida"
+  },
+  {
+   "pollster": "Echelon Insights",
+   "sponsor": "Poll conducted for NetChoice",
+   "partisan_sponsor": "R",
+   "wikipedia_partisan_label": "R",
+   "field_start": "2026-10-16",
+   "field_end": "2026-10-23",
+   "sample_size": 515,
+   "population": "LV",
+   "margin_of_error": "± 5.0%",
+   "results": {
+    "Ashley Moody": 51.0,
+    "Angie Nixon": 43.0,
+    "Other": 3.0,
+    "Undecided": 4.0
+   },
+   "notes": [
+    "Neil Gillespie with 3%"
+   ],
+   "source_url": "https://netchoice.org/netchoice-echelon-insights-poll-voters-rank-ai-regulation-far-behind-cost-of-living-want-one-national-ai-standard/"
+  },
+  {
+   "pollster": "Workbench Strategy",
+   "sponsor": "Poll commissioned by Nixon's campaign",
+   "partisan_sponsor": "D",
+   "wikipedia_partisan_label": "D",
+   "field_start": "2026-10-18",
+   "field_end": "2026-10-22",
+   "sample_size": 800,
+   "population": "LV",
+   "margin_of_error": "± 3.5%",
+   "results": {
+    "Ashley Moody": 49.0,
+    "Angie Nixon": 47.0,
+    "Other": null,
+    "Undecided": null
+   },
+   "notes": [],
+   "source_url": "https://www.politico.com/newsletters/florida-playbook/2026/10/30/gop-closing-message-keep-florida-great-01142052"
+  },
+  {
+   "pollster": "co/efficient",
+   "sponsor": "",
+   "partisan_sponsor": "R",
+   "wikipedia_partisan_label": "R",
+   "field_start": "2026-10-18",
+   "field_end": "2026-10-20",
+   "sample_size": 1014,
+   "population": "LV",
+   "margin_of_error": "± 3.1%",
+   "results": {
+    "Ashley Moody": 48.0,
+    "Angie Nixon": 40.0,
+    "Other": 2.0,
+    "Undecided": 11.0
+   },
+   "notes": [
+    "Neil Gillespie (I) with 2%"
+   ],
+   "source_url": "https://battlegrounds.coefficient.org/fl/"
+  },
+  {
+   "pollster": "University of North Florida",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-10-12",
+   "field_end": "2026-10-19",
+   "sample_size": 1471,
+   "population": "LV",
+   "margin_of_error": "± 2.8%",
+   "results": {
+    "Ashley Moody": 49.0,
+    "Angie Nixon": 45.0,
+    "Other": null,
+    "Undecided": 5.0
+   },
+   "notes": [],
+   "source_url": "https://static1.squarespace.com/static/6994d571bce3436c60d86870/t/6ad8a5ec13c20404a1f8052b/1792583148294/UNF+PORL+FALL+Statewide+2026+FLLV+-+Press+Release+1021+EMBARGO.pdf"
+  },
+  {
+   "pollster": "Univision/YouGov",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-10-02",
+   "field_end": "2026-10-15",
+   "sample_size": 825,
+   "population": "RV",
+   "margin_of_error": "± 4.0%",
+   "results": {
+    "Ashley Moody": 51.0,
+    "Angie Nixon": 42.0,
+    "Other": null,
+    "Undecided": 7.0
+   },
+   "notes": [],
+   "source_url": "https://st1.uvnimg.com/65/9b/a8b15584426684070c3d05cf6e34/n-univision-florida-poll-crosstabs-base-final.pdf"
+  },
+  {
+   "pollster": "ActiVote",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-09-27",
+   "field_end": "2026-10-15",
+   "sample_size": 400,
+   "population": "LV",
+   "margin_of_error": "± 4.9%",
+   "results": {
+    "Ashley Moody": 53.0,
+    "Angie Nixon": 47.0,
+    "Other": null,
+    "Undecided": null
+   },
+   "notes": [],
+   "source_url": "https://www.activote.net/polls/2026/fl-u-s-senate/"
+  },
+  {
+   "pollster": "MDW Communications",
+   "sponsor": "Poll conducted for EDGE Communications",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-10-04",
+   "field_end": "2026-10-10",
+   "sample_size": 2351,
+   "population": "LV",
+   "margin_of_error": "± 2.8%",
+   "results": {
+    "Ashley Moody": 48.0,
+    "Angie Nixon": 42.0,
+    "Other": null,
+    "Undecided": 10.0
+   },
+   "notes": [],
+   "source_url": "https://www.mdwcomm.com/media/florida-statewide-poll-october-2026.html"
+  },
+  {
+   "pollster": "Stetson University",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-10-01",
+   "field_end": "2026-10-09",
+   "sample_size": 716,
+   "population": "LV",
+   "margin_of_error": "± 4.2%",
+   "results": {
+    "Ashley Moody": 52.0,
+    "Angie Nixon": 41.0,
+    "Other": 2.0,
+    "Undecided": 6.0
+   },
+   "notes": [
+    "\"Another candidate\" with 2%"
+   ],
+   "source_url": "https://www.stetson.edu/artsci/cpor/media/cpor-fall-2026-report-wave-2-october.pdf"
+  },
+  {
+   "pollster": "St. Pete Polls",
+   "sponsor": "Poll sponsored by Florida Politics",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-10-05",
+   "field_end": "2026-10-07",
+   "sample_size": 836,
+   "population": "LV",
+   "margin_of_error": "± 3.4%",
+   "results": {
+    "Ashley Moody": 47.0,
+    "Angie Nixon": 45.0,
+    "Other": 2.0,
+    "Undecided": 6.0
+   },
+   "notes": [
+    "\"Someone else\" with 2%"
+   ],
+   "source_url": "https://www.stpetepolls.org/files/StPetePolls_2026_State_Gov_October7_K7ZU3GA.pdf"
+  },
+  {
+   "pollster": "YouGov",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-09-28",
+   "field_end": "2026-10-05",
+   "sample_size": 3813,
+   "population": "LV",
+   "margin_of_error": "± 2.7%",
+   "results": {
+    "Ashley Moody": 49.0,
+    "Angie Nixon": 44.0,
+    "Other": 1.0,
+    "Undecided": 5.0
+   },
+   "notes": [],
+   "source_url": "https://d3nkl3psvxxpe9.cloudfront.net/documents/ttw_fl_20260921_lv.pdf"
+  },
+  {
+   "pollster": "Targoz Market Research",
+   "sponsor": "Poll sponsored by the James Madison Institute, a conservative think tank",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-09-28",
+   "field_end": "2026-10-04",
+   "sample_size": 847,
+   "population": "LV",
+   "margin_of_error": "–",
+   "results": {
+    "Ashley Moody": 52.0,
+    "Angie Nixon": 42.0,
+    "Other": 2.0,
+    "Undecided": 4.0
+   },
+   "notes": [
+    "\"Another candidate\" with 2%"
+   ],
+   "source_url": "https://jamesmadison.org/wp-content/uploads/JMI-October-2026-Poll-Marginals.pdf"
+  },
+  {
+   "pollster": "Targoz Market Research",
+   "sponsor": "Poll sponsored by the James Madison Institute, a conservative think tank",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-09-28",
+   "field_end": "2026-10-04",
+   "sample_size": 1171,
+   "population": "RV",
+   "margin_of_error": "± 2.8%",
+   "results": {
+    "Ashley Moody": 50.0,
+    "Angie Nixon": 38.0,
+    "Other": 4.0,
+    "Undecided": 8.0
+   },
+   "notes": [
+    "\"Another candidate\" with 4%"
+   ],
+   "source_url": "https://jamesmadison.org/wp-content/uploads/JMI-October-2026-Poll-Marginals.pdf"
+  },
+  {
+   "pollster": "Mason-Dixon",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-09-28",
+   "field_end": "2026-10-01",
+   "sample_size": 625,
+   "population": "LV",
+   "margin_of_error": "± 4.0%",
+   "results": {
+    "Ashley Moody": 50.0,
+    "Angie Nixon": 40.0,
+    "Other": 2.0,
+    "Undecided": 8.0
+   },
+   "notes": [
+    "Neil Gillespie (I) with 2%"
+   ],
+   "source_url": "https://s3.documentcloud.org/documents/28724874/fl1026results.pdf"
+  },
+  {
+   "pollster": "Change Research",
+   "sponsor": "Poll commissioned by Freedom Project USA",
+   "partisan_sponsor": "D",
+   "wikipedia_partisan_label": "D",
+   "field_start": "2026-09-25",
+   "field_end": "2026-09-27",
+   "sample_size": 1063,
+   "population": "LV",
+   "margin_of_error": "± 2.8%",
+   "results": {
+    "Ashley Moody": 48.0,
+    "Angie Nixon": 47.0,
+    "Other": 1.0,
+    "Undecided": 5.0
+   },
+   "notes": [
+    "\"Would not vote\" 1%"
+   ],
+   "source_url": "https://changeresearch.com/research/2026/2026-09-28-florida-aapor-methodology-statement"
+  },
+  {
+   "pollster": "Stetson University",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-09-14",
+   "field_end": "2026-09-21",
+   "sample_size": 830,
+   "population": "LV",
+   "margin_of_error": "± 4.3%",
+   "results": {
+    "Ashley Moody": 51.0,
+    "Angie Nixon": 40.0,
+    "Other": 3.0,
+    "Undecided": 5.0
+   },
+   "notes": [],
+   "source_url": "https://www.stetson.edu/artsci/cpor/media/cpor-sept.-2026-poll-final.pdf"
+  },
+  {
+   "pollster": "InsiderAdvantage",
+   "sponsor": "",
+   "partisan_sponsor": "R",
+   "wikipedia_partisan_label": "R",
+   "field_start": "2026-09-20",
+   "field_end": "2026-09-21",
+   "sample_size": 600,
+   "population": "LV",
+   "margin_of_error": "± 4%",
+   "results": {
+    "Ashley Moody": 49.0,
+    "Angie Nixon": 42.0,
+    "Other": 2.0,
+    "Undecided": 7.0
+   },
+   "notes": [],
+   "source_url": "https://insideradvantage.com/fl-u-s-senate-survey-top-line-tabs/"
+  },
+  {
+   "pollster": "St. Pete Polls",
+   "sponsor": "Poll sponsored by Florida Politics",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-09-15",
+   "field_end": "2026-09-17",
+   "sample_size": 913,
+   "population": "LV",
+   "margin_of_error": "± 3.2%",
+   "results": {
+    "Ashley Moody": 45.0,
+    "Angie Nixon": 45.0,
+    "Other": 3.0,
+    "Undecided": 7.0
+   },
+   "notes": [
+    "\"Someone else\" with 3%"
+   ],
+   "source_url": "http://stpetepolls.org/files/StPetePolls_2026_State_Gov_September17_G7V29XU6.pdf"
+  },
+  {
+   "pollster": "Quantus Insights",
+   "sponsor": "",
+   "partisan_sponsor": "R",
+   "wikipedia_partisan_label": "R",
+   "field_start": "2026-09-08",
+   "field_end": "2026-09-10",
+   "sample_size": 733,
+   "population": "LV",
+   "margin_of_error": "± 4.1%",
+   "results": {
+    "Ashley Moody": 50.0,
+    "Angie Nixon": 43.0,
+    "Other": 3.0,
+    "Undecided": 4.0
+   },
+   "notes": [
+    "\"Someone else\" with 1%; \"Wouldn't vote\" with 1%"
+   ],
+   "source_url": "https://quantusinsights.org/f/new-quantus-polls-moody-leads-in-florida-flanagan-in-minnesota"
+  },
+  {
+   "pollster": "Change Research",
+   "sponsor": "Poll commissioned by Freedom Project USA",
+   "partisan_sponsor": "D",
+   "wikipedia_partisan_label": "D",
+   "field_start": "2026-09-07",
+   "field_end": "2026-09-09",
+   "sample_size": 1107,
+   "population": "LV",
+   "margin_of_error": "± 2.8%",
+   "results": {
+    "Ashley Moody": 47.0,
+    "Angie Nixon": 47.0,
+    "Other": 1.0,
+    "Undecided": 5.0
+   },
+   "notes": [],
+   "source_url": "https://changeresearch.com/research/2026/2026-09-10-florida-aapor-methodology-statement"
+  }
+ ],
+ "money": {
+  "as_of": "FEC candidate financial summaries (api.open.fec.gov elections endpoint, retrieved 2026-10-31); coverage ends 2026-10-14 (pre-general report) for all three.",
+  "candidates": {
+   "Ashley Moody": {
+    "raised_total": 14524031.96,
+    "cash_on_hand": 816355.11,
+    "spent_total": 13707676.85,
+    "coverage_end_date": "2026-10-14",
+    "fec_candidate_id": "S6FL00640",
+    "source_url": "https://www.fec.gov/data/candidate/S6FL00640/?cycle=2026&election_full=true"
+   },
+   "Angie Nixon": {
+    "raised_total": 11319380.4,
+    "cash_on_hand": 3266794.77,
+    "spent_total": 8052585.63,
+    "coverage_end_date": "2026-10-14",
+    "fec_candidate_id": "S6FL00830",
+    "source_url": "https://www.fec.gov/data/candidate/S6FL00830/?cycle=2026&election_full=true"
+   },
+   "Neil Gillespie": {
+    "raised_total": 13283.81,
+    "cash_on_hand": 633.57,
+    "spent_total": 12650.24,
+    "coverage_end_date": "2026-10-14",
+    "fec_candidate_id": "S6FL00863",
+    "source_url": "https://www.fec.gov/data/candidate/S6FL00863/?cycle=2026&election_full=true"
+   }
+  },
+  "outside_spending": {
+   "pro_R": 711580.92,
+   "pro_D": 8692069.09,
+   "breakdown_general": {
+    "support_R_nominee": 683865.42,
+    "oppose_R_nominee": 3458163.28,
+    "support_other_nominee": 5233905.81,
+    "oppose_other_nominee": 27715.5
+   },
+   "primary_or_runoff_period_not_included": {
+    "note": "IEs reported for primary/runoff/other election types (not counted above); in a primary, opposing one nominee is not necessarily support for the other party.",
+    "support_R_nominee": 319873.56,
+    "oppose_R_nominee": 26675.0,
+    "support_other_nominee": 25492.76,
+    "oppose_other_nominee": 0.0
+   },
+   "top_general_spenders": [
+    {
+     "spender": "New Deal for All, Inc.",
+     "candidate": "Moody, Ashley",
+     "support_or_oppose": "oppose",
+     "amount": 3096631.18
+    },
+    {
+     "spender": "AB PAC",
+     "candidate": "Nixon, Angela",
+     "support_or_oppose": "support",
+     "amount": 2596442.52
+    },
+    {
+     "spender": "TD PAC",
+     "candidate": "Nixon, Angela",
+     "support_or_oppose": "support",
+     "amount": 1175083.94
+    },
+    {
+     "spender": "Progressive Turnout Project",
+     "candidate": "Nixon, Angela",
+     "support_or_oppose": "support",
+     "amount": 630042.3
+    },
+    {
+     "spender": "STRONGER SAFER NATION",
+     "candidate": "Moody, Ashley",
+     "support_or_oppose": "support",
+     "amount": 487500.0
+    },
+    {
+     "spender": "National Nurses United for Patient Protection",
+     "candidate": "Nixon, Angie",
+     "support_or_oppose": "support",
+     "amount": 322403.89
+    }
+   ],
+   "source": "FEC 24- and 48-hour independent-expenditure reports (bulk file), general-election entries (ele_type G) for the two leading nominees' FEC candidate IDs; amended transactions de-duplicated (latest filing kept). pro_R = support for R nominee + opposition to the other nominee; the other side is the reverse. Excludes party coordinated spending, candidate ads, IEs under the 24/48-hour reporting thresholds, and non-FEC issue ads; figures are as reported (some are estimates).",
+   "source_url": "https://www.fec.gov/files/bulk-downloads/2026/independent_expenditure_2026.csv",
+   "as_of": "reports received by FEC through 2026-10-29 (file updated 2026-10-30 10:14 UTC)"
+  }
+ },
+ "events": [
+  {
+   "date": "2025-01-16",
+   "what": "Gov. Ron DeSantis named Attorney General Ashley Moody to the Senate seat vacated by Marco Rubio, who became secretary of state.",
+   "source_url": "https://www.nbcnews.com/politics/congress/ron-desantis-picks-florida-attorney-general-ashley-moody-fill-rubios-s-rcna187938"
+  },
+  {
+   "date": "2025-01-21",
+   "what": "Moody was sworn in as a U.S. senator.",
+   "source_url": "https://floridaphoenix.com/2025/01/21/ashley-moody-sworn-in-as-u-s-senator-while-marco-rubio-takes-over-at-state/"
+  },
+  {
+   "date": "2025-07-25",
+   "what": "President Trump endorsed Moody for the 2026 special election, Florida Politics reported.",
+   "source_url": "https://floridapolitics.com/archives/748780-donald-trump-endorses-ashley-moody-early/"
+  },
+  {
+   "date": "2026-08-18",
+   "what": "Primaries: Moody won the Republican primary with 79.6%; Angie Nixon won the Democratic primary with 56.1% over Alexander Vindman, who had raised far more money.",
+   "source_url": "https://www.nbcnews.com/politics/2026-election/angie-nixon-winner-florida-senate-primary-democrat-alex-vindman-moody-rcna593255"
+  },
+  {
+   "date": "2026-08-20",
+   "what": "Sen. Bernie Sanders endorsed Nixon, Axios reported.",
+   "source_url": "https://www.axios.com/2026/08/20/bernie-sanders-endorses-floridas-angie-nixon-for-senate"
+  },
+  {
+   "date": "2026-09",
+   "what": "Action News Jax reported that Moody declined to take part in a debate with Nixon it was planning with the University of North Florida, saying she would not give a stage to a 'self-proclaimed socialist'; Nixon called the decision cowardice.",
+   "source_url": "https://www.actionnewsjax.com/news/local/sen-ashley-moody-declines-take-part-action-news-jax-debate-with-angie-nixon/2TV5BXHVKJHZPPCDVUQGPSP3EE/"
+  },
+  {
+   "date": "2026-10-01",
+   "what": "Florida Democrats, including party chair Nikki Fried, criticized Moody over her refusal to debate, the News Service of Florida reported.",
+   "source_url": "https://wusf.org/politics-issues/2026-10-01/democrats-slam-ashley-moody-amid-heated-us-senate-race"
+  },
+  {
+   "date": "2026-10-24",
+   "what": "In-person early voting opened in all 67 counties (through October 31).",
+   "source_url": "https://www.wusf.org/politics-issues/2026-10-26/florida-voters-almost-2-8m-surge-past-22-midterm-benchmark-as-early-voting-goes-statewide"
+  },
+  {
+   "date": "2026-10-24",
+   "what": "Former President Barack Obama endorsed Nixon, Politico reported.",
+   "source_url": "https://www.politico.com/news/2026/10/24/obama-progressive-insurgent-angie-nixon-florida-01134674"
+  }
+ ],
+ "early_vote": {
+  "as_of": "2026-10-26 (morning)",
+  "summary": "News Service of Florida reported about 2.8 million ballots cast: 1.38 million early in-person (about 600,000 registered Republicans, 505,000 Democrats, 242,000 with no party, 34,000 third-party) and 1.4 million by mail (604,000 Democrats, just over 500,000 Republicans, 265,000 no party, 34,000 third-party). These are voters' party registrations, not votes. The same report said Republicans hold a 1.5 million voter-registration edge among 13.7 million registered voters. The Florida Division of Elections' own daily statistics page could not be retrieved (HTTP 403), so these are not taken directly from the state.",
+  "source_url": "https://www.wusf.org/politics-issues/2026-10-26/florida-voters-almost-2-8m-surge-past-22-midterm-benchmark-as-early-voting-goes-statewide"
+ },
+ "notes_uncertain": [
+  "Early-vote figures come from a News Service of Florida report, not directly from the Division of Elections (its site returned HTTP 403 to automated requests).",
+  "No general-election debate between Moody and Nixon was found. A July report said Florida Atlantic University planned a Senate debate on October 13, but the Republican Party of Florida said dates were not set; it was not confirmed to have happened.",
+  "Neil Gillespie: no biography found beyond the state candidate list and the FEC filing (FEC spells the name 'Gilespie, Neil Joseph').",
+  "Mail-ballot receipt and canvassing rules are standard Florida law; not re-verified for 2026 on the state site.",
+  "Outside spending uses FEC 24/48-hour reports only; FEC processed Schedule E totals could not be retrieved (API rate limit).",
+  "Ages are as of Election Day (2026-11-03), computed from birth dates on the candidates' Wikipedia pages."
+ ]
+}

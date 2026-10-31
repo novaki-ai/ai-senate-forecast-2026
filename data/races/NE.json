@@ -1,0 +1,563 @@
+{
+ "state": "Nebraska",
+ "code": "NE",
+ "seat": "Class 2 regular",
+ "incumbent": {
+  "name": "Pete Ricketts",
+  "party": "Republican",
+  "status": "running"
+ },
+ "rules": "Regular election for a full term (2027-2033). Plurality winner; no runoff. On the ballot: Pete Ricketts (R), Dan Osborn (independent, petition candidate), Chuck Conboy (America First Party), Robin Richards (Nebraska Working People Party) and Mike Marvin (Legal Marijuana NOW; he dropped out and endorsed Osborn but remains on the ballot, per KETV and Wikipedia). No Democrat is on the ballot: the Democratic nominee withdrew in July 2026 and the state Democratic Party supports Osborn. Early (mail) ballots must reach the county election office by the close of polls. Polls close at 8 p.m. Central (7 p.m. Mountain); results are usually reported on election night. Sources: https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Nebraska ; https://www.ketv.com/article/nebraska-senate-mike-marvin-drops-out-endorses-osborn/73497835",
+ "candidates": [
+  {
+   "name": "Pete Ricketts",
+   "party": "Republican",
+   "incumbent": true,
+   "age": 62,
+   "current_or_last_office": "U.S. senator (since January 2023; appointed, then won the 2024 special election)",
+   "bio_short": "Ricketts, a businessman, was Nebraska's governor from 2015 to 2023; he lost a 2006 Senate race to Ben Nelson. He was appointed to the Senate in January 2023 after Ben Sasse resigned and won the 2024 special election for the rest of the term with 62.6%.",
+   "primary_result": "Won the May 12, 2026 Republican primary with 81.5% (160,547 votes) over four challengers.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Pete_Ricketts",
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Nebraska",
+    "https://en.wikipedia.org/wiki/2024_United_States_Senate_special_election_in_Nebraska"
+   ]
+  },
+  {
+   "name": "Dan Osborn",
+   "party": "Independent",
+   "incumbent": false,
+   "age": 51,
+   "current_or_last_office": "Former president of BCTGM Local 50G (union); 2024 independent Senate candidate",
+   "bio_short": "Osborn is a Navy veteran and industrial mechanic who led the 2021 strike at Kellogg's Omaha plant as president of BCTGM Local 50G. Running as an independent in 2024, he lost to Sen. Deb Fischer 53.2% to 46.5%. The Nebraska Democratic Party endorsed him in August 2025.",
+   "primary_result": "No primary; qualified for the ballot by petition (signatures verified July 2026).",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Dan_Osborn",
+    "https://nebraskaexaminer.com/2026/07/16/nebraska-nonpartisan-us-senate-candidate-dan-osborn-qualifies-for-november-ballot/",
+    "https://nebraska.tv/news/local/dan-osborn-endorsed-by-ne-democratic-party-for-2026-senate-race"
+   ]
+  },
+  {
+   "name": "Chuck Conboy",
+   "party": "America First Party",
+   "incumbent": false,
+   "age": null,
+   "current_or_last_office": "Account manager",
+   "bio_short": "Conboy is the America First Party nominee; Wikipedia lists him as an account manager. His FEC committee reported no receipts through October 14, 2026.",
+   "primary_result": "America First Party nominee.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Nebraska",
+    "https://www.fec.gov/data/candidate/S6NE00202/?cycle=2026&election_full=true"
+   ]
+  },
+  {
+   "name": "Robin Richards",
+   "party": "Nebraska Working People Party",
+   "incumbent": false,
+   "age": null,
+   "current_or_last_office": "Chair of the Nebraska Working People Party",
+   "bio_short": "Richards chairs the Nebraska Working People Party and is its nominee, per Wikipedia. Her FEC committee reported no receipts through October 14, 2026.",
+   "primary_result": "Nebraska Working People Party nominee.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Nebraska",
+    "https://www.fec.gov/data/candidate/S6NE00210/?cycle=2026&election_full=true"
+   ]
+  },
+  {
+   "name": "Mike Marvin",
+   "party": "Legal Marijuana NOW",
+   "incumbent": false,
+   "age": null,
+   "current_or_last_office": "Former labor union official; former chair of the Legal Marijuana NOW Party",
+   "bio_short": "Marvin won the Legal Marijuana NOW nomination, then dropped out and endorsed Osborn, KETV reported; Wikipedia says his name remains on the ballot.",
+   "primary_result": "Won the May 12, 2026 Legal Marijuana NOW primary with 66.4% (829 votes) over Earl Starkey.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Nebraska",
+    "https://www.ketv.com/article/nebraska-senate-mike-marvin-drops-out-endorses-osborn/73497835"
+   ]
+  }
+ ],
+ "past_results": {
+  "pres_2024": {
+   "R": 59.32,
+   "D": 38.86,
+   "margin": "R+20.5",
+   "source_url": "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_Nebraska"
+  },
+  "pres_2020": {
+   "R": 58.22,
+   "D": 39.17,
+   "margin": "R+19.0",
+   "source_url": "https://en.wikipedia.org/wiki/2020_United_States_presidential_election_in_Nebraska"
+  },
+  "senate_last_this_seat": {
+   "year": 2024,
+   "winner": "Pete Ricketts",
+   "party": "Republican",
+   "margin": "R+25.2 (62.58% vs 37.42% for Preston Love Jr.; 2024 special election for the remainder of Ben Sasse's term)",
+   "source_url": "https://en.wikipedia.org/wiki/2024_United_States_Senate_special_election_in_Nebraska"
+  },
+  "other_recent": [
+   {
+    "race": "2024 U.S. Senate (other seat)",
+    "winner": "Deb Fischer (R), defeating Dan Osborn (independent)",
+    "margin": "R+6.7 (53.19% vs 46.52%)",
+    "source_url": "https://en.wikipedia.org/wiki/2024_United_States_Senate_election_in_Nebraska"
+   },
+   {
+    "race": "2022 governor",
+    "winner": "Jim Pillen (R), defeating Carol Blood (D)",
+    "margin": "R+23.2 (59.22% vs 35.98%)",
+    "source_url": "https://en.wikipedia.org/wiki/2022_Nebraska_gubernatorial_election"
+   }
+  ]
+ },
+ "polls_note": "Polls with field_end on or after 2026-09-01, taken from the Wikipedia race page polling table (used as an index), with the pollster/sponsor link given there (source_url; often the pollster's or sponsor's own release, sometimes a news report). Multiple rows with the same pollster and dates are different versions of one poll (LV vs RV, full ballot vs two-way, leaners pushed); see notes. partisan_sponsor follows Wikipedia's (R)/(D) tag on the pollster ('none' = untagged, or a bipartisan R+D pollster pair); sponsor text is Wikipedia's footnote. Results are percentages as published; null = not reported. 'Other' may include named minor candidates (see notes, copied from Wikipedia footnotes). No averages or aggregates are included.",
+ "polls": [
+  {
+   "pollster": "Echelon Insights",
+   "sponsor": "Poll conducted for NetChoice",
+   "partisan_sponsor": "R",
+   "wikipedia_partisan_label": "R",
+   "field_start": "2026-10-16",
+   "field_end": "2026-10-23",
+   "sample_size": 407,
+   "population": "LV",
+   "margin_of_error": "± 6.3%",
+   "results": {
+    "Pete Ricketts": 47.0,
+    "Dan Osborn": 46.0,
+    "Other": 3.0,
+    "Undecided": 3.0
+   },
+   "notes": [
+    "Robin Richards (NWP) with 2%; Chuck Conboy (AF) with 1"
+   ],
+   "source_url": "https://netchoice.org/netchoice-echelon-insights-poll-voters-rank-ai-regulation-far-behind-cost-of-living-want-one-national-ai-standard/"
+  },
+  {
+   "pollster": "GBAO",
+   "sponsor": "Poll sponsored by Working Class Majority PAC, which supports Osborn",
+   "partisan_sponsor": "D",
+   "wikipedia_partisan_label": "D",
+   "field_start": "2026-10-18",
+   "field_end": "2026-10-22",
+   "sample_size": 800,
+   "population": "LV",
+   "margin_of_error": "± 3.5%",
+   "results": {
+    "Pete Ricketts": 45.0,
+    "Dan Osborn": 46.0,
+    "Other": null,
+    "Undecided": 7.0
+   },
+   "notes": [],
+   "source_url": "https://data.ddhq.io/polls/2026/10/23/GBAO/Working-Class-Majority-Nebraska-2026-10-18-2026-10-22"
+  },
+  {
+   "pollster": "Impact Research",
+   "sponsor": "Poll sponsored by Osborn's campaign",
+   "partisan_sponsor": "D",
+   "wikipedia_partisan_label": "D",
+   "field_start": "2026-10-14",
+   "field_end": "2026-10-20",
+   "sample_size": 600,
+   "population": "LV",
+   "margin_of_error": "± 4.0%",
+   "results": {
+    "Pete Ricketts": 49.0,
+    "Dan Osborn": 47.0,
+    "Other": 2.0,
+    "Undecided": 1.0
+   },
+   "notes": [],
+   "source_url": "https://mcusercontent.com/34be366ade846d769ee678a97/files/3ae10722-76ee-42da-fe74-aaa63817df92/IMPACT_NEBRASKA_INTERESTED_PARTIES_POLL_MEMO_OCTOBER_2026.pdf"
+  },
+  {
+   "pollster": "Impact Research",
+   "sponsor": "Poll sponsored by Osborn's campaign",
+   "partisan_sponsor": "D",
+   "wikipedia_partisan_label": "D",
+   "field_start": "2026-10-14",
+   "field_end": "2026-10-20",
+   "sample_size": 600,
+   "population": "LV",
+   "margin_of_error": "± 4.0%",
+   "results": {
+    "Pete Ricketts": 50.0,
+    "Dan Osborn": 48.0,
+    "Other": null,
+    "Undecided": 1.0
+   },
+   "notes": [],
+   "source_url": "https://mcusercontent.com/34be366ade846d769ee678a97/files/3ae10722-76ee-42da-fe74-aaa63817df92/IMPACT_NEBRASKA_INTERESTED_PARTIES_POLL_MEMO_OCTOBER_2026.pdf"
+  },
+  {
+   "pollster": "Concord Public Opinion Partners",
+   "sponsor": "Poll sponsored by Education Reform Now Advocacy",
+   "partisan_sponsor": "D",
+   "wikipedia_partisan_label": "D",
+   "field_start": "2026-10-15",
+   "field_end": "2026-10-18",
+   "sample_size": 500,
+   "population": "LV",
+   "margin_of_error": "± 4.4%",
+   "results": {
+    "Pete Ricketts": 41.0,
+    "Dan Osborn": 48.0,
+    "Other": 6.0,
+    "Undecided": 5.0
+   },
+   "notes": [],
+   "source_url": "https://concordpublicopinionpartners.org/polls/nebraska-ge-2026"
+  },
+  {
+   "pollster": "National Public Affairs",
+   "sponsor": "",
+   "partisan_sponsor": "R",
+   "wikipedia_partisan_label": "R",
+   "field_start": "2026-10-15",
+   "field_end": "2026-10-18",
+   "sample_size": 598,
+   "population": "LV",
+   "margin_of_error": "± 4.0%",
+   "results": {
+    "Pete Ricketts": 46.0,
+    "Dan Osborn": 43.0,
+    "Other": 5.0,
+    "Undecided": 5.0
+   },
+   "notes": [
+    "Mike Marvin (LMN) and Chuck Conboy (AF) with 2% each; Robin Richards (NWP) with 1%"
+   ],
+   "source_url": "https://backend.natpublicaffairs.com/media/NE_Tracker_R2_Trend_Memo_102226.7.pdf"
+  },
+  {
+   "pollster": "National Public Affairs",
+   "sponsor": "",
+   "partisan_sponsor": "R",
+   "wikipedia_partisan_label": "R",
+   "field_start": "2026-10-15",
+   "field_end": "2026-10-18",
+   "sample_size": 598,
+   "population": "LV",
+   "margin_of_error": "± 4.0%",
+   "results": {
+    "Pete Ricketts": 50.0,
+    "Dan Osborn": 47.0,
+    "Other": null,
+    "Undecided": 3.0
+   },
+   "notes": [],
+   "source_url": "https://backend.natpublicaffairs.com/media/NE_Tracker_R2_Trend_Memo_102226.7.pdf"
+  },
+  {
+   "pollster": "National Public Affairs",
+   "sponsor": "",
+   "partisan_sponsor": "R",
+   "wikipedia_partisan_label": "R",
+   "field_start": "2026-10-02",
+   "field_end": "2026-10-05",
+   "sample_size": 800,
+   "population": "LV",
+   "margin_of_error": "± 4.0%",
+   "results": {
+    "Pete Ricketts": 46.0,
+    "Dan Osborn": 43.0,
+    "Other": 6.0,
+    "Undecided": 5.0
+   },
+   "notes": [
+    "Mike Marvin (LMN), Robin Richards (NWP), and Chuck Conboy (AF) with 2% each"
+   ],
+   "source_url": "https://backend.natpublicaffairs.com/media/Nebraska_General_Election_Memo_100926.pdf"
+  },
+  {
+   "pollster": "National Public Affairs",
+   "sponsor": "",
+   "partisan_sponsor": "R",
+   "wikipedia_partisan_label": "R",
+   "field_start": "2026-10-02",
+   "field_end": "2026-10-05",
+   "sample_size": 800,
+   "population": "LV",
+   "margin_of_error": "± 4.0%",
+   "results": {
+    "Pete Ricketts": 49.0,
+    "Dan Osborn": 46.0,
+    "Other": null,
+    "Undecided": 6.0
+   },
+   "notes": [],
+   "source_url": "https://backend.natpublicaffairs.com/media/Nebraska_General_Election_Memo_100926.pdf"
+  },
+  {
+   "pollster": "YouGov",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-09-24",
+   "field_end": "2026-10-03",
+   "sample_size": 1809,
+   "population": "LV",
+   "margin_of_error": "± 3.3%",
+   "results": {
+    "Pete Ricketts": 47.0,
+    "Dan Osborn": 48.0,
+    "Other": null,
+    "Undecided": 3.0
+   },
+   "notes": [],
+   "source_url": "https://d3nkl3psvxxpe9.cloudfront.net/documents/ttw_ne_20260921_lv.pdf"
+  },
+  {
+   "pollster": "co/efficient",
+   "sponsor": "",
+   "partisan_sponsor": "R",
+   "wikipedia_partisan_label": "R",
+   "field_start": "2026-09-28",
+   "field_end": "2026-09-30",
+   "sample_size": 1113,
+   "population": "LV",
+   "margin_of_error": "± 2.92%",
+   "results": {
+    "Pete Ricketts": 45.0,
+    "Dan Osborn": 40.0,
+    "Other": 4.0,
+    "Undecided": 11.0
+   },
+   "notes": [
+    "Mike Marvin (LMN) with 2%; Robin Richards (WPP) with 1%; Chuck Conboy (AF) with 1%"
+   ],
+   "source_url": "https://battlegrounds.coefficient.org/ne/"
+  },
+  {
+   "pollster": "co/efficient",
+   "sponsor": "",
+   "partisan_sponsor": "R",
+   "wikipedia_partisan_label": "R",
+   "field_start": "2026-09-28",
+   "field_end": "2026-09-30",
+   "sample_size": 1113,
+   "population": "LV",
+   "margin_of_error": "± 2.92%",
+   "results": {
+    "Pete Ricketts": 48.0,
+    "Dan Osborn": 43.0,
+    "Other": null,
+    "Undecided": 8.0
+   },
+   "notes": [],
+   "source_url": "https://battlegrounds.coefficient.org/ne/"
+  },
+  {
+   "pollster": "SurveyUSA",
+   "sponsor": "Poll sponsored by Grant Forbes, LLC.",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-09-08",
+   "field_end": "2026-09-13",
+   "sample_size": 503,
+   "population": "LV",
+   "margin_of_error": "± 6.4%",
+   "results": {
+    "Pete Ricketts": 42.0,
+    "Dan Osborn": 46.0,
+    "Other": 4.0,
+    "Undecided": 7.0
+   },
+   "notes": [
+    "\"Another candidate\" with 4%"
+   ],
+   "source_url": "https://results.surveyusa.com/client/PollReport.aspx?g=d94236a7-5861-4b7f-9d81-d5a81ab786cc"
+  },
+  {
+   "pollster": "GBAO",
+   "sponsor": "Poll sponsored by Working Class Majority PAC, which supports Osborn",
+   "partisan_sponsor": "D",
+   "wikipedia_partisan_label": "D",
+   "field_start": "2026-09-03",
+   "field_end": "2026-09-08",
+   "sample_size": 800,
+   "population": "LV",
+   "margin_of_error": "± 3.5%",
+   "results": {
+    "Pete Ricketts": 46.0,
+    "Dan Osborn": 47.0,
+    "Other": null,
+    "Undecided": 7.0
+   },
+   "notes": [],
+   "source_url": "https://static.washingtonsun.com/38/fa/94e79558460286cbf3847a27e4b5/working-class-majority-pac-september-survey-memo-091826.pdf"
+  }
+ ],
+ "money": {
+  "as_of": "FEC candidate financial summaries (retrieved 2026-10-31); coverage ends 2026-10-14 (pre-general report) except Marvin (2026-09-11).",
+  "candidates": {
+   "Pete Ricketts": {
+    "raised_total": 14546959.4,
+    "cash_on_hand": 1218138.97,
+    "spent_total": 13815789.54,
+    "coverage_end_date": "2026-10-14",
+    "fec_candidate_id": "S6NE00129",
+    "source_url": "https://www.fec.gov/data/candidate/S6NE00129/?cycle=2026&election_full=true"
+   },
+   "Dan Osborn": {
+    "raised_total": 11029845.41,
+    "cash_on_hand": 1953183.3,
+    "spent_total": 9139828.03,
+    "coverage_end_date": "2026-10-14",
+    "fec_candidate_id": "S4NE00207",
+    "source_url": "https://www.fec.gov/data/candidate/S4NE00207/?cycle=2026&election_full=true"
+   },
+   "Mike Marvin": {
+    "raised_total": 27750.0,
+    "cash_on_hand": 0,
+    "spent_total": 27750.0,
+    "coverage_end_date": "2026-09-11",
+    "fec_candidate_id": "S6NE00152",
+    "source_url": "https://www.fec.gov/data/candidate/S6NE00152/?cycle=2026&election_full=true"
+   },
+   "Chuck Conboy": {
+    "raised_total": 0.02,
+    "cash_on_hand": -88.3,
+    "spent_total": 88.32,
+    "coverage_end_date": "2026-10-14",
+    "fec_candidate_id": "S6NE00202",
+    "source_url": "https://www.fec.gov/data/candidate/S6NE00202/?cycle=2026&election_full=true"
+   },
+   "Robin Richards": {
+    "raised_total": 0,
+    "cash_on_hand": 0,
+    "spent_total": 0,
+    "coverage_end_date": "2026-10-14",
+    "fec_candidate_id": "S6NE00210",
+    "source_url": "https://www.fec.gov/data/candidate/S6NE00210/?cycle=2026&election_full=true"
+   }
+  },
+  "outside_spending": {
+   "pro_R": 25495735.58,
+   "pro_D": null,
+   "pro_Osborn": 35061547.74,
+   "breakdown_general": {
+    "support_R_nominee": 606686.0,
+    "oppose_R_nominee": 22226421.21,
+    "support_other_nominee": 12835126.53,
+    "oppose_other_nominee": 24889049.58
+   },
+   "primary_or_runoff_period_not_included": {
+    "note": "IEs reported for primary/runoff/other election types (not counted above); in a primary, opposing one nominee is not necessarily support for the other party.",
+    "support_R_nominee": 613390.0,
+    "oppose_R_nominee": 0.0,
+    "support_other_nominee": 5467.74,
+    "oppose_other_nominee": 0.0
+   },
+   "top_general_spenders": [
+    {
+     "spender": "NEBRASKA VALUES PAC",
+     "candidate": "Ricketts, Pete",
+     "support_or_oppose": "oppose",
+     "amount": 14407125.42
+    },
+    {
+     "spender": "DEFEND AMERICAN JOBS",
+     "candidate": "Osborn, Dan",
+     "support_or_oppose": "oppose",
+     "amount": 13476277.76
+    },
+    {
+     "spender": "WORKING CLASS MAJORITY PAC, INC",
+     "candidate": "Osborn, Dan",
+     "support_or_oppose": "support",
+     "amount": 8033026.03
+    },
+    {
+     "spender": "CORNHUSKER MAJORITY",
+     "candidate": "Osborn, Dan",
+     "support_or_oppose": "oppose",
+     "amount": 6947015.57
+    },
+    {
+     "spender": "WORKING CLASS MAJORITY PAC, INC",
+     "candidate": "Ricketts, Pete",
+     "support_or_oppose": "oppose",
+     "amount": 3561870.39
+    },
+    {
+     "spender": "Win it Back PAC",
+     "candidate": "Osborn, Dan",
+     "support_or_oppose": "oppose",
+     "amount": 2059627.56
+    }
+   ],
+   "source": "FEC 24- and 48-hour independent-expenditure reports (bulk file), general-election entries (ele_type G) for the two leading nominees' FEC candidate IDs; amended transactions de-duplicated (latest filing kept). pro_R = support for R nominee + opposition to the other nominee; the other side is the reverse. Excludes party coordinated spending, candidate ads, IEs under the 24/48-hour reporting thresholds, and non-FEC issue ads; figures are as reported (some are estimates). In Nebraska there is no Democratic nominee: 'pro_Osborn' = support for independent Dan Osborn + opposition to Ricketts; pro_D is set to null.",
+   "source_url": "https://www.fec.gov/files/bulk-downloads/2026/independent_expenditure_2026.csv",
+   "as_of": "reports received by FEC through 2026-10-29 (file updated 2026-10-30 10:14 UTC)"
+  }
+ },
+ "events": [
+  {
+   "date": "2025-04-10",
+   "what": "President Trump endorsed Ricketts for reelection, the Nebraska Examiner reported.",
+   "source_url": "https://nebraskaexaminer.com/briefs/trump-throws-weight-into-hypothetical-midterm-race-with-endorsement-of-u-s-sen-pete-ricketts/"
+  },
+  {
+   "date": "2025-07-08",
+   "what": "Dan Osborn launched an independent campaign against Ricketts.",
+   "source_url": "https://rollcall.com/2025/07/08/dan-osborn-nebraska-senate-election-ricketts/"
+  },
+  {
+   "date": "2025-08",
+   "what": "The Nebraska Democratic Party endorsed Osborn.",
+   "source_url": "https://nebraska.tv/news/local/dan-osborn-endorsed-by-ne-democratic-party-for-2026-senate-race"
+  },
+  {
+   "date": "2026-03-23",
+   "what": "The Nebraska Supreme Court put Democratic candidate Cindy Burbank back on the primary ballot after the secretary of state had removed her following a state Republican Party complaint.",
+   "source_url": "https://nebraskaexaminer.com/2026/03/23/nebraska-u-s-senate-candidate-back-on-ballot-state-high-court-rules-sos-acted-too-late/"
+  },
+  {
+   "date": "2026-05-12",
+   "what": "Primaries: Ricketts won the Republican primary with 81.5%; Burbank won the Democratic primary with 89.5%.",
+   "source_url": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Nebraska"
+  },
+  {
+   "date": "2026-07-16",
+   "what": "Osborn qualified for the November ballot as an independent after his petition signatures were verified.",
+   "source_url": "https://nebraskaexaminer.com/2026/07/16/nebraska-nonpartisan-us-senate-candidate-dan-osborn-qualifies-for-november-ballot/"
+  },
+  {
+   "date": "2026-07-21",
+   "what": "The secretary of state confirmed Burbank's withdrawal as the Democratic nominee (filed July 17), leaving no Democrat on the ballot.",
+   "source_url": "https://www.1011now.com/2026/07/21/nebraska-democrats-must-find-new-senate-candidate-after-burbank-declines-nomination/"
+  },
+  {
+   "date": "2026-08-26",
+   "what": "A lawsuit by former Democratic candidate William Forbes seeking to force the party to nominate a Senate candidate was dismissed.",
+   "source_url": "https://www.courthousenews.com/wp-content/uploads/2026/08/forbes-v-nebraska-democratic-party-defendant-order-summary-judgment.pdf"
+  },
+  {
+   "date": "2026-09-01",
+   "what": "Ricketts and Osborn debated at the Nebraska State Fair, hosted by News Channel Nebraska.",
+   "source_url": "https://www.ksnblocal4.com/2026/08/04/live-us-senate-debate-between-ricketts-osborn-scheduled-nebraska-state-fair/"
+  },
+  {
+   "date": "2026-10-05",
+   "what": "President Trump campaigned with Ricketts in Grand Island at the Pinnacle Bank Expo Center, Newsweek reported.",
+   "source_url": "https://newsweek.com/pete-ricketts-nebraska-state-trump-won-12567170"
+  }
+ ],
+ "early_vote": {
+  "as_of": null,
+  "summary": "No official statewide early-ballot return figures for the general election were found on the Nebraska Secretary of State's site. Nebraska has party registration, but no official partisan return data were located.",
+  "source_url": "https://sos.nebraska.gov/elections"
+ },
+ "notes_uncertain": [
+  "The Newsweek article on Trump's October 5 Grand Island rally (Pinnacle Bank Expo Center) carries no visible publication date; it references events through mid-October.",
+  "Date of Mike Marvin's withdrawal/endorsement of Osborn not verified.",
+  "FEC 'processed' Schedule E totals retrieved for this race were far lower (e.g., $783,915 supporting Ricketts) than the 24/48-hour reports used here; processed data lag recent filings.",
+  "Ricketts' bio: 'businessman' per Wikipedia lead; prior business roles not listed here.",
+  "Early ballot rules (receipt by close of polls) are standard Nebraska law; not re-verified for 2026.",
+  "Ages are as of Election Day (2026-11-03), computed from birth dates on the candidates' Wikipedia pages."
+ ]
+}

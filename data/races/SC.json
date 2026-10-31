@@ -1,0 +1,574 @@
+{
+ "state": "South Carolina",
+ "code": "SC",
+ "seat": "Class 2 regular",
+ "incumbent": {
+  "name": "Darline Graham",
+  "party": "Republican",
+  "status": "appointed, running"
+ },
+ "rules": "Regular election for a full term (2027-2033); the appointed senator serves until the term ends on January 3, 2027. Plurality winner in the general election (runoffs apply only to primaries). Four candidates: Darline Graham (R), Annie Andrews (D), Kasie Whitener (Libertarian), Mark Hackett (Constitution). Write-in votes are allowed; Catherine Fleming Bruce is running as a write-in candidate. Early voting ran October 19-31, 2026; absentee ballots must be returned by 7 p.m. on November 3. South Carolina has no party registration. Polls close at 7 p.m. Eastern; results are usually reported on election night. Sources: https://scvotes.gov/early-voting-ends-saturday-reminders-for-election-day-november-3/ ; https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_South_Carolina",
+ "candidates": [
+  {
+   "name": "Darline Graham",
+   "party": "Republican",
+   "incumbent": true,
+   "age": 62,
+   "current_or_last_office": "U.S. senator (appointed; in office since July 14, 2026)",
+   "bio_short": "Graham, the sister of the late Sen. Lindsey Graham, was commissioner of the South Carolina Commission for the Blind (2019-2026) before Gov. Henry McMaster appointed her to the seat in July 2026. She is the first woman to represent South Carolina in the U.S. Senate.",
+   "primary_result": "Won the August 11, 2026 special Republican primary with 32.8% (109,881 votes; first of 10 candidates), then the August 25 runoff against U.S. Rep. Ralph Norman, 52.4% (193,486 votes) to 47.6%.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Darline_Graham",
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_South_Carolina",
+    "https://www.cnn.com/2026/08/25/politics/south-carolina-georgia-oklahoma-takeaways"
+   ]
+  },
+  {
+   "name": "Annie Andrews",
+   "party": "Democratic",
+   "incumbent": false,
+   "age": null,
+   "current_or_last_office": "Pediatrician; former professor of pediatrics at the Medical University of South Carolina",
+   "bio_short": "Andrews is a pediatrician who was the Democratic nominee for South Carolina's 1st congressional district in 2022, losing to Rep. Nancy Mace. She won the Democratic Senate nomination in June 2026, when the Republican nominee was still Lindsey Graham.",
+   "primary_result": "Won the June 9, 2026 Democratic primary with 61.5% (226,075 votes) over Brandon Brown (30.2%) and Kyle Freeman (8.3%).",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Annie_Andrews_(pediatrician)",
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_South_Carolina"
+   ]
+  },
+  {
+   "name": "Kasie Whitener",
+   "party": "Libertarian",
+   "incumbent": false,
+   "age": null,
+   "current_or_last_office": "Former chair of the South Carolina Libertarian Party State Committee",
+   "bio_short": "Whitener is the Libertarian nominee and took part in the October 11 televised debate. Her FEC committee reported $27,615 raised through October 14, 2026.",
+   "primary_result": "Libertarian nominee (chosen at the party convention).",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_South_Carolina",
+    "https://www.fec.gov/data/candidate/S6SC04247/?cycle=2026&election_full=true"
+   ]
+  },
+  {
+   "name": "Mark Hackett",
+   "party": "Constitution",
+   "incumbent": false,
+   "age": null,
+   "current_or_last_office": "House painter",
+   "bio_short": "Hackett is the Constitution Party nominee; Wikipedia lists him as a house painter. No FEC financial summary was found for him.",
+   "primary_result": "Constitution Party nominee (chosen at the party convention).",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_South_Carolina"
+   ]
+  },
+  {
+   "name": "Catherine Fleming Bruce",
+   "party": "Democratic (write-in)",
+   "incumbent": false,
+   "age": null,
+   "current_or_last_office": "Author; candidate in the 2022 Democratic Senate primary",
+   "bio_short": "Fleming Bruce did not file for the 2026 primary and is running a write-in campaign in the general election, per Wikipedia. Her name is not printed on the ballot.",
+   "primary_result": "Did not run in the primary (write-in candidate).",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_South_Carolina"
+   ]
+  }
+ ],
+ "past_results": {
+  "pres_2024": {
+   "R": 58.23,
+   "D": 40.36,
+   "margin": "R+17.9",
+   "source_url": "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_South_Carolina"
+  },
+  "pres_2020": {
+   "R": 55.11,
+   "D": 43.43,
+   "margin": "R+11.7",
+   "source_url": "https://en.wikipedia.org/wiki/2020_United_States_presidential_election_in_South_Carolina"
+  },
+  "senate_last_this_seat": {
+   "year": 2020,
+   "winner": "Lindsey Graham",
+   "party": "Republican",
+   "margin": "R+10.3 (54.44% vs 44.17% for Jaime Harrison)",
+   "source_url": "https://en.wikipedia.org/wiki/2020_United_States_Senate_election_in_South_Carolina"
+  },
+  "other_recent": [
+   {
+    "race": "2022 U.S. Senate (other seat)",
+    "winner": "Tim Scott (R), defeating Krystle Matthews (D)",
+    "margin": "R+25.9 (62.88% vs 37.01%)",
+    "source_url": "https://en.wikipedia.org/wiki/2022_United_States_Senate_election_in_South_Carolina"
+   },
+   {
+    "race": "2022 governor",
+    "winner": "Henry McMaster (R), defeating Joe Cunningham (D)",
+    "margin": "R+17.4 (58.04% vs 40.67%)",
+    "source_url": "https://en.wikipedia.org/wiki/2022_South_Carolina_gubernatorial_election"
+   },
+   {
+    "race": "2026 initial Republican Senate primary (June 9)",
+    "winner": "Lindsey Graham, 56.8% over Mark Lynch (28.9%) and four others",
+    "margin": "n/a (primary)",
+    "source_url": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_South_Carolina"
+   }
+  ]
+ },
+ "polls_note": "Polls with field_end on or after 2026-09-01, taken from the Wikipedia race page polling table (used as an index), with the pollster/sponsor link given there (source_url; often the pollster's or sponsor's own release, sometimes a news report). Multiple rows with the same pollster and dates are different versions of one poll (LV vs RV, full ballot vs two-way, leaners pushed); see notes. partisan_sponsor follows Wikipedia's (R)/(D) tag on the pollster ('none' = untagged, or a bipartisan R+D pollster pair); sponsor text is Wikipedia's footnote. Results are percentages as published; null = not reported. 'Other' may include named minor candidates (see notes, copied from Wikipedia footnotes). No averages or aggregates are included.",
+ "polls": [
+  {
+   "pollster": "Patinkin Research Strategies",
+   "sponsor": "",
+   "partisan_sponsor": "D",
+   "wikipedia_partisan_label": "D",
+   "field_start": "2026-10-27",
+   "field_end": "2026-10-29",
+   "sample_size": 500,
+   "population": "LV",
+   "margin_of_error": "± 4.4%",
+   "results": {
+    "Darline Graham": 43.0,
+    "Annie Andrews": 48.0,
+    "Other": 8.0,
+    "Undecided": 0.0
+   },
+   "notes": [
+    "Kasie Whitner (L) with 3%, Mark Hackett (C) with 3%; \"Someone else\" with 2%"
+   ],
+   "source_url": "https://static1.squarespace.com/static/54512d3ce4b07de69d8320c7/t/6ae4c78764ecea053693b5e4/1793378183635/PRS.SCStatewidePoll.Toplines.103026.pdf"
+  },
+  {
+   "pollster": "New York Times/Siena University",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-10-19",
+   "field_end": "2026-10-26",
+   "sample_size": 707,
+   "population": "LV",
+   "margin_of_error": "± 4.3%",
+   "results": {
+    "Darline Graham": 48.0,
+    "Annie Andrews": 48.0,
+    "Other": 0.0,
+    "Undecided": 3.0
+   },
+   "notes": [],
+   "source_url": "https://www.nytimes.com/interactive/2026/10/28/polls/times-siena-sc-poll-toplines.html"
+  },
+  {
+   "pollster": "Targoz Media Research",
+   "sponsor": "Poll conducted for the South Carolina Policy Council",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-10-16",
+   "field_end": "2026-10-25",
+   "sample_size": 895,
+   "population": "LV",
+   "margin_of_error": "± 2.8%",
+   "results": {
+    "Darline Graham": 47.0,
+    "Annie Andrews": 46.0,
+    "Other": 3.0,
+    "Undecided": 4.0
+   },
+   "notes": [
+    "Kasie Whitner (L) with 2%, Mark Hackett (C) with 1%"
+   ],
+   "source_url": "https://www.foxcarolina.com/2026/10/26/new-poll-shows-neck-and-neck-senate-race-double-digit-lead-governor-sc-midterms/"
+  },
+  {
+   "pollster": "The Citadel",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-10-14",
+   "field_end": "2026-10-25",
+   "sample_size": 890,
+   "population": "LV",
+   "margin_of_error": "± 3.4%",
+   "results": {
+    "Darline Graham": 43.0,
+    "Annie Andrews": 39.0,
+    "Other": 2.0,
+    "Undecided": 15.0
+   },
+   "notes": [
+    "Mark Hackett (C) with 1%; Kasie Whitener (L) 1%"
+   ],
+   "source_url": "https://poll.citadel.edu/wp-content/uploads/2026/10/The-Citadel-Poll-Oct2026.pdf"
+  },
+  {
+   "pollster": "The Citadel",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-10-14",
+   "field_end": "2026-10-25",
+   "sample_size": 1009,
+   "population": "RV",
+   "margin_of_error": "± 3.4%",
+   "results": {
+    "Darline Graham": 35.0,
+    "Annie Andrews": 40.0,
+    "Other": 5.0,
+    "Undecided": 20.0
+   },
+   "notes": [
+    "Mark Hackett (C) with 2%; \"Not voting\" with 2%; Kasie Whitener (L) 1%"
+   ],
+   "source_url": "https://poll.citadel.edu/wp-content/uploads/2026/10/The-Citadel-Poll-Oct2026.pdf"
+  },
+  {
+   "pollster": "East Carolina University",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-10-19",
+   "field_end": "2026-10-24",
+   "sample_size": 955,
+   "population": "LV",
+   "margin_of_error": "± 3.7%",
+   "results": {
+    "Darline Graham": 51.0,
+    "Annie Andrews": 47.0,
+    "Other": 2.0,
+    "Undecided": null
+   },
+   "notes": [],
+   "source_url": "https://surveyresearch-ecu.reportablenews.com/pr/ecu-poll-finds-graham-leading-andrews-by-four-points"
+  },
+  {
+   "pollster": "Impact Research",
+   "sponsor": "Poll commissioned by Fresh Start SC, a super PAC supporting Annie Andrews",
+   "partisan_sponsor": "D",
+   "wikipedia_partisan_label": "D",
+   "field_start": "2026-10-15",
+   "field_end": "2026-10-21",
+   "sample_size": 800,
+   "population": "LV",
+   "margin_of_error": "± 3.5%",
+   "results": {
+    "Darline Graham": 44.0,
+    "Annie Andrews": 45.0,
+    "Other": 5.0,
+    "Undecided": 5.0
+   },
+   "notes": [
+    "Kasie Whitner with 3%, Mark Hackett with 2%"
+   ],
+   "source_url": "https://freshstartpac.org/wp-content/uploads/2026/10/SC-Senate-Track-Public-Memo.pdf"
+  },
+  {
+   "pollster": "Trafalgar Group",
+   "sponsor": "",
+   "partisan_sponsor": "R",
+   "wikipedia_partisan_label": "R",
+   "field_start": "2026-10-16",
+   "field_end": "2026-10-18",
+   "sample_size": 1095,
+   "population": "LV",
+   "margin_of_error": "± 2.9%",
+   "results": {
+    "Darline Graham": 49.0,
+    "Annie Andrews": 46.0,
+    "Other": 5.0,
+    "Undecided": 1.0
+   },
+   "notes": [
+    "Kasie Whitner (L) with 4%, Mark Hackett (C) with 1%"
+   ],
+   "source_url": "https://www.thetrafalgargroup.org/wp-content/uploads/2026/10/SC-Midterms-Survey-Report-1019.pdf"
+  },
+  {
+   "pollster": "Rasmussen Reports",
+   "sponsor": "",
+   "partisan_sponsor": "R",
+   "wikipedia_partisan_label": "R",
+   "field_start": "2026-10-05",
+   "field_end": "2026-10-08",
+   "sample_size": 837,
+   "population": "LV",
+   "margin_of_error": "± 3.0%",
+   "results": {
+    "Darline Graham": 49.0,
+    "Annie Andrews": 45.0,
+    "Other": null,
+    "Undecided": 6.0
+   },
+   "notes": [],
+   "source_url": "https://www.rasmussenreports.com/public_content/politics/elections/election_2026/election_2026_south_carolina_senate"
+  },
+  {
+   "pollster": "InsiderAdvantage",
+   "sponsor": "",
+   "partisan_sponsor": "R",
+   "wikipedia_partisan_label": "R",
+   "field_start": "2026-09-28",
+   "field_end": "2026-09-29",
+   "sample_size": 1200,
+   "population": "LV",
+   "margin_of_error": "± 2.8%",
+   "results": {
+    "Darline Graham": 46.0,
+    "Annie Andrews": 45.0,
+    "Other": 5.0,
+    "Undecided": 4.0
+   },
+   "notes": [
+    "Mark Hackett (C) with 3%; Kasie Whitener (L) with 2%"
+   ],
+   "source_url": "https://insideradvantage.com/insideradvantage-south-carolina-senate-graham-leads-by-one-point/"
+  },
+  {
+   "pollster": "Trafalgar Group",
+   "sponsor": "",
+   "partisan_sponsor": "R",
+   "wikipedia_partisan_label": "R",
+   "field_start": "2026-09-23",
+   "field_end": "2026-09-25",
+   "sample_size": 1087,
+   "population": "LV",
+   "margin_of_error": "± 2.9%",
+   "results": {
+    "Darline Graham": 43.0,
+    "Annie Andrews": 42.0,
+    "Other": 6.0,
+    "Undecided": 9.0
+   },
+   "notes": [
+    "\"Other\" with 6%"
+   ],
+   "source_url": "https://www.thetrafalgargroup.org/wp-content/uploads/2026/09/SC-Midterms-Survey-Report-0926.pdf"
+  },
+  {
+   "pollster": "Rasmussen Reports",
+   "sponsor": "",
+   "partisan_sponsor": "R",
+   "wikipedia_partisan_label": "R",
+   "field_start": "2026-09-14",
+   "field_end": "2026-09-14",
+   "sample_size": 1006,
+   "population": "LV",
+   "margin_of_error": "± 3.0%",
+   "results": {
+    "Darline Graham": 48.0,
+    "Annie Andrews": 43.0,
+    "Other": null,
+    "Undecided": 9.0
+   },
+   "notes": [],
+   "source_url": "https://www.rasmussenreports.com/public_content/archive/election_2026/south_carolina_senate_graham_leads_by_5_points"
+  },
+  {
+   "pollster": "InsiderAdvantage",
+   "sponsor": "",
+   "partisan_sponsor": "R",
+   "wikipedia_partisan_label": "R",
+   "field_start": "2026-09-08",
+   "field_end": "2026-09-09",
+   "sample_size": 1200,
+   "population": "LV",
+   "margin_of_error": "± 2.8%",
+   "results": {
+    "Darline Graham": 45.0,
+    "Annie Andrews": 43.0,
+    "Other": 3.0,
+    "Undecided": 9.0
+   },
+   "notes": [
+    "\"Another candidate\" with 3%"
+   ],
+   "source_url": "https://insideradvantage.com/top-line-tabs-sc/"
+  }
+ ],
+ "money": {
+  "as_of": "FEC candidate financial summaries (retrieved 2026-10-31); coverage ends 2026-10-14 (pre-general report) for the current candidates.",
+  "candidates": {
+   "Annie Andrews": {
+    "raised_total": 24216840.67,
+    "cash_on_hand": 1709465.53,
+    "spent_total": 22507375.14,
+    "coverage_end_date": "2026-10-14",
+    "fec_candidate_id": "S6SC04239",
+    "source_url": "https://www.fec.gov/data/candidate/S6SC04239/?cycle=2026&election_full=true"
+   },
+   "Darline Graham": {
+    "raised_total": 1917646.09,
+    "cash_on_hand": 634429.9,
+    "spent_total": 1283216.19,
+    "coverage_end_date": "2026-10-14",
+    "fec_candidate_id": "S6SC04437",
+    "source_url": "https://www.fec.gov/data/candidate/S6SC04437/?cycle=2026&election_full=true"
+   },
+   "Kasie Whitener": {
+    "raised_total": 27614.81,
+    "cash_on_hand": 5781.46,
+    "spent_total": 21833.35,
+    "coverage_end_date": "2026-10-14",
+    "fec_candidate_id": "S6SC04247",
+    "source_url": "https://www.fec.gov/data/candidate/S6SC04247/?cycle=2026&election_full=true"
+   }
+  },
+  "other_committees": {
+   "Lindsey Graham (deceased; former nominee)": {
+    "raised_total": 21650507.84,
+    "cash_on_hand": 314879.91,
+    "spent_total": 33827085.68,
+    "coverage_end_date": "2026-09-30",
+    "fec_candidate_id": "S0SC00149",
+    "source_url": "https://www.fec.gov/data/candidate/S0SC00149/?cycle=2026&election_full=true"
+   }
+  },
+  "outside_spending": {
+   "pro_R": 12700675.48,
+   "pro_D": 17027617.9,
+   "breakdown_general": {
+    "support_R_nominee": 5062846.61,
+    "oppose_R_nominee": 9727672.83,
+    "support_other_nominee": 7299945.07,
+    "oppose_other_nominee": 7637828.87
+   },
+   "primary_or_runoff_period_not_included": {
+    "note": "IEs reported for primary/runoff/other election types (not counted above); in a primary, opposing one nominee is not necessarily support for the other party.",
+    "support_R_nominee": 5070063.62,
+    "oppose_R_nominee": 392161.84,
+    "support_other_nominee": 0.0,
+    "oppose_other_nominee": 120875.0
+   },
+   "top_general_spenders": [
+    {
+     "spender": "Government That Works PAC",
+     "candidate": "Graham, Darline",
+     "support_or_oppose": "oppose",
+     "amount": 4918111.82
+    },
+    {
+     "spender": "SLF PAC",
+     "candidate": "Andrews, Annie",
+     "support_or_oppose": "oppose",
+     "amount": 3642264.8
+    },
+    {
+     "spender": "Security Is Strength PAC",
+     "candidate": "Andrews, Annie",
+     "support_or_oppose": "oppose",
+     "amount": 3028114.07
+    },
+    {
+     "spender": "BlackPAC",
+     "candidate": "Andrews, Annie",
+     "support_or_oppose": "support",
+     "amount": 2973150.32
+    },
+    {
+     "spender": "BUILDING THE FUTURE",
+     "candidate": "Graham, Darline",
+     "support_or_oppose": "support",
+     "amount": 2470605.56
+    },
+    {
+     "spender": "FRESH START SC PAC",
+     "candidate": "Graham, Darline",
+     "support_or_oppose": "oppose",
+     "amount": 2332926.2
+    }
+   ],
+   "source": "FEC 24- and 48-hour independent-expenditure reports (bulk file), general-election entries (ele_type G) for the two leading nominees' FEC candidate IDs; amended transactions de-duplicated (latest filing kept). pro_R = support for R nominee + opposition to the other nominee; the other side is the reverse. Excludes party coordinated spending, candidate ads, IEs under the 24/48-hour reporting thresholds, and non-FEC issue ads; figures are as reported (some are estimates).",
+   "source_url": "https://www.fec.gov/files/bulk-downloads/2026/independent_expenditure_2026.csv",
+   "as_of": "reports received by FEC through 2026-10-29 (file updated 2026-10-30 10:14 UTC)"
+  }
+ },
+ "events": [
+  {
+   "date": "2026-06-09",
+   "what": "Initial primaries: Sen. Lindsey Graham won the Republican primary with 56.8%; Annie Andrews won the Democratic primary with 61.5%.",
+   "source_url": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_South_Carolina"
+  },
+  {
+   "date": "2026-07-11",
+   "what": "Sen. Lindsey Graham died.",
+   "source_url": "https://www.nbcnews.com/politics/politics-news/sen-lindsey-graham-dies-71-brief-sudden-illness-rcna552722"
+  },
+  {
+   "date": "2026-07-13",
+   "what": "Gov. Henry McMaster selected Darline Graham, Lindsey Graham's sister, for the seat after President Trump and Majority Leader John Thune recommended her; she was sworn in on July 14.",
+   "source_url": "https://www.washingtonpost.com/politics/2026/07/13/trump-recommends-lindsey-grahams-sister-serve-rest-his-senate-term/"
+  },
+  {
+   "date": "2026-07-17",
+   "what": "Trump endorsed Darline Graham for the Republican nomination.",
+   "source_url": "https://www.politico.com/news/2026/07/17/trump-endorses-darline-graham-for-lindsay-grahams-open-senate-seat-01003457"
+  },
+  {
+   "date": "2026-07-20",
+   "what": "Darline Graham announced she would run in the special Republican primary.",
+   "source_url": "https://www.politico.com/news/2026/07/20/darline-graham-launches-senate-campaign-south-carolina-lindsey-graham-01004994"
+  },
+  {
+   "date": "2026-08-03",
+   "what": "A Richland County judge ordered Danny Ford II onto the special primary ballot after the state GOP disqualified him under a new party rule.",
+   "source_url": "https://www.wistv.com/2026/08/04/judge-rules-danny-ford-ii-must-appear-senate-primary-ballot/"
+  },
+  {
+   "date": "2026-08-11",
+   "what": "Special Republican primary: Darline Graham 32.8%, Ralph Norman 24.6%, Russell Fry 19.7%, Mark Sanford 14.9%; no candidate won a majority.",
+   "source_url": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_South_Carolina"
+  },
+  {
+   "date": "2026-08-13",
+   "what": "Former Transportation Secretary Pete Buttigieg endorsed Andrews, The Post and Courier reported.",
+   "source_url": "https://www.postandcourier.com/politics/sc-buttigieg-andrews-endorsement-2026-senate/article_bfe6b63d-0438-490e-8759-ca1b9423292a.html"
+  },
+  {
+   "date": "2026-08-25",
+   "what": "Runoff: Darline Graham defeated Ralph Norman 52.4% to 47.6%.",
+   "source_url": "https://www.cnn.com/2026/08/25/politics/south-carolina-georgia-oklahoma-takeaways"
+  },
+  {
+   "date": "2026-09-02",
+   "what": "Rep. Ralph Norman, the runoff runner-up, endorsed Graham, The Hill reported.",
+   "source_url": "https://thehill.com/homenews/campaign/6067649-ralph-norman-darline-graham-trump-endorsement/"
+  },
+  {
+   "date": "2026-09-12",
+   "what": "Graham agreed to debate Andrews, WBTV reported; Andrews had been publicly challenging her to debate.",
+   "source_url": "https://www.wbtv.com/2026/09/12/darline-graham-agrees-debate-democratic-challenger-annie-andrews-south-carolina-senate-race/"
+  },
+  {
+   "date": "2026-10-11",
+   "what": "Graham, Andrews and Libertarian Kasie Whitener met in a one-hour debate at SCETV in Columbia, the only debate both major candidates had committed to.",
+   "source_url": "https://wbtv.com/2026/10/11/andrews-graham-whitener-face-off-long-awaited-south-carolina-senate-debate/"
+  },
+  {
+   "date": "2026-10-20",
+   "what": "Former Republican state Sen. Katrina Shealy endorsed Andrews, The State reported.",
+   "source_url": "https://www.thestate.com/news/politics-government/article317699412.html"
+  },
+  {
+   "date": "2026-10-26",
+   "what": "The State Election Commission reported nearly 564,000 early ballots, a record for a gubernatorial-year (midterm) election.",
+   "source_url": "https://scvotes.gov/south-carolina-sets-new-record-for-early-voting-in-a-gubernatorial-election/"
+  },
+  {
+   "date": "2026-10-30",
+   "what": "The National Rifle Association endorsed Graham, WIS reported.",
+   "source_url": "https://www.wistv.com/2026/10/31/nra-endorses-sen-darline-graham/"
+  }
+ ],
+ "early_vote": {
+  "as_of": "2026-10-26 15:00",
+  "summary": "South Carolina Election Commission: nearly 564,000 ballots cast during early voting as of 3 p.m. Oct. 26, above the previous gubernatorial-year record of 561,563 (2022); the all-time record is 1,471,663 (2024). Early voting continued through Oct. 31. South Carolina has no party registration, so no partisan breakdown exists.",
+  "source_url": "https://scvotes.gov/south-carolina-sets-new-record-for-early-voting-in-a-gubernatorial-election/"
+ },
+ "notes_uncertain": [
+  "WTOC reported 671,314 early votes through Oct. 27, citing commission data (https://www.wtoc.com/2026/10/28/over-600k-votes-cast-sc-sees-record-early-voting-turnout/); not checked on scvotes.gov.",
+  "Annie Andrews' exact birth date not found (Wikipedia: born 1981), so age is null (44 or 45).",
+  "Wikipedia poll footnotes spell the Libertarian 'Kasie Whitner'; the ballot name is Kasie Whitener. Footnotes are copied as written.",
+  "Lindsey Graham's former campaign committee (S0SC00149) is listed under money.other_committees; how its remaining funds were used after his death was not verified.",
+  "Mark Hackett: no FEC financial summary found.",
+  "Wikipedia mentions a 'write-in Ralph Norman' effort by some Republican voters (citing an MS NOW blog post, Sept. 2, 2026); its scale was not verified, and Norman endorsed Graham the same day (The Hill).",
+  "Ages are as of Election Day (2026-11-03), computed from birth dates on the candidates' Wikipedia pages."
+ ]
+}

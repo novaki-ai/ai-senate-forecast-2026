@@ -1,0 +1,1081 @@
+{
+ "state": "Michigan",
+ "code": "MI",
+ "seat": "Class 2 regular",
+ "incumbent": {
+  "name": "Gary Peters",
+  "party": "Democratic",
+  "status": "retiring"
+ },
+ "rules": "Plurality wins; no runoff and no ranked-choice voting. Six candidates on the ballot: El-Sayed (D), Rogers (R), Lydia Christensen (Libertarian), Douglas P. Marsh (Green), Tim Long (U.S. Taxpayers), Walter P. Kristy (Natural Law). Clerks may pre-process absentee ballots before Election Day; results are normally known election night or the following morning.",
+ "candidates": [
+  {
+   "name": "Abdul El-Sayed",
+   "party": "Democratic",
+   "incumbent": false,
+   "age": 42,
+   "current_or_last_office": "Director, Wayne County Department of Health, Human and Veterans Services (former)",
+   "bio_short": "El-Sayed is a physician and epidemiologist who previously led the Detroit Health Department and ran for governor in 2018. He declined corporate PAC donations and ran as the most progressive candidate in the Democratic primary.",
+   "primary_result": "Won Aug 4, 2026 Democratic primary with 48.45% to 47.55% for Rep. Haley Stevens",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Abdul_El-Sayed",
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Michigan"
+   ]
+  },
+  {
+   "name": "Mike Rogers",
+   "party": "Republican",
+   "incumbent": false,
+   "age": 63,
+   "current_or_last_office": "U.S. representative from Michigan's 8th district (2001–2015)",
+   "bio_short": "Rogers is a former FBI special agent who chaired the House Intelligence Committee. He was the 2024 Republican Senate nominee and lost to Elissa Slotkin by 0.3 points.",
+   "primary_result": "Unopposed in Aug 4, 2026 Republican primary",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Mike_Rogers_(Michigan_politician)",
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Michigan"
+   ]
+  },
+  {
+   "name": "Lydia Christensen",
+   "party": "Libertarian",
+   "incumbent": false,
+   "age": null,
+   "current_or_last_office": "CEO (private sector)",
+   "bio_short": "Libertarian Party nominee.",
+   "primary_result": "Party nominee",
+   "sources": [
+    "https://mi-boe.entellitrak.com/etk-mi-boe-prod/page.request.do?page=page.miboePublicReport&electionType=GEN&electionYear=2026"
+   ]
+  },
+  {
+   "name": "Douglas P. Marsh",
+   "party": "Green",
+   "incumbent": false,
+   "age": null,
+   "current_or_last_office": "Journalist",
+   "bio_short": "Green Party nominee; also the Green nominee for U.S. Senate in 2024.",
+   "primary_result": "Party nominee",
+   "sources": [
+    "https://mi-boe.entellitrak.com/etk-mi-boe-prod/page.request.do?page=page.miboePublicReport&electionType=GEN&electionYear=2026"
+   ]
+  },
+  {
+   "name": "Tim Long",
+   "party": "U.S. Taxpayers",
+   "incumbent": false,
+   "age": null,
+   "current_or_last_office": null,
+   "bio_short": "U.S. Taxpayers Party nominee.",
+   "primary_result": "Party nominee",
+   "sources": [
+    "https://mi-boe.entellitrak.com/etk-mi-boe-prod/page.request.do?page=page.miboePublicReport&electionType=GEN&electionYear=2026"
+   ]
+  },
+  {
+   "name": "Walter P. Kristy",
+   "party": "Natural Law",
+   "incumbent": false,
+   "age": null,
+   "current_or_last_office": null,
+   "bio_short": "Natural Law Party nominee.",
+   "primary_result": "Party nominee",
+   "sources": [
+    "https://mi-boe.entellitrak.com/etk-mi-boe-prod/page.request.do?page=page.miboePublicReport&electionType=GEN&electionYear=2026"
+   ]
+  }
+ ],
+ "past_results": {
+  "pres_2024": {
+   "R": 49.73,
+   "D": 48.31,
+   "margin": "R+1.4",
+   "source_url": "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_Michigan"
+  },
+  "pres_2020": {
+   "R": 47.84,
+   "D": 50.62,
+   "margin": "D+2.8",
+   "source_url": "https://en.wikipedia.org/wiki/2020_United_States_presidential_election_in_Michigan"
+  },
+  "senate_last_this_seat": {
+   "year": 2020,
+   "winner": "Gary Peters",
+   "party": "Democratic",
+   "margin": "D+1.7 (49.90% vs 48.22% for John James)",
+   "source_url": "https://en.wikipedia.org/wiki/2020_United_States_Senate_election_in_Michigan"
+  },
+  "other_recent": [
+   {
+    "race": "2024 U.S. Senate (other seat)",
+    "winner": "Elissa Slotkin (D), defeating Mike Rogers (R)",
+    "margin": "D+0.3 (48.64% vs 48.30%)",
+    "source_url": "https://en.wikipedia.org/wiki/2024_United_States_Senate_election_in_Michigan"
+   },
+   {
+    "race": "2022 governor",
+    "winner": "Gretchen Whitmer (D)",
+    "margin": "D win over Tudor Dixon (R)",
+    "source_url": "https://en.wikipedia.org/wiki/2022_Michigan_gubernatorial_election"
+   }
+  ]
+ },
+ "polls": [
+  {
+   "pollster": "Rasmussen Reports (R)",
+   "sponsor": "",
+   "partisan_sponsor": "R",
+   "wikipedia_partisan_label": "R",
+   "field_start": "2026-10-28",
+   "field_end": "2026-10-29",
+   "sample_size": 745,
+   "population": "LV",
+   "margin_of_error": "± 3.0%",
+   "results": {
+    "Abdul El-Sayed": 49.0,
+    "Mike Rogers": 44.0,
+    "Other": 3.0,
+    "Undecided": 4.0
+   },
+   "notes": [
+    "Lydia Christensen (L) with 2%; Tim Long (UST) with 1%"
+   ],
+   "source_url": "https://www.rasmussenreports.com/public_content/politics/elections/election_2026/election_2026_michigan_senate"
+  },
+  {
+   "pollster": "Upswing Research (D)",
+   "sponsor": "Demand Justice",
+   "partisan_sponsor": "D",
+   "wikipedia_partisan_label": "D",
+   "field_start": "2026-10-24",
+   "field_end": "2026-10-28",
+   "sample_size": 505,
+   "population": "LV",
+   "margin_of_error": "± 4.4%",
+   "results": {
+    "Abdul El-Sayed": 50.0,
+    "Mike Rogers": 45.0,
+    "Undecided": 5.0
+   },
+   "source_url": "https://x.com/joshorton/status/2115883461076545615"
+  },
+  {
+   "pollster": "Mitchell Research & Communications",
+   "sponsor": "CBS Detroit",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-10-26",
+   "field_end": "2026-10-27",
+   "sample_size": 636,
+   "population": "LV",
+   "margin_of_error": "± 3.9%",
+   "results": {
+    "Abdul El-Sayed": 51.0,
+    "Mike Rogers": 44.0,
+    "Other": 2.0,
+    "Undecided": 3.0
+   },
+   "source_url": "https://www.cbsnews.com/detroit/news/el-sayed-widens-lead-rogers-michigan-senate-poll/"
+  },
+  {
+   "pollster": "SSRS",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-10-20",
+   "field_end": "2026-10-27",
+   "sample_size": 768,
+   "population": "LV",
+   "margin_of_error": "± 4.7%",
+   "results": {
+    "Abdul El-Sayed": 49.0,
+    "Mike Rogers": 42.0,
+    "Other": 8.0,
+    "Undecided": 1.0
+   },
+   "notes": [
+    "\"Neither\" with 5%"
+   ],
+   "source_url": "https://www.documentcloud.org/documents/28856720-cnn-poll-conducted-by-ssrs-michigan-october/"
+  },
+  {
+   "pollster": "RedBox Research (D)",
+   "sponsor": "A Fight Worth Having, a Democratic-aligned Super PAC",
+   "partisan_sponsor": "D",
+   "wikipedia_partisan_label": "D",
+   "field_start": "2026-10-20",
+   "field_end": "2026-10-23",
+   "sample_size": 2696,
+   "population": "LV",
+   "margin_of_error": "± 3.5%",
+   "results": {
+    "Abdul El-Sayed": 49.0,
+    "Mike Rogers": 44.0,
+    "Other": 4.0,
+    "Undecided": 3.0
+   },
+   "notes": [
+    "Lydia Christensen (L) with 1%; Tim Long (UST) with 1%; \"Someone else\" with 1%; \"Prefer not to answer\" with 1%: Douglas Marsh (G) with 0%; Walter Kristy (NL) with 0%; \"Did not vote in this race\" with 0%"
+   ],
+   "source_url": "https://afightworthhaving.com/polling/2026/michigan"
+  },
+  {
+   "pollster": "Michigan State University/Verasight",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-10-08",
+   "field_end": "2026-10-23",
+   "sample_size": 1383,
+   "population": "LV",
+   "margin_of_error": "± 2.9%",
+   "results": {
+    "Abdul El-Sayed": 51.0,
+    "Mike Rogers": 43.0,
+    "Other": 7.0
+   },
+   "source_url": "https://polisci.msu.edu/news-events/news/smidt-poll102926.html"
+  },
+  {
+   "pollster": "Michigan State University/Verasight",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-10-08",
+   "field_end": "2026-10-23",
+   "sample_size": 1383,
+   "population": "LV",
+   "margin_of_error": "± 2.9%",
+   "results": {
+    "Abdul El-Sayed": 48.0,
+    "Mike Rogers": 42.0,
+    "Other": 3.0,
+    "Undecided": 10.0
+   },
+   "source_url": "https://polisci.msu.edu/news-events/news/smidt-poll102926.html"
+  },
+  {
+   "pollster": "InsiderAdvantage (R)",
+   "sponsor": "",
+   "partisan_sponsor": "R",
+   "wikipedia_partisan_label": "R",
+   "field_start": "2026-10-21",
+   "field_end": "2026-10-22",
+   "sample_size": 1200,
+   "population": "LV",
+   "margin_of_error": "± 2.8%",
+   "results": {
+    "Abdul El-Sayed": 47.0,
+    "Mike Rogers": 46.0,
+    "Other": 4.0,
+    "Undecided": 3.0
+   },
+   "notes": [
+    "Lydia Christensen (L) with 1%; Douglas Marsh (G) with 1%; Tim Long (UST) with 1%; Walter Kristy (NL) with 1%"
+   ],
+   "source_url": "https://insideradvantage.com/insideradvantage-senate-surveys-mi-el-sayed-47-rogers-46-ia-hinson-47-turek-45-oh-brown-47-husted-44/",
+   "other_urls": [
+    "https://x.com/InsiderPolling/status/2114368835449233863"
+   ]
+  },
+  {
+   "pollster": "Glengariff Group",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-10-19",
+   "field_end": "2026-10-22",
+   "sample_size": 600,
+   "population": "LV",
+   "margin_of_error": "± 4.0%",
+   "results": {
+    "Abdul El-Sayed": 51.0,
+    "Mike Rogers": 45.0,
+    "Other": 0.0,
+    "Undecided": 4.0
+   },
+   "source_url": "https://www.clickondetroit.com/news/local/2026/10/27/democratic-candidate-el-sayed-leads-michigan-us-senate-race-new-poll-finds/"
+  },
+  {
+   "pollster": "Michigan State University/YouGov",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-10-02",
+   "field_end": "2026-10-19",
+   "sample_size": 836,
+   "population": "LV",
+   "margin_of_error": "± 4.4%",
+   "results": {
+    "Abdul El-Sayed": 48.0,
+    "Mike Rogers": 46.0,
+    "Other": 7.0,
+    "Undecided": 7.0
+   },
+   "source_url": "https://ippsr.msu.edu/sites/default/files/soss/soss95.pdf"
+  },
+  {
+   "pollster": "Michigan State University/YouGov",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-10-02",
+   "field_end": "2026-10-19",
+   "sample_size": 836,
+   "population": "LV",
+   "margin_of_error": "± 4.4%",
+   "results": {
+    "Abdul El-Sayed": 48.0,
+    "Mike Rogers": 44.0,
+    "Other": 8.0,
+    "Undecided": 8.0
+   },
+   "source_url": "https://ippsr.msu.edu/sites/default/files/soss/soss95.pdf"
+  },
+  {
+   "pollster": "Michigan State University/YouGov",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-10-02",
+   "field_end": "2026-10-19",
+   "sample_size": 1000,
+   "population": "A",
+   "margin_of_error": "± 4.1%",
+   "results": {
+    "Abdul El-Sayed": 45.0,
+    "Mike Rogers": 41.0,
+    "Other": 14.0,
+    "Undecided": 14.0
+   },
+   "source_url": "https://ippsr.msu.edu/sites/default/files/soss/soss95.pdf"
+  },
+  {
+   "pollster": "Michigan State University/YouGov",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-10-02",
+   "field_end": "2026-10-19",
+   "sample_size": 1000,
+   "population": "A",
+   "margin_of_error": "± 4.1%",
+   "results": {
+    "Abdul El-Sayed": 44.0,
+    "Mike Rogers": 39.0,
+    "Other": 17.0,
+    "Undecided": 17.0
+   },
+   "source_url": "https://ippsr.msu.edu/sites/default/files/soss/soss95.pdf"
+  },
+  {
+   "pollster": "Marist University",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-10-15",
+   "field_end": "2026-10-18",
+   "sample_size": null,
+   "population": "LV",
+   "margin_of_error": "± 4.3%",
+   "results": {
+    "Abdul El-Sayed": 50.0,
+    "Mike Rogers": 48.0,
+    "Other": 1.0,
+    "Undecided": 2.0
+   },
+   "source_url": "https://maristpoll.marist.edu/wp-content/uploads/2026/10/Marist-Poll_MI-NOS-and-Tables_202610191238FFx09@Jal.pdf"
+  },
+  {
+   "pollster": "Marist University",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-10-15",
+   "field_end": "2026-10-18",
+   "sample_size": 1185,
+   "population": "RV",
+   "margin_of_error": "± 4.0%",
+   "results": {
+    "Abdul El-Sayed": 52.0,
+    "Mike Rogers": 45.0,
+    "Other": 1.0,
+    "Undecided": 2.0
+   },
+   "source_url": "https://maristpoll.marist.edu/wp-content/uploads/2026/10/Marist-Poll_MI-NOS-and-Tables_202610191238FFx09@Jal.pdf"
+  },
+  {
+   "pollster": "Rasmussen Reports (R)",
+   "sponsor": "",
+   "partisan_sponsor": "R",
+   "wikipedia_partisan_label": "R",
+   "field_start": "2026-10-12",
+   "field_end": "2026-10-14",
+   "sample_size": 798,
+   "population": "LV",
+   "margin_of_error": "± 3.0%",
+   "results": {
+    "Abdul El-Sayed": 46.0,
+    "Mike Rogers": 44.0,
+    "Other": 5.0,
+    "Undecided": 5.0
+   },
+   "notes": [
+    "Christensen (L) with 2%; Long (UST) with 2%; Marsh (G) with 1%"
+   ],
+   "source_url": "https://www.rasmussenreports.com/public_content/politics/elections/election_2026/election_2026_michigan_senate"
+  },
+  {
+   "pollster": "InsiderAdvantage (R)",
+   "sponsor": "",
+   "partisan_sponsor": "R",
+   "wikipedia_partisan_label": "R",
+   "field_start": "2026-10-09",
+   "field_end": "2026-10-10",
+   "sample_size": 1200,
+   "population": "LV",
+   "margin_of_error": "± 2.8%",
+   "results": {
+    "Abdul El-Sayed": 48.0,
+    "Mike Rogers": 46.0,
+    "Other": 1.0,
+    "Undecided": 5.0
+   },
+   "notes": [
+    "Christensen (L) with 1%; Marsh (G) with <1%; Long (UST) with <1%"
+   ],
+   "source_url": "https://insideradvantage.com/insideradvantage-u-s-senate-surveys-alaska-ranks-choice-peltola-50-sullivan-48-kansas-hamilton-48-marshall-47-michigan-el-sayed-48-rogers-46/"
+  },
+  {
+   "pollster": "The Tyson Group (R)",
+   "sponsor": "",
+   "partisan_sponsor": "R",
+   "wikipedia_partisan_label": "R",
+   "field_start": "2026-10-06",
+   "field_end": "2026-10-08",
+   "sample_size": 600,
+   "population": "LV",
+   "margin_of_error": null,
+   "results": {
+    "Abdul El-Sayed": 44.0,
+    "Mike Rogers": 46.0
+   },
+   "source_url": "https://betterfutureai.org/docs/mike-rogers-support-for-ai-security.pdf"
+  },
+  {
+   "pollster": "Quantus Insights (R)",
+   "sponsor": "",
+   "partisan_sponsor": "R",
+   "wikipedia_partisan_label": "R",
+   "field_start": "2026-10-05",
+   "field_end": "2026-10-06",
+   "sample_size": 762,
+   "population": "LV",
+   "margin_of_error": "± 3.9%",
+   "results": {
+    "Abdul El-Sayed": 48.0,
+    "Mike Rogers": 47.0,
+    "Other": 2.0,
+    "Undecided": 4.0
+   },
+   "source_url": "https://quantusinsights.org/f/michigan-senate-el-sayed-48-rogers-47-at-four-weeks-out"
+  },
+  {
+   "pollster": "Quantus Insights (R)",
+   "sponsor": "",
+   "partisan_sponsor": "R",
+   "wikipedia_partisan_label": "R",
+   "field_start": "2026-10-05",
+   "field_end": "2026-10-06",
+   "sample_size": 762,
+   "population": "LV",
+   "margin_of_error": "± 3.9%",
+   "results": {
+    "Abdul El-Sayed": 51.0,
+    "Mike Rogers": 49.0
+   },
+   "source_url": "https://quantusinsights.org/f/michigan-senate-el-sayed-48-rogers-47-at-four-weeks-out"
+  },
+  {
+   "pollster": "YouGov",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-09-22",
+   "field_end": "2026-10-04",
+   "sample_size": 3949,
+   "population": "LV",
+   "margin_of_error": "± 2.5%",
+   "results": {
+    "Abdul El-Sayed": 49.0,
+    "Mike Rogers": 48.0,
+    "Other": 1.0,
+    "Undecided": 2.0
+   },
+   "source_url": "https://d3nkl3psvxxpe9.cloudfront.net/documents/ttw_mi_20260921_lv.pdf"
+  },
+  {
+   "pollster": "Mitchell Research & Communications",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-10-01",
+   "field_end": "2026-10-01",
+   "sample_size": 682,
+   "population": "LV",
+   "margin_of_error": "± 3.8%",
+   "results": {
+    "Abdul El-Sayed": 46.0,
+    "Mike Rogers": 41.0,
+    "Other": 7.0,
+    "Undecided": 6.0
+   },
+   "notes": [
+    "Lydia Christensen (L) with 3%; Walter P. Kristy (NL) with 2%; Tim Long (T) & Douglas P. Marsh (G) with 1%"
+   ],
+   "source_url": "https://static1.squarespace.com/static/5f14ae6fb2a20e01e9c6d608/t/6ac40987eb519d3ce159c107/1791232391610/Mitchell%2BMI%2BPoll%2BUS%2BSENATE%2BPress%2BRelease%2B1043PM%2B10-4-26_A.pdf"
+  },
+  {
+   "pollster": "Z to A Research (D)",
+   "sponsor": "",
+   "partisan_sponsor": "D",
+   "wikipedia_partisan_label": "D",
+   "field_start": "2026-09-28",
+   "field_end": "2026-10-01",
+   "sample_size": 483,
+   "population": "LV",
+   "margin_of_error": null,
+   "results": {
+    "Abdul El-Sayed": 49.0,
+    "Mike Rogers": 42.0,
+    "Other": 3.0,
+    "Undecided": 3.0
+   },
+   "notes": [
+    "Lydia Christensen (L) with 3%"
+   ],
+   "source_url": "https://x.com/rbrtraining/status/2108302504446337272"
+  },
+  {
+   "pollster": "Trafalgar Group (R)",
+   "sponsor": "",
+   "partisan_sponsor": "R",
+   "wikipedia_partisan_label": "R",
+   "field_start": "2026-09-28",
+   "field_end": "2026-09-30",
+   "sample_size": 1085,
+   "population": "LV",
+   "margin_of_error": "± 2.9%",
+   "results": {
+    "Abdul El-Sayed": 47.0,
+    "Mike Rogers": 45.0,
+    "Other": 3.0,
+    "Undecided": 5.0
+   },
+   "notes": [
+    "Lydia Christensen (L) with 2%; Tim Long (T) with 1%; Douglas P. Marsh (G) & Walter P. Kristy (NL) with 0%"
+   ],
+   "source_url": "https://www.thetrafalgargroup.org/news/mi-senate-general-1001/"
+  },
+  {
+   "pollster": "Beacon Research (D)/ Shaw & Co. Research (R)",
+   "sponsor": "Fox News",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "D/R",
+   "field_start": "2026-09-24",
+   "field_end": "2026-09-28",
+   "sample_size": 1028,
+   "population": "LV",
+   "margin_of_error": "± 3.0%",
+   "results": {
+    "Abdul El-Sayed": 50.0,
+    "Mike Rogers": 49.0,
+    "Undecided": 1.0
+   },
+   "source_url": "https://www.foxnews.com/politics/fox-news-poll-michigan-voters-split-between-el-sayed-rogers"
+  },
+  {
+   "pollster": "Beacon Research (D)/ Shaw & Co. Research (R)",
+   "sponsor": "Fox News",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "D/R",
+   "field_start": "2026-09-24",
+   "field_end": "2026-09-28",
+   "sample_size": 1203,
+   "population": "RV",
+   "margin_of_error": "± 2.5%",
+   "results": {
+    "Abdul El-Sayed": 51.0,
+    "Mike Rogers": 48.0,
+    "Undecided": 1.0
+   },
+   "source_url": "https://www.foxnews.com/politics/fox-news-poll-michigan-voters-split-between-el-sayed-rogers"
+  },
+  {
+   "pollster": "The Tyson Group (R)",
+   "sponsor": "",
+   "partisan_sponsor": "R",
+   "wikipedia_partisan_label": "R",
+   "field_start": "2026-09-24",
+   "field_end": "2026-09-27",
+   "sample_size": 600,
+   "population": "LV",
+   "margin_of_error": null,
+   "results": {
+    "Abdul El-Sayed": 44.0,
+    "Mike Rogers": 43.0
+   },
+   "source_url": "https://betterfutureai.org/docs/mike-rogers-support-for-ai-security.pdf"
+  },
+  {
+   "pollster": "Marist University",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-09-24",
+   "field_end": "2026-09-27",
+   "sample_size": 1235,
+   "population": "RV",
+   "margin_of_error": "± 3.8%",
+   "results": {
+    "Abdul El-Sayed": 51.0,
+    "Mike Rogers": 44.0,
+    "Other": 1.0,
+    "Undecided": 3.0
+   },
+   "source_url": "https://maristpoll.marist.edu/polls/midterm-elections-in-michigan-september-2026/"
+  },
+  {
+   "pollster": "Guidant Polling & Strategy",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-09-20",
+   "field_end": "2026-09-27",
+   "sample_size": 800,
+   "population": "LV",
+   "margin_of_error": "± 3.5%",
+   "results": {
+    "Abdul El-Sayed": 48.0,
+    "Mike Rogers": 43.0,
+    "Other": 2.0,
+    "Undecided": 7.0
+   },
+   "notes": [
+    "Lydia Christensen (L) with 1%; Tim Long (UST) with 1%; Douglas Marsh (G) with 0%; Walter Kristy (NL) with 0%"
+   ],
+   "source_url": "https://static01.nyt.com/newsgraphics/documenttools/517739e11050c66b/43ffa3c2-full.pdf"
+  },
+  {
+   "pollster": "Guidant Polling & Strategy",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-09-20",
+   "field_end": "2026-09-27",
+   "sample_size": 800,
+   "population": "LV",
+   "margin_of_error": "± 3.5%",
+   "results": {
+    "Abdul El-Sayed": 49.0,
+    "Mike Rogers": 45.0,
+    "Undecided": 6.0
+   },
+   "source_url": "https://static01.nyt.com/newsgraphics/documenttools/517739e11050c66b/43ffa3c2-full.pdf"
+  },
+  {
+   "pollster": "Big Data Poll (R)",
+   "sponsor": "",
+   "partisan_sponsor": "R",
+   "wikipedia_partisan_label": "R",
+   "field_start": "2026-09-22",
+   "field_end": "2026-09-24",
+   "sample_size": 678,
+   "population": "LV",
+   "margin_of_error": "± 4.0%",
+   "results": {
+    "Abdul El-Sayed": 47.0,
+    "Mike Rogers": 42.0,
+    "Undecided": 11.0
+   },
+   "source_url": "https://www.bigdatapoll.com/blog/wolverine-state-poll-el-sayed-leads-rogers-for-us-senate-in-michigan/"
+  },
+  {
+   "pollster": "Big Data Poll (R)",
+   "sponsor": "",
+   "partisan_sponsor": "R",
+   "wikipedia_partisan_label": "R",
+   "field_start": "2026-09-22",
+   "field_end": "2026-09-24",
+   "sample_size": 678,
+   "population": "LV",
+   "margin_of_error": "± 4.0%",
+   "results": {
+    "Abdul El-Sayed": 46.0,
+    "Mike Rogers": 40.0,
+    "Undecided": 14.0
+   },
+   "source_url": "https://www.bigdatapoll.com/blog/wolverine-state-poll-el-sayed-leads-rogers-for-us-senate-in-michigan/"
+  },
+  {
+   "pollster": "Big Data Poll (R)",
+   "sponsor": "",
+   "partisan_sponsor": "R",
+   "wikipedia_partisan_label": "R",
+   "field_start": "2026-09-22",
+   "field_end": "2026-09-24",
+   "sample_size": 725,
+   "population": "RV",
+   "margin_of_error": "± 4.0%",
+   "results": {
+    "Abdul El-Sayed": 44.0,
+    "Mike Rogers": 39.0,
+    "Undecided": 17.0
+   },
+   "source_url": "https://www.bigdatapoll.com/blog/wolverine-state-poll-el-sayed-leads-rogers-for-us-senate-in-michigan/"
+  },
+  {
+   "pollster": "co/efficient (R)",
+   "sponsor": "",
+   "partisan_sponsor": "R",
+   "wikipedia_partisan_label": "R",
+   "field_start": "2026-09-21",
+   "field_end": "2026-09-23",
+   "sample_size": 843,
+   "population": "LV",
+   "margin_of_error": "± 3.4%",
+   "results": {
+    "Abdul El-Sayed": 45.0,
+    "Mike Rogers": 45.0,
+    "Other": 2.0,
+    "Undecided": 8.0
+   },
+   "notes": [
+    "Lydia Christensen (L) with 2%; Timothy Long (UST) & Douglas Marsh (G) with 0%"
+   ],
+   "source_url": "https://battlegrounds.coefficient.org/mi/"
+  },
+  {
+   "pollster": "co/efficient (R)",
+   "sponsor": "",
+   "partisan_sponsor": "R",
+   "wikipedia_partisan_label": "R",
+   "field_start": "2026-09-21",
+   "field_end": "2026-09-23",
+   "sample_size": 843,
+   "population": "LV",
+   "margin_of_error": "± 3.4%",
+   "results": {
+    "Abdul El-Sayed": 50.0,
+    "Mike Rogers": 50.0
+   },
+   "source_url": "https://battlegrounds.coefficient.org/mi/"
+  },
+  {
+   "pollster": "GBAO (D)",
+   "sponsor": "",
+   "partisan_sponsor": "D",
+   "wikipedia_partisan_label": "D",
+   "field_start": "2026-09-19",
+   "field_end": "2026-09-22",
+   "sample_size": 800,
+   "population": "LV",
+   "margin_of_error": null,
+   "results": {
+    "Abdul El-Sayed": 48.0,
+    "Mike Rogers": 44.0,
+    "Undecided": 8.0
+   },
+   "source_url": "https://www.politico.com/newsletters/playbook/2026/09/28/trumps-joes-exit-the-front-row-01094720"
+  },
+  {
+   "pollster": "New York Times/Siena University",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-09-15",
+   "field_end": "2026-09-22",
+   "sample_size": 605,
+   "population": "LV",
+   "margin_of_error": "± 4.9%",
+   "results": {
+    "Abdul El-Sayed": 49.0,
+    "Mike Rogers": 44.0,
+    "Undecided": 7.0
+   },
+   "source_url": "https://www.nytimes.com/2026/09/24/us/politics/democrats-show-strength-in-michigan-senate-race-but-trail-in-maine-polls-find.html"
+  },
+  {
+   "pollster": "Cygnal (R)/Beacon Research (D)",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "R/D",
+   "field_start": "2026-09-18",
+   "field_end": "2026-09-21",
+   "sample_size": 600,
+   "population": "LV",
+   "margin_of_error": "± 4.0%",
+   "results": {
+    "Abdul El-Sayed": 45.0,
+    "Mike Rogers": 40.0,
+    "Other": 1.0,
+    "Undecided": 13.0
+   },
+   "source_url": "https://enjoyer.com/michigan-poll-fall-2026/"
+  },
+  {
+   "pollster": "Suffolk University",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-09-16",
+   "field_end": "2026-09-20",
+   "sample_size": 500,
+   "population": "LV",
+   "margin_of_error": "± 4.4%",
+   "results": {
+    "Abdul El-Sayed": 47.0,
+    "Mike Rogers": 40.0,
+    "Other": 3.0,
+    "Undecided": 8.0
+   },
+   "notes": [
+    "Christensen (L) with 1%; Kristy (NL) with 1%; Long (UST) with 0%; Marsh (G) with 0%; Write-in with 1%"
+   ],
+   "source_url": "https://www.suffolk.edu/-/media/suffolk/documents/academics/research-at-suffolk/suprc/polls/other-states/2026/9_22_2026_michigan_statewide_marginals.pdf?la=en&hash=6738E3056D284CD6D4733F5FB9C38684431D4884"
+  },
+  {
+   "pollster": "Torchlight Strategies (R)",
+   "sponsor": "",
+   "partisan_sponsor": "R",
+   "wikipedia_partisan_label": "R",
+   "field_start": "2026-09-15",
+   "field_end": "2026-09-19",
+   "sample_size": 643,
+   "population": "LV",
+   "margin_of_error": "± 4.7%",
+   "results": {
+    "Abdul El-Sayed": 43.0,
+    "Mike Rogers": 44.0,
+    "Other": 4.0,
+    "Undecided": 9.0
+   },
+   "source_url": "https://washingtonreporter.news/exclusive-mike-rogers-leads-in-michigan-john-james-nearly-tied-poll-shows/"
+  },
+  {
+   "pollster": "InsiderAdvantage (R)",
+   "sponsor": "",
+   "partisan_sponsor": "R",
+   "wikipedia_partisan_label": "R",
+   "field_start": "2026-09-16",
+   "field_end": "2026-09-17",
+   "sample_size": 1200,
+   "population": "LV",
+   "margin_of_error": "± 2.8%",
+   "results": {
+    "Abdul El-Sayed": 47.0,
+    "Mike Rogers": 45.0,
+    "Other": 3.0,
+    "Undecided": 5.0
+   },
+   "notes": [
+    "Christensen (L) with 1%; Long (UST) with 1%; Marsh (G) with 1%"
+   ],
+   "source_url": "https://insideradvantage.com/mi-top-line-tabs/"
+  },
+  {
+   "pollster": "Emerson College",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-09-12",
+   "field_end": "2026-09-14",
+   "sample_size": 1000,
+   "population": "LV",
+   "margin_of_error": "± 3.0%",
+   "results": {
+    "Abdul El-Sayed": 48.0,
+    "Mike Rogers": 46.0,
+    "Other": 2.0,
+    "Undecided": 4.0
+   },
+   "notes": [
+    "Long (UST) with 1%; Christensen (L) with 1%; Marsh (G) with <1%; Kristy (NL) with <1%"
+   ],
+   "source_url": "https://emersoncollegepolling.com/michigan-2026-poll-el-sayed-and-rogers-locked-in-close-election/"
+  },
+  {
+   "pollster": "The Washington Post/SSPG",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-09-10",
+   "field_end": "2026-09-14",
+   "sample_size": 803,
+   "population": "LV",
+   "margin_of_error": "± 3.9%",
+   "results": {
+    "Abdul El-Sayed": 48.0,
+    "Mike Rogers": 45.0,
+    "Other": 5.0,
+    "Undecided": 2.0
+   },
+   "notes": [
+    "\"Would not vote\" with 3%; \"Someone else\" with 2%"
+   ],
+   "source_url": "https://www.washingtonpost.com/documents/08fa9b5e-43ac-456c-a706-4c33ec6506dc.pdf"
+  },
+  {
+   "pollster": "Trafalgar Group (R)",
+   "sponsor": "",
+   "partisan_sponsor": "R",
+   "wikipedia_partisan_label": "R",
+   "field_start": "2026-09-07",
+   "field_end": "2026-09-09",
+   "sample_size": 1079,
+   "population": "LV",
+   "margin_of_error": "± 2.9%",
+   "results": {
+    "Abdul El-Sayed": 46.0,
+    "Mike Rogers": 45.0,
+    "Other": 2.0,
+    "Undecided": 7.0
+   },
+   "notes": [
+    "Lydia Christensen (L) with 1%; Tim Long (T) with 1%; Douglas P. Marsh (G) with 0%; Walter P. Kristy (NL) with 0%"
+   ],
+   "source_url": "https://www.thetrafalgargroup.org/wp-content/uploads/2026/09/MI-Gen-Sen-Poll-Full-Report-0910.pdf"
+  },
+  {
+   "pollster": "SSRS",
+   "sponsor": "CNN",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-08-31",
+   "field_end": "2026-09-06",
+   "sample_size": 843,
+   "population": "LV",
+   "margin_of_error": "± 4.1%",
+   "results": {
+    "Abdul El-Sayed": 47.0,
+    "Mike Rogers": 44.0,
+    "Other": 8.0
+   },
+   "notes": [
+    "\"Neither\" with 5%"
+   ],
+   "source_url": "https://www.documentcloud.org/documents/28608784-cnn-poll-conducted-by-ssrs-michigan/"
+  },
+  {
+   "pollster": "Glengariff Group",
+   "sponsor": "The Detroit News and WDIV-TV",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-08-31",
+   "field_end": "2026-09-03",
+   "sample_size": 600,
+   "population": "LV",
+   "margin_of_error": "± 4.0%",
+   "results": {
+    "Abdul El-Sayed": 44.0,
+    "Mike Rogers": 46.0,
+    "Undecided": 9.0
+   },
+   "source_url": "https://www.detroitnews.com/story/news/politics/2026/09/08/michigan-senate-poll-mike-rogers-abdul-el-sayed/91653231007/"
+  }
+ ],
+ "polls_note": "Polls with field_end on or after 2026-09-01, taken from the Wikipedia race page polling table (index) with the pollster/sponsor link given there. Multiple rows with the same pollster and dates are different versions (LV vs RV, full ballot vs two-way, leaners pushed); see notes. partisan_sponsor follows Wikipedia's (R)/(D) tag on the pollster or sponsor (\"none\" = untagged, or a bipartisan R+D pollster pair). Results are percentages as published; \"Other\" may include named minor candidates (see notes).",
+ "money": {
+  "as_of": "FEC candidate totals; El-Sayed through 2026-10-14 (Pre-General); Rogers coverage end 2026-10-22 as listed by FEC.",
+  "candidates": {
+   "Abdul El-Sayed": {
+    "raised_total": 53830872.19,
+    "cash_on_hand": 2734028.89,
+    "spent_total": 51096843.3,
+    "coverage_end_date": "2026-10-14",
+    "fec_candidate_id": "S6MI00418",
+    "source_url": "https://www.fec.gov/data/candidate/S6MI00418/?cycle=2026&election_full=true"
+   },
+   "Mike Rogers": {
+    "raised_total": 23016438.64,
+    "cash_on_hand": 3902505.76,
+    "spent_total": 19369636.6,
+    "coverage_end_date": "2026-10-22",
+    "fec_candidate_id": "S4MI00595",
+    "source_url": "https://www.fec.gov/data/candidate/S4MI00595/?cycle=2026&election_full=true"
+   },
+   "Lydia Christensen": {
+    "raised_total": 7159.28,
+    "cash_on_hand": 2600.65,
+    "spent_total": 5035.32,
+    "coverage_end_date": "2026-10-14",
+    "fec_candidate_id": "S6MI00442",
+    "source_url": "https://www.fec.gov/data/candidate/S6MI00442/?cycle=2026&election_full=true"
+   }
+  },
+  "outside_spending": {
+   "pro_R": 35039199.83,
+   "pro_D": 14635891.38,
+   "breakdown": {
+    "support_R_nominee": 13943541.47,
+    "oppose_R_nominee": 11699252.8,
+    "support_D_nominee": 2936638.58,
+    "oppose_D_nominee": 21095658.36
+   },
+   "source": "FEC Schedule E independent expenditures, totals by candidate (processed filings), 2025-26 cycle, election_full=true. pro_R = support for R nominee + opposition to D nominee; pro_D = the reverse. INCLUDES primary-period spending and lags recent 24/48-hour reports; party coordinated spending and non-FEC issue ads are not included. Oppose-El-Sayed total includes Democratic-primary spending: AP reported AIPAC and aligned groups put nearly $30 million behind Haley Stevens in the primary. Detroit News (Oct 9) reported total spending in the race above $243 million, the most in Michigan history.",
+   "source_url": "https://api.open.fec.gov/v1/schedules/schedule_e/totals/by_candidate/?cycle=2026&election_full=true&candidate_id=S4MI00595&candidate_id=S6MI00418",
+   "as_of": "FEC processed data retrieved 2026-10-31"
+  }
+ },
+ "events": [
+  {
+   "date": "2026-07",
+   "what": "State Sen. Mallory McMorrow withdrew from the Democratic primary.",
+   "source_url": "https://planetdetroit.org/2026/07/mcmorrow-exits-michigan-senate-race/"
+  },
+  {
+   "date": "2026-08-04",
+   "what": "Primaries: El-Sayed 48.45% vs Stevens 47.55%; Stevens conceded the next day and endorsed El-Sayed. Rogers ran unopposed.",
+   "source_url": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Michigan"
+  },
+  {
+   "date": "2026-08-04",
+   "what": "AP reported AIPAC and allied groups spent nearly $30 million supporting Stevens in the primary.",
+   "source_url": "https://apnews.com/article/aipac-michigan-senate-stevens-elsayed-588bb869eb557643950bf68d6a0d7a10"
+  },
+  {
+   "date": "2026-09-15",
+   "what": "First general-election debate (FOX 2 Detroit).",
+   "source_url": "https://www.fox2detroit.com/news/u-s-senate-debate-abdul-el-sayed-mike-rogers-takeaways-analysis"
+  },
+  {
+   "date": "2026-10-08",
+   "what": "First statewide televised debate.",
+   "source_url": "https://michiganadvance.com/2026/10/08/el-sayed-rogers-trade-barbs-accusations-during-first-televised-u-s-senate-debate/"
+  },
+  {
+   "date": "2026-10-09",
+   "what": "Detroit News reported more than $243 million in spending, a Michigan record.",
+   "source_url": "https://www.detroitnews.com/story/news/politics/2026/10/09/michigan-senate-race-tv-ad-spending-mike-rogers-abdul-el-sayed/92169289007/"
+  },
+  {
+   "date": "2026-10-20",
+   "what": "Detroit Economic Club forum on tariffs and AI.",
+   "source_url": "https://michiganadvance.com/2026/10/20/el-sayed-rogers-outline-differing-approaches-to-tariffs-and-ai-during-detroit-economic-club-forum/"
+  },
+  {
+   "date": "2026-10-20",
+   "what": "Reuters reported that United Democracy Project (an AIPAC-linked super PAC) was sending mailers against El-Sayed in the general election.",
+   "source_url": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Michigan"
+  }
+ ],
+ "early_vote": {
+  "as_of": null,
+  "summary": "Not collected in this pass. The Michigan Secretary of State publishes daily absentee/early-voting statistics.",
+  "source_url": "https://www.michigan.gov/sos/elections"
+ },
+ "notes_uncertain": [
+  "The Reuters article (Oct 20) was cited on Wikipedia without a usable URL here; the race page is given instead.",
+  "Rogers FEC coverage end date 2026-10-22 differs from the standard pre-general cutoff; not investigated.",
+  "Ages of minor-party candidates not collected."
+ ]
+}

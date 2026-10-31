@@ -1,0 +1,1170 @@
+{
+ "state": "Texas",
+ "code": "TX",
+ "seat": "Class 2 regular",
+ "incumbent": {
+  "name": "John Cornyn",
+  "party": "Republican",
+  "status": "lost renomination"
+ },
+ "rules": "Plurality wins in the general election; no runoff and no ranked-choice voting. Three candidates on the ballot: Paxton (R), Talarico (D), Ted Brown (Libertarian). Early in-person voting runs about two weeks before Election Day; results are normally known on election night.",
+ "candidates": [
+  {
+   "name": "Ken Paxton",
+   "party": "Republican",
+   "incumbent": false,
+   "age": 63,
+   "current_or_last_office": "Attorney General of Texas (2015–present)",
+   "bio_short": "Paxton was a state representative and state senator before becoming attorney general. The Texas House impeached him in 2023 and the Texas Senate acquitted him. He defeated incumbent John Cornyn in the primary runoff after a late endorsement from President Trump.",
+   "primary_result": "March 3 primary: 2nd with 40.5% (Cornyn 42.0%); won May 26, 2026 runoff with 63.8% over Cornyn",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Ken_Paxton",
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Texas"
+   ]
+  },
+  {
+   "name": "James Talarico",
+   "party": "Democratic",
+   "incumbent": false,
+   "age": 37,
+   "current_or_last_office": "Texas state representative, 50th district (2018–present)",
+   "bio_short": "Talarico is a former middle-school teacher from the Austin area who has served in the Texas House since 2018. He ran with an economic plan he calls the \"New American Dream\".",
+   "primary_result": "Won March 3, 2026 Democratic primary with 52.4% over Rep. Jasmine Crockett (46.2%)",
+   "sources": [
+    "https://en.wikipedia.org/wiki/James_Talarico",
+    "https://www.texastribune.org/2026/08/05/texas-senate-james-talarico-economic-agenda-ken-paxton/",
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Texas"
+   ]
+  },
+  {
+   "name": "Ted Brown",
+   "party": "Libertarian",
+   "incumbent": false,
+   "age": null,
+   "current_or_last_office": "No elected office",
+   "bio_short": "Brown was the Libertarian Senate nominee in 2024 and won the party's 2026 nomination at its April convention (83–39).",
+   "primary_result": "Nominated at the April 10–12, 2026 Libertarian convention",
+   "sources": [
+    "https://ballotpedia.org/United_States_Senate_election_in_Texas,_2026",
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Texas"
+   ]
+  }
+ ],
+ "past_results": {
+  "pres_2024": {
+   "R": 56.14,
+   "D": 42.46,
+   "margin": "R+13.7",
+   "source_url": "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_Texas"
+  },
+  "pres_2020": {
+   "R": 52.06,
+   "D": 46.48,
+   "margin": "R+5.6",
+   "source_url": "https://en.wikipedia.org/wiki/2020_United_States_presidential_election_in_Texas"
+  },
+  "senate_last_this_seat": {
+   "year": 2020,
+   "winner": "John Cornyn",
+   "party": "Republican",
+   "margin": "R+9.6 (53.51% vs 43.87% for MJ Hegar)",
+   "source_url": "https://en.wikipedia.org/wiki/2020_United_States_Senate_election_in_Texas"
+  },
+  "other_recent": [
+   {
+    "race": "2024 U.S. Senate (other seat)",
+    "winner": "Ted Cruz (R), defeating Colin Allred (D)",
+    "margin": "R+8.5 (53.05% vs 44.56%)",
+    "source_url": "https://en.wikipedia.org/wiki/2024_United_States_Senate_election_in_Texas"
+   },
+   {
+    "race": "2022 attorney general",
+    "winner": "Ken Paxton (R), defeating Rochelle Garza (D)",
+    "margin": "R win",
+    "source_url": "https://en.wikipedia.org/wiki/2022_Texas_Attorney_General_election"
+   }
+  ]
+ },
+ "polls": [
+  {
+   "pollster": "Quantus Insights",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-10-26",
+   "field_end": "2026-10-28",
+   "sample_size": 1221,
+   "population": "LV",
+   "margin_of_error": "± 3.2%",
+   "results": {
+    "Ken Paxton": 49.0,
+    "James Talarico": 48.0,
+    "Ted Brown": 1.0,
+    "Undecided": 2.0
+   },
+   "source_url": "https://quantusinsights.org/polling/f/texas-survey-paxton-up-one-abbott-ahead-by-five"
+  },
+  {
+   "pollster": "ActiVote",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-10-22",
+   "field_end": "2026-10-28",
+   "sample_size": 400,
+   "population": "LV",
+   "margin_of_error": "± 4.9%",
+   "results": {
+    "Ken Paxton": 48.0,
+    "James Talarico": 52.0
+   },
+   "source_url": "https://www.activote.net/polls/2026/tx-u-s-senate/"
+  },
+  {
+   "pollster": "A2 Insights",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-10-23",
+   "field_end": "2026-10-27",
+   "sample_size": 631,
+   "population": "LV",
+   "margin_of_error": "± 4.9%",
+   "results": {
+    "Ken Paxton": 47.0,
+    "James Talarico": 50.0,
+    "Other": 2.0,
+    "Undecided": 0.0
+   },
+   "source_url": "https://drive.google.com/file/d/1UACnmnM84Dd1hU0l6iqHNgXkyh5oCelO/view"
+  },
+  {
+   "pollster": "SSRS",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-10-20",
+   "field_end": "2026-10-27",
+   "sample_size": 923,
+   "population": "LV",
+   "margin_of_error": "± 4.2%",
+   "results": {
+    "Ken Paxton": 43.0,
+    "James Talarico": 49.0,
+    "Other": 5.0,
+    "Undecided": 3.0
+   },
+   "notes": [
+    "\"Neither\" with 5%"
+   ],
+   "source_url": "https://www.documentcloud.org/documents/28856724-cnn-poll-conducted-by-ssrs-texas-october/"
+  },
+  {
+   "pollster": "YouGov Blue (D)",
+   "sponsor": "",
+   "partisan_sponsor": "D",
+   "wikipedia_partisan_label": "D",
+   "field_start": "2026-10-21",
+   "field_end": "2026-10-26",
+   "sample_size": 1000,
+   "population": "RV",
+   "margin_of_error": "± 4.6%",
+   "results": {
+    "Ken Paxton": 43.0,
+    "James Talarico": 51.0,
+    "Other": 2.0,
+    "Undecided": 5.0
+   },
+   "source_url": "https://254labs.io/news/2026-10-tx"
+  },
+  {
+   "pollster": "Texas Southern University",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-10-21",
+   "field_end": "2026-10-25",
+   "sample_size": 2000,
+   "population": "LV",
+   "margin_of_error": "± 2.2%",
+   "results": {
+    "Ken Paxton": 47.0,
+    "James Talarico": 49.0,
+    "Ted Brown": 3.0,
+    "Undecided": 1.0
+   },
+   "source_url": "https://www.wfaa.com/article/news/politics/elections/new-poll-talarico-abbott-lead-as-early-voting-in-texas-nears-close/287-7f4cca13-6e1d-433c-9041-727931b591cd"
+  },
+  {
+   "pollster": "Rasmussen Reports",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-10-20",
+   "field_end": "2026-10-21",
+   "sample_size": 965,
+   "population": "LV",
+   "margin_of_error": "± 3.0%",
+   "results": {
+    "Ken Paxton": 45.0,
+    "James Talarico": 45.0,
+    "Ted Brown": 5.0,
+    "Undecided": 5.0
+   },
+   "source_url": "https://www.rasmussenreports.com/public_content/politics/elections/election_2026/election_2026_texas_senate"
+  },
+  {
+   "pollster": "ActiVote",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-10-17",
+   "field_end": "2026-10-21",
+   "sample_size": 400,
+   "population": "LV",
+   "margin_of_error": "± 4.9%",
+   "results": {
+    "Ken Paxton": 49.0,
+    "James Talarico": 51.0
+   },
+   "source_url": "https://www.activote.net/polls/2026/tx-u-s-senate/2026-10-21/"
+  },
+  {
+   "pollster": "Univision/YouGov",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-10-13",
+   "field_end": "2026-10-21",
+   "sample_size": 1000,
+   "population": "RV",
+   "margin_of_error": "± 3.8%",
+   "results": {
+    "Ken Paxton": 45.0,
+    "James Talarico": 50.0,
+    "Other": 1.0,
+    "Undecided": 5.0
+   },
+   "source_url": "https://www.univision.com/noticias/politica/poll-univision-texas-latinos"
+  },
+  {
+   "pollster": "Verasight/VoteHub",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-10-01",
+   "field_end": "2026-10-20",
+   "sample_size": 509,
+   "population": "LV",
+   "margin_of_error": "± 4.3%",
+   "results": {
+    "Ken Paxton": 45.0,
+    "James Talarico": 48.0,
+    "Ted Brown": 1.0,
+    "Undecided": 5.0
+   },
+   "source_url": "https://cdn.votehub.com/pdfs/VoteHub_Verasight_Oct_2026_Texas_Report_D8A925D0.pdf"
+  },
+  {
+   "pollster": "Verasight/VoteHub",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-10-01",
+   "field_end": "2026-10-20",
+   "sample_size": 509,
+   "population": "LV",
+   "margin_of_error": "± 4.3%",
+   "results": {
+    "Ken Paxton": 41.0,
+    "James Talarico": 46.0,
+    "Ted Brown": 4.0
+   },
+   "source_url": "https://cdn.votehub.com/pdfs/VoteHub_Verasight_Oct_2026_Texas_Report_D8A925D0.pdf"
+  },
+  {
+   "pollster": "Verasight/VoteHub",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-10-01",
+   "field_end": "2026-10-20",
+   "sample_size": 517,
+   "population": "RV",
+   "margin_of_error": "± 4.3%",
+   "results": {
+    "Ken Paxton": 45.0,
+    "James Talarico": 46.0,
+    "Ted Brown": 2.0
+   },
+   "source_url": "https://cdn.votehub.com/pdfs/VoteHub_Verasight_Oct_2026_Texas_Report_D8A925D0.pdf"
+  },
+  {
+   "pollster": "Verasight/VoteHub",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-10-01",
+   "field_end": "2026-10-20",
+   "sample_size": 517,
+   "population": "RV",
+   "margin_of_error": "± 4.3%",
+   "results": {
+    "Ken Paxton": 41.0,
+    "James Talarico": 43.0,
+    "Ted Brown": 5.0
+   },
+   "source_url": "https://cdn.votehub.com/pdfs/VoteHub_Verasight_Oct_2026_Texas_Report_D8A925D0.pdf"
+  },
+  {
+   "pollster": "Emerson College",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-10-17",
+   "field_end": "2026-10-19",
+   "sample_size": 1000,
+   "population": "LV",
+   "margin_of_error": "± 3.0%",
+   "results": {
+    "Ken Paxton": 48.0,
+    "James Talarico": 49.0,
+    "Ted Brown": 3.0
+   },
+   "source_url": "https://emersoncollegepolling.com/texas-2026-poll-toss-up/"
+  },
+  {
+   "pollster": "Emerson College",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-10-17",
+   "field_end": "2026-10-19",
+   "sample_size": 1000,
+   "population": "LV",
+   "margin_of_error": "± 3.0%",
+   "results": {
+    "Ken Paxton": 46.0,
+    "James Talarico": 48.0,
+    "Ted Brown": 1.0,
+    "Undecided": 5.0
+   },
+   "source_url": "https://emersoncollegepolling.com/texas-2026-poll-toss-up/"
+  },
+  {
+   "pollster": "Beacon Research (D)/ Shaw & Co. Research (R)",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "D/R",
+   "field_start": "2026-10-15",
+   "field_end": "2026-10-19",
+   "sample_size": 1398,
+   "population": "LV",
+   "margin_of_error": "± 2.5%",
+   "results": {
+    "Ken Paxton": 49.0,
+    "James Talarico": 49.0,
+    "Undecided": 2.0
+   },
+   "source_url": "https://www.foxnews.com/politics/fox-news-poll-texas-senate-race-galloping-toward-photo-finish"
+  },
+  {
+   "pollster": "Beacon Research (D)/ Shaw & Co. Research (R)",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "D/R",
+   "field_start": "2026-10-15",
+   "field_end": "2026-10-19",
+   "sample_size": 2011,
+   "population": "RV",
+   "margin_of_error": "± 2.0%",
+   "results": {
+    "Ken Paxton": 46.0,
+    "James Talarico": 52.0,
+    "Undecided": 2.0
+   },
+   "source_url": "https://www.foxnews.com/politics/fox-news-poll-texas-senate-race-galloping-toward-photo-finish"
+  },
+  {
+   "pollster": "Texas Public Opinion Research (D)",
+   "sponsor": "",
+   "partisan_sponsor": "D",
+   "wikipedia_partisan_label": "D",
+   "field_start": "2026-10-15",
+   "field_end": "2026-10-18",
+   "sample_size": 969,
+   "population": "LV",
+   "margin_of_error": "± 3.9%",
+   "results": {
+    "Ken Paxton": 47.0,
+    "James Talarico": 51.0,
+    "Ted Brown": 2.0
+   },
+   "source_url": "https://texaspublicopinionresearch.substack.com/p/october-poll-in-texas-general-election"
+  },
+  {
+   "pollster": "Pollfinity Research",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-10-15",
+   "field_end": "2026-10-18",
+   "sample_size": 278,
+   "population": "RV",
+   "margin_of_error": "± 6.5%",
+   "results": {
+    "Ken Paxton": 43.0,
+    "James Talarico": 48.0,
+    "Ted Brown": 2.0,
+    "Other": 2.0,
+    "Undecided": 5.0
+   },
+   "source_url": "https://pollfinity.com/polls/tx-governor-senate-2026-oct"
+  },
+  {
+   "pollster": "CBS News/YouGov",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-10-08",
+   "field_end": "2026-10-16",
+   "sample_size": 1492,
+   "population": "LV",
+   "margin_of_error": "± 3.5%",
+   "results": {
+    "Ken Paxton": 49.0,
+    "James Talarico": 51.0
+   },
+   "source_url": "https://www.cbsnews.com/news/texas-senate-talarico-paxton-poll/"
+  },
+  {
+   "pollster": "Cor Strategies (R)",
+   "sponsor": "",
+   "partisan_sponsor": "R",
+   "wikipedia_partisan_label": "R",
+   "field_start": "2026-10-10",
+   "field_end": "2026-10-15",
+   "sample_size": 1409,
+   "population": "LV",
+   "margin_of_error": "± 2.6%",
+   "results": {
+    "Ken Paxton": 40.0,
+    "James Talarico": 44.0,
+    "Undecided": 16.0
+   },
+   "source_url": "https://static.dailysignalmedia.org/2026/10/TX-Poll-Crosstabs.pdf"
+  },
+  {
+   "pollster": "InsiderAdvantage",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-10-13",
+   "field_end": "2026-10-14",
+   "sample_size": 1200,
+   "population": "LV",
+   "margin_of_error": "± 2.8%",
+   "results": {
+    "Ken Paxton": 49.0,
+    "James Talarico": 48.0,
+    "Ted Brown": 2.0,
+    "Undecided": 1.0
+   },
+   "source_url": "https://insideradvantage.com/insideradvantage-senate-surveys-texas-paxton-49-talarico-48-kansas-marshall-48-hamilton-47-maine-jackson-49-collins-47/",
+   "other_urls": [
+    "https://x.com/InsiderPolling/status/2111096358233129297"
+   ]
+  },
+  {
+   "pollster": "University of Houston",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-10-10",
+   "field_end": "2026-10-14",
+   "sample_size": 2000,
+   "population": "LV",
+   "margin_of_error": "± 2.2%",
+   "results": {
+    "Ken Paxton": 46.0,
+    "James Talarico": 48.0,
+    "Ted Brown": 3.0,
+    "Undecided": 3.0
+   },
+   "source_url": "https://www.uh.edu/hobby/texas2026/index.php"
+  },
+  {
+   "pollster": "ActiVote",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-09-30",
+   "field_end": "2026-10-14",
+   "sample_size": 400,
+   "population": "LV",
+   "margin_of_error": "± 4.9%",
+   "results": {
+    "Ken Paxton": 48.0,
+    "James Talarico": 52.0
+   },
+   "source_url": "https://www.activote.net/polls/2026/tx-u-s-senate/2026-10-14/"
+  },
+  {
+   "pollster": "GS Strategy Group (R)/ New River Strategies (D)",
+   "sponsor": "The Cook Political Report",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "R/D",
+   "field_start": "2026-10-09",
+   "field_end": "2026-10-13",
+   "sample_size": 934,
+   "population": "LV",
+   "margin_of_error": null,
+   "results": {
+    "Ken Paxton": 44.0,
+    "James Talarico": 49.0,
+    "Ted Brown": 3.0,
+    "Undecided": 4.0
+   },
+   "source_url": "https://www.cookpolitical.com/analysis/survey-research/battleground-district-project/senate-battleground-district-project-october"
+  },
+  {
+   "pollster": "Quantus Insights",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-10-09",
+   "field_end": "2026-10-11",
+   "sample_size": 854,
+   "population": "LV",
+   "margin_of_error": "± 3.6%",
+   "results": {
+    "Ken Paxton": 47.0,
+    "James Talarico": 47.0,
+    "Ted Brown": 2.0,
+    "Undecided": 4.0
+   },
+   "source_url": "https://drive.google.com/file/d/1awt_8mANYVHZ0UlMxkit8QAVLpDe8k5R/view"
+  },
+  {
+   "pollster": "Marist University",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-10-08",
+   "field_end": "2026-10-11",
+   "sample_size": null,
+   "population": "LV",
+   "margin_of_error": "± 4.9%",
+   "results": {
+    "Ken Paxton": 45.0,
+    "James Talarico": 47.0,
+    "Other": 4.0,
+    "Undecided": 4.0
+   },
+   "notes": [
+    "\"Another party's candidate\" with 2%; \"No response\" with 2%"
+   ],
+   "source_url": "https://maristpoll.marist.edu/wp-content/uploads/2026/10/Marist-Poll_TX-NOS-and-Tables_202610131056%5Eal3j7.pdf"
+  },
+  {
+   "pollster": "Marist University",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-10-08",
+   "field_end": "2026-10-11",
+   "sample_size": 1196,
+   "population": "RV",
+   "margin_of_error": "± 4.3%",
+   "results": {
+    "Ken Paxton": 44.0,
+    "James Talarico": 48.0,
+    "Other": 4.0,
+    "Undecided": 4.0
+   },
+   "source_url": "https://maristpoll.marist.edu/wp-content/uploads/2026/10/Marist-Poll_TX-NOS-and-Tables_202610131056%5Eal3j7.pdf"
+  },
+  {
+   "pollster": "Trafalgar Group (R)",
+   "sponsor": "",
+   "partisan_sponsor": "R",
+   "wikipedia_partisan_label": "R",
+   "field_start": "2026-10-06",
+   "field_end": "2026-10-08",
+   "sample_size": 1086,
+   "population": "LV",
+   "margin_of_error": "± 2.9%",
+   "results": {
+    "Ken Paxton": 44.0,
+    "James Talarico": 47.0,
+    "Ted Brown": 2.0,
+    "Undecided": 8.0
+   },
+   "source_url": "https://www.thetrafalgargroup.org/wp-content/uploads/2026/10/TX-Midterms-Report-1009.pdf"
+  },
+  {
+   "pollster": "ReconMR/Siena University",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-10-05",
+   "field_end": "2026-10-08",
+   "sample_size": 617,
+   "population": "LV",
+   "margin_of_error": "± 4.4%",
+   "results": {
+    "Ken Paxton": 44.0,
+    "James Talarico": 48.0,
+    "Other": 3.0,
+    "Undecided": 5.0
+   },
+   "source_url": "https://reconmr.com/wp-content/uploads/2026/10/TXP004-October-Press-Release.pdf"
+  },
+  {
+   "pollster": "YouGov",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-09-28",
+   "field_end": "2026-10-05",
+   "sample_size": 3625,
+   "population": "LV",
+   "margin_of_error": "± 3.0%",
+   "results": {
+    "Ken Paxton": 44.0,
+    "James Talarico": 50.0,
+    "Other": 2.0,
+    "Undecided": 3.0
+   },
+   "source_url": "https://d3nkl3psvxxpe9.cloudfront.net/documents/ttw_tx_20260921_lv.pdf"
+  },
+  {
+   "pollster": "University of Texas/Texas Politics Project",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-09-25",
+   "field_end": "2026-10-05",
+   "sample_size": 861,
+   "population": "LV",
+   "margin_of_error": "± 3.3%",
+   "results": {
+    "Ken Paxton": 47.0,
+    "James Talarico": 50.0,
+    "Ted Brown": 1.0,
+    "Other": 2.0
+   },
+   "source_url": "http://texaspolitics.utexas.edu/blog/latest-ut-texas-politics-poll-finds-historic-levels-of-competition-in-texas-midterm-elections"
+  },
+  {
+   "pollster": "New York Times/Siena University",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-09-21",
+   "field_end": "2026-09-30",
+   "sample_size": 615,
+   "population": "LV",
+   "margin_of_error": "± 4.5%",
+   "results": {
+    "Ken Paxton": 45.0,
+    "James Talarico": 51.0,
+    "Other": 0.0,
+    "Undecided": 4.0
+   },
+   "source_url": "https://www.nytimes.com/interactive/2026/10/03/polls/times-siena-texas-poll-toplines.html"
+  },
+  {
+   "pollster": "Rasmussen Reports",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-09-28",
+   "field_end": "2026-09-29",
+   "sample_size": 1128,
+   "population": "LV",
+   "margin_of_error": "± 3.0%",
+   "results": {
+    "Ken Paxton": 45.0,
+    "James Talarico": 46.0,
+    "Ted Brown": 4.0,
+    "Undecided": 5.0
+   },
+   "source_url": "https://www.rasmussenreports.com/public_content/politics/public_surveys/toplines_texas_senate_september_28_29_2026"
+  },
+  {
+   "pollster": "Beacon Research (D)/ Shaw & Co. Research (R)",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "D/R",
+   "field_start": "2026-09-24",
+   "field_end": "2026-09-28",
+   "sample_size": 881,
+   "population": "LV",
+   "margin_of_error": "± 3.0%",
+   "results": {
+    "Ken Paxton": 49.0,
+    "James Talarico": 51.0,
+    "Undecided": 1.0
+   },
+   "source_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/fox_september-24-28-2026_texas_topline_october-1-release.pdf"
+  },
+  {
+   "pollster": "Beacon Research (D)/ Shaw & Co. Research (R)",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "D/R",
+   "field_start": "2026-09-24",
+   "field_end": "2026-09-28",
+   "sample_size": 1203,
+   "population": "RV",
+   "margin_of_error": "± 2.5%",
+   "results": {
+    "Ken Paxton": 46.0,
+    "James Talarico": 53.0,
+    "Undecided": 1.0
+   },
+   "source_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/fox_september-24-28-2026_texas_topline_october-1-release.pdf"
+  },
+  {
+   "pollster": "Guidant Polling & Strategy (R)",
+   "sponsor": "Public First Action",
+   "partisan_sponsor": "R",
+   "wikipedia_partisan_label": "R",
+   "field_start": "2026-09-20",
+   "field_end": "2026-09-28",
+   "sample_size": 800,
+   "population": "LV",
+   "margin_of_error": "± 3.5%",
+   "results": {
+    "Ken Paxton": 44.0,
+    "James Talarico": 47.0,
+    "Ted Brown": 4.0,
+    "Undecided": 5.0
+   },
+   "source_url": "https://static01.nyt.com/newsgraphics/documenttools/b31cf2744465b8b7/1a8b655b-full.pdf"
+  },
+  {
+   "pollster": "UMass Lowell/YouGov",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-09-18",
+   "field_end": "2026-09-28",
+   "sample_size": 850,
+   "population": "LV",
+   "margin_of_error": "± 4.5%",
+   "results": {
+    "Ken Paxton": 45.0,
+    "James Talarico": 45.0,
+    "Ted Brown": 2.0,
+    "Other": 2.0,
+    "Undecided": 7.0
+   },
+   "notes": [
+    "\"Another candidate\" with 1%; \"Will not vote\" with 1%"
+   ],
+   "source_url": "https://www.uml.edu/news/press-releases/2026/10092026-texas-poll.aspx"
+  },
+  {
+   "pollster": "Pulse Decision Science (R)",
+   "sponsor": "",
+   "partisan_sponsor": "R",
+   "wikipedia_partisan_label": "R",
+   "field_start": "2026-09-24",
+   "field_end": "2026-09-27",
+   "sample_size": 800,
+   "population": "LV",
+   "margin_of_error": "± 3.5%",
+   "results": {
+    "Ken Paxton": 48.0,
+    "James Talarico": 45.0,
+    "Undecided": 4.0
+   },
+   "source_url": "https://x.com/birenbomb/status/2105048690134315247"
+  },
+  {
+   "pollster": "Big Data Poll",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-09-24",
+   "field_end": "2026-09-26",
+   "sample_size": 698,
+   "population": "LV",
+   "margin_of_error": "± 4.0%",
+   "results": {
+    "Ken Paxton": 45.0,
+    "James Talarico": 47.0,
+    "Ted Brown": 8.0
+   },
+   "source_url": "https://www.bigdatapoll.com/blog/lone-star-state-poll-talarico-paxton-in-close-race-us-senate-in-texas/"
+  },
+  {
+   "pollster": "Big Data Poll",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-09-24",
+   "field_end": "2026-09-26",
+   "sample_size": 698,
+   "population": "LV",
+   "margin_of_error": "± 4.0%",
+   "results": {
+    "Ken Paxton": 42.0,
+    "James Talarico": 45.0,
+    "Ted Brown": 5.0,
+    "Undecided": 9.0
+   },
+   "source_url": "https://www.bigdatapoll.com/blog/lone-star-state-poll-talarico-paxton-in-close-race-us-senate-in-texas/"
+  },
+  {
+   "pollster": "Big Data Poll",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-09-24",
+   "field_end": "2026-09-26",
+   "sample_size": 793,
+   "population": "RV",
+   "margin_of_error": "± 4.0%",
+   "results": {
+    "Ken Paxton": 44.0,
+    "James Talarico": 46.0,
+    "Ted Brown": 10.0
+   },
+   "source_url": "https://www.bigdatapoll.com/blog/lone-star-state-poll-talarico-paxton-in-close-race-us-senate-in-texas/"
+  },
+  {
+   "pollster": "Big Data Poll",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-09-24",
+   "field_end": "2026-09-26",
+   "sample_size": 793,
+   "population": "RV",
+   "margin_of_error": "± 4.0%",
+   "results": {
+    "Ken Paxton": 39.0,
+    "James Talarico": 44.0,
+    "Ted Brown": 5.0,
+    "Undecided": 12.0
+   },
+   "source_url": "https://www.bigdatapoll.com/blog/lone-star-state-poll-talarico-paxton-in-close-race-us-senate-in-texas/"
+  },
+  {
+   "pollster": "Stratus Intelligence (R)",
+   "sponsor": "Texans for a Conservative Majority",
+   "partisan_sponsor": "R",
+   "wikipedia_partisan_label": "R",
+   "field_start": "2026-09-22",
+   "field_end": "2026-09-24",
+   "sample_size": 856,
+   "population": "LV",
+   "margin_of_error": "± 3.5%",
+   "results": {
+    "Ken Paxton": 48.0,
+    "James Talarico": 48.0,
+    "Undecided": 4.0
+   },
+   "source_url": "https://www.politico.com/f/?id=000001a0-e76b-d462-adb2-e7fba4200000"
+  },
+  {
+   "pollster": "Texas Public Opinion Research (D)",
+   "sponsor": "",
+   "partisan_sponsor": "D",
+   "wikipedia_partisan_label": "D",
+   "field_start": "2026-09-19",
+   "field_end": "2026-09-22",
+   "sample_size": 1007,
+   "population": "LV",
+   "margin_of_error": "± 3.6%",
+   "results": {
+    "Ken Paxton": 44.0,
+    "James Talarico": 49.0,
+    "Ted Brown": 3.0,
+    "Other": 1.0,
+    "Undecided": 3.0
+   },
+   "source_url": "https://texaspublicopinionresearch.substack.com/p/new-poll-in-texas-general-election-662"
+  },
+  {
+   "pollster": "Marist University",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-09-17",
+   "field_end": "2026-09-20",
+   "sample_size": 1139,
+   "population": "RV",
+   "margin_of_error": "± 4.4%",
+   "results": {
+    "Ken Paxton": 44.0,
+    "James Talarico": 50.0,
+    "Other": 2.0,
+    "Undecided": 4.0
+   },
+   "source_url": "https://maristpoll.marist.edu/wp-content/uploads/2026/09/Marist-Poll_TX-NOS-and-Tables_202609221131.pdf"
+  },
+  {
+   "pollster": "Texas Southern University",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-09-15",
+   "field_end": "2026-09-19",
+   "sample_size": 1800,
+   "population": "LV",
+   "margin_of_error": "± 2.3%",
+   "results": {
+    "Ken Paxton": 46.0,
+    "James Talarico": 47.0,
+    "Ted Brown": 3.0,
+    "Undecided": 4.0
+   },
+   "source_url": "https://static1.squarespace.com/static/67aa7aa3e284b002cd6a420e/t/6ab15cb39e4cc420b9ef07f5/1790008500236/TSUSept2026_TXStatewideRaces.pdf"
+  },
+  {
+   "pollster": "Trafalgar Group (R)",
+   "sponsor": "",
+   "partisan_sponsor": "R",
+   "wikipedia_partisan_label": "R",
+   "field_start": "2026-09-15",
+   "field_end": "2026-09-17",
+   "sample_size": 1079,
+   "population": "LV",
+   "margin_of_error": "± 2.9%",
+   "results": {
+    "Ken Paxton": 45.0,
+    "James Talarico": 46.0,
+    "Ted Brown": 3.0,
+    "Undecided": 6.0
+   },
+   "source_url": "https://www.thetrafalgargroup.org/wp-content/uploads/2026/09/TX-Midterms-Full-Report-0918.pdf"
+  },
+  {
+   "pollster": "Emerson College",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-09-12",
+   "field_end": "2026-09-14",
+   "sample_size": 1000,
+   "population": "LV",
+   "margin_of_error": "± 3.0%",
+   "results": {
+    "Ken Paxton": 46.0,
+    "James Talarico": 47.0,
+    "Ted Brown": 2.0,
+    "Undecided": 4.0
+   },
+   "source_url": "https://emersoncollegepolling.com/texas-2026-poll-talarico-and-paxton-in-dead-heat-abbott-maintains-edge/"
+  },
+  {
+   "pollster": "SoCal Strategies",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-09-12",
+   "field_end": "2026-09-13",
+   "sample_size": 649,
+   "population": "LV",
+   "margin_of_error": null,
+   "results": {
+    "Ken Paxton": 45.0,
+    "James Talarico": 50.0,
+    "Undecided": 5.0
+   },
+   "source_url": "https://socalstrategies.substack.com/p/new-socal-strategies-poll-james-talarico"
+  },
+  {
+   "pollster": "ReconMR/Siena University",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-09-08",
+   "field_end": "2026-09-11",
+   "sample_size": 614,
+   "population": "LV",
+   "margin_of_error": "± 4.3%",
+   "results": {
+    "Ken Paxton": 43.0,
+    "James Talarico": 49.0,
+    "Other": 4.0,
+    "Undecided": 4.0
+   },
+   "notes": [
+    "\"Other/No Vote\" with 4%"
+   ],
+   "source_url": "https://reconmr.com/wp-content/uploads/2026/09/ReconMR-Texas-Poll-September-Release-Final.pdf"
+  },
+  {
+   "pollster": "Mason-Dixon",
+   "sponsor": "Telemundo Texas",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-09-08",
+   "field_end": "2026-09-10",
+   "sample_size": 625,
+   "population": "LV",
+   "margin_of_error": "± 4.0%",
+   "results": {
+    "Ken Paxton": 43.0,
+    "James Talarico": 46.0,
+    "Ted Brown": 3.0,
+    "Undecided": 8.0
+   },
+   "source_url": "https://s3.documentcloud.org/documents/28623723/tx926allvoterresults.pdf"
+  },
+  {
+   "pollster": "InsiderAdvantage",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-09-08",
+   "field_end": "2026-09-09",
+   "sample_size": 1200,
+   "population": "LV",
+   "margin_of_error": "± 2.8%",
+   "results": {
+    "Ken Paxton": 46.0,
+    "James Talarico": 47.0,
+    "Ted Brown": 2.0,
+    "Undecided": 5.0
+   },
+   "source_url": "https://insideradvantage.com/top-line-tabs-texas/"
+  },
+  {
+   "pollster": "Univision/YouGov",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-08-27",
+   "field_end": "2026-09-04",
+   "sample_size": 1000,
+   "population": "RV",
+   "margin_of_error": "± 3.6%",
+   "results": {
+    "Ken Paxton": 43.0,
+    "James Talarico": 48.0,
+    "Other": 1.0,
+    "Undecided": 7.0
+   },
+   "source_url": "https://www.univision.com/noticias/politica/poll-univision-texas-2026"
+  },
+  {
+   "pollster": "Fabrizio Ward (R)/ Impact Research (D)",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "R/D",
+   "field_start": "2026-08-30",
+   "field_end": "2026-09-01",
+   "sample_size": 895,
+   "population": "LV",
+   "margin_of_error": "± 3.3%",
+   "results": {
+    "Ken Paxton": 44.0,
+    "James Talarico": 48.0,
+    "Undecided": 8.0
+   },
+   "source_url": "https://www.aarp.org/press/releases/2026-09-10-new-aarp-texas-poll-highly-motivated-older-voters-could-shape-close-senate-governor-races/"
+  }
+ ],
+ "polls_note": "Polls with field_end on or after 2026-09-01, taken from the Wikipedia race page polling table (index) with the pollster/sponsor link given there. Multiple rows with the same pollster and dates are different versions (LV vs RV, full ballot vs two-way, leaners pushed); see notes. partisan_sponsor follows Wikipedia's (R)/(D) tag on the pollster or sponsor (\"none\" = untagged, or a bipartisan R+D pollster pair). Results are percentages as published; \"Other\" may include named minor candidates (see notes).",
+ "money": {
+  "as_of": "FEC candidate totals; most recent report = Pre-General (coverage through 2026-10-14).",
+  "candidates": {
+   "Ken Paxton": {
+    "raised_total": 22327473.92,
+    "cash_on_hand": 4784408.3,
+    "spent_total": 17543065.62,
+    "coverage_end_date": "2026-10-14",
+    "fec_candidate_id": "S6TX00388",
+    "source_url": "https://www.fec.gov/data/candidate/S6TX00388/?cycle=2026&election_full=true"
+   },
+   "James Talarico": {
+    "raised_total": 146349912.38,
+    "cash_on_hand": 9922857.4,
+    "spent_total": 136427054.98,
+    "coverage_end_date": "2026-10-14",
+    "fec_candidate_id": "S6TX00479",
+    "source_url": "https://www.fec.gov/data/candidate/S6TX00479/?cycle=2026&election_full=true"
+   },
+   "Ted Brown": {
+    "raised_total": 14257.28,
+    "cash_on_hand": 1288.35,
+    "spent_total": 13036.81,
+    "coverage_end_date": "2026-10-14",
+    "fec_candidate_id": "S4TX00888",
+    "source_url": "https://www.fec.gov/data/candidate/S4TX00888/?cycle=2026&election_full=true"
+   }
+  },
+  "outside_spending": {
+   "pro_R": 2708171.19,
+   "pro_D": 31328132.15,
+   "breakdown": {
+    "support_R_nominee": 1427091.9,
+    "oppose_R_nominee": 26931095.8,
+    "support_D_nominee": 4397036.35,
+    "oppose_D_nominee": 1281079.29
+   },
+   "source": "FEC Schedule E independent expenditures, totals by candidate (processed filings), 2025-26 cycle, election_full=true. pro_R = support for R nominee + opposition to D nominee; pro_D = the reverse. INCLUDES primary-period spending and lags recent 24/48-hour reports; party coordinated spending and non-FEC issue ads are not included. The oppose-Paxton total includes spending during the Republican primary and runoff against Cornyn.",
+   "source_url": "https://api.open.fec.gov/v1/schedules/schedule_e/totals/by_candidate/?cycle=2026&election_full=true&candidate_id=S6TX00388&candidate_id=S6TX00479",
+   "as_of": "FEC processed data retrieved 2026-10-31"
+  }
+ },
+ "events": [
+  {
+   "date": "2026-03-03",
+   "what": "Primaries: Cornyn 42.0%, Paxton 40.5%, Wesley Hunt 13.5% (runoff required); Talarico 52.4% over Jasmine Crockett.",
+   "source_url": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Texas"
+  },
+  {
+   "date": "2026-04-12",
+   "what": "Libertarian convention nominated Ted Brown.",
+   "source_url": "https://ballotpedia.org/United_States_Senate_election_in_Texas,_2026"
+  },
+  {
+   "date": "2026-05-26",
+   "what": "Runoff: Paxton 63.8%, Cornyn 36.2%; Cornyn became the first Texas senator to lose renomination since 1970.",
+   "source_url": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Texas"
+  },
+  {
+   "date": "2026-07-16",
+   "what": "The campaigns announced negotiations for up to three debates.",
+   "source_url": "https://www.texastribune.org/2026/07/16/texas-ken-paxton-james-talarico-debate-senate-race-2026/"
+  },
+  {
+   "date": "2026-09-09",
+   "what": "The Republican Party held a midterm national convention in Dallas (Sept 9–10).",
+   "source_url": "https://www.fox4news.com/news/trump-dallas-gop-midterm-convention-paxton-talarico"
+  },
+  {
+   "date": "2026-09-26",
+   "what": "Votebeat and the Dallas Morning News reported a voter-registration backlog (initially about 200,000 applications not sent to counties by the Department of Public Safety, nearing 600,000 by early October).",
+   "source_url": "https://www.dallasnews.com/projects/2026/texas-voter-registration-backlog-tracker/"
+  },
+  {
+   "date": "2026-10-18",
+   "what": "As of Oct 18, Paxton had not accepted any debate invitation; if none is held it would be the first Texas Senate race since 2000 without a major-party debate.",
+   "source_url": "https://thehill.com/homenews/campaign/6155048-ken-paxton-republicans-texas-senate-race-trump/"
+  },
+  {
+   "date": "2026-10",
+   "what": "AP reported Russian disinformation activity in midterm races including Texas.",
+   "source_url": "https://apnews.com/article/midterm-election-disinformation-russia-talarico-brown-c52f2c1720a0bb1ea86545d260aaf969"
+  }
+ ],
+ "early_vote": {
+  "as_of": null,
+  "summary": "Not collected in this pass. The Texas Secretary of State publishes daily early-voting turnout by county (no party breakdown).",
+  "source_url": "https://www.sos.state.tx.us/elections/"
+ },
+ "notes_uncertain": [
+  "Exact date of the Texas Tribune July 16 article URL taken from Wikipedia without opening it.",
+  "Whether any debate took place after Oct 18 was not checked.",
+  "Ted Brown age not collected.",
+  "Tarrant County polling-place closures (Sept 1 vote) reported by ABC News were not added as an event."
+ ]
+}

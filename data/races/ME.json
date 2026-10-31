@@ -1,0 +1,658 @@
+{
+ "state": "Maine",
+ "code": "ME",
+ "seat": "Class 2 regular",
+ "incumbent": {
+  "name": "Susan Collins",
+  "party": "Republican",
+  "status": "running"
+ },
+ "rules": "Ranked-choice voting is used for the general election. If no candidate wins a majority of first choices, the Secretary of State runs a central RCV tabulation in Augusta after collecting ballots from municipalities, which has taken about a week in past RCV races. With only two candidates on the ballot (Collins, Jackson), the first-round count normally decides the race; RCV would only matter through write-ins. Maine has not replaced a party nominee in any prior election; Jackson was nominated by a party convention after the primary winner withdrew.",
+ "candidates": [
+  {
+   "name": "Susan Collins",
+   "party": "Republican",
+   "incumbent": true,
+   "age": 73,
+   "current_or_last_office": "U.S. senator from Maine (1997–present); chair of the Senate Appropriations Committee",
+   "bio_short": "Collins is seeking a sixth term. She is the only Republican senator from a state that Donald Trump did not carry in any of his three presidential campaigns.",
+   "primary_result": "Unopposed in June 9, 2026 Republican primary (126,398 votes)",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Susan_Collins",
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Maine"
+   ]
+  },
+  {
+   "name": "Troy Jackson",
+   "party": "Democratic",
+   "incumbent": false,
+   "age": 58,
+   "current_or_last_office": "President of the Maine Senate (until 2024); state legislator from Allagash",
+   "bio_short": "Jackson is a logger from Allagash who served in the Maine House and Senate and was Senate president. He was a 2026 candidate for governor before seeking the Senate nomination; the Maine Democratic Party convention chose him on July 25, 2026 to replace Graham Platner.",
+   "primary_result": "Not on the June 9 primary ballot; nominated at the July 25, 2026 state party convention, 566–5 over Saundra Pelletier",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Troy_Jackson",
+    "https://www.usatoday.com/story/news/politics/2026/07/25/troy-jackson-replaces-graham-platner-maine-senate-democrat-nominee/91020463007/",
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Maine"
+   ]
+  }
+ ],
+ "past_results": {
+  "pres_2024": {
+   "R": 45.46,
+   "D": 52.4,
+   "margin": "D+6.9",
+   "source_url": "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_Maine"
+  },
+  "pres_2020": {
+   "R": 44.02,
+   "D": 53.09,
+   "margin": "D+9.1",
+   "source_url": "https://en.wikipedia.org/wiki/2020_United_States_presidential_election_in_Maine"
+  },
+  "senate_last_this_seat": {
+   "year": 2020,
+   "winner": "Susan Collins",
+   "party": "Republican",
+   "margin": "R+8.6 (50.98% vs 42.39% for Sara Gideon)",
+   "source_url": "https://en.wikipedia.org/wiki/2020_United_States_Senate_election_in_Maine"
+  },
+  "other_recent": [
+   {
+    "race": "2022 governor",
+    "winner": "Janet Mills (D)",
+    "margin": "D+13.2 (55.69% vs 42.45% for Paul LePage)",
+    "source_url": "https://en.wikipedia.org/wiki/2022_Maine_gubernatorial_election"
+   },
+   {
+    "race": "2024 U.S. Senate (other seat)",
+    "winner": "Angus King (I, caucuses with Democrats)",
+    "margin": "52.06% vs 34.64% for Demi Kouzounas (R)",
+    "source_url": "https://en.wikipedia.org/wiki/2024_United_States_Senate_election_in_Maine"
+   }
+  ]
+ },
+ "polls": [
+  {
+   "pollster": "SSRS",
+   "sponsor": "CNN",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-10-20",
+   "field_end": "2026-10-26",
+   "sample_size": 783,
+   "population": "LV",
+   "margin_of_error": "± 4.5%",
+   "results": {
+    "Susan Collins": 45.0,
+    "Troy Jackson": 49.0,
+    "Other": 6.0,
+    "Undecided": 0.0
+   },
+   "notes": [
+    "\"Neither\" with 4%"
+   ],
+   "source_url": "https://www.documentcloud.org/documents/28856725-cnn-poll-conducted-by-ssrs-maine-october/"
+  },
+  {
+   "pollster": "Marist University",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-10-22",
+   "field_end": "2026-10-25",
+   "sample_size": null,
+   "population": "LV",
+   "margin_of_error": "± 6.6%",
+   "results": {
+    "Susan Collins": 47.0,
+    "Troy Jackson": 49.0,
+    "Other": 1.0,
+    "Undecided": 3.0
+   },
+   "source_url": "https://maristpoll.marist.edu/wp-content/uploads/2026/10/Marist-Poll_Maine-NOS-and-Tables_202610261228-3_43sjl2.pdf"
+  },
+  {
+   "pollster": "Marist University",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-10-22",
+   "field_end": "2026-10-25",
+   "sample_size": 1449,
+   "population": "RV",
+   "margin_of_error": "± 4.1%",
+   "results": {
+    "Susan Collins": 44.0,
+    "Troy Jackson": 53.0,
+    "Other": 0.5,
+    "Undecided": 2.0
+   },
+   "source_url": "https://maristpoll.marist.edu/wp-content/uploads/2026/10/Marist-Poll_Maine-NOS-and-Tables_202610261228-3_43sjl2.pdf"
+  },
+  {
+   "pollster": "Trafalgar Group (R)",
+   "sponsor": "",
+   "partisan_sponsor": "R",
+   "wikipedia_partisan_label": "R",
+   "field_start": "2026-10-21",
+   "field_end": "2026-10-23",
+   "sample_size": 1077,
+   "population": "LV",
+   "margin_of_error": "± 2.9%",
+   "results": {
+    "Susan Collins": 47.0,
+    "Troy Jackson": 47.0,
+    "Undecided": 7.0
+   },
+   "source_url": "https://www.thetrafalgargroup.org/wp-content/uploads/2026/10/ME-Midterms-Report-1025.pdf"
+  },
+  {
+   "pollster": "Echelon Insights (R)",
+   "sponsor": "",
+   "partisan_sponsor": "R",
+   "wikipedia_partisan_label": "R",
+   "field_start": "2026-10-16",
+   "field_end": "2026-10-23",
+   "sample_size": 413,
+   "population": "LV",
+   "margin_of_error": "± 6.3%",
+   "results": {
+    "Susan Collins": 44.0,
+    "Troy Jackson": 51.0,
+    "Other": 1.0,
+    "Undecided": 4.0
+   },
+   "source_url": "https://netchoice.org/wp-content/uploads/2026/10/NetChoice-October-2026-Antitrust-Tech-Survey-Topline.pdf"
+  },
+  {
+   "pollster": "Beacon Research (D)/ Shaw & Co. Research (R)",
+   "sponsor": "Fox News",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "D/R",
+   "field_start": "2026-10-16",
+   "field_end": "2026-10-20",
+   "sample_size": 1514,
+   "population": "LV",
+   "margin_of_error": "± 2.5%",
+   "results": {
+    "Susan Collins": 49.0,
+    "Troy Jackson": 49.0,
+    "Other": 1.0,
+    "Undecided": 1.0
+   },
+   "source_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/fox_october-16-20-2026_maine_topline_october-22-release.pdf"
+  },
+  {
+   "pollster": "Beacon Research (D)/ Shaw & Co. Research (R)",
+   "sponsor": "Fox News",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "D/R",
+   "field_start": "2026-10-16",
+   "field_end": "2026-10-20",
+   "sample_size": 1689,
+   "population": "RV",
+   "margin_of_error": "± 2%",
+   "results": {
+    "Susan Collins": 48.0,
+    "Troy Jackson": 50.0,
+    "Other": 1.0,
+    "Undecided": 2.0
+   },
+   "source_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/fox_october-16-20-2026_maine_topline_october-22-release.pdf"
+  },
+  {
+   "pollster": "InsiderAdvantage (R)",
+   "sponsor": "",
+   "partisan_sponsor": "R",
+   "wikipedia_partisan_label": "R",
+   "field_start": "2026-10-13",
+   "field_end": "2026-10-14",
+   "sample_size": 1200,
+   "population": "LV",
+   "margin_of_error": "± 2.8%",
+   "results": {
+    "Susan Collins": 47.0,
+    "Troy Jackson": 49.0,
+    "Undecided": 4.0
+   },
+   "source_url": "https://insideradvantage.com/insideradvantage-senate-surveys-texas-paxton-49-talarico-48-kansas-marshall-48-hamilton-47-maine-jackson-49-collins-47/",
+   "other_urls": [
+    "https://x.com/InsiderPolling/status/2111096704267399329"
+   ]
+  },
+  {
+   "pollster": "Suffolk University",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-10-08",
+   "field_end": "2026-10-11",
+   "sample_size": 500,
+   "population": "LV",
+   "margin_of_error": "± 4.4%",
+   "results": {
+    "Susan Collins": 47.0,
+    "Troy Jackson": 49.0,
+    "Undecided": 4.0
+   },
+   "source_url": "https://www.suffolk.edu/-/media/suffolk/documents/academics/research-at-suffolk/suprc/polls/other-states/2026/10_14_2026_maine_press_release.pdf"
+  },
+  {
+   "pollster": "Rasmussen Reports (R)",
+   "sponsor": "",
+   "partisan_sponsor": "R",
+   "wikipedia_partisan_label": "R",
+   "field_start": "2026-10-05",
+   "field_end": "2026-10-08",
+   "sample_size": 804,
+   "population": "LV",
+   "margin_of_error": "± 3.0%",
+   "results": {
+    "Susan Collins": 47.0,
+    "Troy Jackson": 49.0,
+    "Undecided": 4.0
+   },
+   "source_url": "https://www.rasmussenreports.com/public_content/politics/elections/election_2026/election_2026_maine_senate"
+  },
+  {
+   "pollster": "The Washington Post/SSPG",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-09-30",
+   "field_end": "2026-10-05",
+   "sample_size": 800,
+   "population": "LV",
+   "margin_of_error": "± 3.6%",
+   "results": {
+    "Susan Collins": 46.0,
+    "Troy Jackson": 50.0,
+    "Other": 1.0,
+    "Undecided": 3.0
+   },
+   "notes": [
+    "\"Someone else\" with 1%"
+   ],
+   "source_url": "https://www.washingtonpost.com/documents/916dd450-a193-4312-9a75-1b14dd95cc28.pdf?itid=lk_inline_manual_1"
+  },
+  {
+   "pollster": "Marist University",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-10-01",
+   "field_end": "2026-10-04",
+   "sample_size": 1505,
+   "population": "RV",
+   "margin_of_error": "± 3.8%",
+   "results": {
+    "Susan Collins": 47.0,
+    "Troy Jackson": 51.0,
+    "Other": 1.0,
+    "Undecided": 1.0
+   },
+   "notes": [
+    "\"Another candidate\" with 1%"
+   ],
+   "source_url": "https://maristpoll.marist.edu/wp-content/uploads/2026/10/Marist-Poll_Maine-NOS-and-Tables_202610051032xtc92617B.pdf"
+  },
+  {
+   "pollster": "Trafalgar Group (R)",
+   "sponsor": "",
+   "partisan_sponsor": "R",
+   "wikipedia_partisan_label": "R",
+   "field_start": "2026-09-29",
+   "field_end": "2026-10-01",
+   "sample_size": 1091,
+   "population": "LV",
+   "margin_of_error": "± 2.9%",
+   "results": {
+    "Susan Collins": 46.0,
+    "Troy Jackson": 46.0,
+    "Undecided": 8.0
+   },
+   "source_url": "https://www.thetrafalgargroup.org/news/me-senate-gen-1002/"
+  },
+  {
+   "pollster": "CBS News/YouGov",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-09-23",
+   "field_end": "2026-10-01",
+   "sample_size": 1136,
+   "population": "LV",
+   "margin_of_error": "± 4.7%",
+   "results": {
+    "Susan Collins": 50.0,
+    "Troy Jackson": 50.0
+   },
+   "source_url": "https://www.cbsnews.com/news/maine-senate-poll-2026-10-02/"
+  },
+  {
+   "pollster": "co/efficient (R)",
+   "sponsor": "",
+   "partisan_sponsor": "R",
+   "wikipedia_partisan_label": "R",
+   "field_start": "2026-09-28",
+   "field_end": "2026-09-30",
+   "sample_size": 1240,
+   "population": "LV",
+   "margin_of_error": "± 2.8%",
+   "results": {
+    "Susan Collins": 48.0,
+    "Troy Jackson": 46.0,
+    "Undecided": 6.0
+   },
+   "source_url": "https://battlegrounds.coefficient.org/me/"
+  },
+  {
+   "pollster": "Maine People's Resource Center",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-09-25",
+   "field_end": "2026-09-29",
+   "sample_size": 684,
+   "population": "LV",
+   "margin_of_error": "± 3.8%",
+   "results": {
+    "Susan Collins": 47.0,
+    "Troy Jackson": 49.0,
+    "Undecided": 4.0
+   },
+   "source_url": "https://drive.google.com/file/d/1nVC9doKmSak5hQ8ajaaKftWiXSEZf-Us/view"
+  },
+  {
+   "pollster": "InsiderAdvantage (R)",
+   "sponsor": "",
+   "partisan_sponsor": "R",
+   "wikipedia_partisan_label": "R",
+   "field_start": "2026-09-22",
+   "field_end": "2026-09-23",
+   "sample_size": 1200,
+   "population": "LV",
+   "margin_of_error": "± 2.8%",
+   "results": {
+    "Susan Collins": 46.0,
+    "Troy Jackson": 46.0,
+    "Other": 3.0,
+    "Undecided": 5.0
+   },
+   "source_url": "https://insideradvantage.com/me-top-line-tabs/"
+  },
+  {
+   "pollster": "Fabrizio Ward (R)/ Impact Research (D)",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "R/D",
+   "field_start": "2026-09-20",
+   "field_end": "2026-09-22",
+   "sample_size": 982,
+   "population": "LV",
+   "margin_of_error": "± 3.1%",
+   "results": {
+    "Susan Collins": 47.0,
+    "Troy Jackson": 50.0,
+    "Other": 1.0,
+    "Undecided": 3.0
+   },
+   "source_url": "https://www.aarp.org/content/dam/aarp/research/topics/voter-opinion-research/politics/2026-midterm-election-poll-maine.doi.10.26419-2fres.01065.013.pdf"
+  },
+  {
+   "pollster": "New York Times/Siena University",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-09-15",
+   "field_end": "2026-09-22",
+   "sample_size": 619,
+   "population": "LV",
+   "margin_of_error": "± 4.9%",
+   "results": {
+    "Susan Collins": 49.0,
+    "Troy Jackson": 46.0,
+    "Undecided": 5.0
+   },
+   "source_url": "https://www.nytimes.com/2026/09/24/us/politics/democrats-show-strength-in-michigan-senate-race-but-trail-in-maine-polls-find.html"
+  },
+  {
+   "pollster": "University of New Hampshire",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-09-17",
+   "field_end": "2026-09-21",
+   "sample_size": 1312,
+   "population": "LV",
+   "margin_of_error": "± 2.7%",
+   "results": {
+    "Susan Collins": 47.0,
+    "Troy Jackson": 51.0,
+    "Other": 1.0,
+    "Undecided": 1.0
+   },
+   "notes": [
+    "\"Another candidate\" with 1%"
+   ],
+   "source_url": "https://scholars.unh.edu/cgi/viewcontent.cgi?article=2006&context=survey_center_polls"
+  },
+  {
+   "pollster": "Quantus Insights (R)",
+   "sponsor": "",
+   "partisan_sponsor": "R",
+   "wikipedia_partisan_label": "R",
+   "field_start": "2026-09-14",
+   "field_end": "2026-09-15",
+   "sample_size": 621,
+   "population": "LV",
+   "margin_of_error": "± 4.3%",
+   "results": {
+    "Susan Collins": 48.0,
+    "Troy Jackson": 47.0,
+    "Other": 2.0,
+    "Undecided": 4.0
+   },
+   "source_url": "https://quantusinsights.org/polling/f/quantus-survey-collins-and-jackson-even-in-maine-senate-race"
+  },
+  {
+   "pollster": "Quantus Insights (R)",
+   "sponsor": "",
+   "partisan_sponsor": "R",
+   "wikipedia_partisan_label": "R",
+   "field_start": "2026-09-14",
+   "field_end": "2026-09-15",
+   "sample_size": 621,
+   "population": "LV",
+   "margin_of_error": "± 4.3%",
+   "results": {
+    "Susan Collins": 47.0,
+    "Troy Jackson": 46.0,
+    "Other": 2.0,
+    "Undecided": 5.0
+   },
+   "source_url": "https://quantusinsights.org/polling/f/quantus-survey-collins-and-jackson-even-in-maine-senate-race"
+  },
+  {
+   "pollster": "University of Massachusetts/YouGov",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-08-28",
+   "field_end": "2026-09-14",
+   "sample_size": 650,
+   "population": "LV",
+   "margin_of_error": "± 4.7%",
+   "results": {
+    "Susan Collins": 43.0,
+    "Troy Jackson": 48.0,
+    "Undecided": 9.0
+   },
+   "source_url": "https://www.uml.edu/docs/2026-Sept-Maine-Topline_tcm18-422748.pdf"
+  },
+  {
+   "pollster": "Rasmussen Reports (R)",
+   "sponsor": "",
+   "partisan_sponsor": "R",
+   "wikipedia_partisan_label": "R",
+   "field_start": "2026-09-08",
+   "field_end": "2026-09-10",
+   "sample_size": 1033,
+   "population": "LV",
+   "margin_of_error": "± 3.0%",
+   "results": {
+    "Susan Collins": 45.0,
+    "Troy Jackson": 46.0,
+    "Undecided": 9.0
+   },
+   "source_url": "https://www.rasmussenreports.com/public_content/politics/elections/election_2026/election_2026_maine_senate"
+  },
+  {
+   "pollster": "YouGov",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-09-02",
+   "field_end": "2026-09-08",
+   "sample_size": 1335,
+   "population": "LV",
+   "margin_of_error": "± 4.9%",
+   "results": {
+    "Susan Collins": 44.0,
+    "Troy Jackson": 48.0,
+    "Other": 1.0,
+    "Undecided": 6.0
+   },
+   "notes": [
+    "\"Someone else\" with 1%"
+   ],
+   "source_url": "https://d3nkl3psvxxpe9.cloudfront.net/documents/ttw_me_20260902.pdf"
+  },
+  {
+   "pollster": "YouGov",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-09-02",
+   "field_end": "2026-09-08",
+   "sample_size": 1378,
+   "population": "RV",
+   "margin_of_error": "± 4.9%",
+   "results": {
+    "Susan Collins": 44.0,
+    "Troy Jackson": 46.0,
+    "Other": 1.0,
+    "Undecided": 9.0
+   },
+   "source_url": "https://d3nkl3psvxxpe9.cloudfront.net/documents/ttw_me_20260902.pdf"
+  },
+  {
+   "pollster": "SSRS",
+   "sponsor": "CNN",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-08-31",
+   "field_end": "2026-09-06",
+   "sample_size": 880,
+   "population": "LV",
+   "margin_of_error": "± 3.7%",
+   "results": {
+    "Susan Collins": 45.0,
+    "Troy Jackson": 48.0,
+    "Other": 7.0
+   },
+   "notes": [
+    "\"Neither\" with 4%"
+   ],
+   "source_url": "https://www.documentcloud.org/documents/28608783-cnn-poll-conducted-by-ssrs-maine/"
+  }
+ ],
+ "polls_note": "Polls with field_end on or after 2026-09-01, taken from the Wikipedia race page polling table (index) with the pollster/sponsor link given there. Multiple rows with the same pollster and dates are different versions (LV vs RV, full ballot vs two-way, leaners pushed); see notes. partisan_sponsor follows Wikipedia's (R)/(D) tag on the pollster or sponsor (\"none\" = untagged, or a bipartisan R+D pollster pair). Results are percentages as published; \"Other\" may include named minor candidates (see notes).",
+ "money": {
+  "as_of": "FEC candidate totals; most recent report = Pre-General (coverage through 2026-10-14). Collins totals cover the full 2021–2026 cycle.",
+  "candidates": {
+   "Susan Collins": {
+    "raised_total": 25225468.39,
+    "cash_on_hand": 2689882.54,
+    "spent_total": 23830778.33,
+    "coverage_end_date": "2026-10-14",
+    "fec_candidate_id": "S6ME00159",
+    "source_url": "https://www.fec.gov/data/candidate/S6ME00159/?cycle=2026&election_full=true"
+   },
+   "Troy Jackson": {
+    "raised_total": 26872873.96,
+    "cash_on_hand": 1596870.56,
+    "spent_total": 25276003.4,
+    "coverage_end_date": "2026-10-14",
+    "fec_candidate_id": "S6ME00464",
+    "source_url": "https://www.fec.gov/data/candidate/S6ME00464/?cycle=2026&election_full=true"
+   }
+  },
+  "outside_spending": {
+   "pro_R": 2904524.18,
+   "pro_D": 3317327.24,
+   "breakdown": {
+    "support_R_nominee": 2861624.18,
+    "oppose_R_nominee": 1563539.94,
+    "support_D_nominee": 1753787.3,
+    "oppose_D_nominee": 42900.0
+   },
+   "source": "FEC Schedule E independent expenditures, totals by candidate (processed filings), 2025-26 cycle, election_full=true. pro_R = support for R nominee + opposition to D nominee; pro_D = the reverse. INCLUDES primary-period spending and lags recent 24/48-hour reports; party coordinated spending and non-FEC issue ads are not included. The Verge reported that technology companies and private-equity firms invested in the race to support Collins.",
+   "source_url": "https://api.open.fec.gov/v1/schedules/schedule_e/totals/by_candidate/?cycle=2026&election_full=true&candidate_id=S6ME00159&candidate_id=S6ME00464",
+   "as_of": "FEC processed data retrieved 2026-10-31"
+  }
+ },
+ "events": [
+  {
+   "date": "2026-06-04",
+   "what": "The New York Times published allegations from several women about Democratic candidate Graham Platner's past behavior.",
+   "source_url": "https://www.nytimes.com/2026/06/04/us/politics/platner-maine-senate-girlfriends-relationships.html"
+  },
+  {
+   "date": "2026-06-09",
+   "what": "Primaries: Collins unopposed; Graham Platner won the Democratic primary with 72.1% over Gov. Janet Mills (19.3%), who had withdrawn.",
+   "source_url": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Maine"
+  },
+  {
+   "date": "2026-07-06",
+   "what": "A former partner accused Platner of sexual assault; he denied it. Party leaders and former endorsers called on him to leave the race.",
+   "source_url": "https://www.politico.com/news/2026/07/06/graham-platner-sexual-assault-allegation-00987737"
+  },
+  {
+   "date": "2026-07-10",
+   "what": "Platner withdrew as the Democratic nominee.",
+   "source_url": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Maine"
+  },
+  {
+   "date": "2026-07-25",
+   "what": "Maine Democratic convention in Bangor nominated Troy Jackson, 566–5.",
+   "source_url": "https://www.usatoday.com/story/news/politics/2026/07/25/troy-jackson-replaces-graham-platner-maine-senate-democrat-nominee/91020463007/"
+  },
+  {
+   "date": "2026-10-06",
+   "what": "First debate (WGME). Further debates: Oct 8 (WMTW), Oct 13 (WABI/WAGM), Oct 15 (News Center Maine / Portland Press Herald / Maine Public).",
+   "source_url": "https://www.bangordailynews.com/2026/10/06/politics/elections/live-updates-susan-collins-and-troy-jackson-face-off-in-1st-senate-debate/"
+  },
+  {
+   "date": "2026-10",
+   "what": "ProPublica published an investigation alleging Collins was involved in a pay-to-play arrangement with a Hawaii-based military contractor; Collins defended herself in a debate.",
+   "source_url": "https://www.ms.now/liveblog/susan-collins-troy-jackson-maine-senate-debate-2026-live-updates"
+  },
+  {
+   "date": "2026-10",
+   "what": "The Verge reported AI data centers as a central issue: Jackson called for a moratorium on data-center construction; Collins took a more mixed position.",
+   "source_url": "https://www.theverge.com/ai-artificial-intelligence/1021080/maine-senate-race-susan-collins-ai-data-centers"
+  }
+ ],
+ "early_vote": {
+  "as_of": null,
+  "summary": "Not collected in this pass. The Maine Secretary of State publishes absentee ballot request/return files.",
+  "source_url": "https://www.maine.gov/sos/cec/elec/"
+ },
+ "notes_uncertain": [
+  "Exact dates of the ProPublica report and The Verge article not verified (October 2026 from context).",
+  "Whether any declared write-in candidates exist (which would make RCV relevant) was not checked.",
+  "Jackson's years as Senate president were not re-verified for this file."
+ ]
+}

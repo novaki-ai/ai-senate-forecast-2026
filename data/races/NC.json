@@ -1,0 +1,955 @@
+{
+ "state": "North Carolina",
+ "code": "NC",
+ "seat": "Class 2 regular",
+ "incumbent": {
+  "name": "Thom Tillis",
+  "party": "Republican",
+  "status": "retiring"
+ },
+ "rules": "Regular election for a full term (2027-2033). Plurality winner in the general election (runoffs apply only to primaries). Four candidates: Michael Whatley (R), Roy Cooper (D), Shannon Bray (Libertarian), Michael Dublin (Green). In-person early voting ran October 15-31, 2026 at about 370 sites; under current state law, mail ballots must be received by 7:30 p.m. on Election Day. Polls close at 7:30 p.m. Eastern; early and mail votes are usually reported first on election night; county canvasses follow about 10 days later. Sources: https://www.ncsbe.gov/news/press-releases/2026/10/09/10-things-person-early-voters-know-north-carolina ; https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_North_Carolina",
+ "candidates": [
+  {
+   "name": "Michael Whatley",
+   "party": "Republican",
+   "incumbent": false,
+   "age": 58,
+   "current_or_last_office": "Chair of the Republican National Committee (2024-2025)",
+   "bio_short": "Whatley chaired the North Carolina Republican Party (2019-2024) and then the Republican National Committee (2024-2025). He earlier worked in the George W. Bush administration's Energy Department and was chief of staff to Sen. Elizabeth Dole (2004-2007). Trump endorsed him when he entered the race in July 2025.",
+   "primary_result": "Won the March 3, 2026 Republican primary with 64.6% (405,140 votes) over Don Brown (15.6%) and five others.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Michael_Whatley",
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_North_Carolina",
+    "https://www.wsoctv.com/news/local/michael-whatley-rnc-chairman-endorsed-by-trump-launches-senate-bid-north-carolina/VWA2HFOIAZDGZE2RJRMRLFN7GI/"
+   ]
+  },
+  {
+   "name": "Roy Cooper",
+   "party": "Democratic",
+   "incumbent": false,
+   "age": 69,
+   "current_or_last_office": "Governor of North Carolina (2017-2025)",
+   "bio_short": "Cooper was governor from 2017 to 2025 and state attorney general from 2001 to 2017, and earlier served in the state House and Senate. He won the governorship in 2016 by defeating incumbent Pat McCrory and was reelected in 2020.",
+   "primary_result": "Won the March 3, 2026 Democratic primary with 92.0% (761,345 votes) over five others.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Roy_Cooper",
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_North_Carolina"
+   ]
+  },
+  {
+   "name": "Shannon Bray",
+   "party": "Libertarian",
+   "incumbent": false,
+   "age": null,
+   "current_or_last_office": "Cybersecurity professional",
+   "bio_short": "Bray is a cybersecurity professional who has run for office several times, per Wikipedia. No FEC financial summary was found for him.",
+   "primary_result": "Libertarian Party nominee.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_North_Carolina"
+   ]
+  },
+  {
+   "name": "Michael Dublin",
+   "party": "Green",
+   "incumbent": false,
+   "age": null,
+   "current_or_last_office": "Teacher; Green nominee for North Carolina's 2nd congressional district in 2024",
+   "bio_short": "Dublin is a teacher and was the Green Party nominee for NC-2 in 2024, per Wikipedia. His FEC committee reported $28,231 raised through October 14, 2026.",
+   "primary_result": "Green Party nominee.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_North_Carolina",
+    "https://www.fec.gov/data/candidate/S6NC00563/?cycle=2026&election_full=true"
+   ]
+  }
+ ],
+ "past_results": {
+  "pres_2024": {
+   "R": 50.86,
+   "D": 47.65,
+   "margin": "R+3.2",
+   "source_url": "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_North_Carolina"
+  },
+  "pres_2020": {
+   "R": 49.93,
+   "D": 48.59,
+   "margin": "R+1.3",
+   "source_url": "https://en.wikipedia.org/wiki/2020_United_States_presidential_election_in_North_Carolina"
+  },
+  "senate_last_this_seat": {
+   "year": 2020,
+   "winner": "Thom Tillis",
+   "party": "Republican",
+   "margin": "R+1.8 (48.69% vs 46.94% for Cal Cunningham)",
+   "source_url": "https://en.wikipedia.org/wiki/2020_United_States_Senate_election_in_North_Carolina"
+  },
+  "other_recent": [
+   {
+    "race": "2024 governor",
+    "winner": "Josh Stein (D), defeating Mark Robinson (R)",
+    "margin": "D+14.8 (54.90% vs 40.08%)",
+    "source_url": "https://en.wikipedia.org/wiki/2024_North_Carolina_gubernatorial_election"
+   },
+   {
+    "race": "2022 U.S. Senate (other seat)",
+    "winner": "Ted Budd (R), defeating Cheri Beasley (D)",
+    "margin": "R+3.2 (50.50% vs 47.27%)",
+    "source_url": "https://en.wikipedia.org/wiki/2022_United_States_Senate_election_in_North_Carolina"
+   }
+  ]
+ },
+ "polls_note": "Polls with field_end on or after 2026-09-01, taken from the Wikipedia race page polling table (used as an index), with the pollster/sponsor link given there (source_url; often the pollster's or sponsor's own release, sometimes a news report). Multiple rows with the same pollster and dates are different versions of one poll (LV vs RV, full ballot vs two-way, leaners pushed); see notes. partisan_sponsor follows Wikipedia's (R)/(D) tag on the pollster ('none' = untagged, or a bipartisan R+D pollster pair); sponsor text is Wikipedia's footnote. Results are percentages as published; null = not reported. 'Other' may include named minor candidates (see notes, copied from Wikipedia footnotes). No averages or aggregates are included.",
+ "polls": [
+  {
+   "pollster": "Quantus Insights",
+   "sponsor": "",
+   "partisan_sponsor": "R",
+   "wikipedia_partisan_label": "R",
+   "field_start": "2026-10-24",
+   "field_end": "2026-10-25",
+   "sample_size": 722,
+   "population": "LV",
+   "margin_of_error": "± 4.0%",
+   "results": {
+    "Michael Whatley": 43.0,
+    "Roy Cooper": 51.0,
+    "Other": 2.0,
+    "Undecided": 3.0
+   },
+   "notes": [
+    "Shannon Bray (L) & Michael Dublin (G) with 1%; \"Someone else\" with 0%"
+   ],
+   "source_url": "https://quantusinsights.org/polling/f/north-carolina-senate-cooper-holds-a-9-point-lead-over-whatley"
+  },
+  {
+   "pollster": "Quantus Insights",
+   "sponsor": "",
+   "partisan_sponsor": "R",
+   "wikipedia_partisan_label": "R",
+   "field_start": "2026-10-24",
+   "field_end": "2026-10-25",
+   "sample_size": 722,
+   "population": "LV",
+   "margin_of_error": "± 4.0%",
+   "results": {
+    "Michael Whatley": 43.0,
+    "Roy Cooper": 52.0,
+    "Other": 2.0,
+    "Undecided": 2.0
+   },
+   "notes": [
+    "With voters who lean towards a given candidate",
+    "Shannon Bray (L) & Michael Dublin (G) with 1%; \"Someone else\" with 0%"
+   ],
+   "source_url": "https://quantusinsights.org/polling/f/north-carolina-senate-cooper-holds-a-9-point-lead-over-whatley"
+  },
+  {
+   "pollster": "Quantus Insights",
+   "sponsor": "",
+   "partisan_sponsor": "R",
+   "wikipedia_partisan_label": "R",
+   "field_start": "2026-10-24",
+   "field_end": "2026-10-25",
+   "sample_size": 702,
+   "population": "LV",
+   "margin_of_error": "± 4.0%",
+   "results": {
+    "Michael Whatley": 44.0,
+    "Roy Cooper": 53.0,
+    "Other": null,
+    "Undecided": 3.0
+   },
+   "notes": [],
+   "source_url": "https://quantusinsights.org/polling/f/north-carolina-senate-cooper-holds-a-9-point-lead-over-whatley"
+  },
+  {
+   "pollster": "Quantus Insights",
+   "sponsor": "",
+   "partisan_sponsor": "R",
+   "wikipedia_partisan_label": "R",
+   "field_start": "2026-10-24",
+   "field_end": "2026-10-25",
+   "sample_size": 702,
+   "population": "LV",
+   "margin_of_error": "± 4.0%",
+   "results": {
+    "Michael Whatley": 45.0,
+    "Roy Cooper": 54.0,
+    "Other": null,
+    "Undecided": 2.0
+   },
+   "notes": [
+    "With voters who lean towards a given candidate"
+   ],
+   "source_url": "https://quantusinsights.org/polling/f/north-carolina-senate-cooper-holds-a-9-point-lead-over-whatley"
+  },
+  {
+   "pollster": "Harper Polling",
+   "sponsor": "Poll sponsored by The Carolina Journal",
+   "partisan_sponsor": "R",
+   "wikipedia_partisan_label": "R",
+   "field_start": "2026-10-18",
+   "field_end": "2026-10-20",
+   "sample_size": 600,
+   "population": "LV",
+   "margin_of_error": "± 4.0%",
+   "results": {
+    "Michael Whatley": 39.0,
+    "Roy Cooper": 49.0,
+    "Other": 5.0,
+    "Undecided": 7.0
+   },
+   "notes": [
+    "Shannon Bray (L) with 3%; Michael Dublin (G) with 2%"
+   ],
+   "source_url": "https://www.carolinajournal.com/wp-content/uploads/2026/10/H25035-CJ-NC-Oct26-Toplines.pdf"
+  },
+  {
+   "pollster": "Harper Polling",
+   "sponsor": "Poll sponsored by The Carolina Journal",
+   "partisan_sponsor": "R",
+   "wikipedia_partisan_label": "R",
+   "field_start": "2026-10-18",
+   "field_end": "2026-10-20",
+   "sample_size": 600,
+   "population": "LV",
+   "margin_of_error": "± 4.0%",
+   "results": {
+    "Michael Whatley": 42.0,
+    "Roy Cooper": 52.0,
+    "Other": null,
+    "Undecided": 7.0
+   },
+   "notes": [],
+   "source_url": "https://www.carolinajournal.com/wp-content/uploads/2026/10/H25035-CJ-NC-Oct26-Toplines.pdf"
+  },
+  {
+   "pollster": "ActiVote",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-10-08",
+   "field_end": "2026-10-20",
+   "sample_size": 400,
+   "population": "LV",
+   "margin_of_error": "± 4.9%",
+   "results": {
+    "Michael Whatley": 43.0,
+    "Roy Cooper": 57.0,
+    "Other": null,
+    "Undecided": null
+   },
+   "notes": [],
+   "source_url": "https://www.activote.net/polls/2026/nc-u-s-senate/"
+  },
+  {
+   "pollster": "High Point University/YouGov",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-10-01",
+   "field_end": "2026-10-20",
+   "sample_size": 620,
+   "population": "LV",
+   "margin_of_error": "± 4.7%",
+   "results": {
+    "Michael Whatley": 40.0,
+    "Roy Cooper": 54.0,
+    "Other": 3.0,
+    "Undecided": 6.0
+   },
+   "notes": [
+    "Shannon Bray (L) with 2%; Michael Dublin (G) with 1%"
+   ],
+   "source_url": "https://www.highpoint.edu/blog/2026/10/hpu-yougov-poll-north-carolina-likely-voters-weigh-in-on-u-s-senate-race-and-more/"
+  },
+  {
+   "pollster": "SurveyUSA",
+   "sponsor": "Poll sponsored by WRAL-TV and WSOC-TV",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-10-07",
+   "field_end": "2026-10-11",
+   "sample_size": 643,
+   "population": "LV",
+   "margin_of_error": "± 5.0%",
+   "results": {
+    "Michael Whatley": 40.0,
+    "Roy Cooper": 54.0,
+    "Other": 1.0,
+    "Undecided": 5.0
+   },
+   "notes": [
+    "\"Another candidate\" with 1%"
+   ],
+   "source_url": "https://results.surveyusa.com/client/PollReport.aspx?g=0a876c84-9a95-4995-9218-82b1015f5d77"
+  },
+  {
+   "pollster": "Trafalgar Group",
+   "sponsor": "",
+   "partisan_sponsor": "R",
+   "wikipedia_partisan_label": "R",
+   "field_start": "2026-10-08",
+   "field_end": "2026-10-10",
+   "sample_size": 1091,
+   "population": "LV",
+   "margin_of_error": "± 2.9%",
+   "results": {
+    "Michael Whatley": 41.0,
+    "Roy Cooper": 49.0,
+    "Other": 3.0,
+    "Undecided": 7.0
+   },
+   "notes": [
+    "Michael Dublin (G) with 2%; Shannon Bray (L) with 1%"
+   ],
+   "source_url": "https://www.thetrafalgargroup.org/wp-content/uploads/2026/10/NC-Gen-Sen-Poll-Report-1011.pdf"
+  },
+  {
+   "pollster": "Elon University/YouGov",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-09-29",
+   "field_end": "2026-10-08",
+   "sample_size": 561,
+   "population": "LV",
+   "margin_of_error": "± 4.9%",
+   "results": {
+    "Michael Whatley": 39.0,
+    "Roy Cooper": 52.0,
+    "Other": 3.0,
+    "Undecided": 6.0
+   },
+   "notes": [
+    "Shannon Bray (L) with 2%; Michael Dublin (G) with 1%"
+   ],
+   "source_url": "https://eloncdn.blob.core.windows.net/eu3/sites/819/2026/10/Elon-Poll-news-release-10-20-26.pdf"
+  },
+  {
+   "pollster": "Change Research",
+   "sponsor": "Poll sponsored by Carolina Forward",
+   "partisan_sponsor": "D",
+   "wikipedia_partisan_label": "D",
+   "field_start": "2026-10-01",
+   "field_end": "2026-10-07",
+   "sample_size": 829,
+   "population": "LV",
+   "margin_of_error": "± 3.7%",
+   "results": {
+    "Michael Whatley": 40.0,
+    "Roy Cooper": 50.0,
+    "Other": null,
+    "Undecided": 10.0
+   },
+   "notes": [],
+   "source_url": "https://carolinaforward.org/news/the-october-2026-carolina-forward-poll/?emci=e7b29264-2cc4-f111-bf5b-000d3a4fbe83&emdi=beb3dd17-f1c6-f111-bf5b-000d3a4fbe83&ceid=27194997"
+  },
+  {
+   "pollster": "East Carolina University",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-09-30",
+   "field_end": "2026-10-03",
+   "sample_size": 810,
+   "population": "LV",
+   "margin_of_error": "± 4.0%",
+   "results": {
+    "Michael Whatley": 43.0,
+    "Roy Cooper": 50.0,
+    "Other": 2.0,
+    "Undecided": 6.0
+   },
+   "notes": [],
+   "source_url": "https://surveyresearch-ecu.reportablenews.com/pr/ecu-poll-cooper-s-lead-holds-at-7-points"
+  },
+  {
+   "pollster": "East Carolina University",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-09-30",
+   "field_end": "2026-10-03",
+   "sample_size": 810,
+   "population": "LV",
+   "margin_of_error": "± 4.0%",
+   "results": {
+    "Michael Whatley": 46.0,
+    "Roy Cooper": 53.0,
+    "Other": 2.0,
+    "Undecided": null
+   },
+   "notes": [
+    "Shannon Bray (L) with 2%; Michael Dublin (G) & \"A write-in candidate\" with 0%"
+   ],
+   "source_url": "https://surveyresearch-ecu.reportablenews.com/pr/ecu-poll-cooper-s-lead-holds-at-7-points"
+  },
+  {
+   "pollster": "Big Data Poll",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-09-27",
+   "field_end": "2026-09-29",
+   "sample_size": 642,
+   "population": "LV",
+   "margin_of_error": "± 4.0%",
+   "results": {
+    "Michael Whatley": 35.0,
+    "Roy Cooper": 47.0,
+    "Other": 5.0,
+    "Undecided": 12.0
+   },
+   "notes": [
+    "Shannon Bray (L) with 3%; Michael Dublin (G) with 2%"
+   ],
+   "source_url": "https://www.bigdatapoll.com/blog/tar-heel-state-poll-roy-cooper-holds-solid-lead-over-michael-whatley-for-us-senate-in-north-carolina/"
+  },
+  {
+   "pollster": "Big Data Poll",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-09-27",
+   "field_end": "2026-09-29",
+   "sample_size": 642,
+   "population": "LV",
+   "margin_of_error": "± 4.0%",
+   "results": {
+    "Michael Whatley": 39.0,
+    "Roy Cooper": 51.0,
+    "Other": 11.0,
+    "Undecided": null
+   },
+   "notes": [
+    "With voters who lean towards a given candidate",
+    "Shannon Bray (L) with 7%; Michael Dublin (G) with 4%"
+   ],
+   "source_url": "https://www.bigdatapoll.com/blog/tar-heel-state-poll-roy-cooper-holds-solid-lead-over-michael-whatley-for-us-senate-in-north-carolina/"
+  },
+  {
+   "pollster": "Big Data Poll",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-09-27",
+   "field_end": "2026-09-29",
+   "sample_size": 698,
+   "population": "RV",
+   "margin_of_error": "± 4.0%",
+   "results": {
+    "Michael Whatley": 34.0,
+    "Roy Cooper": 45.0,
+    "Other": 5.0,
+    "Undecided": 15.0
+   },
+   "notes": [
+    "Shannon Bray (L) with 3%; Michael Dublin (G) with 2%"
+   ],
+   "source_url": "https://www.bigdatapoll.com/blog/tar-heel-state-poll-roy-cooper-holds-solid-lead-over-michael-whatley-for-us-senate-in-north-carolina/"
+  },
+  {
+   "pollster": "Big Data Poll",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-09-27",
+   "field_end": "2026-09-29",
+   "sample_size": 698,
+   "population": "RV",
+   "margin_of_error": "± 4.0%",
+   "results": {
+    "Michael Whatley": 38.0,
+    "Roy Cooper": 49.0,
+    "Other": 13.0,
+    "Undecided": null
+   },
+   "notes": [
+    "Shannon Bray (L) with 7%; Michael Dublin (G) with 6%"
+   ],
+   "source_url": "https://www.bigdatapoll.com/blog/tar-heel-state-poll-roy-cooper-holds-solid-lead-over-michael-whatley-for-us-senate-in-north-carolina/"
+  },
+  {
+   "pollster": "Quantus Insights",
+   "sponsor": "",
+   "partisan_sponsor": "R",
+   "wikipedia_partisan_label": "R",
+   "field_start": "2026-09-21",
+   "field_end": "2026-09-22",
+   "sample_size": 686,
+   "population": "LV",
+   "margin_of_error": "± 4.2%",
+   "results": {
+    "Michael Whatley": 43.0,
+    "Roy Cooper": 48.0,
+    "Other": 5.0,
+    "Undecided": 4.0
+   },
+   "notes": [
+    "\"Would not vote\" with 3%; \"A minor candidate or someone else\" with 2%"
+   ],
+   "source_url": "https://insideradvantage.com/nc-top-line-tabs/"
+  },
+  {
+   "pollster": "Fabrizio Ward (R) / Impact Research (D)",
+   "sponsor": "Poll commissioned by AARP",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "R/D",
+   "field_start": "2026-09-17",
+   "field_end": "2026-09-20",
+   "sample_size": 1806,
+   "population": "LV",
+   "margin_of_error": "± 2.9%",
+   "results": {
+    "Michael Whatley": 42.0,
+    "Roy Cooper": 53.0,
+    "Other": null,
+    "Undecided": 5.0
+   },
+   "notes": [],
+   "source_url": "https://www.documentcloud.org/documents/28686304-aarp-2026-north-carolina-statewide-survey-topline-1/"
+  },
+  {
+   "pollster": "Opinion Diagnostics",
+   "sponsor": "Poll sponsored by Common Cause North Carolina",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-09-17",
+   "field_end": "2026-09-20",
+   "sample_size": 857,
+   "population": "LV",
+   "margin_of_error": "± 3.3%",
+   "results": {
+    "Michael Whatley": 41.0,
+    "Roy Cooper": 51.0,
+    "Other": 2.0,
+    "Undecided": 5.0
+   },
+   "notes": [
+    "\"Another candidate\" with 2%"
+   ],
+   "source_url": "https://www.commoncause.org/north-carolina/wp-content/uploads/2026/09/CCNC-Sep-2026-Poll-Release-1.pdf"
+  },
+  {
+   "pollster": "Opinion Diagnostics",
+   "sponsor": "Poll sponsored by Common Cause North Carolina",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-09-17",
+   "field_end": "2026-09-20",
+   "sample_size": 857,
+   "population": "LV",
+   "margin_of_error": "± 3.3%",
+   "results": {
+    "Michael Whatley": 44.0,
+    "Roy Cooper": 52.0,
+    "Other": null,
+    "Undecided": 3.0
+   },
+   "notes": [
+    "With voters who lean towards a given candidate"
+   ],
+   "source_url": "https://www.commoncause.org/north-carolina/wp-content/uploads/2026/09/CCNC-Sep-2026-Poll-Release-1.pdf"
+  },
+  {
+   "pollster": "YouGov",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-09-15",
+   "field_end": "2026-09-18",
+   "sample_size": 3864,
+   "population": "RV",
+   "margin_of_error": "± 2.5%",
+   "results": {
+    "Michael Whatley": 41.0,
+    "Roy Cooper": 52.0,
+    "Other": 2.0,
+    "Undecided": 5.0
+   },
+   "notes": [
+    "\"Someone else\" & \"I will not vote in this race\" with 1%"
+   ],
+   "source_url": "https://quantusinsights.org/polling/f/roy-cooper-leads-michael-whatley-by-five-in-north-carolina"
+  },
+  {
+   "pollster": "YouGov",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-09-15",
+   "field_end": "2026-09-18",
+   "sample_size": 3742,
+   "population": "LV",
+   "margin_of_error": "± 2.6%",
+   "results": {
+    "Michael Whatley": 41.0,
+    "Roy Cooper": 53.0,
+    "Other": 1.0,
+    "Undecided": 4.0
+   },
+   "notes": [
+    "\"Someone else\" with 1%"
+   ],
+   "source_url": "https://quantusinsights.org/polling/f/roy-cooper-leads-michael-whatley-by-five-in-north-carolina"
+  },
+  {
+   "pollster": "YouGov",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-09-15",
+   "field_end": "2026-09-18",
+   "sample_size": 3511,
+   "population": "LV",
+   "margin_of_error": "± 2.6%",
+   "results": {
+    "Michael Whatley": 41.0,
+    "Roy Cooper": 54.0,
+    "Other": 1.0,
+    "Undecided": 4.0
+   },
+   "notes": [
+    "\"Someone else\" with 1%"
+   ],
+   "source_url": "https://quantusinsights.org/polling/f/roy-cooper-leads-michael-whatley-by-five-in-north-carolina"
+  },
+  {
+   "pollster": "InsiderAdvantage",
+   "sponsor": "",
+   "partisan_sponsor": "R",
+   "wikipedia_partisan_label": "R",
+   "field_start": "2026-09-16",
+   "field_end": "2026-09-17",
+   "sample_size": 1200,
+   "population": "LV",
+   "margin_of_error": "± 4.0%",
+   "results": {
+    "Michael Whatley": 43.0,
+    "Roy Cooper": 48.0,
+    "Other": 3.0,
+    "Undecided": 6.0
+   },
+   "notes": [
+    "Shannon Bray (L) with 2%; Michael Dublin (G) with 1%"
+   ],
+   "source_url": "https://insideradvantage.com/nc-top-line-tabs/"
+  },
+  {
+   "pollster": "High Point University",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-09-09",
+   "field_end": "2026-09-16",
+   "sample_size": 813,
+   "population": "RV",
+   "margin_of_error": "± 3.8%",
+   "results": {
+    "Michael Whatley": 39.0,
+    "Roy Cooper": 49.0,
+    "Other": 4.0,
+    "Undecided": 8.0
+   },
+   "notes": [
+    "\"Another candidate\" with 4%"
+   ],
+   "source_url": "https://www.highpoint.edu/src/files/2023/08/HPUPoll127MemoA-1.pdf"
+  },
+  {
+   "pollster": "High Point University",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-09-09",
+   "field_end": "2026-09-16",
+   "sample_size": 706,
+   "population": "LV",
+   "margin_of_error": "± 3.9%",
+   "results": {
+    "Michael Whatley": 42.0,
+    "Roy Cooper": 50.0,
+    "Other": 3.0,
+    "Undecided": 5.0
+   },
+   "notes": [
+    "\"Another candidate\" with 1%"
+   ],
+   "source_url": "https://www.highpoint.edu/src/files/2023/08/HPUPoll127MemoA-1.pdf"
+  },
+  {
+   "pollster": "Harper Polling",
+   "sponsor": "Poll sponsored by The Carolina Journal",
+   "partisan_sponsor": "R",
+   "wikipedia_partisan_label": "R",
+   "field_start": "2026-09-13",
+   "field_end": "2026-09-15",
+   "sample_size": 608,
+   "population": "LV",
+   "margin_of_error": "± 4.0%",
+   "results": {
+    "Michael Whatley": 34.0,
+    "Roy Cooper": 49.0,
+    "Other": 5.0,
+    "Undecided": 12.0
+   },
+   "notes": [
+    "Shannon Bray (L) with 3%; Michael Dublin (G) with 2%"
+   ],
+   "source_url": "https://www.carolinajournal.com/cj-poll-cooper-leads-whatley-by-15-as-republican-voters-drift-to-undecided/"
+  },
+  {
+   "pollster": "Catawba College/YouGov",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-09-04",
+   "field_end": "2026-09-15",
+   "sample_size": 885,
+   "population": "LV",
+   "margin_of_error": "–",
+   "results": {
+    "Michael Whatley": 35.0,
+    "Roy Cooper": 47.0,
+    "Other": 5.0,
+    "Undecided": 13.0
+   },
+   "notes": [
+    "Shannon Bray (L) with 5%; \"Another candidate\" with 1%"
+   ],
+   "source_url": "https://www.catawba.edu/news/all-news/2026/yougov-39/"
+  },
+  {
+   "pollster": "Catawba College/YouGov",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-09-04",
+   "field_end": "2026-09-15",
+   "sample_size": 885,
+   "population": "LV",
+   "margin_of_error": "–",
+   "results": {
+    "Michael Whatley": 37.0,
+    "Roy Cooper": 48.0,
+    "Other": 5.0,
+    "Undecided": 10.0
+   },
+   "notes": [
+    "With voters who lean towards a given candidate",
+    "\"3rd party candidate\" with 5%"
+   ],
+   "source_url": "https://www.catawba.edu/news/all-news/2026/yougov-39/"
+  },
+  {
+   "pollster": "The Trafalgar Group",
+   "sponsor": "",
+   "partisan_sponsor": "R",
+   "wikipedia_partisan_label": "R",
+   "field_start": "2026-09-08",
+   "field_end": "2026-09-10",
+   "sample_size": 1084,
+   "population": "LV",
+   "margin_of_error": "± 2.9%",
+   "results": {
+    "Michael Whatley": 42.0,
+    "Roy Cooper": 48.0,
+    "Other": 3.0,
+    "Undecided": 7.0
+   },
+   "notes": [
+    "Shannon Bray (L) with 1%; Michael Dublin (G) with 1%"
+   ],
+   "source_url": "https://www.thetrafalgargroup.org/wp-content/uploads/2026/09/NC-Gen-Sen-Poll-Full-Report-0911.pdf"
+  },
+  {
+   "pollster": "East Carolina University",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-08-31",
+   "field_end": "2026-09-03",
+   "sample_size": 675,
+   "population": "LV",
+   "margin_of_error": "± 4.4%",
+   "results": {
+    "Michael Whatley": 39.0,
+    "Roy Cooper": 46.0,
+    "Other": 3.0,
+    "Undecided": 14.0
+   },
+   "notes": [
+    "Shannon Bray (L), Michael Dublin (G), and write-in with 1%"
+   ],
+   "source_url": "https://surveyresearch-ecu.reportablenews.com/pr/ecu-poll-cooper-leads-whatley-by-7-points"
+  },
+  {
+   "pollster": "East Carolina University",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-08-31",
+   "field_end": "2026-09-03",
+   "sample_size": 675,
+   "population": "LV",
+   "margin_of_error": "± 4.4%",
+   "results": {
+    "Michael Whatley": 44.0,
+    "Roy Cooper": 52.0,
+    "Other": 5.0,
+    "Undecided": null
+   },
+   "notes": [
+    "On a forced-choice measure without an undecided option",
+    "Shannon Bray (L) with 3%; Michael Dublin (G) and write-in with 1%"
+   ],
+   "source_url": "https://surveyresearch-ecu.reportablenews.com/pr/ecu-poll-cooper-leads-whatley-by-7-points"
+  }
+ ],
+ "money": {
+  "as_of": "FEC candidate financial summaries (retrieved 2026-10-31); coverage ends 2026-10-14 (pre-general report).",
+  "candidates": {
+   "Roy Cooper": {
+    "raised_total": 49585341.29,
+    "cash_on_hand": 9088859.57,
+    "spent_total": 40496481.72,
+    "coverage_end_date": "2026-10-14",
+    "fec_candidate_id": "S6NC00407",
+    "source_url": "https://www.fec.gov/data/candidate/S6NC00407/?cycle=2026&election_full=true"
+   },
+   "Michael Whatley": {
+    "raised_total": 13668467.53,
+    "cash_on_hand": 902238.05,
+    "spent_total": 12766229.48,
+    "coverage_end_date": "2026-10-14",
+    "fec_candidate_id": "S6NC00415",
+    "source_url": "https://www.fec.gov/data/candidate/S6NC00415/?cycle=2026&election_full=true"
+   },
+   "Michael Dublin": {
+    "raised_total": 28230.84,
+    "cash_on_hand": 2996.04,
+    "spent_total": 26976.16,
+    "coverage_end_date": "2026-10-14",
+    "fec_candidate_id": "S6NC00563",
+    "source_url": "https://www.fec.gov/data/candidate/S6NC00563/?cycle=2026&election_full=true"
+   }
+  },
+  "outside_spending": {
+   "pro_R": 15988585.31,
+   "pro_D": 28066277.45,
+   "breakdown_general": {
+    "support_R_nominee": 3929466.08,
+    "oppose_R_nominee": 23489506.25,
+    "support_other_nominee": 4576771.2,
+    "oppose_other_nominee": 12059119.23
+   },
+   "primary_or_runoff_period_not_included": {
+    "note": "IEs reported for primary/runoff/other election types (not counted above); in a primary, opposing one nominee is not necessarily support for the other party.",
+    "support_R_nominee": 1823771.2,
+    "oppose_R_nominee": 0.0,
+    "support_other_nominee": 21980.29,
+    "oppose_other_nominee": 64000.0
+   },
+   "top_general_spenders": [
+    {
+     "spender": "WinSenate",
+     "candidate": "Whatley, Michael",
+     "support_or_oppose": "oppose",
+     "amount": 21605957.48
+    },
+    {
+     "spender": "NO GOING BACK PAC INC.",
+     "candidate": "Cooper, Roy",
+     "support_or_oppose": "oppose",
+     "amount": 9069490.9
+    },
+    {
+     "spender": "Americans for Prosperity Action, Inc. (AFP Action) DBA CVA Action and DBA LIBRE Action",
+     "candidate": "Whatley, Michael",
+     "support_or_oppose": "support",
+     "amount": 2545772.02
+    },
+    {
+     "spender": "Americans for Prosperity Action, Inc. (AFP Action) DBA CVA Action and DBA LIBRE Action",
+     "candidate": "Cooper, Roy",
+     "support_or_oppose": "oppose",
+     "amount": 1702544.97
+    },
+    {
+     "spender": "NO GOING BACK PAC INC.",
+     "candidate": "Whatley, Michael",
+     "support_or_oppose": "support",
+     "amount": 1318500.11
+    },
+    {
+     "spender": "Planned Parenthood Votes North Carolina (FEC)",
+     "candidate": "Cooper, Roy",
+     "support_or_oppose": "support",
+     "amount": 1227889.42
+    }
+   ],
+   "source": "FEC 24- and 48-hour independent-expenditure reports (bulk file), general-election entries (ele_type G) for the two leading nominees' FEC candidate IDs; amended transactions de-duplicated (latest filing kept). pro_R = support for R nominee + opposition to the other nominee; the other side is the reverse. Excludes party coordinated spending, candidate ads, IEs under the 24/48-hour reporting thresholds, and non-FEC issue ads; figures are as reported (some are estimates).",
+   "source_url": "https://www.fec.gov/files/bulk-downloads/2026/independent_expenditure_2026.csv",
+   "as_of": "reports received by FEC through 2026-10-29 (file updated 2026-10-30 10:14 UTC)"
+  }
+ },
+ "events": [
+  {
+   "date": "2025-06-29",
+   "what": "Sen. Thom Tillis announced he would not seek reelection.",
+   "source_url": "https://www.politico.com/news/2025/06/29/thom-tillis-retires-00432045"
+  },
+  {
+   "date": "2025-07-28",
+   "what": "Former Gov. Roy Cooper entered the race.",
+   "source_url": "https://rollcall.com/2025/07/28/roy-cooper-north-carolina-senate-election/"
+  },
+  {
+   "date": "2025-07-28",
+   "what": "Gov. Josh Stein endorsed Cooper, AP reported.",
+   "source_url": "https://apnews.com/article/north-carolina-senate-roy-cooper-tillis-49e7b69b20db803f75a1893e1e890f18"
+  },
+  {
+   "date": "2025-07-31",
+   "what": "RNC Chair Michael Whatley entered the race with Trump's endorsement.",
+   "source_url": "https://spectrumlocalnews.com/nc/charlotte/news/2025/07/31/rnc-chair-michael-whatley-senate-race"
+  },
+  {
+   "date": "2026-03-03",
+   "what": "Primaries: Cooper won the Democratic primary with 92.0%; Whatley won the Republican primary with 64.6%.",
+   "source_url": "https://ncnewsline.com/2026/03/03/roy-cooper-michael-whatley-secure-us-senate-nominations-setting-up-fierce-november-election/"
+  },
+  {
+   "date": "2026-09-10",
+   "what": "WUNC reported that Cooper and Whatley had not agreed to any debate.",
+   "source_url": "https://www.wunc.org/politics/2026-09-10/nc-us-senate-race-debates-local-interviews-whatley-cooper"
+  },
+  {
+   "date": "2026-10-02",
+   "what": "The Guardian reported (following Semafor) that the Senate Leadership Fund canceled about $30 million in planned spending for Whatley and redirected support to Sen. Roger Marshall's race in Kansas.",
+   "source_url": "https://www.theguardian.com/us-news/2026/oct/02/republican-pac-funding-north-carolina-senate-michael-whatley"
+  },
+  {
+   "date": "2026-10-13",
+   "what": "Former President Barack Obama endorsed Cooper, The News & Observer reported.",
+   "source_url": "https://amp.newsobserver.com/latest-news/article317592997.html"
+  },
+  {
+   "date": "2026-10-15",
+   "what": "In-person early voting began at about 370 sites statewide.",
+   "source_url": "https://www.ncsbe.gov/news/press-releases/2026/10/09/10-things-person-early-voters-know-north-carolina"
+  }
+ ],
+ "early_vote": {
+  "as_of": "2026-10-29 (ballots cast through this date; report published 2026-10-30)",
+  "summary": "NC State Board of Elections: 2,353,233 ballots cast (2,271,215 in-person early; 70,405 civilian mail; 1,939 military; 9,674 overseas), 29.81% of 7,894,774 eligible voters, versus 1,753,484 at the same point in 2022. By voters' party registration (not vote choice): Democratic 925,124, Republican 603,630, unaffiliated 817,902, Libertarian 5,658, Green 919.",
+  "source_url": "https://s3.amazonaws.com/dl.ncsbe.gov/Press/2026%20General/NC%20Absentee%20Stats%20for%202026%20General/2026-10-30%20Daily%20Absentee%20Stats%20Report%20-%202026%20General.pdf"
+ },
+ "notes_uncertain": [
+  "No Cooper-Whatley general-election debate was found; WUNC (Sept. 10) said none had been agreed, and later coverage reviewed did not mention one.",
+  "Shannon Bray: no FEC financial summary found.",
+  "Mail-ballot receipt deadline (7:30 p.m. Election Day) is from current state law; not re-verified for 2026 on the State Board site.",
+  "Several polls appear in more than one version (with/without leaners, LV/RV); each version is a separate row.",
+  "Ages are as of Election Day (2026-11-03), computed from birth dates on the candidates' Wikipedia pages."
+ ]
+}

@@ -1,0 +1,589 @@
+{
+ "state": "Alaska",
+ "code": "AK",
+ "seat": "Class 2 regular",
+ "incumbent": {
+  "name": "Dan S. Sullivan",
+  "party": "Republican",
+  "status": "running"
+ },
+ "rules": "Top-four nonpartisan primary (held Aug 18, 2026); the four finishers advance to a ranked-choice general election. Voters may rank all four candidates; if no candidate has a majority of first choices, the last-place candidate is eliminated and those ballots move to their next ranking, repeated until two remain. Ballots that rank no remaining candidate are exhausted. Mailed ballots postmarked by Election Day are counted if they arrive within the post-election receipt window, so the RCV tabulation is run after that window: in 2022 and 2024 it was run about two weeks after Election Day (Nov 23, 2022; Nov 20, 2024). Four names on the general ballot: Dan S. Sullivan (R), Mary Peltola (D), Daniel J. Sullivan Jr. (listed without party), Gerald L. Heikes (R). A U.S. Justice Department lawsuit filed Oct 2026 asks a court to block certification if Sen. Sullivan loses narrowly (see events).",
+ "candidates": [
+  {
+   "name": "Dan S. Sullivan",
+   "party": "Republican",
+   "incumbent": true,
+   "age": 61,
+   "current_or_last_office": "U.S. senator from Alaska (2015–present)",
+   "bio_short": "Daniel Scott Sullivan was first elected to the Senate in 2014 and reelected in 2020. He previously served as Alaska attorney general and commissioner of the Alaska Department of Natural Resources, and is a Marine Corps Reserve officer.",
+   "primary_result": "Top-four primary Aug 18, 2026: 2nd of 16 with 41.4% (68,726 votes)",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Dan_Sullivan_(U.S._senator)",
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Alaska"
+   ]
+  },
+  {
+   "name": "Mary Peltola",
+   "party": "Democratic",
+   "incumbent": false,
+   "age": 53,
+   "current_or_last_office": "U.S. representative for Alaska's at-large district (2022–2025)",
+   "bio_short": "Peltola won the 2022 special and regular elections for Alaska's at-large House seat and lost it to Republican Nick Begich in 2024. She is Yup'ik, a former Alaska state representative (1999–2009) and former executive director of the Kuskokwim River Inter-Tribal Fish Commission. She entered the Senate race in January 2026.",
+   "primary_result": "Top-four primary Aug 18, 2026: 1st of 16 with 49.5% (82,244 votes)",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Mary_Peltola",
+    "https://www.axios.com/2026/01/12/peltola-alaska-senate-race",
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Alaska"
+   ]
+  },
+  {
+   "name": "Daniel J. Sullivan Jr.",
+   "party": "No party listed on ballot (filed as a Republican)",
+   "incumbent": false,
+   "age": 69,
+   "current_or_last_office": "Retired elementary-school teacher; former U.S. Forest Service employee",
+   "bio_short": "A Petersburg resident unrelated to the incumbent, he filed three days before the deadline and describes himself as a pragmatic centrist Republican. The state Division of Elections ordered his removal from the ballot; the Alaska Supreme Court allowed him to stay, listed without a party.",
+   "primary_result": "Top-four primary: 3rd with 2.5% (4,107 votes); advanced",
+   "sources": [
+    "https://apnews.com/article/alaska-senate-dan-sullivan-peltola-68ca38749253c6bf52d13051fda01251",
+    "https://alaskapublic.org/news/politics/2026-06-15/alaska-elections-division-makes-it-official-says-dan-j-sullivan-cant-run-against-sen-dan-s-sullivan",
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Alaska"
+   ]
+  },
+  {
+   "name": "Gerald L. Heikes",
+   "party": "Republican",
+   "incumbent": false,
+   "age": null,
+   "current_or_last_office": "Perennial candidate (no elected office)",
+   "bio_short": "A bassist and perennial candidate. He finished fifth in the primary and advanced after fourth-place Democrat David Leslie withdrew on Sept 1, 2026.",
+   "primary_result": "Top-four primary: 5th with 1.1% (1,741 votes); advanced after a withdrawal",
+   "sources": [
+    "https://www.adn.com/politics/2026/09/01/alaskas-4th-place-us-senate-finisher-drops-out-elevating-gop-candidate-to-ballot/",
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Alaska"
+   ]
+  }
+ ],
+ "past_results": {
+  "pres_2024": {
+   "R": 54.54,
+   "D": 41.41,
+   "margin": "R+13.1",
+   "source_url": "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_Alaska"
+  },
+  "pres_2020": {
+   "R": 52.83,
+   "D": 42.77,
+   "margin": "R+10.1",
+   "source_url": "https://en.wikipedia.org/wiki/2020_United_States_presidential_election_in_Alaska"
+  },
+  "senate_last_this_seat": {
+   "year": 2020,
+   "winner": "Dan Sullivan",
+   "party": "Republican",
+   "margin": "R+12.7 (53.90% vs 41.19% for Al Gross, independent running as the Democratic nominee)",
+   "source_url": "https://en.wikipedia.org/wiki/2020_United_States_Senate_election_in_Alaska"
+  },
+  "other_recent": [
+   {
+    "race": "2024 U.S. House at-large (RCV)",
+    "winner": "Nick Begich (R), defeating Mary Peltola (D)",
+    "margin": "R win after RCV tabulation; see source for round figures",
+    "source_url": "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_election_in_Alaska"
+   },
+   {
+    "race": "2022 U.S. House at-large (RCV)",
+    "winner": "Mary Peltola (D), defeating Sarah Palin (R) and Nick Begich (R)",
+    "margin": "D win after RCV tabulation",
+    "source_url": "https://en.wikipedia.org/wiki/2022_United_States_House_of_Representatives_election_in_Alaska"
+   },
+   {
+    "race": "2022 U.S. Senate (RCV)",
+    "winner": "Lisa Murkowski (R), defeating Kelly Tshibaka (R)",
+    "margin": "R vs R final round",
+    "source_url": "https://en.wikipedia.org/wiki/2022_United_States_Senate_election_in_Alaska"
+   }
+  ]
+ },
+ "polls": [
+  {
+   "pollster": "Data for Progress (D)",
+   "sponsor": "",
+   "partisan_sponsor": "D",
+   "wikipedia_partisan_label": "D",
+   "field_start": "2026-10-08",
+   "field_end": "2026-10-16",
+   "sample_size": 694,
+   "population": "LV",
+   "margin_of_error": "± 4.0%",
+   "results": {
+    "Dan S. Sullivan": 44.0,
+    "Mary Peltola": 47.0,
+    "Dan J. Sullivan": 4.0,
+    "Gerald Heikes": 1.0,
+    "Undecided": 3.0
+   },
+   "source_url": "https://www.dataforprogress.org/blog/2026/10/20/every-statewide-race-in-alaska-is-close-as-7-in-10-voters-worry-about-affording-gas-and-food",
+   "rcv_final_round": {
+    "round": 3,
+    "results": {
+     "Dan S. Sullivan": 49.0,
+     "Mary Peltola": 51.0,
+     "Undecided": 3.0
+    },
+    "sample_size": 671
+   },
+   "rcv_alt_scenario": {
+    "results": {
+     "Dan S. Sullivan": 50.0,
+     "Mary Peltola": 50.0,
+     "Undecided": 3.0
+    },
+    "notes": [
+     "Hypothetical scenario where voters who ranked Dan J. Sullivan and whose vote is exhausted when that candidate is eliminated are instead distributed to Dan S. Sullivan"
+    ]
+   }
+  },
+  {
+   "pollster": "Public Policy Polling (D)",
+   "sponsor": "",
+   "partisan_sponsor": "D",
+   "wikipedia_partisan_label": "D",
+   "field_start": "2026-10-14",
+   "field_end": "2026-10-15",
+   "sample_size": 578,
+   "population": "RV",
+   "margin_of_error": null,
+   "results": {
+    "Dan S. Sullivan": 47.0,
+    "Mary Peltola": 48.0,
+    "Undecided": 5.0
+   },
+   "source_url": "https://x.com/AndrewSolender/status/2110867168892014803"
+  },
+  {
+   "pollster": "Rasmussen Reports (R)",
+   "sponsor": "",
+   "partisan_sponsor": "R",
+   "wikipedia_partisan_label": "R",
+   "field_start": "2026-10-12",
+   "field_end": "2026-10-15",
+   "sample_size": 775,
+   "population": "LV",
+   "margin_of_error": "± 3.0%",
+   "results": {
+    "Dan S. Sullivan": 42.0,
+    "Mary Peltola": 44.0,
+    "Dan J. Sullivan": 3.0,
+    "Gerald Heikes": 4.0,
+    "Undecided": 6.0
+   },
+   "source_url": "https://www.rasmussenreports.com/public_content/politics/elections/election_2026/election_2026_alaska_senate"
+  },
+  {
+   "pollster": "InsiderAdvantage (R)",
+   "sponsor": "",
+   "partisan_sponsor": "R",
+   "wikipedia_partisan_label": "R",
+   "field_start": "2026-10-09",
+   "field_end": "2026-10-10",
+   "sample_size": 1200,
+   "population": "LV",
+   "margin_of_error": "± 2.8%",
+   "results": {
+    "Dan S. Sullivan": 43.0,
+    "Mary Peltola": 48.0,
+    "Dan J. Sullivan": 2.0,
+    "Gerald Heikes": 2.0,
+    "Undecided": 5.0
+   },
+   "notes": [
+    "First-choice results from a ranked-choice poll"
+   ],
+   "source_url": "https://insideradvantage.com/insideradvantage-u-s-senate-surveys-alaska-ranks-choice-peltola-50-sullivan-48-kansas-hamilton-48-marshall-47-michigan-el-sayed-48-rogers-46/",
+   "rcv_final_round": {
+    "round": 1,
+    "results": {
+     "Dan S. Sullivan": 48.0,
+     "Mary Peltola": 50.0,
+     "Undecided": 2.0
+    },
+    "sample_size": 1200,
+    "notes": [
+     "Gerald Heikes and Dan J. Sullivan were eliminated and their votes were distributed simultaneously"
+    ]
+   }
+  },
+  {
+   "pollster": "Alaska Survey Research",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-10-01",
+   "field_end": "2026-10-03",
+   "sample_size": 1512,
+   "population": "LV",
+   "margin_of_error": "± 3.0%",
+   "results": {
+    "Dan S. Sullivan": 45.0,
+    "Mary Peltola": 47.0,
+    "Dan J. Sullivan": 5.0,
+    "Gerald Heikes": 3.0
+   },
+   "source_url": "https://x.com/The_Real_ASR/status/2107851752464884167",
+   "rcv_final_round": {
+    "round": 3,
+    "results": {
+     "Dan S. Sullivan": 49.0,
+     "Mary Peltola": 51.0
+    },
+    "sample_size": 1512
+   }
+  },
+  {
+   "pollster": "New York Times/Siena University",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-09-24",
+   "field_end": "2026-10-01",
+   "sample_size": 504,
+   "population": "LV",
+   "margin_of_error": "± 5.1%",
+   "results": {
+    "Dan S. Sullivan": 43.0,
+    "Mary Peltola": 50.0,
+    "Undecided": 6.0
+   },
+   "source_url": "https://www.nytimes.com/interactive/2026/10/03/polls/times-siena-alaska-poll-toplines.html"
+  },
+  {
+   "pollster": "Quantus Insights (R)",
+   "sponsor": "",
+   "partisan_sponsor": "R",
+   "wikipedia_partisan_label": "R",
+   "field_start": "2026-09-28",
+   "field_end": "2026-09-30",
+   "sample_size": 758,
+   "population": "LV",
+   "margin_of_error": "± 4.0%",
+   "results": {
+    "Dan S. Sullivan": 46.0,
+    "Mary Peltola": 46.0,
+    "Dan J. Sullivan": 2.0,
+    "Gerald Heikes": 1.0,
+    "Undecided": 5.0
+   },
+   "source_url": "https://quantusinsights.org/f/quantus-insights-survey-sullivan-peltola-deadlocked-in-alaska"
+  },
+  {
+   "pollster": "Quantus Insights (R)",
+   "sponsor": "",
+   "partisan_sponsor": "R",
+   "wikipedia_partisan_label": "R",
+   "field_start": "2026-09-28",
+   "field_end": "2026-09-30",
+   "sample_size": 758,
+   "population": "LV",
+   "margin_of_error": "± 4.0%",
+   "results": {
+    "Dan S. Sullivan": 47.0,
+    "Mary Peltola": 47.0,
+    "Dan J. Sullivan": 2.0,
+    "Gerald Heikes": 2.0,
+    "Undecided": 3.0
+   },
+   "notes": [
+    "Leaners pushed"
+   ],
+   "source_url": "https://quantusinsights.org/f/quantus-insights-survey-sullivan-peltola-deadlocked-in-alaska"
+  },
+  {
+   "pollster": "Quantus Insights (R)",
+   "sponsor": "",
+   "partisan_sponsor": "R",
+   "wikipedia_partisan_label": "R",
+   "field_start": "2026-09-28",
+   "field_end": "2026-09-30",
+   "sample_size": 758,
+   "population": "LV",
+   "margin_of_error": "± 4.0%",
+   "results": {
+    "Dan S. Sullivan": 50.0,
+    "Mary Peltola": 50.0
+   },
+   "notes": [
+    "Two-way"
+   ],
+   "source_url": "https://quantusinsights.org/f/quantus-insights-survey-sullivan-peltola-deadlocked-in-alaska"
+  },
+  {
+   "pollster": "Trafalgar Group (R)",
+   "sponsor": "",
+   "partisan_sponsor": "R",
+   "wikipedia_partisan_label": "R",
+   "field_start": "2026-09-22",
+   "field_end": "2026-09-24",
+   "sample_size": 1079,
+   "population": "LV",
+   "margin_of_error": "± 2.9%",
+   "results": {
+    "Dan S. Sullivan": 47.0,
+    "Mary Peltola": 46.0,
+    "Dan J. Sullivan": 3.0,
+    "Gerald Heikes": 1.0,
+    "Undecided": 4.0
+   },
+   "source_url": "https://www.thetrafalgargroup.org/wp-content/uploads/2026/09/AK-Midterms-Survey-Report-0925.pdf"
+  },
+  {
+   "pollster": "co/efficient (R)",
+   "sponsor": "",
+   "partisan_sponsor": "R",
+   "wikipedia_partisan_label": "R",
+   "field_start": "2026-09-14",
+   "field_end": "2026-09-17",
+   "sample_size": 799,
+   "population": "LV",
+   "margin_of_error": "± 3.5%",
+   "results": {
+    "Dan S. Sullivan": 48.0,
+    "Mary Peltola": 46.0,
+    "Dan J. Sullivan": 1.0,
+    "Gerald Heikes": 1.0,
+    "Undecided": 4.0
+   },
+   "notes": [
+    "Full ballot"
+   ],
+   "source_url": "https://battlegrounds.coefficient.org/ak/"
+  },
+  {
+   "pollster": "co/efficient (R)",
+   "sponsor": "",
+   "partisan_sponsor": "R",
+   "wikipedia_partisan_label": "R",
+   "field_start": "2026-09-14",
+   "field_end": "2026-09-17",
+   "sample_size": 799,
+   "population": "LV",
+   "margin_of_error": "± 3.5%",
+   "results": {
+    "Dan S. Sullivan": 49.0,
+    "Mary Peltola": 46.0,
+    "Undecided": 5.0
+   },
+   "notes": [
+    "Only top two candidates"
+   ],
+   "source_url": "https://battlegrounds.coefficient.org/ak/"
+  },
+  {
+   "pollster": "Rasmussen Reports (R)",
+   "sponsor": "",
+   "partisan_sponsor": "R",
+   "wikipedia_partisan_label": "R",
+   "field_start": "2026-09-13",
+   "field_end": "2026-09-14",
+   "sample_size": 1188,
+   "population": "LV",
+   "margin_of_error": "± 3.0%",
+   "results": {
+    "Dan S. Sullivan": 39.0,
+    "Mary Peltola": 39.0,
+    "Dan J. Sullivan": 7.0,
+    "Gerald Heikes": 6.0,
+    "Undecided": 9.0
+   },
+   "source_url": "https://www.rasmussenreports.com/public_content/politics/elections/election_2026/election_2026_alaska_senate"
+  },
+  {
+   "pollster": "Alaska Survey Research",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-09-10",
+   "field_end": "2026-09-12",
+   "sample_size": 1352,
+   "population": "LV",
+   "margin_of_error": "± 3.0%",
+   "results": {
+    "Dan S. Sullivan": 44.0,
+    "Mary Peltola": 48.0,
+    "Dan J. Sullivan": 4.0,
+    "Gerald Heikes": 4.0
+   },
+   "source_url": "https://x.com/The_Real_ASR/status/2102418467635011721",
+   "rcv_final_round": {
+    "round": 3,
+    "results": {
+     "Dan S. Sullivan": 48.0,
+     "Mary Peltola": 52.0
+    },
+    "sample_size": 1352,
+    "notes": [
+     "Hypothetical continuation of elimination/distribution even though a candidate already exceeded 50%"
+    ]
+   }
+  },
+  {
+   "pollster": "Fabrizio Ward (R)/ Impact Research (D)",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "R/D",
+   "field_start": "2026-09-08",
+   "field_end": "2026-09-11",
+   "sample_size": 800,
+   "population": "LV",
+   "margin_of_error": "± 3.5%",
+   "results": {
+    "Dan S. Sullivan": 41.0,
+    "Mary Peltola": 46.0,
+    "Dan J. Sullivan": 4.0,
+    "Gerald Heikes": 3.0,
+    "Undecided": 7.0
+   },
+   "source_url": "https://www.aarp.org/pri/topics/voter-research/politics/2026-midterm-election-poll-alaska/?CMP=RDRCT-PRI-POLT",
+   "rcv_final_round": {
+    "round": 3,
+    "results": {
+     "Dan S. Sullivan": 47.0,
+     "Mary Peltola": 53.0,
+     "Undecided": 11.0
+    },
+    "sample_size": 800
+   }
+  }
+ ],
+ "polls_note": "Polls with field_end on or after 2026-09-01, taken from the Wikipedia race page polling table (index) with the pollster/sponsor link given there. Multiple rows with the same pollster and dates are different versions (LV vs RV, full ballot vs two-way, leaners pushed); see notes. partisan_sponsor follows Wikipedia's (R)/(D) tag on the pollster or sponsor (\"none\" = untagged, or a bipartisan R+D pollster pair). Results are percentages as published; \"Other\" may include named minor candidates (see notes). Alaska: \"results\" are first-choice (first-past-the-post) figures; \"rcv_final_round\" gives the pollster's simulated final RCV round when one was published; \"rcv_alt_scenario\" is a pollster hypothetical.",
+ "money": {
+  "as_of": "FEC candidate totals; most recent report = Pre-General (coverage through 2026-10-14, due Oct 22). Totals are for the full election cycle (incumbent: 2021–2026).",
+  "candidates": {
+   "Dan S. Sullivan": {
+    "raised_total": 14107205.4,
+    "cash_on_hand": 2839757.54,
+    "spent_total": 11999190.88,
+    "coverage_end_date": "2026-10-14",
+    "fec_candidate_id": "S4AK00214",
+    "source_url": "https://www.fec.gov/data/candidate/S4AK00214/?cycle=2026&election_full=true"
+   },
+   "Mary Peltola": {
+    "raised_total": 36887509.15,
+    "cash_on_hand": 4102125.93,
+    "spent_total": 32785383.22,
+    "coverage_end_date": "2026-10-14",
+    "fec_candidate_id": "S6AK00276",
+    "source_url": "https://www.fec.gov/data/candidate/S6AK00276/?cycle=2026&election_full=true"
+   },
+   "Daniel J. Sullivan Jr.": {
+    "raised_total": 30555.62,
+    "cash_on_hand": 1901.51,
+    "spent_total": 28654.11,
+    "coverage_end_date": "2026-10-14",
+    "fec_candidate_id": "S6AK00326",
+    "source_url": "https://www.fec.gov/data/candidate/S6AK00326/?cycle=2026&election_full=true"
+   },
+   "Gerald L. Heikes": {
+    "raised_total": 0,
+    "cash_on_hand": 0,
+    "spent_total": 0,
+    "coverage_end_date": null,
+    "fec_candidate_id": "S8AK00140",
+    "note": "no financial activity reported to FEC",
+    "source_url": "https://api.open.fec.gov/v1/candidates/totals/?election_year=2026&office=S&state=AK"
+   }
+  },
+  "outside_spending": {
+   "pro_R": 4615481.02,
+   "pro_D": 2947043.64,
+   "breakdown": {
+    "support_R_nominee": 1580251.62,
+    "oppose_R_nominee": 2492367.65,
+    "support_D_nominee": 454675.99,
+    "oppose_D_nominee": 3035229.4
+   },
+   "source": "FEC Schedule E independent expenditures, totals by candidate (processed filings), 2025-26 cycle, election_full=true. pro_R = support for R nominee + opposition to D nominee; pro_D = the reverse. INCLUDES primary-period spending and lags recent 24/48-hour reports; party coordinated spending and non-FEC issue ads are not included. Anchorage Daily News reported a super PAC (Fair Deal Alaska) spent about $770,000 before the primary promoting minor candidates Richard Grayson (G) and Carol Hafner (D).",
+   "source_url": "https://api.open.fec.gov/v1/schedules/schedule_e/totals/by_candidate/?cycle=2026&election_full=true&candidate_id=S4AK00214&candidate_id=S6AK00276",
+   "as_of": "FEC processed data retrieved 2026-10-31"
+  }
+ },
+ "events": [
+  {
+   "date": "2026-01-12",
+   "what": "Mary Peltola announced her Senate campaign.",
+   "source_url": "https://www.axios.com/2026/01/12/peltola-alaska-senate-race"
+  },
+  {
+   "date": "2026-06-15",
+   "what": "The Alaska Division of Elections ruled that Daniel J. Sullivan Jr. could not run; the Alaska Supreme Court later allowed him on the ballot, listed without a party.",
+   "source_url": "https://alaskapublic.org/news/politics/2026-06-15/alaska-elections-division-makes-it-official-says-dan-j-sullivan-cant-run-against-sen-dan-s-sullivan"
+  },
+  {
+   "date": "2026-08-13",
+   "what": "Anchorage Daily News reported that a super PAC spent about $770,000 promoting Green and minor Democratic candidates before the primary.",
+   "source_url": "https://www.adn.com/politics/2026/08/13/millions-pour-into-alaska-to-boost-fringe-us-senate-candidates/"
+  },
+  {
+   "date": "2026-08-18",
+   "what": "Top-four primary: Peltola 49.5%, Sullivan 41.4%, Daniel J. Sullivan Jr. 2.5%, David Leslie (D) 1.1%, Gerald Heikes 1.1%.",
+   "source_url": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Alaska"
+  },
+  {
+   "date": "2026-08-27",
+   "what": "First post-primary forum (Alaska Oil and Gas Association), Peltola and Sullivan both participated.",
+   "source_url": "https://alaskabeacon.com/2026/08/28/sullivan-goes-on-attack-in-first-post-primary-faceoff-for-alaskas-u-s-senate-race/"
+  },
+  {
+   "date": "2026-09-01",
+   "what": "Fourth-place finisher David Leslie (D) withdrew; Gerald Heikes (R) took the fourth ballot spot.",
+   "source_url": "https://www.adn.com/politics/2026/09/01/alaskas-4th-place-us-senate-finisher-drops-out-elevating-gop-candidate-to-ballot/"
+  },
+  {
+   "date": "2026-09-12",
+   "what": "Fisheries debate in Kodiak (Kodiak Chamber of Commerce / KMXT).",
+   "source_url": "https://alaskapublic.org/news/politics/2026-09-14/peltola-and-sullivan-confront-trawl-bycatch-and-each-other-at-kodiak-fisheries-debate"
+  },
+  {
+   "date": "2026-09-23",
+   "what": "The New York Times published allegations from anonymous former aides about Peltola's workplace conduct, including text messages; the Peltola campaign said some allegations were false or exaggerated.",
+   "source_url": "https://www.nytimes.com/2026/09/23/us/politics/mary-peltola-alaska-senate-race.html"
+  },
+  {
+   "date": "2026-10-15",
+   "what": "Televised debate (Alaska Public Media, KTOO, Alaska's News Source).",
+   "source_url": "https://www.adn.com/politics/2026/10/16/sullivan-and-peltola-lob-personal-attacks-as-they-clash-over-iran-war-and-the-economy/"
+  },
+  {
+   "date": "2026-10-23",
+   "what": "The U.S. Justice Department sued to block certification of the result if Sen. Sullivan loses by a small margin, arguing the same-name candidate could cause the outcome; legal scholars quoted by AP questioned the suit's basis.",
+   "source_url": "https://apnews.com/article/alaska-senate-race-sullivan-name-lawsuit-certification-d8f4a3c7b5247cc427a05f796d7c0d82"
+  },
+  {
+   "date": "2026-10-28",
+   "what": "The New York Times reported that Peltola's former campaign manager said the campaign, the DSCC and an operative ran a project to recruit spoiler candidates, including Daniel J. Sullivan Jr.; Peltola denied knowledge of it.",
+   "source_url": "https://www.nytimes.com/2026/10/28/us/politics/alaska-dan-sullivan-conspiracy-peltola.html"
+  },
+  {
+   "date": "2026-10-28",
+   "what": "Gov. Mike Dunleavy (R) announced a state criminal investigation into the Peltola campaign.",
+   "source_url": "https://www.nytimes.com/2026/10/28/us/politics/trump-peltola-sullivan-alaska-senate.html"
+  },
+  {
+   "date": "2026-10-30",
+   "what": "AP reported that a federal investigation into the matter had been under way for several months.",
+   "source_url": "https://apnews.com/article/alaska-sullivan-peltola-senate-election-88259e40d70a7e4f535e01a2b88489aa"
+  }
+ ],
+ "early_vote": {
+  "as_of": null,
+  "summary": "Not collected in this pass. The Alaska Division of Elections publishes absentee/early ballot counts during the voting period.",
+  "source_url": "https://www.elections.alaska.gov/"
+ },
+ "notes_uncertain": [
+  "Exact post-election mail-ballot receipt deadline for 2026 and the scheduled RCV tabulation date were not verified from the Division of Elections for this election; the \"about two weeks\" figure comes from the 2022 and 2024 tabulation dates.",
+  "Ages of Gerald Heikes not found; Daniel J. Sullivan Jr. age derived from \"born June 1957\" (AP).",
+  "Public Policy Polling Oct 14–15 poll: Wikipedia links only a reporter's post on X, no pollster release found.",
+  "FEC IE totals include primary-period spending; the ADN/Beacon reported figures for pro-minor-candidate spending are separate news reports.",
+  "Outcome of the DOJ certification lawsuit and of the state/federal investigations is unknown as of Oct 31."
+ ]
+}

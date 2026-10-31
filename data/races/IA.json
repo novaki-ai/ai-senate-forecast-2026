@@ -1,0 +1,796 @@
+{
+ "state": "Iowa",
+ "code": "IA",
+ "seat": "Class 2 regular",
+ "incumbent": {
+  "name": "Joni Ernst",
+  "party": "Republican",
+  "status": "retiring"
+ },
+ "rules": "Plurality wins; no runoff and no ranked-choice voting. Three candidates on the ballot: Hinson (R), Turek (D), Laehn (Libertarian). Absentee ballots must be received by the county auditor before polls close on Election Day, so most results are normally known on election night.",
+ "candidates": [
+  {
+   "name": "Ashley Hinson",
+   "party": "Republican",
+   "incumbent": false,
+   "age": 43,
+   "current_or_last_office": "U.S. representative from Iowa's 2nd district (2021–present; numbered 1st district until 2023)",
+   "bio_short": "Hinson is a former Iowa state representative (2017–2021) and former television news anchor in Cedar Rapids. She won the Republican primary with an endorsement from President Trump.",
+   "primary_result": "Won June 2, 2026 Republican primary with 74.2% over former state senator Jim Carlin",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Ashley_Hinson",
+    "https://www.nbcnews.com/politics/2026-election/republican-ashley-hinson-senate-bid-iowa-joni-ernst-seat-rcna228679",
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Iowa"
+   ]
+  },
+  {
+   "name": "Josh Turek",
+   "party": "Democratic",
+   "incumbent": false,
+   "age": 47,
+   "current_or_last_office": "Iowa state representative, 20th district (2023–present)",
+   "bio_short": "Turek, from Council Bluffs, is a two-time Paralympian in wheelchair basketball. He has served in the Iowa House since 2023.",
+   "primary_result": "Won June 2, 2026 Democratic primary with 62.7% over state senator Zach Wahls",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Josh_Turek",
+    "https://www.kcci.com/article/iowa-rep-josh-turek-two-time-paralympian-launches-campaign-for-us-senate/65670366",
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Iowa"
+   ]
+  },
+  {
+   "name": "Thomas Laehn",
+   "party": "Libertarian",
+   "incumbent": false,
+   "age": null,
+   "current_or_last_office": "Greene County District Attorney",
+   "bio_short": "Laehn is the elected county attorney of Greene County. He qualified for the ballot by petition, submitting nearly 10,000 signatures.",
+   "primary_result": "Libertarian nominee; ballot access by petition (June 2, 2026)",
+   "sources": [
+    "https://www.siouxlandproud.com/news/local-news/us-senate-hopeful-speaks-to-rotary-club-of-sioux-city/",
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Iowa"
+   ]
+  }
+ ],
+ "past_results": {
+  "pres_2024": {
+   "R": 55.73,
+   "D": 42.52,
+   "margin": "R+13.2",
+   "source_url": "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_Iowa"
+  },
+  "pres_2020": {
+   "R": 53.09,
+   "D": 44.89,
+   "margin": "R+8.2",
+   "source_url": "https://en.wikipedia.org/wiki/2020_United_States_presidential_election_in_Iowa"
+  },
+  "senate_last_this_seat": {
+   "year": 2020,
+   "winner": "Joni Ernst",
+   "party": "Republican",
+   "margin": "R+6.6 (51.74% vs 45.15% for Theresa Greenfield)",
+   "source_url": "https://en.wikipedia.org/wiki/2020_United_States_Senate_election_in_Iowa"
+  },
+  "other_recent": [
+   {
+    "race": "2022 governor",
+    "winner": "Kim Reynolds (R)",
+    "margin": "R+18.5 (58.04% vs 39.53%)",
+    "source_url": "https://en.wikipedia.org/wiki/2022_Iowa_gubernatorial_election"
+   },
+   {
+    "race": "2022 U.S. Senate",
+    "winner": "Chuck Grassley (R)",
+    "margin": "R win over Michael Franken (D)",
+    "source_url": "https://en.wikipedia.org/wiki/2022_United_States_Senate_election_in_Iowa"
+   }
+  ]
+ },
+ "polls": [
+  {
+   "pollster": "co/efficient (R)",
+   "sponsor": "",
+   "partisan_sponsor": "R",
+   "wikipedia_partisan_label": "R",
+   "field_start": "2026-10-28",
+   "field_end": "2026-10-28",
+   "sample_size": 1020,
+   "population": "LV",
+   "margin_of_error": "± 3.1%",
+   "results": {
+    "Ashley Hinson": 48.0,
+    "Josh Turek": 46.0,
+    "Other": 1.0,
+    "Undecided": 5.0
+   },
+   "source_url": "https://battlegrounds.coefficient.org/ia/"
+  },
+  {
+   "pollster": "Echelon Insights (R)",
+   "sponsor": "NetChoice",
+   "partisan_sponsor": "R",
+   "wikipedia_partisan_label": "R",
+   "field_start": "2026-10-16",
+   "field_end": "2026-10-23",
+   "sample_size": 403,
+   "population": "LV",
+   "margin_of_error": "± 6.5%",
+   "results": {
+    "Ashley Hinson": 43.0,
+    "Josh Turek": 45.0,
+    "Other": 7.0,
+    "Undecided": 3.0
+   },
+   "notes": [
+    "Thomas Laehn (L) with 7%"
+   ],
+   "source_url": "https://netchoice.org/netchoice-echelon-insights-poll-voters-rank-ai-regulation-far-behind-cost-of-living-want-one-national-ai-standard/"
+  },
+  {
+   "pollster": "InsiderAdvantage (R)",
+   "sponsor": "",
+   "partisan_sponsor": "R",
+   "wikipedia_partisan_label": "R",
+   "field_start": "2026-10-21",
+   "field_end": "2026-10-22",
+   "sample_size": 1200,
+   "population": "LV",
+   "margin_of_error": "± 2.8%",
+   "results": {
+    "Ashley Hinson": 47.0,
+    "Josh Turek": 45.0,
+    "Undecided": 8.0
+   },
+   "source_url": "https://insideradvantage.com/insideradvantage-senate-surveys-mi-el-sayed-47-rogers-46-ia-hinson-47-turek-45-oh-brown-47-husted-44/"
+  },
+  {
+   "pollster": "co/efficient (R)",
+   "sponsor": "",
+   "partisan_sponsor": "R",
+   "wikipedia_partisan_label": "R",
+   "field_start": "2026-10-15",
+   "field_end": "2026-10-19",
+   "sample_size": 863,
+   "population": "LV",
+   "margin_of_error": "± 3.3%",
+   "results": {
+    "Ashley Hinson": 48.0,
+    "Josh Turek": 45.0,
+    "Other": 2.0,
+    "Undecided": 6.0
+   },
+   "notes": [
+    "Thomas Laehn (L) with 2%"
+   ],
+   "source_url": "https://battlegrounds.coefficient.org/ia/"
+  },
+  {
+   "pollster": "co/efficient (R)",
+   "sponsor": "",
+   "partisan_sponsor": "R",
+   "wikipedia_partisan_label": "R",
+   "field_start": "2026-10-15",
+   "field_end": "2026-10-19",
+   "sample_size": 863,
+   "population": "LV",
+   "margin_of_error": "± 3.3%",
+   "results": {
+    "Ashley Hinson": 49.0,
+    "Josh Turek": 46.0,
+    "Undecided": 5.0
+   },
+   "source_url": "https://battlegrounds.coefficient.org/ia/"
+  },
+  {
+   "pollster": "Trafalgar Group (R)",
+   "sponsor": "",
+   "partisan_sponsor": "R",
+   "wikipedia_partisan_label": "R",
+   "field_start": "2026-10-13",
+   "field_end": "2026-10-15",
+   "sample_size": 1094,
+   "population": "LV",
+   "margin_of_error": "± 2.9%",
+   "results": {
+    "Ashley Hinson": 46.0,
+    "Josh Turek": 44.0,
+    "Other": 4.0,
+    "Undecided": 6.0
+   },
+   "notes": [
+    "Thomas Laehn (L) with 4%"
+   ],
+   "source_url": "https://www.thetrafalgargroup.org/wp-content/uploads/2026/10/IA-Midterms-Report-1017.pdf"
+  },
+  {
+   "pollster": "GS Strategy Group (R)/ New River Strategies (D)",
+   "sponsor": "The Cook Political Report",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "R/D",
+   "field_start": "2026-10-09",
+   "field_end": "2026-10-13",
+   "sample_size": 602,
+   "population": "LV",
+   "margin_of_error": null,
+   "results": {
+    "Ashley Hinson": 44.0,
+    "Josh Turek": 46.0,
+    "Other": 8.0,
+    "Undecided": 2.0
+   },
+   "notes": [
+    "Thomas Laehn (L) with 8%"
+   ],
+   "source_url": "https://www.cookpolitical.com/analysis/survey-research/battleground-district-project/senate-battleground-district-project-october"
+  },
+  {
+   "pollster": "NPA Polling",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-10-08",
+   "field_end": "2026-10-12",
+   "sample_size": 678,
+   "population": "LV",
+   "margin_of_error": "± 3.8%",
+   "results": {
+    "Ashley Hinson": 47.0,
+    "Josh Turek": 44.0,
+    "Other": 4.0,
+    "Undecided": 5.0
+   },
+   "notes": [
+    "Thomas Laehn (L) with 4%"
+   ],
+   "source_url": "https://backend.natpublicaffairs.com/media/Iowa_General_Election_Memo_101526.3.pdf"
+  },
+  {
+   "pollster": "NPA Polling",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-10-08",
+   "field_end": "2026-10-12",
+   "sample_size": 678,
+   "population": "LV",
+   "margin_of_error": "± 3.8%",
+   "results": {
+    "Ashley Hinson": 48.0,
+    "Josh Turek": 47.0,
+    "Undecided": 4.0
+   },
+   "notes": [
+    "In a two-way race between Hinson and Turek"
+   ],
+   "source_url": "https://backend.natpublicaffairs.com/media/Iowa_General_Election_Memo_101526.3.pdf"
+  },
+  {
+   "pollster": "YouGov",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-10-06",
+   "field_end": "2026-10-12",
+   "sample_size": 2245,
+   "population": "LV",
+   "margin_of_error": "± 3.1%",
+   "results": {
+    "Ashley Hinson": 46.0,
+    "Josh Turek": 47.0,
+    "Other": 2.0,
+    "Undecided": 4.0
+   },
+   "source_url": "https://d3nkl3psvxxpe9.cloudfront.net/documents/ttw_ia_20261006_lv.pdf"
+  },
+  {
+   "pollster": "Marist University",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-10-08",
+   "field_end": "2026-10-11",
+   "sample_size": null,
+   "population": "LV",
+   "margin_of_error": "± 6.6%",
+   "results": {
+    "Ashley Hinson": 45.0,
+    "Josh Turek": 48.0,
+    "Other": 3.0,
+    "Undecided": 4.0
+   },
+   "notes": [
+    "\"Another party's candidate\" with 2%; \"No response\" with 1%"
+   ],
+   "source_url": "https://maristpoll.marist.edu/wp-content/uploads/2026/10/Marist-Poll_Iowa_NOS-and-Tables_202610131230@3bcy%5Ew.pdf"
+  },
+  {
+   "pollster": "Marist University",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-10-08",
+   "field_end": "2026-10-11",
+   "sample_size": 1100,
+   "population": "RV",
+   "margin_of_error": "± 4.5%",
+   "results": {
+    "Ashley Hinson": 44.0,
+    "Josh Turek": 51.0,
+    "Other": 2.0,
+    "Undecided": 3.0
+   },
+   "notes": [
+    "”Another party’s candidate” with 2%"
+   ],
+   "source_url": "https://maristpoll.marist.edu/wp-content/uploads/2026/10/Marist-Poll_Iowa_NOS-and-Tables_202610131230@3bcy%5Ew.pdf"
+  },
+  {
+   "pollster": "Emerson College",
+   "sponsor": "Nexstar Media Group",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-10-05",
+   "field_end": "2026-10-06",
+   "sample_size": 650,
+   "population": "LV",
+   "margin_of_error": "± 3.8%",
+   "results": {
+    "Ashley Hinson": 47.0,
+    "Josh Turek": 45.0,
+    "Other": 2.0,
+    "Undecided": 7.0
+   },
+   "source_url": "https://emersoncollegepolling.com/iowa-2026-poll-u-s-senate-race-tightens-sand-maintains-edge-for-governor/"
+  },
+  {
+   "pollster": "SSRS",
+   "sponsor": "CNN",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-09-29",
+   "field_end": "2026-10-05",
+   "sample_size": 801,
+   "population": "LV",
+   "margin_of_error": "± 4.2%",
+   "results": {
+    "Ashley Hinson": 45.0,
+    "Josh Turek": 43.0,
+    "Other": 11.0
+   },
+   "notes": [
+    "\"Neither\" with 8%; \"Other\" with 3%"
+   ],
+   "source_url": "https://www.documentcloud.org/documents/28729018-cnn-iowa-poll-conducted-by-ssrs/"
+  },
+  {
+   "pollster": "Suffolk University",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-10-01",
+   "field_end": "2026-10-04",
+   "sample_size": 500,
+   "population": "LV",
+   "margin_of_error": "± 4.4%",
+   "results": {
+    "Ashley Hinson": 44.0,
+    "Josh Turek": 48.0,
+    "Other": 3.0,
+    "Undecided": 6.0
+   },
+   "notes": [
+    "Thomas Laehn (L) with 2%; \"Refused\" with 1%"
+   ],
+   "source_url": "https://www.suffolk.edu/-/media/suffolk/documents/academics/research-at-suffolk/suprc/polls/other-states/2026/10_7_2026_iowa_statewide_marginals.pdf?la=en&hash=2D72AC4AC373F8C2FA39466A7E5CD59D2370B6F9"
+  },
+  {
+   "pollster": "New York Times/Siena University",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-09-22",
+   "field_end": "2026-10-01",
+   "sample_size": 606,
+   "population": "LV",
+   "margin_of_error": "± 4.6%",
+   "results": {
+    "Ashley Hinson": 48.0,
+    "Josh Turek": 47.0,
+    "Undecided": 5.0
+   },
+   "source_url": "https://www.nytimes.com/interactive/2026/10/03/polls/times-siena-iowa-poll-toplines.html"
+  },
+  {
+   "pollster": "Rasmussen Reports (R)",
+   "sponsor": "",
+   "partisan_sponsor": "R",
+   "wikipedia_partisan_label": "R",
+   "field_start": "2026-09-28",
+   "field_end": "2026-09-30",
+   "sample_size": 1048,
+   "population": "LV",
+   "margin_of_error": "± 3.0%",
+   "results": {
+    "Ashley Hinson": 43.0,
+    "Josh Turek": 47.0,
+    "Other": 3.0,
+    "Undecided": 7.0
+   },
+   "notes": [
+    "Thomas Laehn (L) with 3%"
+   ],
+   "source_url": "https://www.rasmussenreports.com/public_content/politics/elections/election_2026/election_2026_iowa_senate2"
+  },
+  {
+   "pollster": "Quantus Insights (R)",
+   "sponsor": "",
+   "partisan_sponsor": "R",
+   "wikipedia_partisan_label": "R",
+   "field_start": "2026-09-28",
+   "field_end": "2026-09-29",
+   "sample_size": 738,
+   "population": "LV",
+   "margin_of_error": "± 3.8%",
+   "results": {
+    "Ashley Hinson": 47.0,
+    "Josh Turek": 46.0,
+    "Other": 2.0,
+    "Undecided": 5.0
+   },
+   "source_url": "https://quantusinsights.org/f/quantus-insights-hinson-holds-narrow-edge-in-iowa-senate-race"
+  },
+  {
+   "pollster": "Quantus Insights (R)",
+   "sponsor": "",
+   "partisan_sponsor": "R",
+   "wikipedia_partisan_label": "R",
+   "field_start": "2026-09-28",
+   "field_end": "2026-09-29",
+   "sample_size": 738,
+   "population": "LV",
+   "margin_of_error": "± 3.8%",
+   "results": {
+    "Ashley Hinson": 49.0,
+    "Josh Turek": 47.0,
+    "Undecided": 4.0
+   },
+   "notes": [
+    "Leaners pushed"
+   ],
+   "source_url": "https://quantusinsights.org/f/quantus-insights-hinson-holds-narrow-edge-in-iowa-senate-race"
+  },
+  {
+   "pollster": "Quantus Insights (R)",
+   "sponsor": "",
+   "partisan_sponsor": "R",
+   "wikipedia_partisan_label": "R",
+   "field_start": "2026-09-28",
+   "field_end": "2026-09-29",
+   "sample_size": 738,
+   "population": "LV",
+   "margin_of_error": "± 3.8%",
+   "results": {
+    "Ashley Hinson": 51.0,
+    "Josh Turek": 49.0
+   },
+   "notes": [
+    "Two-way"
+   ],
+   "source_url": "https://quantusinsights.org/f/quantus-insights-hinson-holds-narrow-edge-in-iowa-senate-race"
+  },
+  {
+   "pollster": "Beacon Research (D)/ Shaw & Co. Research (R)",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "D/R",
+   "field_start": "2026-09-24",
+   "field_end": "2026-09-28",
+   "sample_size": 1008,
+   "population": "LV",
+   "margin_of_error": "± 3.0%",
+   "results": {
+    "Ashley Hinson": 47.0,
+    "Josh Turek": 49.0,
+    "Undecided": 4.0
+   },
+   "source_url": "https://www.foxnews.com/politics/fox-news-poll-turek-hinson-close-iowa-senate-race"
+  },
+  {
+   "pollster": "Beacon Research (D)/ Shaw & Co. Research (R)",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "D/R",
+   "field_start": "2026-09-24",
+   "field_end": "2026-09-28",
+   "sample_size": 1204,
+   "population": "RV",
+   "margin_of_error": "± 2.5%",
+   "results": {
+    "Ashley Hinson": 46.0,
+    "Josh Turek": 50.0,
+    "Undecided": 4.0
+   },
+   "source_url": "https://www.foxnews.com/politics/fox-news-poll-turek-hinson-close-iowa-senate-race"
+  },
+  {
+   "pollster": "InsiderAdvantage (R)",
+   "sponsor": "",
+   "partisan_sponsor": "R",
+   "wikipedia_partisan_label": "R",
+   "field_start": "2026-09-22",
+   "field_end": "2026-09-23",
+   "sample_size": 1200,
+   "population": "LV",
+   "margin_of_error": "± 2.8%",
+   "results": {
+    "Ashley Hinson": 46.0,
+    "Josh Turek": 47.0,
+    "Other": 3.0,
+    "Undecided": 4.0
+   },
+   "notes": [
+    "Thomas Laehn (L) with 2%, \"Another candidate\" with 1%"
+   ],
+   "source_url": "https://insideradvantage.com/ia-topline-tabs/"
+  },
+  {
+   "pollster": "Marist University",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-09-17",
+   "field_end": "2026-09-20",
+   "sample_size": 1050,
+   "population": "RV",
+   "margin_of_error": "± 4.4%",
+   "results": {
+    "Ashley Hinson": 42.0,
+    "Josh Turek": 50.0,
+    "Other": 2.0,
+    "Undecided": 5.0
+   },
+   "source_url": "https://maristpoll.marist.edu/polls/2026-midterm-elections-in-iowa-september-2026/"
+  },
+  {
+   "pollster": "Trafalgar Group (R)",
+   "sponsor": "",
+   "partisan_sponsor": "R",
+   "wikipedia_partisan_label": "R",
+   "field_start": "2026-09-16",
+   "field_end": "2026-09-18",
+   "sample_size": 1089,
+   "population": "LV",
+   "margin_of_error": "± 2.9%",
+   "results": {
+    "Ashley Hinson": 44.0,
+    "Josh Turek": 42.0,
+    "Other": 3.0,
+    "Undecided": 10.0
+   },
+   "notes": [
+    "Thomas Laehn (L) with 3%"
+   ],
+   "source_url": "https://www.thetrafalgargroup.org/wp-content/uploads/2026/09/IA-Midterms-Full-Report-0918.pdf"
+  },
+  {
+   "pollster": "co/efficient (R)",
+   "sponsor": "",
+   "partisan_sponsor": "R",
+   "wikipedia_partisan_label": "R",
+   "field_start": "2026-09-14",
+   "field_end": "2026-09-16",
+   "sample_size": 831,
+   "population": "LV",
+   "margin_of_error": "± 3.4%",
+   "results": {
+    "Ashley Hinson": 46.0,
+    "Josh Turek": 42.0,
+    "Other": 2.0,
+    "Undecided": 9.0
+   },
+   "source_url": "https://battlegrounds.coefficient.org/ia/"
+  },
+  {
+   "pollster": "co/efficient (R)",
+   "sponsor": "",
+   "partisan_sponsor": "R",
+   "wikipedia_partisan_label": "R",
+   "field_start": "2026-09-14",
+   "field_end": "2026-09-16",
+   "sample_size": 831,
+   "population": "LV",
+   "margin_of_error": "± 3.4%",
+   "results": {
+    "Ashley Hinson": 48.0,
+    "Josh Turek": 43.0,
+    "Undecided": 9.0
+   },
+   "source_url": "https://battlegrounds.coefficient.org/ia/"
+  },
+  {
+   "pollster": "Cygnal (R)",
+   "sponsor": "",
+   "partisan_sponsor": "R",
+   "wikipedia_partisan_label": "R",
+   "field_start": "2026-09-09",
+   "field_end": "2026-09-11",
+   "sample_size": 500,
+   "population": "LV",
+   "margin_of_error": "± 4.4%",
+   "results": {
+    "Ashley Hinson": 43.0,
+    "Josh Turek": 43.0,
+    "Other": 4.0,
+    "Undecided": 10.0
+   },
+   "notes": [
+    "Thomas Laehn (L) with 4%"
+   ],
+   "source_url": "https://itrfoundation.org/wp-content/uploads/2026/09/ITR-Foundation-Poll-Toplines-09-11-2026.pdf"
+  },
+  {
+   "pollster": "Rasmussen Reports (R)",
+   "sponsor": "",
+   "partisan_sponsor": "R",
+   "wikipedia_partisan_label": "R",
+   "field_start": "2026-09-08",
+   "field_end": "2026-09-10",
+   "sample_size": 1031,
+   "population": "LV",
+   "margin_of_error": "± 3.0%",
+   "results": {
+    "Ashley Hinson": 40.0,
+    "Josh Turek": 45.0,
+    "Other": 4.0,
+    "Undecided": 11.0
+   },
+   "notes": [
+    "Thomas Laehn (L) with 4%"
+   ],
+   "source_url": "https://www.rasmussenreports.com/public_content/politics/elections/election_2026/iowa_senate_turek_leads_by_5_points#google_vignette"
+  },
+  {
+   "pollster": "YouGov",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-09-03",
+   "field_end": "2026-09-08",
+   "sample_size": 2169,
+   "population": "RV",
+   "margin_of_error": "± 3.5%",
+   "results": {
+    "Ashley Hinson": 43.0,
+    "Josh Turek": 44.0,
+    "Other": 3.0,
+    "Undecided": 11.0
+   },
+   "notes": [
+    "\"Someone else\" with 1% \"I will not vote in this race\" with 2%"
+   ],
+   "source_url": "https://d3nkl3psvxxpe9.cloudfront.net/documents/iowa_election_20260903.pdf"
+  },
+  {
+   "pollster": "YouGov",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-09-03",
+   "field_end": "2026-09-08",
+   "sample_size": 2041,
+   "population": "LV",
+   "margin_of_error": "± 3.5%",
+   "results": {
+    "Ashley Hinson": 43.0,
+    "Josh Turek": 47.0,
+    "Other": 1.0,
+    "Undecided": 8.0
+   },
+   "notes": [
+    "\"Someone else\" with 1%"
+   ],
+   "source_url": "https://d3nkl3psvxxpe9.cloudfront.net/documents/iowa_election_20260903.pdf"
+  },
+  {
+   "pollster": "Emerson College",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-08-31",
+   "field_end": "2026-09-01",
+   "sample_size": 750,
+   "population": "LV",
+   "margin_of_error": "± 3.6%",
+   "results": {
+    "Ashley Hinson": 50.0,
+    "Josh Turek": 45.0,
+    "Other": 1.0,
+    "Undecided": 5.0
+   },
+   "notes": [
+    "Thomas Laehn (L) with 1%"
+   ],
+   "source_url": "https://emersoncollegepolling.com/iowa-2026-poll-hinson-leads-turek/"
+  }
+ ],
+ "polls_note": "Polls with field_end on or after 2026-09-01, taken from the Wikipedia race page polling table (index) with the pollster/sponsor link given there. Multiple rows with the same pollster and dates are different versions (LV vs RV, full ballot vs two-way, leaners pushed); see notes. partisan_sponsor follows Wikipedia's (R)/(D) tag on the pollster or sponsor (\"none\" = untagged, or a bipartisan R+D pollster pair). Results are percentages as published; \"Other\" may include named minor candidates (see notes).",
+ "money": {
+  "as_of": "FEC candidate totals; most recent report = Pre-General (coverage through 2026-10-14).",
+  "candidates": {
+   "Ashley Hinson": {
+    "raised_total": 14147972.57,
+    "cash_on_hand": 2172988.59,
+    "spent_total": 13903059.38,
+    "coverage_end_date": "2026-10-14",
+    "fec_candidate_id": "S6IA00314",
+    "source_url": "https://www.fec.gov/data/candidate/S6IA00314/?cycle=2026&election_full=true"
+   },
+   "Josh Turek": {
+    "raised_total": 24290521.1,
+    "cash_on_hand": 3072851.0,
+    "spent_total": 21217670.1,
+    "coverage_end_date": "2026-10-14",
+    "fec_candidate_id": "S6IA00298",
+    "source_url": "https://www.fec.gov/data/candidate/S6IA00298/?cycle=2026&election_full=true"
+   },
+   "Thomas Laehn": {
+    "raised_total": 83667.19,
+    "cash_on_hand": 9035.08,
+    "spent_total": 74632.11,
+    "coverage_end_date": "2026-10-14",
+    "fec_candidate_id": "S6IA00181",
+    "source_url": "https://www.fec.gov/data/candidate/S6IA00181/?cycle=2026&election_full=true"
+   }
+  },
+  "outside_spending": {
+   "pro_R": 4790459.08,
+   "pro_D": 20174457.36,
+   "breakdown": {
+    "support_R_nominee": 4319926.58,
+    "oppose_R_nominee": 10315097.16,
+    "support_D_nominee": 9859360.2,
+    "oppose_D_nominee": 470532.5
+   },
+   "source": "FEC Schedule E independent expenditures, totals by candidate (processed filings), 2025-26 cycle, election_full=true. pro_R = support for R nominee + opposition to D nominee; pro_D = the reverse. INCLUDES primary-period spending and lags recent 24/48-hour reports; party coordinated spending and non-FEC issue ads are not included.",
+   "source_url": "https://api.open.fec.gov/v1/schedules/schedule_e/totals/by_candidate/?cycle=2026&election_full=true&candidate_id=S6IA00314&candidate_id=S6IA00298",
+   "as_of": "FEC processed data retrieved 2026-10-31"
+  }
+ },
+ "events": [
+  {
+   "date": "2025-09-02",
+   "what": "Sen. Joni Ernst announced she would not seek a third term, citing family obligations.",
+   "source_url": "https://iowacapitaldispatch.com/2025/09/02/u-s-sen-joni-ernst-announces-she-will-not-seek-reelection/"
+  },
+  {
+   "date": "2026-06-02",
+   "what": "Primaries: Hinson (endorsed by President Trump) won 74.2%; Turek won 62.7%. Laehn filed nearly 10,000 petition signatures the same day.",
+   "source_url": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Iowa"
+  },
+  {
+   "date": "2026-10-07",
+   "what": "Televised debate on Iowa PBS (moderator Kay Henderson).",
+   "source_url": "https://www.pbs.org/newshour/politics/watch-live-u-s-senate-candidates-hinson-turek-debate-in-iowa"
+  },
+  {
+   "date": "2026-10-13",
+   "what": "The Daily Iowan reported on what it called the candidates' last debate, covering farm policy and data centers; it listed cost of living, inflation, tariffs, health-care affordability, agriculture and AI data centers as the contested issues.",
+   "source_url": "https://dailyiowan.com/2026/10/13/hinson-turek-debate-farms-iowa-data-centers-in-last-debate/"
+  },
+  {
+   "date": "2026-06-03",
+   "what": "This is Iowa's first open Senate race held alongside an open governor's race since 1968.",
+   "source_url": "https://smartpolitics.lib.umn.edu/2026/06/03/could-iowa-democrats-win-2026s-gubernatorial-and-us-senate-races/"
+  }
+ ],
+ "early_vote": {
+  "as_of": null,
+  "summary": "Not collected in this pass. The Iowa Secretary of State publishes daily absentee ballot request/return counts by party.",
+  "source_url": "https://sos.iowa.gov/elections/"
+ },
+ "notes_uncertain": [
+  "Wikipedia lead gives 73.9% (Hinson) and 62.6% (Turek); the results box on the same page gives 74.2% and 62.7%; the results box is used here.",
+  "Laehn age not found.",
+  "Date and host of the debate the Daily Iowan described on Oct 13 were not verified (the Wikipedia debate table lists only the Oct 7 Iowa PBS debate)."
+ ]
+}

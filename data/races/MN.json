@@ -1,0 +1,643 @@
+{
+ "state": "Minnesota",
+ "code": "MN",
+ "seat": "Class 2 regular",
+ "incumbent": {
+  "name": "Tina Smith",
+  "party": "Democratic (DFL)",
+  "status": "retiring"
+ },
+ "rules": "Regular election for a full six-year term (2027-2033). Plurality winner; no runoff; ranked-choice voting is not used for this race. Four candidates on the ballot: Peggy Flanagan (DFL), Michele Tafoya (R), Marisa Simonetti (independent), Rebecca Whiting (Libertarian). Registered write-in candidates (Secretary of State list): Oriana Peral Lorainne Baker, Alycia R. Gruenhagen, Jay Willms (https://www.sos.mn.gov/media/cx5fynrb/registered-write-in-requests-2026.pdf). Absentee voting began September 18, 2026; in-person early voting with direct tabulation began 18 days before the election. Absentee and mail ballots must be received by Election Day to count. Minnesota has no party registration. Polls close at 8 p.m. Central; results are usually reported on election night. Sources: https://www.sos.mn.gov/about-the-office/news-room/voting-in-the-november-3-general-election-begins-september-18/ ; https://www.kaxe.org/elections/2026-10-19/early-voting-opens-in-mn-midterms-as-absentee-ballots-roll-in",
+ "candidates": [
+  {
+   "name": "Peggy Flanagan",
+   "party": "Democratic-Farmer-Labor",
+   "incumbent": false,
+   "age": 47,
+   "current_or_last_office": "Lieutenant governor of Minnesota (since 2019)",
+   "bio_short": "Flanagan has been lieutenant governor since 2019 and served in the Minnesota House from 2015 to 2019. She is a citizen of the White Earth Nation and began her career as a community organizer; she won the DFL Party endorsement on May 30, 2026.",
+   "primary_result": "Won the August 11, 2026 DFL primary with 59.0% (411,853 votes) over U.S. Rep. Angie Craig (39.4%) and four others.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Peggy_Flanagan",
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Minnesota"
+   ]
+  },
+  {
+   "name": "Michele Tafoya",
+   "party": "Republican",
+   "incumbent": false,
+   "age": 61,
+   "current_or_last_office": "Former sports broadcaster (has not held public office)",
+   "bio_short": "Tafoya is a former sports journalist who worked for CBS, ABC/ESPN and NBC, including as NBC Sunday Night Football's sideline reporter from 2011 to 2022. After leaving broadcasting she became a political commentator. President Trump endorsed her on October 12, 2026.",
+   "primary_result": "Won the August 11, 2026 Republican primary with 52.1% (211,813 votes) over Adam Schwarze (24.0%), Royce White (11.2%) and six others.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Michele_Tafoya",
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Minnesota",
+    "https://www.mprnews.org/story/2026/10/13/michele-tafoya-endorsed-by-trump-for-senate-minnesota"
+   ]
+  },
+  {
+   "name": "Marisa Simonetti",
+   "party": "Independent",
+   "incumbent": false,
+   "age": null,
+   "current_or_last_office": "Business owner",
+   "bio_short": "Simonetti is a business owner running as an independent, according to the Wikipedia candidate list (citing EP Local News, March 2025). No FEC financial summary was found for her.",
+   "primary_result": "No primary (independent).",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Minnesota",
+    "https://www.eplocalnews.org/2025/03/29/simonetti-launches-u-s-senate-bid-as-legal-case-lingers/"
+   ]
+  },
+  {
+   "name": "Rebecca Whiting",
+   "party": "Libertarian",
+   "incumbent": false,
+   "age": null,
+   "current_or_last_office": "Farmer; Libertarian nominee for U.S. Senate in 2024",
+   "bio_short": "Whiting is a farmer who was the Libertarian nominee for U.S. Senate in Minnesota in 2024, per Wikipedia. Her FEC committee reported $3,756 raised through October 14, 2026.",
+   "primary_result": "Libertarian Party nominee (no contested primary result listed).",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Minnesota",
+    "https://lpmn.org/libertarian-ballot-access/",
+    "https://www.fec.gov/data/candidate/S6MN00572/?cycle=2026&election_full=true"
+   ]
+  }
+ ],
+ "past_results": {
+  "pres_2024": {
+   "R": 46.68,
+   "D": 50.92,
+   "margin": "D+4.2",
+   "source_url": "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_Minnesota"
+  },
+  "pres_2020": {
+   "R": 45.28,
+   "D": 52.4,
+   "margin": "D+7.1",
+   "source_url": "https://en.wikipedia.org/wiki/2020_United_States_presidential_election_in_Minnesota"
+  },
+  "senate_last_this_seat": {
+   "year": 2020,
+   "winner": "Tina Smith",
+   "party": "Democratic (DFL)",
+   "margin": "D+5.2 (48.74% vs 43.50% for Jason Lewis)",
+   "source_url": "https://en.wikipedia.org/wiki/2020_United_States_Senate_election_in_Minnesota"
+  },
+  "other_recent": [
+   {
+    "race": "2024 U.S. Senate (other seat)",
+    "winner": "Amy Klobuchar (DFL), defeating Royce White (R)",
+    "margin": "D+15.7 (56.20% vs 40.50%)",
+    "source_url": "https://en.wikipedia.org/wiki/2024_United_States_Senate_election_in_Minnesota"
+   },
+   {
+    "race": "2022 governor",
+    "winner": "Tim Walz (DFL), defeating Scott Jensen (R)",
+    "margin": "D+7.7 (52.27% vs 44.61%)",
+    "source_url": "https://en.wikipedia.org/wiki/2022_Minnesota_gubernatorial_election"
+   }
+  ]
+ },
+ "polls_note": "Polls with field_end on or after 2026-09-01, taken from the Wikipedia race page polling table (used as an index), with the pollster/sponsor link given there (source_url; often the pollster's or sponsor's own release, sometimes a news report). Multiple rows with the same pollster and dates are different versions of one poll (LV vs RV, full ballot vs two-way, leaners pushed); see notes. partisan_sponsor follows Wikipedia's (R)/(D) tag on the pollster ('none' = untagged, or a bipartisan R+D pollster pair); sponsor text is Wikipedia's footnote. Results are percentages as published; null = not reported. 'Other' may include named minor candidates (see notes, copied from Wikipedia footnotes). No averages or aggregates are included.",
+ "polls": [
+  {
+   "pollster": "KSTP/SurveyUSA",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-10-24",
+   "field_end": "2026-10-28",
+   "sample_size": 714,
+   "population": "LV",
+   "margin_of_error": "± 4.2%",
+   "results": {
+    "Peggy Flanagan": 48.0,
+    "Michele Tafoya": 41.0,
+    "Other": 4.0,
+    "Undecided": 7.0
+   },
+   "notes": [
+    "Marisa Simonetti (L) & Rebecca Whiting (G) with 2%"
+   ],
+   "source_url": "https://kstp.com/kstp-news/top-news/kstp-surveyusa-minnesota-statewide-races-inch-left-in-final-poll-before-election-day/"
+  },
+  {
+   "pollster": "New York Times/Siena University",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-10-19",
+   "field_end": "2026-10-26",
+   "sample_size": 752,
+   "population": "LV",
+   "margin_of_error": "± 4.1%",
+   "results": {
+    "Peggy Flanagan": 54.0,
+    "Michele Tafoya": 40.0,
+    "Other": 0.0,
+    "Undecided": 5.0
+   },
+   "notes": [],
+   "source_url": "https://www.nytimes.com/interactive/2026/10/28/polls/times-siena-mn-poll-toplines.html"
+  },
+  {
+   "pollster": "Victory Insights",
+   "sponsor": "Poll commissioned by Tafoya's campaign.",
+   "partisan_sponsor": "R",
+   "wikipedia_partisan_label": "R",
+   "field_start": "2026-10-21",
+   "field_end": "2026-10-22",
+   "sample_size": 1194,
+   "population": "LV",
+   "margin_of_error": "–",
+   "results": {
+    "Peggy Flanagan": 48.0,
+    "Michele Tafoya": 44.0,
+    "Other": 2.0,
+    "Undecided": 6.0
+   },
+   "notes": [],
+   "source_url": "https://irp.cdn-website.com/07e08705/files/uploaded/PollReport_MN-GE-26_10-28-26.pdf"
+  },
+  {
+   "pollster": "Rasmussen Reports",
+   "sponsor": "",
+   "partisan_sponsor": "R",
+   "wikipedia_partisan_label": "R",
+   "field_start": "2026-10-20",
+   "field_end": "2026-10-21",
+   "sample_size": 1182,
+   "population": "LV",
+   "margin_of_error": "± 3.0%",
+   "results": {
+    "Peggy Flanagan": 48.0,
+    "Michele Tafoya": 45.0,
+    "Other": null,
+    "Undecided": 7.0
+   },
+   "notes": [],
+   "source_url": "https://www.rasmussenreports.com/public_content/archive/election_2026/minnesota_senate_democrat_flanagan_still_holds_slender_lead"
+  },
+  {
+   "pollster": "Trafalgar Group",
+   "sponsor": "",
+   "partisan_sponsor": "R",
+   "wikipedia_partisan_label": "R",
+   "field_start": "2026-10-13",
+   "field_end": "2026-10-15",
+   "sample_size": 1079,
+   "population": "LV",
+   "margin_of_error": "± 2.9%",
+   "results": {
+    "Peggy Flanagan": 48.0,
+    "Michele Tafoya": 45.0,
+    "Other": 2.0,
+    "Undecided": 5.0
+   },
+   "notes": [
+    "Marisa Simonetti (L) & Rebecca Whiting (G) with 1%"
+   ],
+   "source_url": "https://www.thetrafalgargroup.org/wp-content/uploads/2026/10/MN-Midterms-Report-1017.pdf"
+  },
+  {
+   "pollster": "KSTP/SurveyUSA",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-10-08",
+   "field_end": "2026-10-12",
+   "sample_size": 718,
+   "population": "LV",
+   "margin_of_error": "± 4.2%",
+   "results": {
+    "Peggy Flanagan": 45.0,
+    "Michele Tafoya": 42.0,
+    "Other": 4.0,
+    "Undecided": 9.0
+   },
+   "notes": [
+    "Marisa Simonetti (L) & Rebecca Whiting (G) with 2%"
+   ],
+   "source_url": "https://kstp.com/kstp-news/top-news/kstp-surveyusa-poll-swing-in-senate-and-ag-races-klobuchar-up-slightly-on-demuth/"
+  },
+  {
+   "pollster": "Mason-Dixon Polling & Strategy",
+   "sponsor": "Poll sponsored by KARE 11 & The Minnesota Star Tribune",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-10-05",
+   "field_end": "2026-10-07",
+   "sample_size": 800,
+   "population": "LV",
+   "margin_of_error": "± 3.5%",
+   "results": {
+    "Peggy Flanagan": 47.0,
+    "Michele Tafoya": 43.0,
+    "Other": 1.0,
+    "Undecided": 9.0
+   },
+   "notes": [],
+   "source_url": "https://www.kare11.com/article/news/politics/elections/minnesota-poll-flanagan-with-narrow-lead-over-tafoya-in-us-senate-race/89-ed06354a-4656-4cc0-907e-12e67119cf00"
+  },
+  {
+   "pollster": "Rasmussen Reports",
+   "sponsor": "",
+   "partisan_sponsor": "R",
+   "wikipedia_partisan_label": "R",
+   "field_start": "2026-10-05",
+   "field_end": "2026-10-07",
+   "sample_size": 856,
+   "population": "LV",
+   "margin_of_error": "± 3.0%",
+   "results": {
+    "Peggy Flanagan": 48.0,
+    "Michele Tafoya": 45.0,
+    "Other": null,
+    "Undecided": 7.0
+   },
+   "notes": [],
+   "source_url": "https://www.rasmussenreports.com/public_content/politics/elections/election_2026/election_2026_minnesota_senate"
+  },
+  {
+   "pollster": "Morning Consult",
+   "sponsor": "Poll conducted for The Daily Agenda",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-10-02",
+   "field_end": "2026-10-07",
+   "sample_size": 1000,
+   "population": "RV",
+   "margin_of_error": "± 3.1%",
+   "results": {
+    "Peggy Flanagan": 45.0,
+    "Michele Tafoya": 41.0,
+    "Other": 2.0,
+    "Undecided": 12.0
+   },
+   "notes": [],
+   "source_url": "https://www.thedailyagenda.com/p/morning-take-the-daily-agenda-poll/"
+  },
+  {
+   "pollster": "GQR",
+   "sponsor": "Senate Majority PAC (per the cited post: 'New Minnesota poll from Senate Majority PAC finds Flanagan up 8%')",
+   "partisan_sponsor": "D",
+   "wikipedia_partisan_label": "D",
+   "field_start": "2026-10-01",
+   "field_end": "2026-10-04",
+   "sample_size": 800,
+   "population": "LV",
+   "margin_of_error": "± 3.5%",
+   "results": {
+    "Peggy Flanagan": 53.0,
+    "Michele Tafoya": 44.0,
+    "Other": null,
+    "Undecided": 3.0
+   },
+   "notes": [
+    "Top two candidates only"
+   ],
+   "source_url": "https://x.com/DrewSav/status/2108502733045334207"
+  },
+  {
+   "pollster": "GQR",
+   "sponsor": "Senate Majority PAC (per the cited post: 'New Minnesota poll from Senate Majority PAC finds Flanagan up 8%')",
+   "partisan_sponsor": "D",
+   "wikipedia_partisan_label": "D",
+   "field_start": "2026-10-01",
+   "field_end": "2026-10-04",
+   "sample_size": 800,
+   "population": "LV",
+   "margin_of_error": "± 3.5%",
+   "results": {
+    "Peggy Flanagan": 50.0,
+    "Michele Tafoya": 42.0,
+    "Other": 6.0,
+    "Undecided": 3.0
+   },
+   "notes": [
+    "Marisa Simonetti (I) with 4%; Rebecca Whiting (L) with 2%"
+   ],
+   "source_url": "https://x.com/DrewSav/status/2108502733045334207"
+  },
+  {
+   "pollster": "Big Data Poll",
+   "sponsor": "",
+   "partisan_sponsor": "R",
+   "wikipedia_partisan_label": "R",
+   "field_start": "2026-09-29",
+   "field_end": "2026-09-30",
+   "sample_size": 622,
+   "population": "LV",
+   "margin_of_error": "± 4.0%",
+   "results": {
+    "Peggy Flanagan": 40.0,
+    "Michele Tafoya": 38.0,
+    "Other": 7.0,
+    "Undecided": 15.0
+   },
+   "notes": [
+    "Rebecca Whiting (L) with 4%; Marisa Simonetti (I)/Other/Not voting with 3%"
+   ],
+   "source_url": "https://www.bigdatapoll.com/blog/north-star-state-poll-peggy-flanagan-holds-slight-lead-over-michele-tafoya-for-us-senate-in-minnesota/"
+  },
+  {
+   "pollster": "Big Data Poll",
+   "sponsor": "",
+   "partisan_sponsor": "R",
+   "wikipedia_partisan_label": "R",
+   "field_start": "2026-09-29",
+   "field_end": "2026-09-30",
+   "sample_size": 622,
+   "population": "LV",
+   "margin_of_error": "± 4.0%",
+   "results": {
+    "Peggy Flanagan": 46.0,
+    "Michele Tafoya": 44.0,
+    "Other": 10.0,
+    "Undecided": null
+   },
+   "notes": [
+    "With voters who lean towards a given candidate",
+    "Rebecca Whiting (L) & Marisa Simonetti (I)/Other/Not voting with 5%"
+   ],
+   "source_url": "https://www.bigdatapoll.com/blog/north-star-state-poll-peggy-flanagan-holds-slight-lead-over-michele-tafoya-for-us-senate-in-minnesota/"
+  },
+  {
+   "pollster": "InsiderAdvantage",
+   "sponsor": "",
+   "partisan_sponsor": "R",
+   "wikipedia_partisan_label": "R",
+   "field_start": "2026-09-28",
+   "field_end": "2026-09-29",
+   "sample_size": 1200,
+   "population": "LV",
+   "margin_of_error": "± 3.0%",
+   "results": {
+    "Peggy Flanagan": 46.0,
+    "Michele Tafoya": 45.0,
+    "Other": 3.0,
+    "Undecided": 6.0
+   },
+   "notes": [
+    "Rebecca Whiting (L) and with 2%; Marisa Simonetti (I) with 1%"
+   ],
+   "source_url": "https://insideradvantage.com/insideradvantage-survey-u-s-senate-minnesota-contest-a-one-point-race-flanagan-46-tafoya-45/"
+  },
+  {
+   "pollster": "co/efficient",
+   "sponsor": "",
+   "partisan_sponsor": "R",
+   "wikipedia_partisan_label": "R",
+   "field_start": "2026-09-14",
+   "field_end": "2026-09-15",
+   "sample_size": 833,
+   "population": "LV",
+   "margin_of_error": "± 3.4%",
+   "results": {
+    "Peggy Flanagan": 43.0,
+    "Michele Tafoya": 42.0,
+    "Other": 4.0,
+    "Undecided": 11.0
+   },
+   "notes": [
+    "Rebecca Whiting (L) and Marisa Simonetti (I) with 2%"
+   ],
+   "source_url": "https://battlegrounds.coefficient.org/mn/"
+  },
+  {
+   "pollster": "KSTP/SurveyUSA",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-09-09",
+   "field_end": "2026-09-14",
+   "sample_size": 654,
+   "population": "LV",
+   "margin_of_error": "± 4.4%",
+   "results": {
+    "Peggy Flanagan": 42.0,
+    "Michele Tafoya": 42.0,
+    "Other": 4.0,
+    "Undecided": 12.0
+   },
+   "notes": [
+    "Rebecca Whiting (L) and Marisa Simonetti (I) with 2%"
+   ],
+   "source_url": "https://kstp.com/kstp-news/top-news/kstp-surveyusa-poll-governor-senate-races-tightening-days-before-early-voting-starts-in-minnesota/"
+  },
+  {
+   "pollster": "Quantus Insights",
+   "sponsor": "",
+   "partisan_sponsor": "R",
+   "wikipedia_partisan_label": "R",
+   "field_start": "2026-09-08",
+   "field_end": "2026-09-10",
+   "sample_size": 720,
+   "population": "LV",
+   "margin_of_error": "± 4.2%",
+   "results": {
+    "Peggy Flanagan": 48.0,
+    "Michele Tafoya": 44.0,
+    "Other": null,
+    "Undecided": 7.0
+   },
+   "notes": [],
+   "source_url": "https://quantusinsights.org/f/new-quantus-polls-moody-leads-in-florida-flanagan-in-minnesota"
+  },
+  {
+   "pollster": "TIPP Insights",
+   "sponsor": "Poll sponsored by the League of American Workers",
+   "partisan_sponsor": "R",
+   "wikipedia_partisan_label": "R",
+   "field_start": "2026-08-31",
+   "field_end": "2026-09-02",
+   "sample_size": 1494,
+   "population": "RV",
+   "margin_of_error": "± 2.7%",
+   "results": {
+    "Peggy Flanagan": 40.0,
+    "Michele Tafoya": 38.0,
+    "Other": 8.0,
+    "Undecided": 14.0
+   },
+   "notes": [
+    "Marisa Simonetti (I) with 4%; \"Someone else\" with 3%; Rebecca Whiting (L) with 1%"
+   ],
+   "source_url": "https://tippinsights.com/league-of-american-workers-survey-minnesota/"
+  },
+  {
+   "pollster": "TIPP Insights",
+   "sponsor": "Poll sponsored by the League of American Workers",
+   "partisan_sponsor": "R",
+   "wikipedia_partisan_label": "R",
+   "field_start": "2026-08-31",
+   "field_end": "2026-09-02",
+   "sample_size": 1201,
+   "population": "LV",
+   "margin_of_error": "± 3.0%",
+   "results": {
+    "Peggy Flanagan": 44.0,
+    "Michele Tafoya": 42.0,
+    "Other": 6.0,
+    "Undecided": 8.0
+   },
+   "notes": [
+    "Marisa Simonetti (I) with 3%; \"Someone else\" with 2%; Rebecca Whiting (L) with 1%"
+   ],
+   "source_url": "https://tippinsights.com/league-of-american-workers-survey-minnesota/"
+  }
+ ],
+ "money": {
+  "as_of": "FEC candidate financial summaries (retrieved 2026-10-31); coverage ends 2026-10-14 (pre-general report).",
+  "candidates": {
+   "Michele Tafoya": {
+    "raised_total": 12501785.59,
+    "cash_on_hand": 2819386.89,
+    "spent_total": 9682729.8,
+    "coverage_end_date": "2026-10-14",
+    "fec_candidate_id": "S6MN00556",
+    "source_url": "https://www.fec.gov/data/candidate/S6MN00556/?cycle=2026&election_full=true"
+   },
+   "Peggy Flanagan": {
+    "raised_total": 11563963.37,
+    "cash_on_hand": 993214.07,
+    "spent_total": 10570749.3,
+    "coverage_end_date": "2026-10-14",
+    "fec_candidate_id": "S6MN00440",
+    "source_url": "https://www.fec.gov/data/candidate/S6MN00440/?cycle=2026&election_full=true"
+   },
+   "Rebecca Whiting": {
+    "raised_total": 3756.0,
+    "cash_on_hand": 1927.97,
+    "spent_total": 1828.03,
+    "coverage_end_date": "2026-10-14",
+    "fec_candidate_id": "S6MN00572",
+    "source_url": "https://www.fec.gov/data/candidate/S6MN00572/?cycle=2026&election_full=true"
+   }
+  },
+  "outside_spending": {
+   "pro_R": 2198182.25,
+   "pro_D": 2490568.88,
+   "breakdown_general": {
+    "support_R_nominee": 25200.0,
+    "oppose_R_nominee": 382756.13,
+    "support_other_nominee": 2107812.75,
+    "oppose_other_nominee": 2172982.25
+   },
+   "primary_or_runoff_period_not_included": {
+    "note": "IEs reported for primary/runoff/other election types (not counted above); in a primary, opposing one nominee is not necessarily support for the other party.",
+    "support_R_nominee": 19684.32,
+    "oppose_R_nominee": 444287.13,
+    "support_other_nominee": 1289953.5,
+    "oppose_other_nominee": 7648910.17
+   },
+   "top_general_spenders": [
+    {
+     "spender": "MINNESOTA FORWARD",
+     "candidate": "Flanagan, Margaret",
+     "support_or_oppose": "oppose",
+     "amount": 2172982.25
+    },
+    {
+     "spender": "AB PAC",
+     "candidate": "Flanagan, Margaret",
+     "support_or_oppose": "support",
+     "amount": 1382185.83
+    },
+    {
+     "spender": "DLGA",
+     "candidate": "Flanagan, Margaret",
+     "support_or_oppose": "support",
+     "amount": 369250.0
+    },
+    {
+     "spender": "Working America",
+     "candidate": "Flanagan, Margaret",
+     "support_or_oppose": "support",
+     "amount": 213332.38
+    },
+    {
+     "spender": "The Edge Action Fund (SuperPAC)",
+     "candidate": "Tafoya, Michele",
+     "support_or_oppose": "oppose",
+     "amount": 175000.0
+    },
+    {
+     "spender": "MINNESOTA FORWARD",
+     "candidate": "Flanagan, Margaret",
+     "support_or_oppose": "support",
+     "amount": 104351.0
+    }
+   ],
+   "source": "FEC 24- and 48-hour independent-expenditure reports (bulk file), general-election entries (ele_type G) for the two leading nominees' FEC candidate IDs; amended transactions de-duplicated (latest filing kept). pro_R = support for R nominee + opposition to the other nominee; the other side is the reverse. Excludes party coordinated spending, candidate ads, IEs under the 24/48-hour reporting thresholds, and non-FEC issue ads; figures are as reported (some are estimates).",
+   "source_url": "https://www.fec.gov/files/bulk-downloads/2026/independent_expenditure_2026.csv",
+   "as_of": "reports received by FEC through 2026-10-29 (file updated 2026-10-30 10:14 UTC)"
+  }
+ },
+ "events": [
+  {
+   "date": "2025-02-13",
+   "what": "Sen. Tina Smith announced she would not seek reelection.",
+   "source_url": "https://www.mprnews.org/story/2025/02/13/tina-smith-will-not-run-for-reelection-in-senate-in-2026"
+  },
+  {
+   "date": "2026-01",
+   "what": "After a fatal shooting by an ICE agent in Minneapolis, immigration enforcement became a central issue in the DFL primary; Flanagan called for overhauling and later replacing ICE, while Craig defended her votes, coverage cited by Wikipedia reported.",
+   "source_url": "https://www.startribune.com/fatal-ice-shooting-shakes-up-races-for-us-senate-governor/601561260"
+  },
+  {
+   "date": "2026-02-02",
+   "what": "Sen. Tina Smith endorsed Flanagan in the DFL primary, Politico reported.",
+   "source_url": "https://www.politico.com/news/2026/02/02/tina-smith-endorses-lt-gov-peggy-flanagan-in-minnesota-senate-race-00759890"
+  },
+  {
+   "date": "2026-05-27",
+   "what": "Rep. Angie Craig withdrew from the DFL endorsement process and went straight to the primary.",
+   "source_url": "https://www.mprnews.org/story/2026/05/27/us-senate-hopeful-craig-heads-straight-to-primary-paving-way-for-flanagans-dfl-endorsement"
+  },
+  {
+   "date": "2026-05-30",
+   "what": "Flanagan won the DFL Party endorsement by acclamation at the state convention.",
+   "source_url": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Minnesota"
+  },
+  {
+   "date": "2026-08-11",
+   "what": "Primaries: Flanagan won the DFL primary with 59.0% over Craig; Tafoya won the Republican primary with 52.1%.",
+   "source_url": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Minnesota"
+  },
+  {
+   "date": "2026-09-18",
+   "what": "Absentee voting for the November 3 election began.",
+   "source_url": "https://www.sos.mn.gov/about-the-office/news-room/voting-in-the-november-3-general-election-begins-september-18/"
+  },
+  {
+   "date": "2026-10",
+   "what": "Former President Barack Obama endorsed Flanagan, KSTP reported (exact date not verified; cited by Wikipedia on Oct. 26).",
+   "source_url": "https://kstp.com/kstp-news/top-news/barack-obama-endorses-peggy-flanagan-in-tight-minnesotas-us-senate-race/"
+  },
+  {
+   "date": "2026-10-12",
+   "what": "President Trump endorsed Tafoya at a rally and on Truth Social; Tafoya said she would work with him when he is right and stand up to him when he is wrong, MPR News reported.",
+   "source_url": "https://www.mprnews.org/story/2026/10/13/michele-tafoya-endorsed-by-trump-for-senate-minnesota"
+  },
+  {
+   "date": "2026-10-16",
+   "what": "Flanagan and Tafoya met in the race's only scheduled debate, hosted by MPR News in St. Paul.",
+   "source_url": "https://www.kttc.com/2026/10/16/only-scheduled-debate-flanagan-tafoya-spar-over-track-records-policy-positions/"
+  }
+ ],
+ "early_vote": {
+  "as_of": "2026-10-16",
+  "summary": "Minnesota Secretary of State: 202,252 absentee ballots accepted by mail or in person in the first four weeks of absentee voting (which began Sept. 18), as relayed by KAXE; the office's Oct. 2 release reported 63,396 accepted as of Oct. 1 (26,174 in person, 37,222 by mail). Minnesota has no party registration, so there is no partisan breakdown.",
+  "source_url": "https://www.sos.mn.gov/about-the-office/news-room/63-396-ballots-accepted-in-first-two-weeks-of-voting-for-november-3-election/"
+ },
+ "notes_uncertain": [
+  "Newer Secretary of State absentee updates after Oct. 16 were not retrieved (the site blocked automated access); the 202,252 figure is the SoS number as reported by KAXE (https://www.kaxe.org/elections/2026-10-19/early-voting-opens-in-mn-midterms-as-absentee-ballots-roll-in).",
+  "Wikipedia poll footnotes label Simonetti and Whiting inconsistently (e.g., 'Simonetti (L) & Whiting (G)'); on the ballot Simonetti is independent and Whiting is Libertarian. Footnotes are copied as written.",
+  "Mail-ballot receipt deadline (Election Day) is from standard Minnesota law and county notices; not re-verified on the state site for 2026.",
+  "The 'January 2026' ICE-shooting item is dated from an archived Star Tribune link (archived 2026-01-14); exact date not verified.",
+  "Marisa Simonetti: little independent biographical information found; no FEC financial summary.",
+  "Ages are as of Election Day (2026-11-03), computed from birth dates on the candidates' Wikipedia pages."
+ ]
+}

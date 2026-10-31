@@ -1,0 +1,483 @@
+{
+ "state": "New Hampshire",
+ "code": "NH",
+ "seat": "Class 2 regular",
+ "incumbent": {
+  "name": "Jeanne Shaheen",
+  "party": "Democratic",
+  "status": "retiring"
+ },
+ "rules": "Regular election for a full term (2027-2033). Plurality winner; no runoff. Three candidates on the ballot: Chris Pappas (D), John E. Sununu (R), Edmond LaPlante (Constitution). New Hampshire has no early in-person voting; absentee ballots are available only to voters who qualify under state law, and voters can register at the polls on Election Day. Polls close by 8 p.m. Eastern; results are usually reported on election night. Sources: https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_New_Hampshire ; https://www.sos.nh.gov/2026-election-details",
+ "candidates": [
+  {
+   "name": "Chris Pappas",
+   "party": "Democratic",
+   "incumbent": false,
+   "age": 46,
+   "current_or_last_office": "U.S. representative for New Hampshire's 1st district (since 2019)",
+   "bio_short": "Pappas has represented New Hampshire's 1st congressional district since 2019 and earlier served on the state Executive Council (2013-2019). He is the first openly gay man to represent New Hampshire in Congress.",
+   "primary_result": "Won the September 8, 2026 Democratic primary with 65.0% (100,088 votes) over Karishma Manzur (32.7%) and three others.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Chris_Pappas_(American_politician)",
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_New_Hampshire"
+   ]
+  },
+  {
+   "name": "John E. Sununu",
+   "party": "Republican",
+   "incumbent": false,
+   "age": 62,
+   "current_or_last_office": "U.S. senator (2003-2009)",
+   "bio_short": "Sununu served in the U.S. House (1997-2003) and the U.S. Senate (2003-2009); he lost reelection in 2008 to Jeanne Shaheen. He is the son of former Gov. John H. Sununu and the brother of former Gov. Chris Sununu.",
+   "primary_result": "Won the September 8, 2026 Republican primary with 68.4% (75,839 votes) over former Sen. Scott Brown (26.6%) and six others.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/John_E._Sununu",
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_New_Hampshire"
+   ]
+  },
+  {
+   "name": "Edmond LaPlante",
+   "party": "Constitution",
+   "incumbent": false,
+   "age": null,
+   "current_or_last_office": "Member of the Monadnock Regional School Board",
+   "bio_short": "LaPlante chairs the Constitution Party of New Hampshire, whose ballot-access petition succeeded in September 2026, per Wikipedia and Ballot Access News. No FEC financial summary was found for him.",
+   "primary_result": "Constitution Party nominee (ballot access by petition).",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_New_Hampshire",
+    "https://ballot-access.org/2026/09/02/constitution-party-petition-succeeds-in-new-hampshire/"
+   ]
+  }
+ ],
+ "past_results": {
+  "pres_2024": {
+   "R": 47.87,
+   "D": 50.65,
+   "margin": "D+2.8",
+   "source_url": "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_New_Hampshire"
+  },
+  "pres_2020": {
+   "R": 45.36,
+   "D": 52.71,
+   "margin": "D+7.4",
+   "source_url": "https://en.wikipedia.org/wiki/2020_United_States_presidential_election_in_New_Hampshire"
+  },
+  "senate_last_this_seat": {
+   "year": 2020,
+   "winner": "Jeanne Shaheen",
+   "party": "Democratic",
+   "margin": "D+15.6 (56.63% vs 40.99% for Corky Messner)",
+   "source_url": "https://en.wikipedia.org/wiki/2020_United_States_Senate_election_in_New_Hampshire"
+  },
+  "other_recent": [
+   {
+    "race": "2024 governor",
+    "winner": "Kelly Ayotte (R), defeating Joyce Craig (D)",
+    "margin": "R+9.3 (53.61% vs 44.27%)",
+    "source_url": "https://en.wikipedia.org/wiki/2024_New_Hampshire_gubernatorial_election"
+   },
+   {
+    "race": "2022 U.S. Senate (other seat)",
+    "winner": "Maggie Hassan (D), defeating Don Bolduc (R)",
+    "margin": "D+9.2 (53.54% vs 44.39%)",
+    "source_url": "https://en.wikipedia.org/wiki/2022_United_States_Senate_election_in_New_Hampshire"
+   }
+  ]
+ },
+ "polls_note": "Polls with field_end on or after 2026-09-01, taken from the Wikipedia race page polling table (used as an index), with the pollster/sponsor link given there (source_url; often the pollster's or sponsor's own release, sometimes a news report). Multiple rows with the same pollster and dates are different versions of one poll (LV vs RV, full ballot vs two-way, leaners pushed); see notes. partisan_sponsor follows Wikipedia's (R)/(D) tag on the pollster ('none' = untagged, or a bipartisan R+D pollster pair); sponsor text is Wikipedia's footnote. Results are percentages as published; null = not reported. 'Other' may include named minor candidates (see notes, copied from Wikipedia footnotes). No averages or aggregates are included.",
+ "polls": [
+  {
+   "pollster": "Rasmussen Reports",
+   "sponsor": "",
+   "partisan_sponsor": "R",
+   "wikipedia_partisan_label": "R",
+   "field_start": "2026-10-20",
+   "field_end": "2026-10-23",
+   "sample_size": 970,
+   "population": "LV",
+   "margin_of_error": "± 3.0%",
+   "results": {
+    "Chris Pappas": 50.0,
+    "John E. Sununu": 44.0,
+    "Other": 4.0,
+    "Undecided": 2.0
+   },
+   "notes": [],
+   "source_url": "https://www.rasmussenreports.com/public_content/politics/elections/election_2026/election_2026_new_hampshire_senate"
+  },
+  {
+   "pollster": "Saint Anselm College",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-10-19",
+   "field_end": "2026-10-20",
+   "sample_size": 1672,
+   "population": "LV",
+   "margin_of_error": "± 2.4%",
+   "results": {
+    "Chris Pappas": 50.0,
+    "John E. Sununu": 43.0,
+    "Other": 5.0,
+    "Undecided": 2.0
+   },
+   "notes": [],
+   "source_url": "https://www.anselm.edu/about/anselmian-hub/news/new-saint-anselm-college-poll-finds-democrats-leading-congressional-races-affordability-concerns-shape-election-landscape"
+  },
+  {
+   "pollster": "National Public Affairs",
+   "sponsor": "",
+   "partisan_sponsor": "R",
+   "wikipedia_partisan_label": "R",
+   "field_start": "2026-10-08",
+   "field_end": "2026-10-12",
+   "sample_size": 600,
+   "population": "LV",
+   "margin_of_error": "± 4.0%",
+   "results": {
+    "Chris Pappas": 50.0,
+    "John E. Sununu": 45.0,
+    "Other": null,
+    "Undecided": 5.0
+   },
+   "notes": [],
+   "source_url": "https://backend.natpublicaffairs.com/media/NH_General_Election_Memo_101526.2.pdf"
+  },
+  {
+   "pollster": "National Public Affairs",
+   "sponsor": "",
+   "partisan_sponsor": "R",
+   "wikipedia_partisan_label": "R",
+   "field_start": "2026-10-08",
+   "field_end": "2026-10-12",
+   "sample_size": 600,
+   "population": "LV",
+   "margin_of_error": "± 4.0%",
+   "results": {
+    "Chris Pappas": 50.0,
+    "John E. Sununu": 43.0,
+    "Other": 4.0,
+    "Undecided": 3.0
+   },
+   "notes": [
+    "Edmond LaPlante (C) with 4%"
+   ],
+   "source_url": "https://backend.natpublicaffairs.com/media/NH_General_Election_Memo_101526.2.pdf"
+  },
+  {
+   "pollster": "YouGov",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-09-28",
+   "field_end": "2026-10-05",
+   "sample_size": 1520,
+   "population": "LV",
+   "margin_of_error": "± 3.9%",
+   "results": {
+    "Chris Pappas": 51.0,
+    "John E. Sununu": 43.0,
+    "Other": 1.0,
+    "Undecided": 4.0
+   },
+   "notes": [],
+   "source_url": "https://d3nkl3psvxxpe9.cloudfront.net/documents/ttw_nh_20260921_lv.pdf"
+  },
+  {
+   "pollster": "Rasmussen Reports",
+   "sponsor": "",
+   "partisan_sponsor": "R",
+   "wikipedia_partisan_label": "R",
+   "field_start": "2026-10-02",
+   "field_end": "2026-10-04",
+   "sample_size": 979,
+   "population": "LV",
+   "margin_of_error": "± 3.0%",
+   "results": {
+    "Chris Pappas": 49.0,
+    "John E. Sununu": 44.0,
+    "Other": 3.0,
+    "Undecided": 4.0
+   },
+   "notes": [],
+   "source_url": "https://www.rasmussenreports.com/public_content/archive/election_2026/n_h_senate_lead_narrows_for_democrat_pappas"
+  },
+  {
+   "pollster": "Saint Anselm College",
+   "sponsor": "Poll sponsored by AARP",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-09-28",
+   "field_end": "2026-09-29",
+   "sample_size": 1042,
+   "population": "LV",
+   "margin_of_error": "± 3.0%",
+   "results": {
+    "Chris Pappas": 51.0,
+    "John E. Sununu": 44.0,
+    "Other": 3.0,
+    "Undecided": 1.0
+   },
+   "notes": [
+    "\"Someone else\" with 3%"
+   ],
+   "source_url": "https://www.aarp.org/content/dam/aarp/research/topics/voter-opinion-research/politics/2026-midterm-election-poll-new-hampshire.doi.10.26419-2fres.01065.022.pdf"
+  },
+  {
+   "pollster": "Trafalgar Group",
+   "sponsor": "",
+   "partisan_sponsor": "R",
+   "wikipedia_partisan_label": "R",
+   "field_start": "2026-09-26",
+   "field_end": "2026-09-27",
+   "sample_size": 1082,
+   "population": "LV",
+   "margin_of_error": "± 2.9%",
+   "results": {
+    "Chris Pappas": 47.0,
+    "John E. Sununu": 41.0,
+    "Other": 1.0,
+    "Undecided": 11.0
+   },
+   "notes": [
+    "Edmond LaPlante (C) with 1%"
+   ],
+   "source_url": "https://www.thetrafalgargroup.org/wp-content/uploads/2026/09/NH-Midterms-Survey-Report-0927.pdf"
+  },
+  {
+   "pollster": "New York Times/Siena University",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-09-15",
+   "field_end": "2026-09-22",
+   "sample_size": 613,
+   "population": "LV",
+   "margin_of_error": "± 4.9%",
+   "results": {
+    "Chris Pappas": 50.0,
+    "John E. Sununu": 45.0,
+    "Other": null,
+    "Undecided": 5.0
+   },
+   "notes": [],
+   "source_url": "https://www.nytimes.com/2026/09/24/us/politics/democrats-show-strength-in-michigan-senate-race-but-trail-in-maine-polls-find.html"
+  },
+  {
+   "pollster": "University of New Hampshire",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-09-17",
+   "field_end": "2026-09-21",
+   "sample_size": 1418,
+   "population": "LV",
+   "margin_of_error": "± 2.6%",
+   "results": {
+    "Chris Pappas": 50.0,
+    "John E. Sununu": 42.0,
+    "Other": 4.0,
+    "Undecided": 4.0
+   },
+   "notes": [
+    "Edmond LaPlante (C) with 2%; Another candidate with 2%"
+   ],
+   "source_url": "https://scholars.unh.edu/cgi/viewcontent.cgi?article=2004&context=survey_center_polls"
+  },
+  {
+   "pollster": "InsiderAdvantage",
+   "sponsor": "",
+   "partisan_sponsor": "R",
+   "wikipedia_partisan_label": "R",
+   "field_start": "2026-09-16",
+   "field_end": "2026-09-17",
+   "sample_size": 1200,
+   "population": "LV",
+   "margin_of_error": "± 2.8%",
+   "results": {
+    "Chris Pappas": 48.0,
+    "John E. Sununu": 40.0,
+    "Other": 3.0,
+    "Undecided": 9.0
+   },
+   "notes": [
+    "Matt Giovonizzi (I), Tim Harris (I), and Edmond LaPlante (C) with 1%"
+   ],
+   "source_url": "https://insideradvantage.com/nh-top-line-tabs/"
+  },
+  {
+   "pollster": "co/efficient",
+   "sponsor": "",
+   "partisan_sponsor": "R",
+   "wikipedia_partisan_label": "R",
+   "field_start": "2026-09-09",
+   "field_end": "2026-09-11",
+   "sample_size": 958,
+   "population": "LV",
+   "margin_of_error": "± 3.2%",
+   "results": {
+    "Chris Pappas": 46.0,
+    "John E. Sununu": 46.0,
+    "Other": null,
+    "Undecided": 9.0
+   },
+   "notes": [],
+   "source_url": "https://battlegrounds.coefficient.org/nh/"
+  },
+  {
+   "pollster": "Rasmussen Reports",
+   "sponsor": "",
+   "partisan_sponsor": "R",
+   "wikipedia_partisan_label": "R",
+   "field_start": "2026-09-08",
+   "field_end": "2026-09-10",
+   "sample_size": 1000,
+   "population": "LV",
+   "margin_of_error": "± 2.0%",
+   "results": {
+    "Chris Pappas": 45.0,
+    "John E. Sununu": 34.0,
+    "Other": 13.0,
+    "Undecided": 9.0
+   },
+   "notes": [
+    "Day (I) with 4%; Harris (I) with 4%; Laplante (C) with 2%; Lopez (I) with 2%; Morrow (I) with 1%"
+   ],
+   "source_url": "https://www.rasmussenreports.com/public_content/politics/elections/election_2026/n_h_senate_democrat_pappas_leads_by_double_digits"
+  }
+ ],
+ "money": {
+  "as_of": "FEC candidate financial summaries (retrieved 2026-10-31); coverage ends 2026-10-14 (pre-general report).",
+  "candidates": {
+   "Chris Pappas": {
+    "raised_total": 23703648.39,
+    "cash_on_hand": 1984365.82,
+    "spent_total": 22126866.8,
+    "coverage_end_date": "2026-10-14",
+    "fec_candidate_id": "S6NH00141",
+    "source_url": "https://www.fec.gov/data/candidate/S6NH00141/?cycle=2026&election_full=true"
+   },
+   "John E. Sununu": {
+    "raised_total": 5681528.08,
+    "cash_on_hand": 1711396.49,
+    "spent_total": 3936990.86,
+    "coverage_end_date": "2026-10-14",
+    "fec_candidate_id": "S6NH00208",
+    "source_url": "https://www.fec.gov/data/candidate/S6NH00208/?cycle=2026&election_full=true"
+   }
+  },
+  "outside_spending": {
+   "pro_R": 27823645.21,
+   "pro_D": 23776100.58,
+   "breakdown_general": {
+    "support_R_nominee": 7786930.14,
+    "oppose_R_nominee": 21615157.24,
+    "support_other_nominee": 2160943.34,
+    "oppose_other_nominee": 20036715.07
+   },
+   "primary_or_runoff_period_not_included": {
+    "note": "IEs reported for primary/runoff/other election types (not counted above); in a primary, opposing one nominee is not necessarily support for the other party.",
+    "support_R_nominee": 3051099.61,
+    "oppose_R_nominee": 437869.0,
+    "support_other_nominee": 581663.0,
+    "oppose_other_nominee": 1414902.72
+   },
+   "top_general_spenders": [
+    {
+     "spender": "WinSenate",
+     "candidate": "Sununu, John",
+     "support_or_oppose": "oppose",
+     "amount": 17796864.94
+    },
+    {
+     "spender": "NO GOING BACK PAC INC.",
+     "candidate": "Pappas, Chris",
+     "support_or_oppose": "oppose",
+     "amount": 11486583.88
+    },
+    {
+     "spender": "Americans for Prosperity Action, Inc. (AFP Action) DBA CVA Action and DBA LIBRE Action",
+     "candidate": "Pappas, Chris",
+     "support_or_oppose": "oppose",
+     "amount": 4854692.88
+    },
+    {
+     "spender": "Americans for Prosperity Action, Inc. (AFP Action) DBA CVA Action and DBA LIBRE Action",
+     "candidate": "Sununu, John",
+     "support_or_oppose": "support",
+     "amount": 3359013.3
+    },
+    {
+     "spender": "NO GOING BACK PAC INC.",
+     "candidate": "Sununu, John E",
+     "support_or_oppose": "support",
+     "amount": 2726128.97
+    },
+    {
+     "spender": "American Center PAC",
+     "candidate": "Sununu, John",
+     "support_or_oppose": "oppose",
+     "amount": 2019950.0
+    }
+   ],
+   "source": "FEC 24- and 48-hour independent-expenditure reports (bulk file), general-election entries (ele_type G) for the two leading nominees' FEC candidate IDs; amended transactions de-duplicated (latest filing kept). pro_R = support for R nominee + opposition to the other nominee; the other side is the reverse. Excludes party coordinated spending, candidate ads, IEs under the 24/48-hour reporting thresholds, and non-FEC issue ads; figures are as reported (some are estimates).",
+   "source_url": "https://www.fec.gov/files/bulk-downloads/2026/independent_expenditure_2026.csv",
+   "as_of": "reports received by FEC through 2026-10-29 (file updated 2026-10-30 10:14 UTC)"
+  }
+ },
+ "events": [
+  {
+   "date": "2025-03-12",
+   "what": "Sen. Jeanne Shaheen announced she would not seek reelection.",
+   "source_url": "https://www.nbcnews.com/politics/2026-election/jeanne-shaheen-wont-run-re-election-opening-another-democratic-senate-rcna196015"
+  },
+  {
+   "date": "2025-04-24",
+   "what": "Sen. Jeanne Shaheen endorsed Pappas, WMUR reported.",
+   "source_url": "https://www.wmur.com/article/jeanne-shaheen-endorses-chris-pappas-senate-42425/64582798"
+  },
+  {
+   "date": "2026-02-01",
+   "what": "President Trump endorsed Sununu, The Hill reported.",
+   "source_url": "https://thehill.com/homenews/5717664-trump-endorses-sununu-nh-senate/"
+  },
+  {
+   "date": "2026-08-31",
+   "what": "Former Vice President Kamala Harris endorsed Pappas, The Hill reported.",
+   "source_url": "https://thehill.com/homenews/campaign/6060905-harris-pappas-new-hampshire-senate/"
+  },
+  {
+   "date": "2026-09-02",
+   "what": "The Constitution Party's ballot-access petition succeeded, putting Edmond LaPlante on the ballot.",
+   "source_url": "https://ballot-access.org/2026/09/02/constitution-party-petition-succeeds-in-new-hampshire/"
+  },
+  {
+   "date": "2026-09-08",
+   "what": "Primaries: Pappas won the Democratic primary with 65.0%; Sununu won the Republican primary with 68.4% over Scott Brown.",
+   "source_url": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_New_Hampshire"
+  },
+  {
+   "date": "2026-10-13",
+   "what": "Pappas and Sununu held their first general-election debate in North Conway, hosted by the Mount Washington Valley Economic Council.",
+   "source_url": "https://www.bostonglobe.com/2026/10/22/metro/nh-senate-debate-nhpr-canceled/"
+  },
+  {
+   "date": "2026-10-22",
+   "what": "The Boston Globe reported that New Hampshire Public Radio canceled an Oct. 29 forum after Sununu declined to take part, and that Pappas had earlier declined a debate New England College intended to host.",
+   "source_url": "https://www.bostonglobe.com/2026/10/22/metro/nh-senate-debate-nhpr-canceled/"
+  }
+ ],
+ "early_vote": {
+  "as_of": null,
+  "summary": "New Hampshire does not offer early in-person voting; only absentee ballots for qualifying voters. No official statewide absentee-return figures were collected.",
+  "source_url": "https://www.sos.nh.gov/2026-election-details"
+ },
+ "notes_uncertain": [
+  "WMUR's Granite State Debate between Pappas and Sununu was scheduled for October 28 at 9 p.m. (Boston Globe, Oct. 22); whether and how it took place was not verified.",
+  "The Boston Globe (Oct. 22) also mentions an October 14 forum in Salem, cited by the Sununu campaign; not independently verified.",
+  "One Wikipedia poll row (Rasmussen, Sept. 8-10) has 13% 'Other' including several independents who did not make the final ballot.",
+  "Edmond LaPlante: no FEC financial summary found.",
+  "New Hampshire absentee eligibility rules are summarized from standard state law; not re-verified for 2026.",
+  "Ages are as of Election Day (2026-11-03), computed from birth dates on the candidates' Wikipedia pages."
+ ]
+}

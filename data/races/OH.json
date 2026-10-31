@@ -1,0 +1,809 @@
+{
+ "state": "Ohio",
+ "code": "OH",
+ "seat": "Class 3 special (remainder of the term ending January 3, 2029)",
+ "incumbent": {
+  "name": "Jon Husted",
+  "party": "Republican",
+  "status": "appointed, running"
+ },
+ "rules": "Special election to finish the term JD Vance won in 2022 (Vance resigned in January 2025 to become vice president; Gov. Mike DeWine appointed Husted). Plurality wins; no runoff. Four candidates on the ballot: Husted (R), Brown (D), Greg Levy (independent), Bill Redpath (Libertarian). The winner serves until January 2029. Results are normally known on election night; mail ballots postmarked before Election Day can arrive a few days later.",
+ "candidates": [
+  {
+   "name": "Jon Husted",
+   "party": "Republican",
+   "incumbent": true,
+   "age": 59,
+   "current_or_last_office": "U.S. senator (appointed January 2025)",
+   "bio_short": "Husted was Ohio lieutenant governor (2019–2025) and secretary of state (2011–2019), and earlier speaker of the Ohio House. Gov. DeWine appointed him to the Senate after Vance became vice president.",
+   "primary_result": "Unopposed in the May 5, 2026 Republican primary (736,413 votes)",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Jon_Husted",
+    "https://www.politico.com/news/2025/01/17/ohio-senate-seat-dewine-husted-ramaswamy-00198974",
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_special_election_in_Ohio"
+   ]
+  },
+  {
+   "name": "Sherrod Brown",
+   "party": "Democratic",
+   "incumbent": false,
+   "age": 73,
+   "current_or_last_office": "U.S. senator from Ohio (2007–2025)",
+   "bio_short": "Brown served three Senate terms and lost reelection in 2024 to Bernie Moreno. He previously served in the U.S. House (1993–2007) and as Ohio secretary of state.",
+   "primary_result": "Won the May 5, 2026 Democratic primary with 89.4% over Ron Kincaid",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Sherrod_Brown",
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_special_election_in_Ohio"
+   ]
+  },
+  {
+   "name": "Greg Levy",
+   "party": "Independent (member of the Party for Socialism and Liberation)",
+   "incumbent": false,
+   "age": null,
+   "current_or_last_office": "Veteran; community organizer",
+   "bio_short": "Levy announced his candidacy in October 2025 and filed with the FEC as an independent.",
+   "primary_result": "Independent ballot access",
+   "sources": [
+    "https://www.cincinnatimagazine.com/article/greg-levy-wants-ohio-voters-to-choose-the-third-option/",
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_special_election_in_Ohio"
+   ]
+  },
+  {
+   "name": "Bill Redpath",
+   "party": "Libertarian",
+   "incumbent": false,
+   "age": null,
+   "current_or_last_office": "Former Libertarian National Committee chair",
+   "bio_short": "Redpath was the Libertarian nominee for U.S. Senate in Illinois in 2022.",
+   "primary_result": "Won the Libertarian primary unopposed (4,996 votes)",
+   "sources": [
+    "https://www.cleveland.com/news/2026/01/ohio-libertarians-states-lone-third-party-lining-up-candidates-for-top-2026-races.html",
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_special_election_in_Ohio"
+   ]
+  }
+ ],
+ "past_results": {
+  "pres_2024": {
+   "R": 55.14,
+   "D": 43.93,
+   "margin": "R+11.2",
+   "source_url": "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_Ohio"
+  },
+  "pres_2020": {
+   "R": 53.27,
+   "D": 45.24,
+   "margin": "R+8.0",
+   "source_url": "https://en.wikipedia.org/wiki/2020_United_States_presidential_election_in_Ohio"
+  },
+  "senate_last_this_seat": {
+   "year": 2022,
+   "winner": "JD Vance",
+   "party": "Republican",
+   "margin": "R+6.1 (53.03% vs 46.92% for Tim Ryan)",
+   "source_url": "https://en.wikipedia.org/wiki/2022_United_States_Senate_election_in_Ohio"
+  },
+  "other_recent": [
+   {
+    "race": "2024 U.S. Senate (other seat)",
+    "winner": "Bernie Moreno (R), defeating Sherrod Brown (D)",
+    "margin": "R+3.6 (50.09% vs 46.47%)",
+    "source_url": "https://en.wikipedia.org/wiki/2024_United_States_Senate_election_in_Ohio"
+   },
+   {
+    "race": "2022 governor",
+    "winner": "Mike DeWine (R)",
+    "margin": "R win over Nan Whaley (D)",
+    "source_url": "https://en.wikipedia.org/wiki/2022_Ohio_gubernatorial_election"
+   }
+  ]
+ },
+ "polls": [
+  {
+   "pollster": "Suffolk University",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-10-21",
+   "field_end": "2026-10-26",
+   "sample_size": 500,
+   "population": "LV",
+   "margin_of_error": "± 4.4%",
+   "results": {
+    "Jon Husted": 44.0,
+    "Sherrod Brown": 47.0,
+    "Other": 5.0,
+    "Undecided": 4.0
+   },
+   "notes": [
+    "Bill Redpath (L) with 2%; Greg Levy (I) with 2%; \"Refused\" with 2%; \"Write-in\" with 0%"
+   ],
+   "source_url": "https://www.suffolk.edu/-/media/suffolk/documents/academics/research-at-suffolk/suprc/polls/other-states/2026/10_28_2026_ohio_statewide_marginals.pdf"
+  },
+  {
+   "pollster": "RedBox Research (D)",
+   "sponsor": "A Fight Worth Having, a Democratic-aligned super PAC",
+   "partisan_sponsor": "D",
+   "wikipedia_partisan_label": "D",
+   "field_start": "2026-10-20",
+   "field_end": "2026-10-23",
+   "sample_size": 2998,
+   "population": "LV",
+   "margin_of_error": "± 4.6%",
+   "results": {
+    "Jon Husted": 44.0,
+    "Sherrod Brown": 47.0,
+    "Other": 4.0,
+    "Undecided": 4.0
+   },
+   "notes": [
+    "Bill Redpath (L) with 1%; Greg Levy (I) with 1%; \"Someone else\" with 1%; \"Prefer not to answer\" with 1%; \"Did not vote in this race\" with 0%"
+   ],
+   "source_url": "https://afightworthhaving.com/polling/2026/ohio"
+  },
+  {
+   "pollster": "Echelon Insights (R)",
+   "sponsor": "NetChoice",
+   "partisan_sponsor": "R",
+   "wikipedia_partisan_label": "R",
+   "field_start": "2026-10-16",
+   "field_end": "2026-10-23",
+   "sample_size": 508,
+   "population": "LV",
+   "margin_of_error": "± 5.2%",
+   "results": {
+    "Jon Husted": 47.0,
+    "Sherrod Brown": 47.0,
+    "Other": 3.0,
+    "Undecided": 3.0
+   },
+   "notes": [
+    "Greg Levy (I) with 2%; Bill Redpath (L) with 1%"
+   ],
+   "source_url": "https://netchoice.org/netchoice-echelon-insights-poll-voters-rank-ai-regulation-far-behind-cost-of-living-want-one-national-ai-standard/"
+  },
+  {
+   "pollster": "InsiderAdvantage (R)",
+   "sponsor": "",
+   "partisan_sponsor": "R",
+   "wikipedia_partisan_label": "R",
+   "field_start": "2026-10-21",
+   "field_end": "2026-10-22",
+   "sample_size": 1200,
+   "population": "LV",
+   "margin_of_error": "± 2.8%",
+   "results": {
+    "Jon Husted": 44.0,
+    "Sherrod Brown": 47.0,
+    "Other": 3.0,
+    "Undecided": 6.0
+   },
+   "notes": [
+    "Greg Levy (I) with 2%; Bill Redpath (L) with 1%"
+   ],
+   "source_url": "https://insideradvantage.com/insideradvantage-senate-surveys-mi-el-sayed-47-rogers-46-ia-hinson-47-turek-45-oh-brown-47-husted-44/"
+  },
+  {
+   "pollster": "Verasight/VoteHub",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-10-01",
+   "field_end": "2026-10-20",
+   "sample_size": 531,
+   "population": "LV",
+   "margin_of_error": "± 4.2%",
+   "results": {
+    "Jon Husted": 44.0,
+    "Sherrod Brown": 48.0,
+    "Other": 2.0,
+    "Undecided": 6.0
+   },
+   "notes": [
+    "Greg Levy (I) with 1%; Bill Redpath (L) with 1%"
+   ],
+   "source_url": "https://cdn.votehub.com/pdfs/VoteHub_Verasight_Oct_2026_Ohio_Report_D1CB7735.pdf"
+  },
+  {
+   "pollster": "Verasight/VoteHub",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-10-01",
+   "field_end": "2026-10-20",
+   "sample_size": 531,
+   "population": "LV",
+   "margin_of_error": "± 4.2%",
+   "results": {
+    "Jon Husted": 41.0,
+    "Sherrod Brown": 45.0,
+    "Other": 4.0
+   },
+   "notes": [
+    "Greg Levy (I) with 2%; Bill Redpath (L) with 2%"
+   ],
+   "source_url": "https://cdn.votehub.com/pdfs/VoteHub_Verasight_Oct_2026_Ohio_Report_D1CB7735.pdf"
+  },
+  {
+   "pollster": "Beacon Research (D)/ Shaw & Co. Research (R)",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "D/R",
+   "field_start": "2026-10-15",
+   "field_end": "2026-10-19",
+   "sample_size": 2005,
+   "population": "RV",
+   "margin_of_error": "± 2.0%",
+   "results": {
+    "Jon Husted": 46.0,
+    "Sherrod Brown": 53.0,
+    "Undecided": 2.0
+   },
+   "source_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/fox_october-15-19-2026_ohio_topline_october-21-release.pdf"
+  },
+  {
+   "pollster": "Beacon Research (D)/ Shaw & Co. Research (R)",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "D/R",
+   "field_start": "2026-10-15",
+   "field_end": "2026-10-19",
+   "sample_size": 1592,
+   "population": "LV",
+   "margin_of_error": "± 2.0%",
+   "results": {
+    "Jon Husted": 47.0,
+    "Sherrod Brown": 52.0,
+    "Undecided": 2.0
+   },
+   "source_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/fox_october-15-19-2026_ohio_topline_october-21-release.pdf"
+  },
+  {
+   "pollster": "Marist University",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-10-15",
+   "field_end": "2026-10-18",
+   "sample_size": null,
+   "population": "LV",
+   "margin_of_error": "± 4.5%",
+   "results": {
+    "Jon Husted": 44.0,
+    "Sherrod Brown": 48.0,
+    "Other": 2.0,
+    "Undecided": 4.0
+   },
+   "source_url": "https://maristpoll.marist.edu/wp-content/uploads/2026/10/Marist-Poll_OH-NOS-and-Tables_202610191215zz9hjdV2l.pdf"
+  },
+  {
+   "pollster": "Marist University",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-10-15",
+   "field_end": "2026-10-18",
+   "sample_size": 1176,
+   "population": "RV",
+   "margin_of_error": "± 3.9%",
+   "results": {
+    "Jon Husted": 42.0,
+    "Sherrod Brown": 51.0,
+    "Other": 3.0,
+    "Undecided": 4.0
+   },
+   "source_url": "https://maristpoll.marist.edu/wp-content/uploads/2026/10/Marist-Poll_OH-NOS-and-Tables_202610191215zz9hjdV2l.pdf"
+  },
+  {
+   "pollster": "ActiVote",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-09-26",
+   "field_end": "2026-10-18",
+   "sample_size": 400,
+   "population": "LV",
+   "margin_of_error": "± 4.9%",
+   "results": {
+    "Jon Husted": 50.0,
+    "Sherrod Brown": 50.0
+   },
+   "notes": [
+    "May or may not be reliable because ActiVote uses a app to conduct the poll."
+   ],
+   "source_url": "https://www.activote.net/polls/2026/oh-u-s-senate/"
+  },
+  {
+   "pollster": "Rasmussen Reports (R)",
+   "sponsor": "",
+   "partisan_sponsor": "R",
+   "wikipedia_partisan_label": "R",
+   "field_start": "2026-10-12",
+   "field_end": "2026-10-14",
+   "sample_size": 901,
+   "population": "LV",
+   "margin_of_error": "± 3.0%",
+   "results": {
+    "Jon Husted": 49.0,
+    "Sherrod Brown": 47.0,
+    "Other": 2.0,
+    "Undecided": 2.0
+   },
+   "source_url": "https://www.rasmussenreports.com/public_content/politics/elections/election_2026/election_2026_ohio_senate"
+  },
+  {
+   "pollster": "GS Strategy Group (R)/ New River Strategies (D)",
+   "sponsor": "The Cook Political Report",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "R/D",
+   "field_start": "2026-10-09",
+   "field_end": "2026-10-13",
+   "sample_size": 959,
+   "population": "LV",
+   "margin_of_error": null,
+   "results": {
+    "Jon Husted": 43.0,
+    "Sherrod Brown": 49.0,
+    "Other": 7.0,
+    "Undecided": 1.0
+   },
+   "notes": [
+    "Levy (I) with 4%; Redpath (L) with 3%"
+   ],
+   "source_url": "https://www.cookpolitical.com/analysis/survey-research/battleground-district-project/senate-battleground-district-project-october"
+  },
+  {
+   "pollster": "Bowling Green State University/YouGov",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-09-29",
+   "field_end": "2026-10-09",
+   "sample_size": 1000,
+   "population": "LV",
+   "margin_of_error": "± 4.0%",
+   "results": {
+    "Jon Husted": 42.0,
+    "Sherrod Brown": 48.0,
+    "Other": 10.0
+   },
+   "notes": [
+    "Levy (I) with 5%; Redpath (L) with 3%; \"Someone else\" with 2%"
+   ],
+   "source_url": "https://scholarworks.bgsu.edu/cgi/viewcontent.cgi?article=1028&context=depo",
+   "other_urls": [
+    "https://scholarworks.bgsu.edu/cgi/viewcontent.cgi?article=1030&context=depo"
+   ]
+  },
+  {
+   "pollster": "co/efficient (R)",
+   "sponsor": "",
+   "partisan_sponsor": "R",
+   "wikipedia_partisan_label": "R",
+   "field_start": "2026-10-05",
+   "field_end": "2026-10-06",
+   "sample_size": 925,
+   "population": "LV",
+   "margin_of_error": "± 3.5%",
+   "results": {
+    "Jon Husted": 46.0,
+    "Sherrod Brown": 45.0,
+    "Undecided": 9.0
+   },
+   "notes": [
+    "Top two candidates only"
+   ],
+   "source_url": "https://battlegrounds.coefficient.org/oh/"
+  },
+  {
+   "pollster": "co/efficient (R)",
+   "sponsor": "",
+   "partisan_sponsor": "R",
+   "wikipedia_partisan_label": "R",
+   "field_start": "2026-10-05",
+   "field_end": "2026-10-06",
+   "sample_size": 925,
+   "population": "LV",
+   "margin_of_error": "± 3.5%",
+   "results": {
+    "Jon Husted": 44.0,
+    "Sherrod Brown": 43.0,
+    "Other": 4.0,
+    "Undecided": 9.0
+   },
+   "notes": [
+    "Greg Levy (I) with 3%; William Redpath (L) with 1%"
+   ],
+   "source_url": "https://battlegrounds.coefficient.org/oh/"
+  },
+  {
+   "pollster": "SSRS",
+   "sponsor": "CNN",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-09-29",
+   "field_end": "2026-10-05",
+   "sample_size": 760,
+   "population": "LV",
+   "margin_of_error": "± 4.5%",
+   "results": {
+    "Jon Husted": 43.0,
+    "Sherrod Brown": 49.0,
+    "Other": 7.0,
+    "Undecided": 1.0
+   },
+   "notes": [
+    "\"Neither\" with 5%; \"Other\" with 2%"
+   ],
+   "source_url": "https://www.documentcloud.org/documents/28729016-cnn-ohio-poll-conducted-by-ssrs/"
+  },
+  {
+   "pollster": "New York Times/Siena University",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-09-22",
+   "field_end": "2026-10-01",
+   "sample_size": 616,
+   "population": "LV",
+   "margin_of_error": "± 4.5%",
+   "results": {
+    "Jon Husted": 46.0,
+    "Sherrod Brown": 49.0,
+    "Undecided": 5.0
+   },
+   "source_url": "https://www.nytimes.com/interactive/2026/10/03/polls/times-siena-ohio-poll-crosstabs.html"
+  },
+  {
+   "pollster": "YouGov",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-09-18",
+   "field_end": "2026-09-30",
+   "sample_size": 3780,
+   "population": "LV",
+   "margin_of_error": "± 2.5%",
+   "results": {
+    "Jon Husted": 45.0,
+    "Sherrod Brown": 49.0,
+    "Other": 2.0,
+    "Undecided": 4.0
+   },
+   "source_url": "https://d3nkl3psvxxpe9.cloudfront.net/documents/ttw_oh_20260921_lv.pdf"
+  },
+  {
+   "pollster": "InsiderAdvantage (R)",
+   "sponsor": "",
+   "partisan_sponsor": "R",
+   "wikipedia_partisan_label": "R",
+   "field_start": "2026-09-28",
+   "field_end": "2026-09-29",
+   "sample_size": 1200,
+   "population": "LV",
+   "margin_of_error": "± 2.8%",
+   "results": {
+    "Jon Husted": 43.0,
+    "Sherrod Brown": 44.0,
+    "Other": 6.0,
+    "Undecided": 7.0
+   },
+   "notes": [
+    "William Redpath (L) with 4%; Greg Levy (I) with 2%"
+   ],
+   "source_url": "https://insideradvantage.com/insideradvantage-ohio-senate-race-narrows-to-brown-up-by-one/"
+  },
+  {
+   "pollster": "Big Data Poll (R)",
+   "sponsor": "",
+   "partisan_sponsor": "R",
+   "wikipedia_partisan_label": "R",
+   "field_start": "2026-09-26",
+   "field_end": "2026-09-27",
+   "sample_size": 680,
+   "population": "LV",
+   "margin_of_error": "± 4.0%",
+   "results": {
+    "Jon Husted": 43.0,
+    "Sherrod Brown": 46.0
+   },
+   "source_url": "https://www.bigdatapoll.com/blog/buckeye-state-poll-sherrod-brown-leads-jon-husted-for-us-senate-in-ohio/"
+  },
+  {
+   "pollster": "Big Data Poll (R)",
+   "sponsor": "",
+   "partisan_sponsor": "R",
+   "wikipedia_partisan_label": "R",
+   "field_start": "2026-09-26",
+   "field_end": "2026-09-27",
+   "sample_size": 680,
+   "population": "LV",
+   "margin_of_error": "± 4.0%",
+   "results": {
+    "Jon Husted": 41.0,
+    "Sherrod Brown": 46.0,
+    "Other": 8.0,
+    "Undecided": 6.0
+   },
+   "notes": [
+    "\"Someone else\" with 8%"
+   ],
+   "source_url": "https://www.bigdatapoll.com/blog/buckeye-state-poll-sherrod-brown-leads-jon-husted-for-us-senate-in-ohio/"
+  },
+  {
+   "pollster": "Big Data Poll (R)",
+   "sponsor": "",
+   "partisan_sponsor": "R",
+   "wikipedia_partisan_label": "R",
+   "field_start": "2026-09-26",
+   "field_end": "2026-09-27",
+   "sample_size": 735,
+   "population": "RV",
+   "margin_of_error": "± 4.0%",
+   "results": {
+    "Jon Husted": 41.0,
+    "Sherrod Brown": 45.0
+   },
+   "source_url": "https://www.bigdatapoll.com/blog/buckeye-state-poll-sherrod-brown-leads-jon-husted-for-us-senate-in-ohio/"
+  },
+  {
+   "pollster": "Big Data Poll (R)",
+   "sponsor": "",
+   "partisan_sponsor": "R",
+   "wikipedia_partisan_label": "R",
+   "field_start": "2026-09-26",
+   "field_end": "2026-09-27",
+   "sample_size": 735,
+   "population": "RV",
+   "margin_of_error": "± 4.0%",
+   "results": {
+    "Jon Husted": 40.0,
+    "Sherrod Brown": 44.0,
+    "Other": 8.0,
+    "Undecided": 8.0
+   },
+   "source_url": "https://www.bigdatapoll.com/blog/buckeye-state-poll-sherrod-brown-leads-jon-husted-for-us-senate-in-ohio/"
+  },
+  {
+   "pollster": "Marist University",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-09-24",
+   "field_end": "2026-09-27",
+   "sample_size": 1298,
+   "population": "RV",
+   "margin_of_error": "± 3.8%",
+   "results": {
+    "Jon Husted": 43.0,
+    "Sherrod Brown": 51.0,
+    "Other": 1.0,
+    "Undecided": 4.0
+   },
+   "source_url": "https://maristpoll.marist.edu/polls/midterm-elections-in-ohio-september-2026/"
+  },
+  {
+   "pollster": "Suffolk University",
+   "sponsor": "USA Today",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-09-23",
+   "field_end": "2026-09-27",
+   "sample_size": 500,
+   "population": "LV",
+   "margin_of_error": "± 4.4%",
+   "results": {
+    "Jon Husted": 44.0,
+    "Sherrod Brown": 47.0,
+    "Other": 3.0,
+    "Undecided": 6.0
+   },
+   "notes": [
+    "Bill Redpath (L) with 2%; Greg Levy (I) with 1%"
+   ],
+   "source_url": "https://www.suffolk.edu/-/media/suffolk/documents/academics/research-at-suffolk/suprc/polls/other-states/2026/10_1_2026_ohio_statewide_embargoed_marginals_part_3.pdf?la=en&hash=355949674C6CA0C7055D0CF443B1CB6B1F8A234B"
+  },
+  {
+   "pollster": "Rasmussen Reports (R)",
+   "sponsor": "",
+   "partisan_sponsor": "R",
+   "wikipedia_partisan_label": "R",
+   "field_start": "2026-09-22",
+   "field_end": "2026-09-23",
+   "sample_size": 1115,
+   "population": "LV",
+   "margin_of_error": "± 3.0%",
+   "results": {
+    "Jon Husted": 43.0,
+    "Sherrod Brown": 46.0,
+    "Other": 5.0,
+    "Undecided": 7.0
+   },
+   "source_url": "https://www.rasmussenreports.com/public_content/politics/elections/election_2026/election_2026_ohio_senate"
+  },
+  {
+   "pollster": "Quantus Insights (R)",
+   "sponsor": "",
+   "partisan_sponsor": "R",
+   "wikipedia_partisan_label": "R",
+   "field_start": "2026-09-21",
+   "field_end": "2026-09-23",
+   "sample_size": 695,
+   "population": "LV",
+   "margin_of_error": "± 4.2%",
+   "results": {
+    "Jon Husted": 47.0,
+    "Sherrod Brown": 47.0,
+    "Other": 4.0,
+    "Undecided": 2.0
+   },
+   "notes": [
+    "With voters who lean towards a given candidate"
+   ],
+   "source_url": "https://quantusinsights.org/polling/f/brown-and-husted-deadlocked-in-ohio-senate-race"
+  },
+  {
+   "pollster": "Quantus Insights (R)",
+   "sponsor": "",
+   "partisan_sponsor": "R",
+   "wikipedia_partisan_label": "R",
+   "field_start": "2026-09-21",
+   "field_end": "2026-09-23",
+   "sample_size": 695,
+   "population": "LV",
+   "margin_of_error": "± 4.2%",
+   "results": {
+    "Jon Husted": 45.0,
+    "Sherrod Brown": 46.0,
+    "Other": 4.0,
+    "Undecided": 6.0
+   },
+   "source_url": "https://quantusinsights.org/polling/f/brown-and-husted-deadlocked-in-ohio-senate-race"
+  },
+  {
+   "pollster": "Trafalgar Group (R)",
+   "sponsor": "",
+   "partisan_sponsor": "R",
+   "wikipedia_partisan_label": "R",
+   "field_start": "2026-09-14",
+   "field_end": "2026-09-16",
+   "sample_size": 1085,
+   "population": "LV",
+   "margin_of_error": "± 2.9%",
+   "results": {
+    "Jon Husted": 42.0,
+    "Sherrod Brown": 45.0,
+    "Other": 6.0,
+    "Undecided": 6.0
+   },
+   "source_url": "https://www.thetrafalgargroup.org/wp-content/uploads/2026/09/OH-Midterms-Full-Report-0917.pdf"
+  },
+  {
+   "pollster": "Bowling Green State University/YouGov",
+   "sponsor": "",
+   "partisan_sponsor": "none",
+   "wikipedia_partisan_label": "",
+   "field_start": "2026-09-01",
+   "field_end": "2026-09-10",
+   "sample_size": 1000,
+   "population": "LV",
+   "margin_of_error": "± 4.0%",
+   "results": {
+    "Jon Husted": 45.0,
+    "Sherrod Brown": 48.0,
+    "Other": 7.0
+   },
+   "notes": [
+    "Greg Levy (I) with 3%; William Redpath (L) and \"Someone else\" with 2%"
+   ],
+   "source_url": "https://drive.google.com/file/d/16DCSUQaBOGTTk0u3flp6q0uwC6AO8euZ/view"
+  },
+  {
+   "pollster": "InsiderAdvantage (R)",
+   "sponsor": "",
+   "partisan_sponsor": "R",
+   "wikipedia_partisan_label": "R",
+   "field_start": "2026-09-08",
+   "field_end": "2026-09-09",
+   "sample_size": 1200,
+   "population": "LV",
+   "margin_of_error": "± 2.8%",
+   "results": {
+    "Jon Husted": 42.0,
+    "Sherrod Brown": 47.0,
+    "Other": 3.0,
+    "Undecided": 8.0
+   },
+   "source_url": "https://insideradvantage.com/top-line-tabs-ohio/"
+  }
+ ],
+ "polls_note": "Polls with field_end on or after 2026-09-01, taken from the Wikipedia race page polling table (index) with the pollster/sponsor link given there. Multiple rows with the same pollster and dates are different versions (LV vs RV, full ballot vs two-way, leaners pushed); see notes. partisan_sponsor follows Wikipedia's (R)/(D) tag on the pollster or sponsor (\"none\" = untagged, or a bipartisan R+D pollster pair). Results are percentages as published; \"Other\" may include named minor candidates (see notes).",
+ "money": {
+  "as_of": "FEC candidate totals; Brown through 2026-10-14 (Pre-General); Husted coverage end 2026-10-22 as listed by FEC.",
+  "candidates": {
+   "Jon Husted": {
+    "raised_total": 19894785.94,
+    "cash_on_hand": 4239096.57,
+    "spent_total": 15655689.37,
+    "coverage_end_date": "2026-10-22",
+    "fec_candidate_id": "S6OH00304",
+    "source_url": "https://www.fec.gov/data/candidate/S6OH00304/?cycle=2026&election_full=true"
+   },
+   "Sherrod Brown": {
+    "raised_total": 68409199.85,
+    "cash_on_hand": 4452803.32,
+    "spent_total": 63956396.53,
+    "coverage_end_date": "2026-10-14",
+    "fec_candidate_id": "S6OH00163",
+    "source_url": "https://www.fec.gov/data/candidate/S6OH00163/?cycle=2026&election_full=true"
+   },
+   "Greg Levy": {
+    "raised_total": 132711.94,
+    "cash_on_hand": 26915.85,
+    "spent_total": 107924.76,
+    "coverage_end_date": "2026-10-14",
+    "fec_candidate_id": "S6OH00395",
+    "source_url": "https://www.fec.gov/data/candidate/S6OH00395/?cycle=2026&election_full=true"
+   },
+   "Bill Redpath": {
+    "raised_total": 55255.7,
+    "cash_on_hand": 8255.26,
+    "spent_total": 47000.44,
+    "coverage_end_date": "2026-10-14",
+    "fec_candidate_id": "S6OH00429",
+    "source_url": "https://www.fec.gov/data/candidate/S6OH00429/?cycle=2026&election_full=true"
+   }
+  },
+  "outside_spending": {
+   "pro_R": 9287239.26,
+   "pro_D": 1437713.45,
+   "breakdown": {
+    "support_R_nominee": 5108041.17,
+    "oppose_R_nominee": 1149433.05,
+    "support_D_nominee": 288280.4,
+    "oppose_D_nominee": 4179198.09
+   },
+   "source": "FEC Schedule E independent expenditures, totals by candidate (processed filings), 2025-26 cycle, election_full=true. pro_R = support for R nominee + opposition to D nominee; pro_D = the reverse. INCLUDES primary-period spending and lags recent 24/48-hour reports; party coordinated spending and non-FEC issue ads are not included.",
+   "source_url": "https://api.open.fec.gov/v1/schedules/schedule_e/totals/by_candidate/?cycle=2026&election_full=true&candidate_id=S6OH00304&candidate_id=S6OH00163",
+   "as_of": "FEC processed data retrieved 2026-10-31"
+  }
+ },
+ "events": [
+  {
+   "date": "2025-01-17",
+   "what": "Gov. Mike DeWine appointed Lt. Gov. Jon Husted to the seat vacated by Vice President JD Vance.",
+   "source_url": "https://www.politico.com/news/2025/01/17/ohio-senate-seat-dewine-husted-ramaswamy-00198974"
+  },
+  {
+   "date": "2026-05-05",
+   "what": "Primaries: Husted unopposed; Brown 89.4%.",
+   "source_url": "https://en.wikipedia.org/wiki/2026_United_States_Senate_special_election_in_Ohio"
+  },
+  {
+   "date": "2026-09",
+   "what": "A Bowling Green State University poll found 71% of Ohioans support a temporary ban on new data-center construction; data centers became a campaign issue (Husted backed data-center tax breaks as lieutenant governor).",
+   "source_url": "https://en.wikipedia.org/wiki/2026_United_States_Senate_special_election_in_Ohio"
+  },
+  {
+   "date": "2026-09-28",
+   "what": "The New York Times reported a BGSU poll finding 25% of likely voters believed Brown was still the incumbent senator.",
+   "source_url": "https://www.nytimes.com/2026/09/28/us/politics/john-husted-ohio-president-trump-midterms.html"
+  },
+  {
+   "date": "2026-10",
+   "what": "AP reported Russian disinformation activity targeting the race, aimed at helping Husted.",
+   "source_url": "https://apnews.com/article/midterm-election-disinformation-russia-talarico-brown-c52f2c1720a0bb1ea86545d260aaf969"
+  }
+ ],
+ "early_vote": {
+  "as_of": null,
+  "summary": "Not collected in this pass. The Ohio Secretary of State publishes absentee/early in-person voting totals.",
+  "source_url": "https://www.ohiosos.gov/elections/"
+ },
+ "notes_uncertain": [
+  "No general-election debate between Husted and Brown appears on the Wikipedia page; not verified elsewhere.",
+  "Date of the AP disinformation report and of the BGSU data-center poll not verified precisely.",
+  "Ohio primary date (May 5, 2026) from the standard Ohio calendar; not re-verified.",
+  "Husted FEC coverage end date 2026-10-22 differs from the standard pre-general cutoff; not investigated."
+ ]
+}
